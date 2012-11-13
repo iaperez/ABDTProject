@@ -58,12 +58,12 @@ gg = GROUP fixed BY (id,topic);
 probabilities = FOREACH gg
 	GENERATE 
 		group as key,
-		EXP(SUM(fixed.logprobability))/(EXP(SUM(fixed.logprobability))+EXP(SUM(fixed.lognegprobability))) as prob;
+		1.0/(1.0+EXP(SUM(fixed.lognegprobability) - SUM(fixed.logprobability))) as prob;
 		
 results = FOREACH probabilities GENERATE flatten(key),prob;
 rs = FOREACH  results GENERATE $0 as id, $1 as topic, $2 as prob;
 final =  JOIN results by id,targetclean by bmid;
 
-STORE  final INTO '../data/topicAnalysisResults' USING PigStorage ('\t');
+STORE  final INTO '../data/topicAnalysisResults2' USING PigStorage ('\t');
 dump final;
 describe final;
