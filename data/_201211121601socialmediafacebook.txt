@@ -1,0 +1,1480 @@
+/usr/local/java/jdk1.6.0_37/bin/java -Xms1024m -Xmx1024m -cp :../lib/*.jar:../lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:../lib/twitter4j-2.2.6/twitter4j-async-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-core-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-examples-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-media-support-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-stream-2.2.6.jar:../lib/twitter-text-1.5.0/twitter-text-1.5.0.jar:bin UsersMentionDownload socialmedia facebook
+socialmedia facebook lang:en geocode:39.8,-95.583068847656,2500km
+268143177658142720	socialmedia	rt skisteamboat today was a perfect steamboat day httptcokvnjgphc nice
+268143168699117568	socialmedia	slatteryjamiesthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268143164823568384	socialmedia	rt bobbydatguy me and my twin right now lmaos
+268143164710350848	socialmedia	rt veryrudetweets ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268143160776089600	socialmedia	facebook messenger update allows users to give feedback about the appsfacebook messenger for iphone has releas httptcodxjhyipl
+268143159891066880	socialmedia	facebook messenger update allows users to give feedback about the app httptco1bzflrzm via imore
+268143156044894209	socialmedia	i posted a new photo to facebook httptcotbqb11ls
+268143138579812352	socialmedia	fake people on instagram fake people on facebook fake people on twitter do real people exist
+268143130858119168	socialmedia	facebook event invites from people you barely know should really have a seriously option in the reply
+268143130744868866	socialmedia	vitamn lm8o comedy show is this thurs night to support httptcorqvowc2n httpstco2q6prgba greatdeal greatcause
+268143129994084352	socialmedia	lovemonkeeeesthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268143110406668288	socialmedia	aimeenotamysthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268143098083831808	socialmedia	rt veryrudetweets ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268143094208266240	socialmedia	rt veryrudetweets ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268143092446670848	socialmedia	rawrunicorns69sthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268143074474094592	socialmedia	shikifiggarowsthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268143056899944448	socialmedia	my phone is a goner tweet me or facebook me if its important i hate facebook
+268143050868531201	socialmedia	chrisjwarnersthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268143034317815808	socialmedia	rt veryrudetweets ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268143024553476097	socialmedia	eryscarecrowsthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268143024511524864	socialmedia	rt veryrudetweets ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268143007562354688	socialmedia	cassie22jonessthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268143005192560640	socialmedia	please go to pam bondis facebook page and voice your concerns about voter fraudi didthe responsibility httptcoo5xtqixc
+268142996602626048	socialmedia	please a moment a silence for everyone on ig fakebook lol facebookstwitter repost realtalkshttptcoxns3fmgb
+268142995675676672	socialmedia	citypages lm8o comedy show is this thurs night to support httptcorqvowc2n httpstco2q6prgba greatdeal greatcause
+268142989208059904	socialmedia	makibunnisthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268142988033654784	socialmedia	rt lionsgateaction when it comes to car chases faster is better rt if you think its all about speed thelaststand httptcozhkugfl7
+268142966667878400	socialmedia	rinikinssthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268142956853215233	socialmedia	rt veryrudetweets ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268142952675688450	socialmedia	johnposts get some aymhiighco gear todayand support a unique clothing line on the rise check us out on httptcoziiagtsl respect
+268142952667308033	socialmedia	rt veryrudetweets ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268142947009167360	socialmedia	like us on facebook for special savings on parker co auto repair and service at httptcolszxbetk
+268142941950836736	socialmedia	emiliethecreepsthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268142937857196033	socialmedia	thanks for following amnichols jsmithsays pralitemonks sfpatterson nocofirearms pauleberry please facebook too httptco8ej1c4dm
+268142936934477824	socialmedia	rt kcsourcelink hold the phone 362 were breaking the world record for speed networking gewkc gewusa httptcowquofkij
+268142930622029824	socialmedia	rt veryrudetweets ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268142924187967488	socialmedia	lyricsabsthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268142923407839232	socialmedia	rt veryrudetweets ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268142906706116609	socialmedia	rt veryrudetweets ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268142903249997824	socialmedia	unionjimaginesthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268142899689046016	socialmedia	rt veryrudetweets ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268142895490555906	socialmedia	rt veryrudetweets ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268142878067404802	socialmedia	rt veryrudetweets ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268142866130427904	socialmedia	rt menshumor may your life be as awesome as you pretend it is on facebook
+268142844303269888	socialmedia	november is national adoption month how has adoption impacted you tell us at undeniable love httptcomcifdl7c
+268142842189316096	socialmedia	pls rt share for this pup maricopa cty az fosteradopt httpstcozodevbil
+268142834836705282	socialmedia	please like my fanpage httptcoebkip0wk download your gift heres httptco5oq4v9wk
+268142825651187713	socialmedia	rt veryrudetweets ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268142824229306368	socialmedia	rt veryrudetweets ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268142823566622720	socialmedia	like greezyboyz fb page httptcohsxzstaf
+268142823172341760	socialmedia	rt lionsgateaction they broke the mold when they made schwarzenegger rt if you agree thelaststand httptcoi3zzdayd
+268142819951124481	socialmedia	soulmech yeah i killed off facebook have one for shits now and on gstrying to work on a cartoon nowsanimated in flash
+268142817522618368	socialmedia	kyledamnitsthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268142815438049280	socialmedia	httptcoh4hnkstx birthdays branchout twitter merry christmas and more on this weeks t httptcoibubjvbm via insidenetwork
+268142814192353280	socialmedia	facebook test makes comments on page posts more like web plugin including inline replies an httptconqvolv7p via insidenetwork
+268142805124276224	socialmedia	rt veryrudetweets ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268142790578434048	socialmedia	tashastreiersthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268142783045464065	socialmedia	rt veryrudetweets ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268142772622598144	socialmedia	rt veryrudetweets ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268142772010242050	socialmedia	rt veryrudetweets ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268142764884123648	socialmedia	rt womenshumor im the james bond of facebook stalking
+268142764745707521	socialmedia	robynsbaptistesthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268142732642492417	socialmedia	elvesildesthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268142707698978817	socialmedia	rt springsrescue come to the coffee exchange this friday for an art show featuring art work by colorado springs homeless indygive httptco0xzlmnjy
+268142703861190657	socialmedia	rt dailyteenwords twittersunfollow facebooksunfriend yousunforgettable
+268142701600444417	socialmedia	ash80psthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268142701327831042	socialmedia	you dont have to like me im not a facebook status
+268142694319153153	socialmedia	you can shut down my facebook but you can never take my twitterrrrrrrr connectionproblems
+268142678330470401	socialmedia	if your gonna flirt with someone dont message them on facebook that automatically makes you look like a loser
+268142677562912768	socialmedia	dear kyle no one cares about what youre reading on facebook lol whyareyousoamused
+268142675964862464	socialmedia	writingongrasssthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268142672974327808	socialmedia	ive decided to nickname my fridge facebook because even if i know theres nothing there i still check it every time i go into the room
+268142671619579904	socialmedia	rt theknot having an outdoor wedding these luxury portable bathrooms are a must have httptcoyqlocybm
+268142669140738048	socialmedia	check us out on facebook at httptcontvsgkbl
+268142667295252480	socialmedia	i posted a new photo to facebook httptcojzv7r7h2
+268142664816418817	socialmedia	i posted a new photo to facebook httptcoeh0ryuxr
+268142657111470082	socialmedia	rt 11onceclub ya viene calvin klein fashion show httptcoa737pc7k
+268142656687853569	socialmedia	xxlinlinaaxxsthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268142652044742658	socialmedia	1000aday facebook computer program makes me 55 a good solid day working with instagram httptcojesxg66c
+268142651826638848	socialmedia	rt teamfollowback facebook computer program makes me 55 a good solid day working with instagram httptcobs508hu3
+268142651663085568	socialmedia	instantfollowback facebook computer program makes me 55 a good solid day working with instagram httptcob0492msh
+268142641621909504	socialmedia	kayysteez retweet this and ill do a tbh for yasboredtake your shit back to facebook smh
+268142636290940928	socialmedia	reesecup24sthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268142632264409089	socialmedia	every time i look through my old photos on facebook i always find one that i never saw before
+268142619392110592	socialmedia	if you have not done so be sure to stop by our featured speak life guests lisa daniels facebook page and give it httptco3h4mgbnn
+268142612366643201	socialmedia	rt mollyhoodquan niggas dont get on facebook nomore
+268142602354827265	socialmedia	callmehopelessssthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268142582557716480	socialmedia	joohwavessthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268142580573822976	socialmedia	seeing avalannas mommy and daddys facebook post always make me tear up restinparadise fucancer
+268142576622764032	socialmedia	photo booths offer highquality digital photos for your wedding prom reunion or corporate event httptcoa5blw28p
+268142555382829057	socialmedia	its lm8o week everyone hope to see you thursday at campuspizza httpstco2q6prgba greatdeal greatcause
+268142549506613248	socialmedia	i posted a new photo to facebook httptcocvmu0dp8
+268142539889057792	socialmedia	oooo its facebook drama tonight i love dramatic cumbrians my nights sorted
+268142532414820353	socialmedia	lostninsecuresthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268142523111862272	socialmedia	cdjsandovalaic get on facebook fool
+268142512584130560	socialmedia	wannabezooeysthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268142510147260418	socialmedia	thanks for following getsusanmktg mitchellbyars jaimiebakas johntrone allisonsylte cnmgt please facebook too httptco8ej1c4dm
+268142504900182016	socialmedia	i posted 4 photos on facebook in the album thriving artist potluck nov 82012 httptcoifghbinz
+268142492791234560	socialmedia	akeem473 httptcobk4co2rv just for you
+268142490517921792	socialmedia	i posted a new photo to facebook httptcougwotwmh
+268142489301557248	socialmedia	rt chromemote over 3600 users worldwide thanks goes out to all the chromemote users around the world httptco2qk5mwu0
+268142488261386241	socialmedia	rt torigunn i hope castrokatie doesnt find it weird if i friend her on facebook cause im going to whether she likes it or not
+268142486269067264	socialmedia	gomitazombiesthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268142476936761344	socialmedia	rt nowornever2014sso on facebook this month some people have been posting what they are grateful for each daythink imma also tweet them on here
+268142469215043584	socialmedia	youre my favorite like on facebook made this particularly ridiculous startup day worth it here we come eominnesota er soon
+268142466715234304	socialmedia	metroidmegansthanks for the follow check out my band clearskiesmo and our debut single at httptcomyub5ihesyoull love it
+268142465058496514	socialmedia	i posted 12 photos on facebook in the album footwear httptcouibjxg87
+268142454262349824	socialmedia	please like tony cash on facebook httptcoxyplatbs teamtonycash
+268142444263116800	socialmedia	ahha chief keef like my status on facebook lol ballin so hardi swear i think that im kobe 3 best record aroundchiefkeef lol swish
+268142437590003712	socialmedia	rt easeintowealth desperately neededtiny dog found intuscaloosa area have home in pensacola area need helpget dog to pensacola asapssouthbark facebook
+268142436193275906	socialmedia	7 ways to increase facebook fans httptcos4sac9pv via writerlisamason
+268142426672226304	socialmedia	i posted a new photo to facebook httptcoblsbszxq
+268142408947101696	socialmedia	mt bedlamtheatremn come see sandboxtheatre perform at lowertown the night before givetothemaxday wed nov14th httptcol435xuwv
+268142392148893696	socialmedia	i posted a new photo to facebook httptcoii9zul7f
+268142372884459521	socialmedia	rt axewoundmexico i posted a new photo to facebook httptcopjvtgb5s
+268142348700110849	socialmedia	rt imbibe dont forget tomorrows1 pm pst davidwondrich will be chatting live on our facebook page prepare your questions httpstcoutre1ouj
+268142343998300160	socialmedia	mrgromit41 please post on reel fish talk facebook if you get a chance thanks
+268142315892264960	socialmedia	i was going to wish shearman978 happy birthday on his facebook wall then he had to be a fag so fuck you kevin
+268142313904144387	socialmedia	pauldycus whats the point of facebook its another way waste time from more productive things lol
+268142307830816768	socialmedia	nursery print giveaway until saturday head over to our facebook page for more details httpstcouj7o0xdt
+268142296409722880	socialmedia	rt jordanelise no bitch i dont want to be on your mybirthday calender facebook fuckery
+268142278072221696	socialmedia	fmronlinesget some aymhiighco gear todayand support a unique clothing line on the rise check us out on httptcoziiagtsl respect
+268142264692383744	socialmedia	itsabhyrawwkin okaaay i just sent you a facebook message
+268142262284849152	socialmedia	rt supportsdrez bia officials knew that school administrators had hired teachers with prior offenses for child molestation httptcoahgpcmxh
+268142243620208640	socialmedia	martincitybrew tell brian the guy who does twitter and facebook should get a raise hope you have a good time send some pics
+268142238784188417	socialmedia	i posted a new photo to facebook httptcope45hltv
+268142231834202113	socialmedia	desperately neededtiny dog found intuscaloosa area have home in pensacola area need helpget dog to pensacola asapssouthbark facebook
+268142229577670656	socialmedia	glass cinders and thorns opens this saturday so if you are in michigan go check it out facebook event link httptcojc88cjok
+268142229309231104	socialmedia	facebook mastermind group for text message market httptcomzwg2noe
+268142218559254528	socialmedia	rt santafeopera congratulations to ailyn perez marguerite in our 2010 faustsshe walked away with the top prize in the 2012 httptcowssawwhy
+268142160103211009	socialmedia	thursday is give to the max day support your local nonprofits httpstcoupqnyunw
+268142152968708098	socialmedia	rt womenshumor im the james bond of facebook stalking
+268142144542343168	socialmedia	rt yosoykia dear local dogooders interested in forming a group to volunteer for a shift foodbankrockies cc bionicjenn httptcom04mlxxp
+268142139970568192	socialmedia	some irked by facebooks new pages for couples are you in a relationship on facebook if so you httptcouw9mfeyk trending news
+268142131984621568	socialmedia	rt verizonwireless hope can you capture it in a photo submit a mobile picswell donate 1 to hopeline httptco7qdzvzod httptco2bbfjhfl
+268142125307269120	socialmedia	check out the gig gallery boulder denver concerts loveit httpstcon6vm6odgs
+268142104973291521	socialmedia	sick and tired of all these facebook network errorsgood thin i love twitter more than facebooksinstagood truestuff
+268142102305705984	socialmedia	i posted a new photo to facebook httptcoyjitq40t
+268142101164871680	socialmedia	rt santafeopera congratulations to ailyn perez marguerite in our 2010 faustsshe walked away with the top prize in the 2012 httptcowssawwhy
+268142047976902656	socialmedia	tell every atit you know about this whos trying to get exposuremore info emailsadd me on facebook or httptcoa8h9di2t
+268142042885001216	socialmedia	the people who sends you friend requests on facebook that you dont even know you know they wanna creep on your photos
+268142041123418112	socialmedia	rt farmageddonnro tonight we will be at the riot room in kansas city the goddamn gallows jayke orvissthe broken band plus httptcoh15oltce
+268142034412503041	socialmedia	rt browngirls fob on facebook just messaged me and said im sweet like mango but garam like masala vaatahawtline shaadipotential browngirlproblems
+268142022899142656	socialmedia	i posted a new photo to facebook httptcocqntb58b
+268142008663699456	socialmedia	i posted 60 photos on facebook in the album new mensswomens clothing httptco2to270gu
+268142000623198208	socialmedia	rt 1000bequals1t rt katmovements katrina rosewatch my new belly blaster juice videohttptcomjfwneap rtartsales facebook blogger
+268141999872434177	socialmedia	lexxiibby right haha a lot of them do i dont really care its not like im on facebook a lot i alread had to block my mom on twitter
+268141998555426816	socialmedia	rt dkuxhausen3 facebook makes me so sick
+268141949213622272	socialmedia	i love facebook no morei hate the friend limits and the too muchsprivacy that u can check on ones profile and see nun includin posts
+268141949020688385	socialmedia	so how can you make gratitude a more significant part of your life starting now httptco8zcxmklc thankyou
+268141923817107456	socialmedia	rt axewoundmexico i posted a new photo to facebook httptcopjvtgb5s
+268141914153443328	socialmedia	i posted a new photo to facebook httptcozwnxcgu8
+268141897384620032	socialmedia	facebook testing ranked comments check it out httptcoahfdz1ji
+268141885506322433	socialmedia	yeah you could say the ski salt lake resorts got some snow this past weekend how much you ask have a look httptcohyd6eki6 slc
+268141860378251264	socialmedia	niggas dont get on facebook nomore
+268141846117642240	socialmedia	diamondsorare get some aymhiighco gear todayand support a unique clothing line on the rise check us out on httptcoziiagtsl respect
+268141832846852096	socialmedia	i posted 3 photos on facebook in the album dreams of our forefathers httptconurigxgv
+268141829537550336	socialmedia	so on facebook this month some people have been posting what they are grateful for each daythink imma also tweet them on here
+268141818628153345	socialmedia	i wonder how many people miss out on living life because theyre too busy on facebook posting inspirational quotes about life
+268141799829286912	socialmedia	i posted a new photo to facebook httptcoyb1yabl6
+268141764697804800	socialmedia	rt farmageddonnro tonight we will be at the riot room in kansas city the goddamn gallows jayke orvissthe broken band plus httptcoh15oltce
+268141746955882498	socialmedia	bassatneza get some aymhiighco gear todayand support a unique clothing line on the rise check us out on httptcoziiagtsl respect
+268141727729201152	socialmedia	i hate facebook its probably the one thing that is single handily killing real social interaction people tell me all kinds of shit
+268141724885454848	socialmedia	pls ensure ur facebook is logged in on web browser click hereshttptcosqzdqio1 and like to vote 3plestorm tanx
+268141716622696448	socialmedia	rt larimerlounge toniteswant a chance to win a pair of tix to metzsschool knightssthee dang dangs comment i want tix httptcomimmtvqk
+268141714106109953	socialmedia	httptcowcmgo0q6 if you look at his likes then refresh you can actually see them go down
+268141704069136384	socialmedia	snadeykins you sound like jesse freaking out over all the facebook notifications hes been getting
+268141700583653376	socialmedia	on facebook imma start fucking with it agian
+268141694367711232	socialmedia	i posted a new photo to facebook httptcoz7e1ssp3
+268141691628814336	socialmedia	hairstylist to know ty of hairstylesbyty httptcovykmkujy located at 7066 kissena blvd queens ny make appts 6465042475
+268141683718365184	socialmedia	dear every adult on facebook chill with the dots
+268141683403784192	socialmedia	rt ayejaydgaf people keep inviting me to this facebook has a new color event aint nobody care all about twitter
+268141663925436416	socialmedia	dual system include 12 sizes for hands and feet httptco6cfm7hfl httptco7lmg5slw
+268141657982119937	socialmedia	click that like button now httpstcomnetvcix
+268141656912588800	socialmedia	ilovemytrips welcome to the front lines in the battle against biased media like us on facebook httpstcoqug3cwqv ridethewave
+268141656606388224	socialmedia	the full tribute to my dad rex a olson is on facebook here httptcojzo4jetssgive us a like
+268141653183844352	socialmedia	xzxcodelyoko101 hey get on facebook i miss you man thx
+268141651644526592	socialmedia	shelbezzzy get some aymhiighco gear todayand support a unique clothing line on the rise check us out on httptcoziiagtsl respect
+268141641783717889	socialmedia	i hope castrokatie doesnt find it weird if i friend her on facebook cause im going to whether she likes it or not
+268141640143740928	socialmedia	rt gettrufit look who made it into the best finds section of best self magazine thats right the trufit unit is a great gift httptcovx3iqg1o
+268141622963871744	socialmedia	i posted 87 photos on facebook in the albumshttptcomkdxbgld
+268141620287897600	socialmedia	i posted a new photo to facebook httptco9w84kgmq
+268141609265274880	socialmedia	internet marketing plans3 keys to generating more lead and driving more sales with ppc seo localshttptcoj7usztod
+268141591884075008	socialmedia	understand how i increase the fans to my fb page rapidly reasonably including quite easily httpstcoxkoll7rg
+268141591460450305	socialmedia	get some aymhiighco gear todayand support a unique clothing line on the rise check us out on httptcoziiagtsl respect
+268141573806620672	socialmedia	i posted a new photo to facebook httptcoqvn7aws2
+268141563169886208	socialmedia	i posted a new photo to facebook httptcou8yekcn2
+268141552822542336	socialmedia	seriously do not fucking demand me to add you on facebook
+268141528139063296	socialmedia	i posted a new photo to facebook httptcoz2ibogi7
+268141512469143552	socialmedia	i posted a new photo to facebook httptcos5lvk7gn
+268141504038580224	socialmedia	21st amendment has 2 wells and 150 domestic bottles monday wednesday open to close httptcoub3f0mll
+268141501610082304	socialmedia	rt chrisburandt felt awesome to get a few pow turns in yesterday httptcougzpvnjz
+268141494345547776	socialmedia	this wednesday the 14th the happygnomemnsmovembermpls are having a midmonth rendezvous httptcoltlzrilo mpls stpaul
+268141489014595584	socialmedia	pakistangemsjust sent you are friend request on facebook will also be making a donation through your website many blessings
+268141486380556289	socialmedia	i posted a new photo to facebook httptcobtti8efe
+268141475609604096	socialmedia	before ebay facebook sale snowboarding gear dress leather coat hoodies etchttptco9yatbr3x
+268141468101791744	socialmedia	kiaphoenix welcome to the front lines in the battle against biased media like us on facebook httpstcoqug3cwqv ridethewave
+268141445498695680	socialmedia	rt wikimotive new information for marketing on facebook and twitter httptcotnorgcsi
+268141441908367360	socialmedia	dear friends facebook is rolling out a welcome new feature go to my page and click on the liked button and httptcohsotm3xu
+268141425080799232	socialmedia	i posted 24 photos on facebook in the album koi fish birthday soiree 111012 httptcokazqbux2
+268141420286705665	socialmedia	rt supportsdrez bia officials knew that school administrators had hired teachers with prior offenses for child molestation httptcoahgpcmxh
+268141419611430913	socialmedia	i posted a new photo to facebook httptcopjvtgb5s
+268141355505680385	socialmedia	people unliking romney on facebookscnn httptcoslph0plh
+268141349738520579	socialmedia	people unliking romney on facebookscnn httptcobxvhlcwa
+268141338032209920	socialmedia	rt tmobile gamecenter is bringing you the ultimate tmobile halo4 giveaway rt if youre a gamer httptcom6k73a5a
+268141315844354049	socialmedia	facebook is gettin old
+268141314858704896	socialmedia	i wish the libertarian party page on facebook would stop using memes to convey their message
+268141301860544512	socialmedia	small businesses are favoring facebook and twitter over other social media platforms httptcovsophx3b
+268141296898678785	socialmedia	rt guardonline happy belated birthday to alma lassiter who turned 104 on tuesday november 6 2012the daughter of moss httptco32b8o7nn
+268141284487745536	socialmedia	our womens ministry everything beautiful is hosting a winter masquerade december 7th wed love for you to join detailshttptcovgkdtupb
+268141267312078848	socialmedia	rt g0dsavethepunk my favourite part in the bible is where it says you have to share every single christian picture on facebook to get into heaven
+268141267249152002	socialmedia	i posted a new photo to facebook httptcocuiqicy9
+268141236047716352	socialmedia	sharddesign thanks for the follow and please check out my author page at httptcoqbz5fxru
+268141218259689472	socialmedia	i posted 3 photos on facebook in the album we have 3 new items that are now available on our web site his a httptcodnltrrbb
+268141171191185408	socialmedia	a very colorful explanation of new windows8 touch gestures from microsoft httptco1qeg8vgo tips
+268141166564872193	socialmedia	like lawyerology posts on facebook rtlawshttptcop1lo5qb3 rsullivanlaw
+268141165700845568	socialmedia	gramilano welcomegood taste graham please like us on facebook httpstcoqug3cwqv ridethewave
+268141162408312833	socialmedia	rt stevecassady how to get facebook engagement without paying for it httptcol8gnlnwr via gonzogonzo
+268141156012003328	socialmedia	like us on facebook fall 2012 sweepstakes httptcooj08rwac
+268141152102936577	socialmedia	fall family hike anyone you still heading outdoors with the kids or have you packed it all up httptcomuxtslp4 hiking family
+268141145433964544	socialmedia	when your facebook status is about how girls should have more self respectsin your profile pic your boobs are everywhere lmaoo yoursad
+268141141025775616	socialmedia	rt visitsaltlake sweet pic and opening tomorrow rt brightonresort i posted a new photo to facebook httptcozqsejjin
+268141140379856896	socialmedia	i posted a new photo to facebook httptcovud7wxkh
+268141138215567361	socialmedia	i just entered the amazingspiderman weekly giveaway sweeptakessclick here and well both have a chance to win httptcox1wjzx5r
+268141091038052352	socialmedia	have you liked us on facebook yet lets connect httptcovrr18wtv
+268141083505086464	socialmedia	like us on twitter youll love us on facebook httptcoyjqh49tm
+268141054895730689	socialmedia	rt toorealtrill all these facebook events are pissing me off
+268141030350667777	socialmedia	rt thefunnysexist nothing screams stalker more than accidentally putting a girls name as your facebook status when it was meant for the search bar
+268141007953088512	socialmedia	naked fat bitches on facebook yeah exactly why i try to avoid that shit
+268141004647968768	socialmedia	become a localbonus facebook fan to win the new ipad httptco1pbpbhcj
+268140992312516609	socialmedia	if you like expose these hoes on facebook you seriously need to reevaluate your life
+268140983642882049	socialmedia	rt 1000bequals1t rt katmovements katrina rosewatch my new belly blaster juice videohttptcomjfwneap rtartsales facebook blogger
+268140959206891520	socialmedia	i posted 4 photos on facebook in the album my visit to camino de vida in lima peru httptcog7y5ko3p
+268140953821380609	socialmedia	i wish my facebook profile picture could be a gif freak the fuck outta those muggles
+268140942177992704	socialmedia	friends facebook is rolling out a welcome new feature go to my page and click on the liked button and select httptcotqv9zjvo
+268140935072870401	socialmedia	follow me hboom13 somethingyoudoeveryday twitter instagram facebook day8 novemberphotoaday httptcoflukpnih
+268140931780333568	socialmedia	you scan we donate to nokidhungry unitedway harvesters scan every day to win more donations from front flip httptcowzbfffpe
+268140881838751744	socialmedia	iplankedonkim idk if youll care but you should look at that just thought id tell youshttptco8imey8gf
+268140855104270337	socialmedia	i posted a new photo to facebook httptcor5e2up5w
+268140846778556417	socialmedia	barrelrollman welcome to the front lines in the battle against biased media like us on facebook httpstcoqug3cwqv ridethewave
+268140839262384128	socialmedia	i feel like whenever i dont know how to respond to someones comment on facebook i just like it
+268140835185491968	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268140827153416192	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268140809600249856	socialmedia	rt scholasticteach httptco7qck4x8d kick off your first thanksgiving studies with our brand new virtual field trip of the mayflower
+268140767439122434	socialmedia	rt melissahousch i hate when people hashtag on facebook
+268140760317194240	socialmedia	i posted 3 photos on facebook in the album advocare 500 httptco3wijpodz
+268140756173193216	socialmedia	lord mcalpine scandal shows leveson must find a way of reining in twitter andswe are going to have to brin httptco8qjyydi6
+268140727530319873	socialmedia	i think i am in love with harry stylesswhy was i allowed facebook in 2010
+268140696874139648	socialmedia	seems like theres a good drinking game in there rtnewscut watch mitt romneys facebook likes decrease in real time httptcoheqsxgeq
+268140690561724418	socialmedia	join us on facebook get daily emergency preparedness tipssspecial deals httptcoy26mbajn
+268140687499874304	socialmedia	some ratchet bitch has being reem with joey essex as her job on facebook 1 youre fat greasy and chavvy 2 fuck off
+268140674602377216	socialmedia	i have officially hacked a facebookshahahahaskatelyn shouldnt trust me keeping her facebook up at my house like that
+268140668008927235	socialmedia	rt morningglorycof old chicago hosts a free thanksgiving dinnersno reservations needed please share httptcoh04fetrk
+268140667522408449	socialmedia	rt erinhaust national papa johns appreciation day httpstcottcn6k1a show your support istandwithpapajohns brought to you by rebootusa
+268140654318743552	socialmedia	i posted a new photo to facebook httptcojnrupai6
+268140648002105344	socialmedia	theirs this one girl on facebook dat keep msging me
+268140600308662274	socialmedia	hollymayshhc this is awesome hollysposting now to facebook
+268140593501335553	socialmedia	if you dont right happy birthday to me on my facebook wall i will never speak to you again nah im just playin butseriously dothatshit
+268140591068622848	socialmedia	louistomlinsonszaynmaliksniallofficialsharrystylessrealliampaynes directionersarefamilyshttptcosou4bfbf
+268140573158952960	socialmedia	rt billcarter next week in bisbee for screening of miss sarajevo and rarely seen missing sarajevo produced by u2 on the work we httptcoinvxe5j6
+268140549708582913	socialmedia	gorgeous 2010 pontiac g6 silver exterior and black interior httpstco2nxrl1e7 kc cars httptcorhkxbp5j
+268140534084796416	socialmedia	i posted a new photo to facebook httptcouuv261me
+268140522756009988	socialmedia	i posted a new photo to facebook httptcod28unvpj
+268140512991670273	socialmedia	my sisters killed me with onedirectionson my facebook
+268140491663613952	socialmedia	rt lindtchocolate lindtbear is giving away hundreds of incredible prizes starting now win a lindtbear gift basket httptcoq2lyu4rp
+268140476790611968	socialmedia	play discover and share millions of songs for free spotify connect with facebook to get started httptco1d5ndoo1
+268140453709352960	socialmedia	i posted a new photo to facebook httptco9ivudrq1
+268140425561382912	socialmedia	rt bonniemarcus our moneysgift card holder holiday card is now available at target httptcoagxsqbzy
+268140393303011328	socialmedia	please like my fanpage httptcoebkip0wk why online mba is beneficial httptco1wtejgeh
+268140387728769025	socialmedia	i posted a new photo to facebook httptcoqlylfomi
+268140368963440640	socialmedia	rt jeremyexiled well over 100 new likes today on the onceexiled facebook page go like it too there will be prizes
+268140348298108928	socialmedia	rt jaimihaig here is an update on our relocation efforts of cats from slcoas we have cleared one of the relocation cages we httptcox5attcqw
+268140327624404992	socialmedia	i posted 13 photos on facebook in the album photoshoot httptcojzk9aj7r
+268140281566728192	socialmedia	ty marketingwizdom piretjogeda 4 following 2 c what were abttrying 2 accomplish check out our facebook page httpstco4utnxg2f
+268140245130813440	socialmedia	total defense provides details about facebook antivirus marketplace offeringsallfacebook total defense provid httptcomxisw0x5
+268140242182234113	socialmedia	rt hholingsworth the 16 types of people on facebook httptcor1hdlypd
+268140224851357696	socialmedia	i posted 3 photos on facebook in the albumshttptcokakyitx2
+268140208216748033	socialmedia	ummmsi have a facebook and i am not proud of that buti hardly use it sothere rmarple go easy on me please no public humiliation
+268140182681817089	socialmedia	rt summertimedrop the video for full time cutie was picked up by the indie music video show get the mp3 for free here httptcohcdkpk4h
+268140176189030400	socialmedia	afabbiano welcome to the front lines in the battle against biased media paisano like us on facebook httpstcoqug3cwqv ridethewave
+268140171009085440	socialmedia	happy medieval monday 3 dwarven ales at shamrock pub in sarasota buy a burd for chance to win tix to medieval fair httpstcocfehxxi4
+268140166965755904	socialmedia	gavin kenia stop using facebookme gavin you dirty liarcameron kenia get of twitterme i though we were broscameron we are bros
+268140103216558080	socialmedia	apolloscisum tbh if iput my life on facebook id have about 10k followers lolsliess
+268140100561555456	socialmedia	ainttime4that game requests on facebook aint nobody got time for that true that sista friend
+268140090952400898	socialmedia	rt ransomspares rtfollow last chance to win a dishwashersgive your kitchen the x factor winner announced this afternoon enter httptcoyfg3z6y9
+268140083117453312	socialmedia	i replied thanks rt youlovemenna broadcaster2be i sent you a video in your facebook inbox hope you get to check it out soon
+268140082496671745	socialmedia	i posted a new photo to facebook httptcoamtmflrw
+268140070882648065	socialmedia	rt signumad very important update please goto httptco8cwynzyg to read we are taking a hiatus
+268140065526542336	socialmedia	sm liking is in the mind frame facebook
+268140056953384960	socialmedia	alicefitzz yeah im good cheers hun here do you have facebook x
+268140033859530753	socialmedia	ash2302 welcome to the front lines in the battle against biased media ash like us on facebook httpstcoqug3cwqv ridethewave
+268140021658308608	socialmedia	do your little ones like going to the dentist httptcontvsgkbl tulsa dentist
+268139971054034944	socialmedia	rt chrisburandt felt awesome to get a few pow turns in yesterday httptcougzpvnjz
+268139958122987521	socialmedia	rt tzmglobal pioneers have long since been dedicating their lives to the various parts of the localised gift economy httptcoiuwrujdd
+268139956919205888	socialmedia	when you purchase a photo experience with us you will make memories to last a lifetime httptcoa5blw28p
+268139954461343744	socialmedia	just remembered im friends with dave my lab instructor on facebook hes probably up on facebook just like damn it kwalz do your work
+268139952007700480	socialmedia	starbarkan welcome to the front lines in the battle against biased media star like us on facebook httpstcoqug3cwqv ridethewave
+268139930314735616	socialmedia	swag sweepstakes by altrazerodropswin injinji yurbuds cepcompression ultraspire freemotionfit click 2 enter httptcovtyynd4w
+268139926980284417	socialmedia	the video for full time cutie was picked up by the indie music video show get the mp3 for free here httptcohcdkpk4h
+268139925105430529	socialmedia	facebookhello al thanks for the facebook like
+268139919992573952	socialmedia	wikiwarningssthe worlds number one consumer complaint site httptcolszpkbtx via sharethis
+268139914380578816	socialmedia	rtcatnip2012 good morning cinema one originals 2012 teaser already out did you see catnip httptcoi179opug
+268139907338354688	socialmedia	hanzoswordscom is giving away an m48 zombie apocalypse tomahawk click here to enter httptco5q1pwlet
+268139907128639488	socialmedia	i posted a new photo to facebook httptcoosk3o0wb
+268139888774348800	socialmedia	just dropped an old vinyl banner off for recycling at signs now in boulder httptcokddxtglp
+268139888103264256	socialmedia	i think im going to start a petition to secede from seeing idiotic facebook posts
+268139870600454144	socialmedia	tbh if iput my life on facebook id have about 10k followers lol
+268139826807701506	socialmedia	silvercadence welcome to the front lines in the battle against biased media like us on facebook httpstcoqug3cwqv ridethewave
+268139825637507072	socialmedia	ahhh my cousin started a beautiful clothing store in guyana 3 like this page to give her your support 3httpstcopi1qe2dy
+268139816808488960	socialmedia	has your band created a successful facebook contest tell us about it here httptcowzcfqyzw
+268139794310238208	socialmedia	dont forget to like my facebook page httptcohviqoukg blog
+268139775565893632	socialmedia	januarymagazine welcome to the front lines in the battle against biased media like us on facebook httpstcoqug3cwqv ridethewave
+268139763901558784	socialmedia	that facebook alerts off till 700am thing is so useful l
+268139758675456000	socialmedia	rt themnproject thank you paydirtmnsatinadiffley for a great event last month check pics httptcoduohuc8u from true value of localsorganic food
+268139756494405632	socialmedia	rt womenshumor im the james bond of facebook stalking
+268139737217376257	socialmedia	learn more about us and sedonashttptcorwsq33pu
+268139735996829697	socialmedia	i posted a new photo to facebook httptcoz8wmazsi
+268139734939869186	socialmedia	that awkward moment when your religion teacher adds you on facebook awk httptcotyumahyu
+268139727771811842	socialmedia	i posted a new photo to facebook httptcoheuxqbwb
+268139718108139521	socialmedia	itinagraves welcome to the front lines in the battle against biased media tina like us on facebook httpstcoqug3cwqv ridethewave
+268139713980952576	socialmedia	rt str8edgeclive so bored i just checked facebook yes put that boredom into perspective
+268139700655644672	socialmedia	lariahmyjam on facebook sweetie when i said my mama made my day
+268139667109584896	socialmedia	rt lindafoster86 quick send everyone to like my fb page so i can get to 500 and can share my cover with a select few of you httpstcotpiqrziv
+268139655399104513	socialmedia	i posted a new photo to facebook httptcoupynmpj4
+268139651506769920	socialmedia	i posted 10 photos on facebook in the album 64th annual nhf meeting in orlando fl httptco3qv73f2j
+268139644179329025	socialmedia	some irked by facebooks new couples pages httptcowbj28b8w
+268139638026301440	socialmedia	rt heatherabennett you know youre old when you hear of 4 engagements in 2 days and you dont recognize anyone on facebook because its all baby pictures now
+268139634519838720	socialmedia	i posted 37 photos on facebook in the album bionic halloween httptcogilizth4
+268139582506283010	socialmedia	rt choffy guess what is shipping today httptcomtfv6yse httptco0jrdurym
+268139576281927680	socialmedia	rt outsidemagazine were giving away our training plan for skiing the birkebeiner like this post from trainingpeaks for a chance to win httptcoj8wmb6yi
+268139571798237184	socialmedia	very important update please goto httptco8cwynzyg to read we are taking a hiatus
+268139550306615296	socialmedia	i posted a new photo to facebook httptco9yuijt6r
+268139547756474368	socialmedia	rt awesumangl god has no phone but i talk to him he has no facebook but he is still my friend he does not have a twitter but i still follow him
+268139525614739458	socialmedia	rt firstworldfacts world population rank 1 china 2 india 3 facebook 4 usa 5 myspace 6 indonesia 7 brazil 8 twitter worldseries
+268139505083621377	socialmedia	well over 100 new likes today on the onceexiled facebook page go like it too there will be prizes
+268139500625068034	socialmedia	i posted a new photo to facebook httptcoslvcv3de
+268139497403842560	socialmedia	rt heatherabennett you know youre old when you hear of 4 engagements in 2 days and you dont recognize anyone on facebook because its all baby pictures now
+268139492894982144	socialmedia	hey guys check out this band and like their fb page less than 20 likes before they release a new song httpstcowmc6cojr
+268139484263116801	socialmedia	kvissa96 i gave it to my ap psychology teacher for an extra credit project thingy disabled my facebook too
+268139483990466560	socialmedia	i posted a new photo to facebook httptco5j51clev
+268139483197747200	socialmedia	quick send everyone to like my fb page so i can get to 500 and can share my cover with a select few of you httpstcotpiqrziv
+268139460196179969	socialmedia	rt 50shades0fjay next pregnant stomach i see on facebook i hope they have a miscarriage im going that far get that shit out of my face
+268139443813236736	socialmedia	i posted 14 photos on facebook in the album halloween 2012 httptcoxgdr2tch
+268139441942577153	socialmedia	loallee welcome to the front lines in the battle against biased media lauren like us on facebook httpstcoqug3cwqv ridethewave
+268139434254422016	socialmedia	so bored i just checked facebook yes put that boredom into perspective
+268139433570742274	socialmedia	rt newscut watch mitt romneys facebook likes decrease in real time httptco8up7kgkg
+268139432798998528	socialmedia	artiechoke spotted this gem on my timeline peopleoffacebook lolfacebook httptcoimenfqeb this is why i dont get on facebook
+268139430542442496	socialmedia	butjarean my princess good morning i love you miss you too all day now a hospital see new babies very cute i send you on facebook
+268139428571127808	socialmedia	i posted a new photo to facebook httptcoeyrvqmv3
+268139396417593344	socialmedia	jeremyshockey can you come on my show this weekssent you a facebook msg with detsswed nght or sat am are open httptcomzwfg9wn
+268139384275079168	socialmedia	i posted 79 photos on facebook in the albumshttptcoekchpqnt
+268139375861301249	socialmedia	follow us on facebook httptcohdj4t2ps
+268139344739569664	socialmedia	rt epilepsyutah three children died too early in the last 72 hours one from dravet syndrome one from retts syndrome the other httptcothfwkgbr
+268139337835753472	socialmedia	thursday drink specials250 pintss412am httptcosj0ojawr codewu
+268139313991143424	socialmedia	i posted a new photo to facebook httptcoymejkpmw
+268139312321818624	socialmedia	ralphieelove will be hosting the tucson meetup this sat follow him also event info here httptcokfmmleoj
+268139223985573889	socialmedia	i posted a new photo to facebook httptcodp0nu6ov
+268139217140461568	socialmedia	rt pliktoblik when a facebook status starts dear lil fuckers that go to legacy
+268139201936097281	socialmedia	ghg doesnt just stand for grey havens group it also stands for godrics hollow group our new potter group httpstcod7gygixu
+268139177051291651	socialmedia	like httptcojm6w5uuc httptcoemelrjnm
+268139166997557248	socialmedia	rt npg1989 makedenisfamous can we get a rt for this signed mmfband photo up for sale stopbullying httpstcokmuryxlt
+268139163986046976	socialmedia	caligirl1337 haha never mind i messaged you on facebook but now i figured out that u did switch carriers on me thanks for telling me lol
+268139147787636736	socialmedia	rt 1000bequals1t rt katmovements katrina rosewatch my new belly blaster juice videohttptcomjfwneap rtartsales facebook blogger
+268139140669898752	socialmedia	are you ready to rock my songpop username is nialllover9 httptcoly50bg2v
+268139136840515586	socialmedia	i posted 15 photos on facebook in the album everlong wedding httptcotlln5loi
+268139131308236801	socialmedia	add on 5000 fb fans on your facebook fan profile account within few days httptcozdjljbvt
+268139115927728129	socialmedia	i posted a new photo to facebook httptcof3qw581p
+268139113885102082	socialmedia	i posted a new photo to facebook httptcoz8ops8la
+268139091151945728	socialmedia	i posted a new photo to facebook httptcozrzjhfrs
+268139066686595072	socialmedia	rt lisalynn58 just saw a guy with a facebook status of taylor swift lyrics yougaybro
+268139031366352898	socialmedia	jessriches95 am looking at my facebook in 2011 remember the bastards we found that so funny
+268139021128065025	socialmedia	rt 1ddirtyimagin people with hazel eyes tend to be gorgeous they are also the best in bed i read that on facebook i have hazel eyes
+268139005642690560	socialmedia	rt ifkctwiterslutz why poke me on facebook im not tickle me elmo
+268138997690273794	socialmedia	you know youre old when you hear of 4 engagements in 2 days and you dont recognize anyone on facebook because its all baby pictures now
+268138976924286976	socialmedia	next pregnant stomach i see on facebook i hope they have a miscarriage im going that far get that shit out of my face
+268138970058223616	socialmedia	amybergg im pretty sure i messaged you on facebook
+268138966975406080	socialmedia	john reminded me that people use to sayshearts openly on msn and facebook
+268138959790555137	socialmedia	i hate everyone on facebook
+268138938198265856	socialmedia	i posted a new photo to facebook httptcogw2khgii
+268138909991583744	socialmedia	claim your free facebook training course right now httptcoswfj6zoc retweet
+268138904689975296	socialmedia	profiletreetex thanks for following does your facebook page look as good as your twitter page
+268138897609986048	socialmedia	create a viral facebook contest today proven contest ideas from music industry pros httptcobji6j2oj
+268138895584161792	socialmedia	we had no idea squirrels were so against making friends with humans the last stop bulletin httptcofhtcqsj3 httptcoz4xbnevl
+268138881461919744	socialmedia	unless youre a very close friend or relative i probably wont reply to your messages on facebook
+268138877334745089	socialmedia	is facebook broken on purpose to sell promoted posts httptcozvvexb4o
+268138862797283328	socialmedia	rt kathlena1 tcot wow america keep sharing via email facebook comments blogs we are doing this recount 59630 in 53 hrs httptcor9yueb80 gop
+268138824222248960	socialmedia	i posted a new photo to facebook httptcowdoghlwd
+268138788054765569	socialmedia	i posted 2 photos on facebook in the albumshttptcoh7yzjoh2
+268138732727709696	socialmedia	i posted 141 photos on facebook in the album juiceds101112smc ibz twice as nice live album 1 httptcoqrkzlbow
+268138728474693632	socialmedia	rt rebeccaangell i will create high qulity squidoo lens with seo optimized articles50 facebook like for the httptcoj9gqgwjf
+268138723970019328	socialmedia	for those who are my facebook friend i didnt delete you ive deactivated my account for awhile
+268138717556920320	socialmedia	rt gearcartel another spectacular day in the wasatch brighton opens tomorrow and there is still plenty of stash to be had httptconjkuqxz1
+268138696753172480	socialmedia	rt coffeehouse join us and loftliterary to talk movies with stephcurtis shawnotto janemintonsnorah labiner tomorrow night httptcosnr9tmvy
+268138683784372224	socialmedia	rt tl151 my mom and aunt are sharing a facebook account mylord
+268138154807140352	socialmedia	i posted a new photo to facebook httptcoc5acq5ft
+268138132136923136	socialmedia	our photo booth services offer both standard and greenscreen options check out our pricing it cant be beatshttptcou8ltfmdo
+268138124868206592	socialmedia	buzz for mississippi pub httptcocza8dkdmsrt dangrevasphoto halloween at mississippi pub httptcomfriwds3
+268138122263556097	socialmedia	rt muconvergence yousthat special someone decide to make it facebook official now youve got a relationship page httptco8p0ockyv
+268138114571198464	socialmedia	rt acmecomedyco hey comedy fans wanna see shows for freesacme is looking for a box officeusher positionsperks to the httptcoxnutlhca
+268138088574889984	socialmedia	rt jvpeter saveourchiefs dont forget to sign up for the tailgate being hosted by these guys can cook httptcomga3sy7p rhodeysroost
+268138056714973184	socialmedia	if i didnt use facebook to talk to coaches i would delete it ihatefacebook
+268138031825944576	socialmedia	all these facebook events are pissing me off
+268138020195143681	socialmedia	you and that special someone decide to make it facebook official now youve got a relationship page httptcoyo6acvpu
+268138018957824000	socialmedia	rt jibemedia facebook is now testing a new want button check it out httptcossbn9ryi
+268137996421853184	socialmedia	rt captainlayla slimjim09 why are you friends with my grandma on facebook
+268137989266370560	socialmedia	rt cainecollege also tonight the string chamber ensembles concert at 730 pm in the performance hall the string program httptcoaxxn40wq
+268137970576539648	socialmedia	i posted a new photo to facebook httptcok9xprpu1
+268137968554872832	socialmedia	rt nuancechaser facebook ive a problem reg my business page cannot change this settingsi cant like other fb pages help httptcoxgdaiqqi
+268137953044344832	socialmedia	facebook ditchthemix facebook testing ranked comments httptcoudpipgoj
+268137943414218753	socialmedia	i posted a new photo to facebook httptcowdgbds3w
+268137930315427840	socialmedia	rt sammurrayx its an actual crease reading the comments on the newcastle v sunderland rivalry facebook pages and that justabitpassionate
+268137914200887296	socialmedia	when a facebook status starts dear lil fuckers that go to legacy
+268137906844098560	socialmedia	breaking news from facebook babies babies wedding babies babies dickheads wedding babies i love you granddad up in heaven
+268137898086375424	socialmedia	hmm i actually found some useful info on facebook cougarnews
+268137884744314881	socialmedia	i posted a new photo to facebook httptcofdj58qh4
+268137879883091968	socialmedia	rt teamrunner4life what color long sleeve runner 4 life shirt would you like next vote here httptcowasxrt1xsvoteshave chance to win free shirt
+268137872643731457	socialmedia	rt heatherrosep im facebook stalking you right nowits weird kgrassy freak creeper getouttahere shitinroom24
+268137857443573762	socialmedia	i hate people who are like its my facebook i can do what i wantswell youre retarded so stop
+268137856990597121	socialmedia	shaunna liked my facebook pro pic feelinlikeapimp
+268137853047959552	socialmedia	i posted a new photo to facebook httptcoumhyle2t
+268137847603736576	socialmedia	dibsonmahone when you posted this on my facebook last night it made my night better thank you so muchshttptcojy3g0tt7
+268137846295117824	socialmedia	rt g0dsavethepunk my favourite part in the bible is where it says you have to share every single christian picture on facebook to get into heaven
+268137841505222656	socialmedia	inheritancecp thanks for those will update the post with them the post had a huge and fantastic response on our facebook page
+268137828347674624	socialmedia	its an actual crease reading the comments on the newcastle v sunderland rivalry facebook pages and that justabitpassionate
+268137817673195523	socialmedia	facebook templates let parents share cute huggies photos wpics of their own babies 75k babies created each post avg 132 likes each
+268137811750842369	socialmedia	i posted 24 photos on facebook in the album 102312 bionic httptconiwxynp7
+268137792352178179	socialmedia	i posted a new photo to facebook httptcoytwmmybc
+268137743685648385	socialmedia	rt gogglezcantsee i go to dobson where te black girls pose for there facebook pics like this httptcoeum4wzjm
+268137735565484033	socialmedia	i posted a new photo to facebook httptcoafekhjyt
+268137727801823233	socialmedia	sm there is a decline in blogs and a growth in facebook and twitter
+268137723209080832	socialmedia	rt stellartwot stop inviting me to things via facebook im not coming
+268137710210928640	socialmedia	i posted 5 photos on facebook in the album bull shoals november 2012 httptcoqqkjpp4g
+268137688098562048	socialmedia	life is like facebook people will like your problems and comments but no one will solve them because everyone is busy updating theirs
+268137684789260288	socialmedia	rt brooknrobertson just a tip dont take a picture by someone laying in a casket and post it on facebook awful
+268137669421322240	socialmedia	i posted a new photo to facebook httptcoqp5d1n1i
+268137633488715776	socialmedia	how to get facebook engagement without paying for it httptcol8gnlnwr via gonzogonzo
+268137616195596288	socialmedia	rt tookoveryotl facebookswaist of my time
+268137607186227200	socialmedia	facebook testing ranked comments httptcotu1wqns3 socialmedia
+268137598319468544	socialmedia	i posted a new photo to facebook httptcosdbrwerz
+268137594884349953	socialmedia	rt lacypitts my mom always puts pictures of me on facebook from when i was little notcool
+268137592577478656	socialmedia	i go to dobson where te black girls pose for there facebook pics like this httptcoeum4wzjm
+268137591587627008	socialmedia	just posted a nice little video for all you fuckers at etown high school on my facebook page go check it out
+268137591583408128	socialmedia	quite hard to find a facebooktwitter famous person whos not a complete bellend
+268137576748183552	socialmedia	if i dont know u i look you up on facebook if youre not on there u either dont exist or youre twelve w a stupid long name strangers
+268137571966652420	socialmedia	so theres this little box on our facebook page called recommendationssif you love the cabaret like i know httptcoewrxuhvd
+268137562877591552	socialmedia	im facebook stalking you right nowits weird kgrassy freak creeper getouttahere shitinroom24
+268137551137738752	socialmedia	i have a facebook twitter instagram tumblri spend too much time on the internet
+268137542812049408	socialmedia	i posted a new photo to facebook httptconxrcjd1d
+268137539955724289	socialmedia	slimjim09 why are you friends with my grandma on facebook
+268137496632766464	socialmedia	rt teamrunner4life what color long sleeve runner 4 life shirt would you like next vote here httptcowasxrt1xsvoteshave chance to win free shirt
+268137490169335808	socialmedia	rt tookoveryotl facebookswaist of my time
+268137478806970368	socialmedia	rt g0dsavethepunk my favourite part in the bible is where it says you have to share every single christian picture on facebook to get into heaven
+268137470288355328	socialmedia	snowjoemore chances to win in our snowbigdeal sweeps this week rt one entryday httptcobvqg9j3g
+268137452957470720	socialmedia	i posted a new photo to facebook httptconiu9sarz
+268137437933486080	socialmedia	we are also on facebook lets connect there as well httpstcoxnnyzxr9
+268137410012000256	socialmedia	come to the coffee exchange this friday for an art show featuring art work by colorado springs homeless indygive httptco0xzlmnjy
+268137399488499712	socialmedia	mentions and buzz for rainbow chinese restaurant httptcoqvyetgvpsrt rainbowchinese enter our facebook my favorite memory cont
+268137386632966145	socialmedia	planning to come to our social at footerscatering tomorrow be sure to invite your friends httptcol3nbt9ls
+268137380349870080	socialmedia	i posted 59 photos on facebook in the albumshttptcomlrwpwux
+268137375618699266	socialmedia	if you like stomchasing tornadoes or airplanes make sure to like and follow meshttpstcovb2hyo42s chasercon barackobama lol
+268137357717430272	socialmedia	i posted a new photo to facebook httptco689gqtua
+268137355616067584	socialmedia	pmm share this one on facebookshttptco1td0ryhw plz rt music
+268137346355040256	socialmedia	website analyticstracking comment box facebook comments testimonial boxes paypal buttons 50 website functions httptco3esgogu4
+268137329842081792	socialmedia	hail3yjohnston i dont even know more than half on my facebook friends
+268137321658998784	socialmedia	just a tip dont take a picture by someone laying in a casket and post it on facebook awful
+268137310393073664	socialmedia	rt 1000bequals1t rt katmovements katrina rosewatch my new belly blaster juice videohttptcomjfwneap rtartsales facebook blogger
+268137295754981376	socialmedia	rt iamhollingworth this girl hits me up on facebook trying to flirti dont respond but then i get threatened by her boyfriend lmfao wtf
+268137292554711043	socialmedia	rt parkeryounglife jumpstreet tonight yes tonight 10 cash or check we will meet at 630 at the jack in the box on jordan jump httptco3bbsdq4g
+268137291309010944	socialmedia	httpstcowitlpszy just like sattar jamil soidei has been killed by the iranian regime due to torture in prison 4newiran ila
+268137286934335488	socialmedia	rt tookoveryotl facebookswaist of my time
+268137282937163776	socialmedia	my songpop username is allyssaliberty httptcoxrl0d39g
+268137228012777472	socialmedia	rt vxkaylaxv i really need to stop facebook stalking people
+268137205460000768	socialmedia	i need facebook
+268137175621718016	socialmedia	eilenemay hey whats your facebook name i want to give you klout dont worry what about i wont make fun of your snout no need 2 pout
+268137172329193472	socialmedia	rt mywinewords cheers mr twain you got it right httptcoyyfswh7o
+268137164401954818	socialmedia	facebook httptcoms7stqhh
+268137145997344768	socialmedia	i posted 23 photos on facebook in the album 20121110utah vs washington game pictures httptcoyqdqeqiv
+268137109875998723	socialmedia	i posted a new photo to facebook httptcosngfg5mr
+268137108621901824	socialmedia	i posted a new photo to facebook httptcohawnfjsl
+268137041076826112	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268137016661790720	socialmedia	i posted a new photo to facebook httptcozj7kwf1m
+268136991776980994	socialmedia	google i have everything facebook i know everybody internet without me you are nothing electricity keep talking
+268136988085981184	socialmedia	rt g0dsavethepunk my favourite part in the bible is where it says you have to share every single christian picture on facebook to get into heaven
+268136986949332995	socialmedia	take the quiz httptcobiwfrr0q httptcotrm4eyse
+268136972676116480	socialmedia	rt helpportraitic helpportraitic is now on twitter to get involved in our dec 8 event email ichelpportraitgmailcom or facebook help portraitiowa city
+268136961150185473	socialmedia	if twitter is for board people then facebook must be for no lifes mytheory
+268136953734627329	socialmedia	i posted a new photo to facebook httptcowwrpztyl
+268136896574656513	socialmedia	rt jj7acuna httptcojoenbq3t i want to thank all the pastpresent and future veterans a happy veterans day httptcotmq6xofd
+268136893143736320	socialmedia	rt lindtchocolate lindtbear is giving away hundreds of incredible prizes starting now win a lindtbear gift basket httptcoq2lyu4rp
+268136879495446529	socialmedia	feelin super awkward with my profile picture l o l im just not going to go on facebook for a week sounds good
+268136871568236545	socialmedia	httptco9az4euvq activist blogger sattar beheshti died in iranian regimes prison due to torture cnnbrk oprah 4newiran ila
+268137399488499712	socialmedia	mentions and buzz for rainbow chinese restaurant httptcoqvyetgvpsrt rainbowchinese enter our facebook my favorite memory cont
+268137386632966145	socialmedia	planning to come to our social at footerscatering tomorrow be sure to invite your friends httptcol3nbt9ls
+268137380349870080	socialmedia	i posted 59 photos on facebook in the albumshttptcomlrwpwux
+268137375618699266	socialmedia	if you like stomchasing tornadoes or airplanes make sure to like and follow meshttpstcovb2hyo42s chasercon barackobama lol
+268137357717430272	socialmedia	i posted a new photo to facebook httptco689gqtua
+268137355616067584	socialmedia	pmm share this one on facebookshttptco1td0ryhw plz rt music
+268137346355040256	socialmedia	website analyticstracking comment box facebook comments testimonial boxes paypal buttons 50 website functions httptco3esgogu4
+268137329842081792	socialmedia	hail3yjohnston i dont even know more than half on my facebook friends
+268137321658998784	socialmedia	just a tip dont take a picture by someone laying in a casket and post it on facebook awful
+268137310393073664	socialmedia	rt 1000bequals1t rt katmovements katrina rosewatch my new belly blaster juice videohttptcomjfwneap rtartsales facebook blogger
+268137295754981376	socialmedia	rt iamhollingworth this girl hits me up on facebook trying to flirti dont respond but then i get threatened by her boyfriend lmfao wtf
+268137292554711043	socialmedia	rt parkeryounglife jumpstreet tonight yes tonight 10 cash or check we will meet at 630 at the jack in the box on jordan jump httptco3bbsdq4g
+268137291309010944	socialmedia	httpstcowitlpszy just like sattar jamil soidei has been killed by the iranian regime due to torture in prison 4newiran ila
+268137286934335488	socialmedia	rt tookoveryotl facebookswaist of my time
+268137282937163776	socialmedia	my songpop username is allyssaliberty httptcoxrl0d39g
+268137251593154560	socialmedia	i need some new pictures on both facebook n twitter
+268137233322762240	socialmedia	rt oralrobertsu oru alum jared anderson would like to give you a free copy of his song impossible possibleshttptcob7wmcqar
+268137228012777472	socialmedia	rt vxkaylaxv i really need to stop facebook stalking people
+268137205460000768	socialmedia	i need facebook
+268137175621718016	socialmedia	eilenemay hey whats your facebook name i want to give you klout dont worry what about i wont make fun of your snout no need 2 pout
+268137172329193472	socialmedia	rt mywinewords cheers mr twain you got it right httptcoyyfswh7o
+268137164401954818	socialmedia	facebook httptcoms7stqhh
+268137145997344768	socialmedia	i posted 23 photos on facebook in the album 20121110utah vs washington game pictures httptcoyqdqeqiv
+268137109875998723	socialmedia	i posted a new photo to facebook httptcosngfg5mr
+268137108621901824	socialmedia	i posted a new photo to facebook httptcohawnfjsl
+268137041076826112	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268137016661790720	socialmedia	i posted a new photo to facebook httptcozj7kwf1m
+268136991776980994	socialmedia	google i have everything facebook i know everybody internet without me you are nothing electricity keep talking
+268136988085981184	socialmedia	rt g0dsavethepunk my favourite part in the bible is where it says you have to share every single christian picture on facebook to get into heaven
+268136986949332995	socialmedia	take the quiz httptcobiwfrr0q httptcotrm4eyse
+268136979064053760	socialmedia	berkel beats tonightsthe wheeler opera house fashion showhttptcovqh5luuo httptcoaqbkaqzm
+268136972676116480	socialmedia	rt helpportraitic helpportraitic is now on twitter to get involved in our dec 8 event email ichelpportraitgmailcom or facebook help portraitiowa city
+268136961150185473	socialmedia	if twitter is for board people then facebook must be for no lifes mytheory
+268136953734627329	socialmedia	i posted a new photo to facebook httptcowwrpztyl
+268136896574656513	socialmedia	rt jj7acuna httptcojoenbq3t i want to thank all the pastpresent and future veterans a happy veterans day httptcotmq6xofd
+268136893143736320	socialmedia	rt lindtchocolate lindtbear is giving away hundreds of incredible prizes starting now win a lindtbear gift basket httptcoq2lyu4rp
+268136879495446529	socialmedia	feelin super awkward with my profile picture l o l im just not going to go on facebook for a week sounds good
+268136871568236545	socialmedia	httptco9az4euvq activist blogger sattar beheshti died in iranian regimes prison due to torture cnnbrk oprah 4newiran ila
+268136861334114304	socialmedia	harleyjousta i have not been on your facebook i logged off of it yesterday
+268136845802631168	socialmedia	i posted a new photo to facebook httptco2ol1wvks
+268136828861837313	socialmedia	dan while being popular on social media sites can boost your ego and selfesteem having lots of facebook httptco5weig6aq
+268136821081387008	socialmedia	this girl hits me up on facebook trying to flirti dont respond but then i get threatened by her boyfriend lmfao wtf
+268136814747975681	socialmedia	rt lindtchocolate lindtbear is giving away hundreds of incredible prizes starting now win a lindtbear gift basket httptcoq2lyu4rp
+268136807110172672	socialmedia	jeandreia corre facebook khkjk
+268136798914482176	socialmedia	i posted a new photo to facebook httptcoon1tofxw
+268136785241047041	socialmedia	i posted a new photo to facebook httptcodomxc2hj
+268136775959056384	socialmedia	huggies sponsors a nonprofit diaper bank tied to sales of their design diapers ran tests of tvsfacebook to drive engagement sales
+268136723668672513	socialmedia	cnnpolitics people unliking romney on facebook httptcojkkwgfnv ahaha
+268136710884433920	socialmedia	if anybody wants to see my facebook my name is cesar andre pinos
+268136703334686721	socialmedia	my new avi is my facebook profile picture yolo
+268136687970947072	socialmedia	rt chrisburandt felt awesome to get a few pow turns in yesterday httptcougzpvnjz
+268136614130233345	socialmedia	rt g0dsavethepunk my favourite part in the bible is where it says you have to share every single christian picture on facebook to get into heaven
+268136612083408896	socialmedia	using twitter instead of facebook lets see how this goes
+268136579506253825	socialmedia	httpstcopfwanxjgstill in usa heading home soon thanks to everyone involved this time aroundsi had a great time x
+268136575941091328	socialmedia	rt ironcoppers please like httpstcoyqmcei1s
+268136566944329728	socialmedia	rt awesumangl god has no phone but i talk to him he has no facebook but he is still my friend he does not have a twitter but i still follow him
+268136561730797570	socialmedia	i just entered to win an ipadmini today from nbc17 theyre giving one away every weekday in nov nbc17ipadmini httptcowuwdym5z
+268136551727374336	socialmedia	check me out on facebook glinda lorice sparkman if u still got one
+268136537399640064	socialmedia	i swear ismael is bipolar messaging me on facebook if i want tierra mia later like dint you say que ya no queras ablar conmigo estupid
+268136534144856065	socialmedia	i posted a new photo to facebook httptcoixdxyjq2
+268136517661233152	socialmedia	rt campuskitchens hey boston ckumb needs your help to make thanksgiving meals for local families please do what you can httptcoa4y3lfrj
+268136511101341697	socialmedia	ebook gratuito sobre facebook ads httptcobjiz03t6
+268136508777701377	socialmedia	i got sexy on the are youhotsexycute or ugly quiz httptcom5wrf8xt
+268136495183978497	socialmedia	fantasydouche just went on a rant that eerily reminded me of haneluca check it out facebook
+268136493044867072	socialmedia	rt youneedrosie when creeps from school keep messaging you on facebook httptcov5pfxe8b
+268136471217704961	socialmedia	i posted a new photo to facebook httptcowfemj0yk
+268136465316339712	socialmedia	i posted a new photo to facebook httptcohrax4rll
+268136442503499776	socialmedia	facebook too cluttered
+268136421896896512	socialmedia	jump is your number one destination google plus ones 1s facebook likes httptcozwqojrv1
+268136374786486272	socialmedia	checkout beups423 onshttptco1b4fgijs share network and support promoted via jayceodpromoter
+268136373985357825	socialmedia	nokias 42 nonsmartphone still has facebook twitter videoshttptcoedtzratr
+268136360781680640	socialmedia	rt awesumangl god has no phone but i talk to him he has no facebook but he is still my friend he does not have a twitter but i still follow him
+268136356415426560	socialmedia	rt g0dsavethepunk my favourite part in the bible is where it says you have to share every single christian picture on facebook to get into heaven
+268136348387524609	socialmedia	rt boandtheloco guys our daytrotter session comes out tomorrow check it out at httptcos2pugwswlike and share this yall httptco1bus4mo0
+268136324211539968	socialmedia	rt jordanelise no bitch i dont want to be on your mybirthday calender facebook fuckery
+268136309984464897	socialmedia	rt awesumangl god has no phone but i talk to him he has no facebook but he is still my friend he does not have a twitter but i still follow him
+268136283380019201	socialmedia	wedding soon if sanmigueldeallende is not in your optios you definitely have to see this album httptcoxn61zubb wedding beautiful
+268136257375313920	socialmedia	i posted 46 photos on facebook in the album out and about take 3 httptcohqahlkk8
+268136256209309696	socialmedia	no bitch i dont want to be on your mybirthday calender facebook fuckery
+268136245127950336	socialmedia	blahsmyfbcovers httptco0a8fejw9
+268136243232141312	socialmedia	rt moveon the most popular twitter and facebook image of all time barackobama httptco1b5spxzi
+268136206796197888	socialmedia	rt doyoubelievelt today there are more people on facebook than there were on the planet 200 years ago
+268136205512736768	socialmedia	only a few more days left to vote for your favorite bloggeronthecusp httptcoo700hlvg
+268136202794835969	socialmedia	facebook so dead
+268136190274830336	socialmedia	rt poundance the poundancesmovember 241 tracksuit party1 entry with your finest tash or 241 entry if youre both wearing httptcoohk90jdf
+268136188899115009	socialmedia	theniceblog oh haha delete your facebook account anna youll feel betters end enabler
+268136184717393920	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268136181181603841	socialmedia	if you use facebook camera or messenger youre one of zucks guinea pigs via techcrunch httptcoqqxfgidi
+268136172939796481	socialmedia	rt greeleytribune and now good news for fans of greeleys kress cinema the kress cinema and lounge will remain open after httptco3spgb2hw
+268136159249584129	socialmedia	please like tony cash on facebook httptcoc1w2grag teamtonycash
+268136150860972032	socialmedia	rt awesumangl god has no phone but i talk to him he has no facebook but he is still my friend he does not have a twitter but i still follow him
+268136144296886274	socialmedia	wachen bock on tap at the harriet brasserie harrietmplssa delicious beer dinner sunday very limited reservations httptcowd4tz8kn
+268136119655350272	socialmedia	rt kategibbon eztodd there needs to be a facebook famous chirton girl i deffo fit the part
+268136116648034304	socialmedia	yogurt for pjsits a winwin thanks to orange leaf in ozark 4 running this promotion to help kids in christian co httptcobiptcth7
+268136104056717312	socialmedia	stephdavis7 i havent heard anything about it until today they posted on facebook saying that their next voxbox would be college themed
+268136096339222531	socialmedia	investigators using facebook posts to make arrestsswzvntv httptcod9emtlys social risk
+268136088172912641	socialmedia	free folgers offer is live againhttpstcovvygkfht httptcousy8yfed
+268136086138671105	socialmedia	i posted a new photo to facebook httptcoik4qqn3k
+268136075518681088	socialmedia	nachosarah too funnythe next tweet i saw after this was someone saying they had posted a new photo on facebook
+268136053729288192	socialmedia	rt casselmans assemblage 23 tonight at casselmans doors at 7httptcoz6fxmqwf httptcor6ah5dcu
+268136022573973504	socialmedia	please like httpstcoyqmcei1s
+268136017461141504	socialmedia	she got a twittersfck nawwsctfusunnnnsshe finally upgradingg from facebook
+268136012490891264	socialmedia	very satisfying when i get the chance to delete one of the scary people from high school on facebook
+268135993624911873	socialmedia	rt reecebond95 anyone with a middle name on facebook that isnt actually their real middle name is an absolute roaster
+268135969214042112	socialmedia	bradenbradley56 ihazkittenz honestly andrew you wont do shit remember me you use to talk shit all over facebook but never did a thing
+268135968798810114	socialmedia	i posted a new photo to facebook httptcololc5gml
+268135961001598976	socialmedia	rt beckonstruth section of the federal reserve audit through dec 21 2007truth beckons httptcoxhfawxoa
+268135948276072448	socialmedia	tashastein also facebook me your mobile number lost my phone so have minimum contacts
+268135944933224448	socialmedia	rt veryrudetweets just saw an ad on facebook saying are you justin biebers dream girl well seeing as i have a cock i would say yes
+268135890457616384	socialmedia	rachaelreally haha i was saying tell me to delete it re facebook
+268135875668475904	socialmedia	theses people that put everythingcomment people say to them on facebook toomanychildren jemerykyle
+268135874733146114	socialmedia	httpstcombzn0ekv the blogger satttar beheshti was killed under torture death or freedom 4newiran iran ila
+268135869997797377	socialmedia	facebooks couples page irk some httptcomwqfo4cf
+268135867137282048	socialmedia	i posted a new photo to facebook httptcofyt8kyuz
+268135859231023104	socialmedia	i posted a new photo to facebook httptco8rzkujjn
+268135830558740480	socialmedia	i posted a new photo to facebook httptcomofrrrlf
+268135812221247489	socialmedia	i posted a new photo to facebook httptco6avdlpfc
+268135811717926912	socialmedia	httptcojoenbq3t i want to thank all the pastpresent and future veterans a happy veterans day httptcotmq6xofd
+268135810107326464	socialmedia	i posted a new photo to facebook httptcowsroag9e
+268135807762702337	socialmedia	dragonnhugs httpstcomgdhztp9 can you believe this fucker
+268135789962092545	socialmedia	rt themidland just announced httptco8v90adi9
+268135776443830274	socialmedia	thanks to the 10 or so people who remembered my birthday without the help of facebook loved
+268135774761930752	socialmedia	omg this girl on facebook is spaming my homepage with one direction facts and what u gotta do to be a directioner like do i care
+268135773998559232	socialmedia	enter to win mortgage payments for a year from kslam and ksl5tv click here to enter httptcoaxlnpuwo
+268135771083517952	socialmedia	rt emmaspark monday night crack on facebook oldphotos
+268135763575709697	socialmedia	rt cricketnation round 2 of the muvefirst artist challenge starts today who are you voting for httptcogzlwxf7j muvemusic
+268135753656172544	socialmedia	i posted a new photo to facebook httptcovs6ec1nk
+268135752993492992	socialmedia	rt haz3lsong thefamousdlove may god continue to bless you and your family
+268135752494358528	socialmedia	what does it mean when on facebook you want to put someone in your close friends but also want to hide their posts dilemma diorama
+268135740154720256	socialmedia	i posted a new photo to facebook httptcoidvnyvi2
+268135713348927488	socialmedia	rt kianalexis i hardly ever check my facebook anymore
+268135698312335360	socialmedia	facebook httptcoc0ebvu9c
+268135674841014272	socialmedia	macymatus do all relationships start off with a casual facebook message or is that just me us supafly2000200 lolol
+268135669816258561	socialmedia	rt danmarsala hey stl ill be partyingdjing at dannos pub again tonight filling in for tylerkonersman while hes out of town httptcob112yuhg
+268135656172163073	socialmedia	rt whitehippy i hate austy on facebook forreal forreal shes fucking annoying as shit 1800chokethathoe
+268135652351172608	socialmedia	total defense provides details about facebook antivirus marketplace offeringsallfacebook total defense provid httptcoryy6an3x
+268135648320430080	socialmedia	rt mindbiowingfact facebook and twitter addiction causes the same changes in the brain that are seen in cocaine users
+268135590367723520	socialmedia	i got 767 points while streaking in streakerrun check it out at httptcojads0w35 zzfbjd
+268135588346073089	socialmedia	rt visitsaltlake think slc is better than gov camp vote for slc in powder magazines ski town throwdown and get us to the next round httptco7hx9yzuq
+268135556075122689	socialmedia	elaine was looking around in a baby playpen and found some extra animal feed grab some before its gone httpstcoruofqnaz farmville
+268135554900697088	socialmedia	facebook httptcozvhztdib
+268135548558905344	socialmedia	the three things marketers keep forgetting about facebook httptcohjppkq2f via kmueller62
+268135545199276032	socialmedia	rt teamrunner4life what color long sleeve runner 4 life shirt would you like next vote here httptcowasxrt1xsvoteshave chance to win free shirt
+268135542003224578	socialmedia	this guy is so beg randomly adds me on facebooksthen gives me his number do i know you though
+268135529218994176	socialmedia	inbox me on facebook
+268135525393784832	socialmedia	rt teamrunner4life what color long sleeve runner 4 life shirt would you like next vote here httptcowasxrt1xsvoteshave chance to win free shirt
+268135510860517378	socialmedia	icymi i riffed quickly on boat games and the bastardization of basketball yesterday on my new facebook public page httptcomecnlcj9
+268135498931924992	socialmedia	think slc is better than gov camp vote for slc in powder magazines ski town throwdown and get us to the next round httptco7hx9yzuq
+268135463112548352	socialmedia	i posted a new photo to facebook httptco8tlynxkf
+268135454006710275	socialmedia	sashbashbash please like tony cash tonycashhd on facebook httptcogvubdkhl teamtonycash
+268135445886562304	socialmedia	i posted 7 photos on facebook in the album back home 3 httptcoxcnd3yz3
+268135445416796161	socialmedia	rt girifacts god has no phone but i talk to him he has no facebook but he is still my friend he does not have a twitter but i still follow him
+268135435904094209	socialmedia	rt riotroom almost time 8pm doors 9pm show httptco9h34h3om
+268135404555866112	socialmedia	great upscoming band from spfd mo check them out httpstcobh9n1f9g and purchase their first single run to you on itunes today
+268135396662202368	socialmedia	fuck off facebook colours
+268135362482814977	socialmedia	rt tarantinop contracorridassstop bullfights join us on facebookinviterecruit httptcoo6dflefn via causes
+268135304001642496	socialmedia	needmytweetsup i gin facebook you cause this long
+268135287106973696	socialmedia	closest guess to tonight mnf game wins a 20 gift cardsclick the link httptcobizltfic
+268135280677105664	socialmedia	why the heck do you add me on facebook if were not even gonna talk t pinche estupido
+268135213576646656	socialmedia	i posted a new photo to facebook httptconwqmuruh
+268135210300866561	socialmedia	i hardly ever check my facebook anymore
+268135206106591232	socialmedia	rt womenshumor im the james bond of facebook stalking
+268135200058400768	socialmedia	i posted a new photo to facebook httptconuvy9pgd
+268135175030992896	socialmedia	rt lindtchocolate lindtbear is giving away hundreds of incredible prizes starting now win a lindtbear gift basket httptcoq2lyu4rp
+268135174594777088	socialmedia	rt thegranada 3 days away asherroth w kidsthesedays chuckisdope joshsallee chasecompton785smatteastonmusic more info here httptcodlfl7xju
+268135170618580992	socialmedia	get a job ftw rt alexalbrecht heres the doritos commercial i directed for the super bowl contest httptcoob4ulokm
+268135155619749888	socialmedia	eztodd there needs to be a facebook famous chirton girl i deffo fit the part
+268135150108426243	socialmedia	the newsroom slowly took over my twitter and facebook page
+268135141476532224	socialmedia	rt cafevelobikes on sale now cafevelobikes signs of hope tribute coffee table bookss100 of funds to benefit the httptcoll9buokz
+268135130277748736	socialmedia	i posted a new photo to facebook httptcopspyvo8p
+268135119414521856	socialmedia	always take such a risk updating the facebook app
+268135110065393665	socialmedia	haha grow some balls delete me on facebook then write a status about me woah step back we got a bad ass right here yourajoke
+268135105015451648	socialmedia	i posted 10 photos on facebook in the album lesbians are so hautshttptcoeixbi7yv
+268135104830902272	socialmedia	rt iflipyouoff tweetlikeagirl your relationship status on facebook is still single and my name isnt in your bio
+268135088808673280	socialmedia	cassiesam52 stop tagging me in facebook videos n get ya booty to class
+268135088359874561	socialmedia	i just entered wiggitybang bag fests33 days of random sweepstakes like them on facebook to be entered to win httptcosn34x5et
+268135062082555904	socialmedia	rt sikwidityo sikwidityos grownfolksish featured shows return soon follow the random live broadcasts at httptcowe9nrz7vspeace
+268135052179812353	socialmedia	facebook famous people piss me off like no nigaa you aint cool
+268135048409149440	socialmedia	rt fabiolahanks facebooksposting 100s of statuses in a daysobsessedtwittersposting 100s of tweets in a daysnormal
+268135014892462080	socialmedia	rt teamrunner4life what color long sleeve runner 4 life shirt would you like next vote here httptcowasxrt1xsvoteshave chance to win free shirt
+268135011415363584	socialmedia	rt veryrudetweets just saw an ad on facebook saying are you justin biebers dream girl well seeing as i have a cock i would say yes
+268135003207114752	socialmedia	guys who meet all theyre gfs through facebook lame go out and live a little
+268134997947478016	socialmedia	did you know you can sell products on facebook
+268134995770630144	socialmedia	i posted 3 photos on facebook in the album nicole and ashtons bridals httptco53jqkau3 httptco0rx21uut
+268134986513784833	socialmedia	got a problem with me um pretty sure a status on facebook wont fix it smh
+268134972521586688	socialmedia	maowiia send me the pictures i took in a message on facebook pleasesthank you
+268134946441396224	socialmedia	4chan on facebook makes it bearable
+268134946361724928	socialmedia	mitts facebook friends are dropping like fliesshttptcodqwqod0osnobody likes a loser
+268134935108386816	socialmedia	i posted a new photo to facebook httptcos829tkec
+268134918759002112	socialmedia	vote for leneka rhodensjust click this link httpstco3xyp7wgw n like d page den vote
+268134915315470336	socialmedia	does facebook hate all womenor just feminists does facebook hate all womenor just feminists an article look httptconvryzfjx
+268134913763594240	socialmedia	apparently facebook was covered with porn the last few days and i didnt see any of it i dont know whether to be glad or feel left out
+268134879064113156	socialmedia	3 creative marketing ideas most real estate agents wouldnt try im going to make a guess and say that you prob httptcoavcf5ekb
+268134877562560512	socialmedia	rt thefunnysexist nothing screams stalker more than accidentally putting a girls name as your facebook status when it was meant for the search bar
+268134873066258432	socialmedia	when people be updating their status on facebook about how sad their life is i make sure i like that status
+268134868200853505	socialmedia	how many surveyed hospitals had within a certain range of facebook likes in 2011 viasihealthbeat httptco6cnsrwii hcsm
+268134844960235520	socialmedia	the easy way to run facebook competitions httptco0mxrvq7c
+268134844960235520	socialmedia	the easy way to run facebook competitions httptco0mxrvq7c
+268134822600404993	socialmedia	facebook makes me so sick
+268134767172661248	socialmedia	i posted a new photo to facebook httptcoj2no4dny
+268134749359468544	socialmedia	not sure how twittersfacebook can positively impact your business youll want to read this httptcodf6taltx
+268134739922259968	socialmedia	rt g0dsavethepunk my favourite part in the bible is where it says you have to share every single christian picture on facebook to get into heaven
+268134733416919040	socialmedia	facebook this facebook all link lets you see an almost unfiltered news feed but it might get shut down httptcoqwqa5yld
+268134732192178176	socialmedia	rt teamrunner4life what color long sleeve runner 4 life shirt would you like next vote here httptcowasxrt1xsvoteshave chance to win free shirt
+268134730845806593	socialmedia	i posted a new photo to facebook httptcounjciyhq
+268134721102413824	socialmedia	rt jackieegray fuck twitter facebook skype texting and phone calls nothing compares to actually spending a day with someone
+268134716870381568	socialmedia	rt 2getaticketswin all 22 jamesbond movies 007 ultimate dvd box set rt followslike on facebook httptconvypwyfp rt
+268134705612857346	socialmedia	mnfangirl then make a fake facebook account just for this
+268134703993868288	socialmedia	i posted a new photo to facebook httptcoy3a4q6nd
+268134702328717312	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268134692199473153	socialmedia	rt jackedpeterson damn shayleestarr just blowing up facebook with her raspberry drops that her friend showed her and lost 19 pounds doing nothing hacked
+268134670347149312	socialmedia	prettipearl42 grimes facebook messed it up lol i move to jonesboro so thats closer
+268134656371732480	socialmedia	mollygail468 she literally updates her facebook status every second chillgirl
+268134656271060992	socialmedia	rt sokali how long have i been telling people facebook is stupid toolong
+268134651325992960	socialmedia	napoleonsolovox yo httptcoy8hhanbt
+268134627607199745	socialmedia	just got on facebook and saw that ann was in a relationship awk she didnt tell me
+268134615728934912	socialmedia	rt fkknangelsits so hilarious when people post im fucking done cant do this anymore on twitterfacebookshttptcoidbknnpi
+268134611568177153	socialmedia	anyone notice facebook appears down
+268134591079018496	socialmedia	just entered backyard discoverys sweepstakes hoping to win a free cedar mountain swingsetshttptcoppdlsthl
+268134569549627392	socialmedia	rt joeyhiscock omg the biggest creature just added me on facebook
+268134562549358593	socialmedia	i posted a new photo to facebook httptcow4hgkysi
+268134552705314816	socialmedia	i posted a new photo to facebook httptcoc9pymgyh
+268134539807842306	socialmedia	damn shayleestarr just blowing up facebook with her raspberry drops that her friend showed her and lost 19 pounds doing nothing hacked
+268134534690787329	socialmedia	facebooksposting 100s of statuses in a daysobsessedtwittersposting 100s of tweets in a daysnormal
+268134532706865152	socialmedia	i posted a new photo to facebook httptcoeybnx23b
+268134524255350784	socialmedia	rt campuskitchens hey boston ckumb needs your help to make thanksgiving meals for local families please do what you can httptcoa4y3lfrj
+268134517393481728	socialmedia	i posted a new photo to facebook httptcoaurasvae
+268134494408679425	socialmedia	linkedin twitter facebook instagram fancy emt email and check them all again no wonder my battery never lasts firstworldpains
+268134459239452675	socialmedia	therealmcgowan hahahaha youre doritos that you just wrote about on facebook seem to be missing
+268134447210176512	socialmedia	i posted a new photo to facebook httptcoqairkpc7
+268134441346555904	socialmedia	capelobsterco thanks for the chance at a 200 gift certificate check it out at httptcomgh0wp8o dontbeshellfish
+268134403350343680	socialmedia	facebook is full of sickening people whod put anything for a few likes
+268134387252596736	socialmedia	modify the facebook colour event aw piss off dont want these shit events
+268134373172318209	socialmedia	latest facebook greatest instagram app to begin using httptcoi0vpq59f
+268134343233396738	socialmedia	rt sittellawinery head to our fb pg to find out how you can win lunch for 2 75 with 2 glasses of winesswanvalley perthcomps httptcopnfu2kyc
+268134337369739265	socialmedia	i posted a new photo to facebook httptcozsgmbrcw
+268134284370534400	socialmedia	omg the biggest creature just added me on facebook
+268134276598464514	socialmedia	i posted a new photo to facebook httptcof9i7cd9l
+268134224140328960	socialmedia	goodafternoon facebook peepscheck out the new music sceneexclusive from grap3z httptcofkwzbfur
+268134203827314688	socialmedia	facebook ditchthemix httptcoaic23g5o birthdays branchout twitter merry christmas and more on this weeks top httptcocrqwesjh
+268134161213173761	socialmedia	monthly drawing just like our clents fb page for chance to win each month httptcos6aambj7
+268134157207605248	socialmedia	rt katestewart just received a poke on facebook its been a while since that last happened
+268134140589785089	socialmedia	rt threadtees weve been sayin it all along its about time the bcs agreed itsofficial gostate httptco6nsxbdfq
+268134124676583424	socialmedia	if you lose something in your room take a picture of your room put it on facebook and play i spy am sure somebody will find itlol
+268134123007258624	socialmedia	rt whoaablackbetty sosfacebook decided to give me poke suggestions they were cassielittleton and kkriistax0x0s im good facebook
+268134122503938048	socialmedia	whitepaper analyzing the impact of social media from twitter to facebook httptcotpnbjobo
+268134114446675968	socialmedia	rt maura182x so many people complaining about the dumbest things on facebook realize what the important things in life are and be happy
+268134111527464960	socialmedia	ha i cant seem to get higher than 2198 fb fans if i gain a liker or two then i lose a couple its really weird httptcozdlviprq
+268134086185459712	socialmedia	rt nord4tix disney on ice is in town this week call 8013257222 for discount ticketsssounds funshttptcoeaexpfzb
+268134079604613121	socialmedia	rt fabrizio facebooks couples pages irk some are you in a relationship on facebook if so you might wish to go to this httptco1ax5x9bl
+268134058050080769	socialmedia	elaine was looking around in a baby playpen and found some extra animal feed grab some before its gone httpstcok7dp73iw farmville
+268134049908924416	socialmedia	rt womenshumor im the james bond of facebook stalking
+268134045584601088	socialmedia	httptcosepwclel birthdays branchout twitter merry christmas and more on this weeks top 20 facebook apps httptcolcyhjg6t
+268134040585003008	socialmedia	tonight at work i will spend paid time investigating whether carter and i qualify for a facebook couples page catladytweet
+268134034754904064	socialmedia	discover how i maximize the fans to my fb account speedily lowcost as well as uncomplicated httpstco3jjzdipd
+268133982296764416	socialmedia	talking to ryan on facebook chatshe kept taking the piss so i called him a cheeky bastard and he went mental
+268133970934374400	socialmedia	some people on facebook are posting happy veterans day and stuff but veterans day was yesterday smh
+268133966744268800	socialmedia	i posted 21 photos on facebook in the album menmasano hi mita hana no namae o bokutachi wa mada shirana httptcodspb8zov
+268133959521685506	socialmedia	i posted 91 photos on facebook in the album party for a living httptcoanwbmv3k
+268133951686705152	socialmedia	b alex rt nikitaaddiction which fight did you like bestnikita vsa michael b alex c amanda httptcojvjfv3uk
+268133937036021761	socialmedia	ookayyy i see you facebook stalkin
+268133901103419393	socialmedia	vika7 can you come on the tomsyeshow this weeksi sent you a facebook message with detailsslets talk tennisshttptcowkwuildt
+268133887887167491	socialmedia	mitt romney losing likes on facebook in realtime httptconygplo3s via flowingdata
+268133885425115138	socialmedia	rt undavided if it takes me more than ten seconds to remember who you are on facebook we probably shouldnt be friends
+268133870686314496	socialmedia	i posted a new photo to facebook httptcojyjkwbkd
+268133858912911361	socialmedia	check out staples windows 8 giveaway 8waseasy httpstcoj3vs36eu
+268133839354880000	socialmedia	please like my fanpage httptcoebkip0wk effortless walking for fun and httptcotzeq82ss
+268133838398578688	socialmedia	please like my fanpage httptcoebkip0wk homemade chocolate ideas for httptcoe2xbtpx0
+268133834724347904	socialmedia	log onto facebooksturn on chatssee whos onlinesturn off chat
+268133826922958850	socialmedia	facebookspeople i know and hate twitterspeople i love and wish i knew
+268133826377682944	socialmedia	rt cricketnation round 2 of the muvefirst artist challenge starts today who are you voting for httptcogzlwxf7j muvemusic
+268133822552498178	socialmedia	rt jmgstudios friend fish has reached 170 people that like our page a big thank you from us at jmg studio and our fish friends httptcofuahdeek
+268133819507437568	socialmedia	i posted a new photo to facebook httptcon9bng7lh
+268133814046433282	socialmedia	need help setting up your facebook fan page let us help you email rozayswayyahoocom for more information
+268133793213341696	socialmedia	rayzorback jennchelle that would freak me out a little if i used facebook of course b
+268133778084483072	socialmedia	i posted a new photo to facebook httptcoj4lczdom
+268133776054439936	socialmedia	rt g0dsavethepunk my favourite part in the bible is where it says you have to share every single christian picture on facebook to get into heaven
+268133772367630336	socialmedia	rt hollywoodwh0res if you spend more time on facebook than on twitter youre fucked in the head
+268133765593833472	socialmedia	rt prodogsdirect rt natcas pls rt free dog microchipshealth check at celia hammond lewisham branch sat 10th nov 12 4pm httptco8dijnjqy
+268133754059497473	socialmedia	rt theknot president barackobama knows how to put a ring on itshttptcosqbuqwak
+268133737462644736	socialmedia	rt lindtchocolate lindtbear is giving away hundreds of incredible prizes starting now win a lindtbear gift basket httptcoq2lyu4rp
+268133732144275458	socialmedia	facebooks couples pages irk some are you in a relationship on facebook if so you might wish to go to this httptco1ax5x9bl
+268133731859062784	socialmedia	news facebooks couples pages irk some httptco5d3g2hnx cnn
+268133730592362496	socialmedia	murryderp i am signed into facebook on 3 devices 6 apps and 5 browsers if im not showing up as online youve got a personal problem
+268133729468297217	socialmedia	rt teamrunner4life what color long sleeve runner 4 life shirt would you like next vote here httptcowasxrt1xsvoteshave chance to win free shirt
+268133719263567872	socialmedia	cnn news media facebooks couples pages irk some are you in a relationship on facebook ifshttptcopnbhreig covvha news
+268133710602330112	socialmedia	rt teamrunner4life what color long sleeve runner 4 life shirt would you like next vote here httptcowasxrt1xsvoteshave chance to win free shirt
+268133702922547200	socialmedia	hardy104 hardy hope this is the right one im eugene from the facebook forum
+268133702373109762	socialmedia	round 2 of the muvefirst artist challenge starts today who are you voting for httptcogzlwxf7j muvemusic
+268133702117257216	socialmedia	rt hollywoodwh0res if you spend more time on facebook than on twitter youre fucked in the head
+268133692092866560	socialmedia	are you in a relationship on facebook if so you might wish to go to this link httptcofmhucq3ashttptcook6n88ph sikwidityo
+268133685763649536	socialmedia	facebooks couples pages irk some are you in a relationship on facebook if so you might wish to go to this httptcopdjpsuac
+268133679145029632	socialmedia	support by checking outsliking the new like page now httptcocximj6hl 6deepent freshagotthekush rt 6
+268133678406836225	socialmedia	support by checking outsliking the new like page now httptco5wbmkqlc 6deepent freshagotthekush rt 6
+268133676028682240	socialmedia	i posted a new photo to facebook httptcowpkphigt
+268133675995127808	socialmedia	rt nutrasenseco generation yers are taking glucosamine not only to maintain healthy jointssother tissues but 59 take it to httptcojswzesp5
+268133673847644162	socialmedia	facebooks couples pages irk some are you in a relationship on facebook if so you might wish to go to this httptcovwglzzit
+268133666444685312	socialmedia	all my reddit links are read no tweets to read and even facebook has been refreshed too many times class will be boring
+268133650414071809	socialmedia	follow our page on facebook for home decor ideas and much more httptconwpqdjxs
+268133644651073536	socialmedia	total defense provides details about facebook antivirus marketplace offeringsallfacebook total defense provid httptcosxkumg6x
+268133638258954240	socialmedia	like us on facebook httptcosegst10w lb50
+268133637818552320	socialmedia	why poke me on facebook im not tickle me elmo
+268133625051103233	socialmedia	rt g0dsavethepunk my favourite part in the bible is where it says you have to share every single christian picture on facebook to get into heaven
+268133622651944960	socialmedia	rt veryrudetweets just saw an ad on facebook saying are you justin biebers dream girl well seeing as i have a cock i would say yes
+268133617828499456	socialmedia	profile defenders facebooks couples pages irk some are you in a relationship on facebook if so you might wsbest reputation co
+268133591073050624	socialmedia	i posted 2 photos on facebook in the album wall photos httptcojkjqpc2g
+268133580763459584	socialmedia	rt metcouncilnews met council and mnpca annouce improved quality on mn river photo album from this mornings event at httptcovofm8ocr
+268133575528947712	socialmedia	rt bonnie67 facebooksdoes it measure up for brand building httptco6lpppenl via bowden2bowden
+268133573553438720	socialmedia	facebooks couples pages irk some are you in a relationship on facebook if so you might wish to go to this httptco2eonuba5
+268133565701689345	socialmedia	rt teamrunner4life what color long sleeve runner 4 life shirt would you like next vote here httptcowasxrt1xsvoteshave chance to win free shirt
+268133563499692033	socialmedia	tyfiswag go on facebook god damn
+268133531992064000	socialmedia	rt typhoonmg check it and enjoy typhoon music groupssunsetblvd riddim reggae fusion must get hotshttpstcovb4mbcae like us on facebook
+268133521464373249	socialmedia	facebook tests ranked comments to boost engagement facebook is testing a new comments format on brand and subs httptcotp6ua3ez
+268133513738461185	socialmedia	woke up and got a notification from facebook that my boss added me awesome
+268133511632912384	socialmedia	facebook tests ranked comments to boost engagement facebook is testing a new comments format on brand and subs httptcokf6akpbu
+268133505890922496	socialmedia	facebooks couples pages irk some are you in a relationship on facebook if so you might wish to go to this httptcoxlskjgsg
+268133503751819264	socialmedia	rt kgynradio aggies open basketball season with 14363 blowoutsby daulton perry goodwell oklasthe opsu mens basketball httptcoikpf6582
+268133503701504000	socialmedia	facebooks couples pages irk some are you in a relationship on facebook if so you might wish to go to this httptcothcwb3ai
+268133502753595392	socialmedia	rt teamrunner4life what color long sleeve runner 4 life shirt would you like next vote here httptcowasxrt1xsvoteshave chance to win free shirt
+268133495249973250	socialmedia	i posted a new photo to facebook httptcokm9skohl
+268133491458318336	socialmedia	facebooks couples pages irk some are you in a relationship on facebook if so you might wish to go to this httptcogevq4bv3
+268133482050506752	socialmedia	i posted a new photo to facebook httptcoew2bnrxf
+268133479429062656	socialmedia	lets not make facebook black
+268133477168332800	socialmedia	rt teamrunner4life what color long sleeve runner 4 life shirt would you like next vote here httptcowasxrt1xsvoteshave chance to win free shirt
+268133470100938754	socialmedia	i posted a new photo to facebook httptcovqxkd1tv
+268133464170172416	socialmedia	facebooks couples pages irk some are you in a relationship on facebook if so you might wish to go to this httptcoorlx7x7a
+268133451771809792	socialmedia	rt g0dsavethepunk my favourite part in the bible is where it says you have to share every single christian picture on facebook to get into heaven
+268133450601603075	socialmedia	rt g0dsavethepunk my favourite part in the bible is where it says you have to share every single christian picture on facebook to get into heaven
+268133441969741826	socialmedia	authorthedragon thanks for the followsvisit me at httpstcodwolu0qp
+268133435380473857	socialmedia	rt midiowarollers1 only 6 more days until our boot campssbring it girls httptcomlq3tovu
+268133431324598274	socialmedia	mariabartiromotv some irked by facebooks new pages for couplesscnn httptco9azhapsm
+268133431051968512	socialmedia	rt cafevelobikes the next 3 sworks bikes we sell will include a complementary cafe velo racing kit jersey and shortbib valued httptcowqnisejc
+268133422654971905	socialmedia	no way i totally want the all new black facebook soundsawesome
+268133416099274754	socialmedia	facebook tests ranked comments to boost engagementsfacebook is testing a new comments format on brand and subscrib httptcoz22pvwjt
+268133391512240128	socialmedia	darriennicole26 50shadez0fgrace its 100000x better then facebook
+268133390379794432	socialmedia	rt prodogsdirect rt natcas pls rt free dog microchipshealth check at celia hammond lewisham branch sat 10th nov 12 4pm httptco8dijnjqy
+268133385334030337	socialmedia	people unliking romney on facebook
+268133383157215232	socialmedia	i posted 27 photos on facebook in the album 2012 serving up hope luncheon httptcojokvvedk
+268133376379207680	socialmedia	rt jessislost need a chrome app that makes my laptop give me an electric shock when i go on reddit or facebook instead of writing
+268133351968342016	socialmedia	rt veryrudetweets just saw an ad on facebook saying are you justin biebers dream girl well seeing as i have a cock i would say yes
+268133341251919872	socialmedia	facebooks couples pages irk some are you in a relationship on facebook if so you might wish to go to this httptcodmfhnqr5
+268133335824465921	socialmedia	rt g0dsavethepunk my favourite part in the bible is where it says you have to share every single christian picture on facebook to get into heaven
+268133334268387328	socialmedia	facebooks couples pages irk some are you in a relationship on facebook if so you might wish to go to this httptco4tghnezy
+268133332712308736	socialmedia	stupid stupid facebook
+268133321102479360	socialmedia	rt kcmetropro just addedach will be defending his central states championship on dec 8 againstssanta claus santa httptcoqodamsjl
+268133314756476928	socialmedia	rt goldiec nancy was looking around in a jade habitat and found some extra animal feed grab some before its gone httpstcostzmad69 farmville
+268133313129086976	socialmedia	rt leejeansus last day submit your fan photo to enter to win a 50 flat screen tv grill tailgate bar and more httptco4d7pdh1z
+268133307181584384	socialmedia	i posted a new photo to facebook httptconylv32es
+268133305893928960	socialmedia	i posted a new photo to facebook httptcowvfavxie
+268133303347998721	socialmedia	rt arrg happy veterans day thank you to all those who have served our countryswe send a special thank you to our very httptcotz7fhoty
+268133283668324352	socialmedia	rt hollywoodwh0res if you spend more time on facebook than on twitter youre fucked in the head
+268133270296854528	socialmedia	my favourite part in the bible is where it says you have to share every single christian picture on facebook to get into heaven
+268133268463943680	socialmedia	facebooks couples pages irk some httptcofsnkudga
+268133267109183488	socialmedia	so many people complaining about the dumbest things on facebook realize what the important things in life are and be happy
+268133240940924930	socialmedia	facebooks couples pages irk some are you in a relationship on facebook if so you might wish to go to this httptcoopbuza0u
+268133234234257409	socialmedia	last day submit your fan photo to enter to win a 50 flat screen tv grill tailgate bar and more httptco4d7pdh1z
+268133223878496256	socialmedia	nancy was looking around in a jade habitat and found some extra animal feed grab some before its gone httpstcostzmad69 farmville
+268133220321751041	socialmedia	connected my twitter to facebooks yeaa lolsim soo lame
+268133217570275328	socialmedia	some irked by facebooks new pages for couples what do you think httptcosy6w70ln
+268133211178143744	socialmedia	if you spend more time on facebook than on twitter youre fucked in the head
+268133207784968193	socialmedia	facebooks couples pages irk some are you in a relationship on facebook if so you might wish to go to this httptcoyuavmngt
+268133180287094784	socialmedia	i posted a new photo to facebook httptcozpychdnl
+268133171399368704	socialmedia	my mom uses facebook like your 5th grade myspace page but for old people
+268133155364556800	socialmedia	rt kslcom do you play fb games do you save strangers lives while playing said gamesshttptco0iygsl5n
+268133154433409024	socialmedia	rt mylifelineorg check out this cancer infographic we found on pinterest there is so much we can do to prevent cancer see more at httptcobciigshp
+268133137068998656	socialmedia	rt mollyloves1d realliampayne liam my mom says facebook and twitter with a british accent now because if you guys lolsxxx
+268133132153266177	socialmedia	rt teamrunner4life what color long sleeve runner 4 life shirt would you like next vote here httptcowasxrt1xsvoteshave chance to win free shirt
+268133121029971969	socialmedia	dutch jailed over facebook murder how can a company be murdered and dutch what bbcnews bbcworldsnonsensicalheadlines
+268133111865417728	socialmedia	checked in at mountain bike trails camp robinson httptcorhbplm5v
+268133100675031041	socialmedia	esegueybambi people that still be putting tbh on faysbusfacebook
+268133091850194944	socialmedia	rt zjpotterr no matter what the colour of facebook is its still shit
+268133089606246401	socialmedia	i remember before the summer this guy messaged me on facebooksasked if i was dtfssent the locationlmao what a cunt
+268133079552495616	socialmedia	i posted a new photo to facebook httptcoaydebmcx
+268133066747281408	socialmedia	rt timmydahitman hoes need to mind they businesssthough i put my business out publicly through twittersfacebook i still expect to be private
+268133052813824000	socialmedia	i posted a new photo to facebook httptcoghrrc58y
+268133045469581312	socialmedia	sabritas602 what did youswant to tell me sorry i cant reply on facebook dm me tho
+268133042520985600	socialmedia	haroldsays hey harold were following we pray you enjoy our tweets and facebook page posts god bless
+268133041220759553	socialmedia	dang facebook and twitter dead
+268133024217038848	socialmedia	i posted a new photo to facebook httptcoc5gffnio
+268133007855058944	socialmedia	easy rt msouthfoodbank like first tennessee on facebookstheyll donate 1 to food banks across tn up to 2500 httptco972li4oi
+268132955426263040	socialmedia	facebook tests ranked comments to boost engagementsfacebook is testing a new comments format on brand and subscrib httptcoutyrwcre
+268132938091225089	socialmedia	colorado mental wellness network is now on facebooksplease click the link take a look at their new page and httptcoqhvldswc
+268132927198597120	socialmedia	rt teamrunner4life what color long sleeve runner 4 life shirt would you like next vote here httptcowasxrt1xsvoteshave chance to win free shirt
+268132905883164672	socialmedia	ill pay 13 a week to update all my social media sweetdeal rt mallorykregle i just wanna twitter and facebook for a living
+268132899075792896	socialmedia	colorado mental wellness network is now on facebooksplease click the link take a look at their new page and httptcosymeuckt
+268132885083586560	socialmedia	nice but then sad this facebook all link lets you see an almost unfiltered news feed but it might get shut down httptcobxhcpzio
+268132877001191424	socialmedia	rt jonniblake shitnobodysays im so glad facebook recommended that i be your friend not true brittguss
+268132853794095105	socialmedia	i posted a new photo to facebook httptcodaxga80t
+268132846105939969	socialmedia	winners have a thousand fathers losers are an orphan httptcoxnubbupy right looneyonfoxsgobama
+268132844734398464	socialmedia	mfs keep posting stats on facebook asking who is the best artist in omaha even tho i was mentioned i wish people will stfu n let us work
+268132836207374336	socialmedia	people unliking romney on facebookscnnshttptcocnqk09x7
+268132814162124800	socialmedia	monday evening algebra i can see already the improvement of the math skills of httptcowwbq1tkx
+268132805249208321	socialmedia	rt teamrunner4life what color long sleeve runner 4 life shirt would you like next vote here httptcowasxrt1xsvoteshave chance to win free shirt
+268132743496466433	socialmedia	haleyrudish about changing the color of facebook
+268132741101518849	socialmedia	growth the like to your facebook pages not very difficult httpstco3jjzdipd
+268132738249420800	socialmedia	i give up with facebook the people on it are so unbelievable its ridiculous
+268132736814944256	socialmedia	sassafrasstic i didnt know there was a contest i just kept looking when i passed on broadway but they updated facebook today
+268132730938736641	socialmedia	jrodrigucb thanks for the follow love your background visit me at httpstcodwolu0qp
+268132730225700864	socialmedia	rah back on facebook loool
+268132715461750784	socialmedia	rt teamrunner4life what color long sleeve runner 4 life shirt would you like next vote here httptcowasxrt1xsvoteshave chance to win free shirt
+268132708398555137	socialmedia	rt teamrunner4life what color long sleeve runner 4 life shirt would you like next vote here httptcowasxrt1xsvoteshave chance to win free shirt
+268132673283817472	socialmedia	giving these away for free on facebook right now httptcom5c0kxym
+268132672382050304	socialmedia	i posted a new photo to facebook httptcou6kxba9m
+268132662810660864	socialmedia	rt teamrunner4life what color long sleeve runner 4 life shirt would you like next vote here httptcowasxrt1xsvoteshave chance to win free shirt
+268132649904783361	socialmedia	rt thefunnysexist nothing screams stalker more than accidentally putting a girls name as your facebook status when it was meant for the search bar
+268132645517524992	socialmedia	rt arizonasundogs chipchura named oakley player of the weekschipchura finished the week with 2 goals and 6 assistssread more at httptcot2hmfcln
+268132636919222274	socialmedia	rt filmsforaction blue gold world water wars 2008 documentary httptcon22cxbkv
+268132631785398272	socialmedia	having a documentary film done on us so we need everyone to write us on here or fbshttptco4eotbf0h with what they think of us
+268132630829101056	socialmedia	retweet whores are just as bad as like whores keep it on facebook turd
+268132589418708992	socialmedia	nice lol rt evemlh facebook promoted posts r like sororities youre just paying 4 people 2 like u its okay i was a sorority girl
+268132584641400833	socialmedia	have you filled out your naborsshoes christmas wish list yetshttptcoqqvl0ab4
+268132580950417408	socialmedia	hoes need to mind they businesssthough i put my business out publicly through twittersfacebook i still expect to be private
+268132564651352064	socialmedia	ive got a friend who uses facebook to do sunday shoutouts and motivation mondays to recognize his team great way to use social media
+268132560519979008	socialmedia	bafbtslel aasaf al shadded 3ashan kedda fe nas still using facebook wa ana menhom p
+268132548419411968	socialmedia	i posted a new photo to facebook httptcoqfcfkpns
+268132541037424644	socialmedia	rt womenshumor im the james bond of facebook stalking
+268132537690386432	socialmedia	rt teamrunner4life what color long sleeve runner 4 life shirt would you like next vote here httptcowasxrt1xsvoteshave chance to win free shirt
+268132527749885952	socialmedia	when your grandma calls you because your cousin forgot to log out of facebook and she doesnt know how to log outslmao
+268132526558703616	socialmedia	i wish i could retweet things on facebook
+268132509613690881	socialmedia	are you a fan of ours on ff httptcokpwqua9j
+268132494946230272	socialmedia	foxyroxy95 thanks for the follow join us for live after 5 at httpstcob49vkkoz
+268132465435103232	socialmedia	hashtags are supposed to be used on twitter not facebook lol
+268132455008071682	socialmedia	recordlabelar thanks for the follow join us for live after 5 at httpstcob49vkkoz
+268132452554379265	socialmedia	the arctic circle is looking snowy and dark but our signature yellow wailer 112s are glowing through the powshttpstcorxxusryh
+268132427413737474	socialmedia	i posted a new photo to facebook httptcodrmpuw1z
+268132423244587011	socialmedia	the amount of facebook notifications ive gotten todaysleavemealone
+268132417678757888	socialmedia	paulcbrunson thanks for the follow join us for live after 5 at httpstcob49vkkoz
+268132408866533376	socialmedia	rt mashable facebook tests ranked comments to boost engagement httptcotcap12l2
+268132408044429313	socialmedia	facebook httptcoiyaw4lij
+268132404051468289	socialmedia	rt womenshumor im the james bond of facebook stalking
+268132380517228547	socialmedia	facebook post forwarded by mizzbucio from amazing facts on facebookcont httptco5rrlmw5b httptcocwuijvjl
+268132374615838722	socialmedia	heres what your raw unfiltered facebook feed looks like httptcoawhwd3bp httptco7oqb1ju9
+268132367238066176	socialmedia	hey everyone meteorologist kevin lighty here attention kspr weather fansfacebook now requires us to pay to httptcoojcrutbt
+268132363547078658	socialmedia	rt jackieegray fuck twitter facebook skype texting and phone calls nothing compares to actually spending a day with someone
+268132357368852481	socialmedia	whats that you say car salesman fired for facebook comments httptcopwd2bmlk via kathikruse
+268132353333948416	socialmedia	youngtmann305 thanks for the follow join us for live after 5 at httpstcob49vkkoz
+268132348355297281	socialmedia	i posted a new photo to facebook httptcoatqphclj
+268132335894020097	socialmedia	rt jasonevert jesus has made himself the bread of life to give us life night and day he is there if you really want to grow httptcogaqvou14
+268132318621859840	socialmedia	people 39unliking39 romney on facebook httptcojcjmgzl4
+268132316029792256	socialmedia	rt kjigggg theres a special place in hell for the people who use hashtags on facebook
+268132311437017088	socialmedia	kuntryciti thanks for the follow join us for live after 5 at httpstcob49vkkoz
+268132301249064960	socialmedia	facebook tests ranked comments to boost engagement httptcou2odgayk
+268132290247409665	socialmedia	i posted a new photo to facebook httptcoqfov3sfz
+268132278364942336	socialmedia	i still love you by nextsim playing songpop httptco4jnx2kgl
+268132271695990784	socialmedia	authorprt thanks for the follow join us for live after 5 at httpstcob49vkkoz
+268132225491554304	socialmedia	check out our events facebook tab to see if there is a xikar event near you left in 2012 httptcocaspdvg8 x4l
+268132223792852992	socialmedia	im so sick of seeing boys on facebook post lms for 10 prettiest girls to like this no youre shallow goodbye
+268132214741549058	socialmedia	cinnamonbun92 thanks for the follow join us for live after 5 at httpstcob49vkkoz
+268132179689754625	socialmedia	rt upadownamtnmama tonight we are showing a great film city rock for free come down and celebrate monday madness with us pot luck httptcov0r3rps5
+268132173117272064	socialmedia	kristinachan thanks for the follow join us for live after 5 at httpstcob49vkkoz
+268132169694736384	socialmedia	i posted 13 photos on facebook in the album 2013 seasons of our mountains calendar winners httptcougdizuza
+268132139344736256	socialmedia	the forgotten all link on facebook httptcor9vadb3x to see all news on your feed if you like that kind of thing
+268132138715607041	socialmedia	if i get another invite to modify your facebook colour i will put a tooth pick under there big toe and make them kick a wall
+268132127248367616	socialmedia	jbleasy thanks for the follow join us for live after 5 at httpstcob49vkkoz
+268132120537485312	socialmedia	add me httptcoyxnk7r4v
+268132112585093120	socialmedia	i have a new facebook art page at httptcobnroctjh im phasing out my other one because of my name change
+268132111939170306	socialmedia	i posted a new photo to facebook httptcoehesdcx7
+268132104733351938	socialmedia	check out our facebook page to get a preview of some changes that are coming were excited about the new look httptcofcwq6dxm
+268132091097653250	socialmedia	rt iamrudeint wondering what we all did w our feelings before twitter facebook lol
+268132083669532672	socialmedia	fujiharakedsn1 thanks for the follow join us for live after 5 at httpstcob49vkkoz
+268132078195974145	socialmedia	rt greeleytribune and now good news for fans of greeleys kress cinema the kress cinema and lounge will remain open after httptco3spgb2hw
+268132076107202560	socialmedia	oru alum jared anderson would like to give you a free copy of his song impossible possibleshttptcob7wmcqar
+268132073276059650	socialmedia	people unliking romney on facebookscnnssunheraldcompeople 39unliking39 romney on facebookcnnthe formershttptcoh6crc45w
+268132059166425089	socialmedia	i posted a new photo to facebook httptcox6pado9l
+268132038232637442	socialmedia	i posted a new photo to facebook httptcorzssipwd
+268132032033484801	socialmedia	christiioannidi thanks for the follow join us for live after 5 at httpstcob49vkkoz
+268132023900725248	socialmedia	i think there are other websites besides facebook that can sue and claim they invented the ability for one to like ones self
+268132019647676416	socialmedia	rt inkdmilitant ask the fans give me your opinionsfeedback on this tshirt design tattoossonetwos inkdmilitant httptco0bxunfla
+268132017244340224	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268132003130507264	socialmedia	facebook tests ranked comments to boost engagement httptcoksamcjrb
+268131999326302209	socialmedia	what color long sleeve runner 4 life shirt would you like next vote here httptcowasxrt1xsvoteshave chance to win free shirt
+268131989415145472	socialmedia	lavernkaushiva9 thanks for the follow join us for live after 5 at httpstcob49vkkoz
+268131987565461504	socialmedia	laceygretsinger hahah i was making fun of facebook swear
+268131984923049984	socialmedia	get on facebook for like a minute and instantly see something that feels like a punch to the stomach
+268131979084570624	socialmedia	local art from cancun to the world httptcogodskfjw cancuncvb cancunforos cancunissafe cancuncanuck buyplaya mayanexplore
+268131972793122816	socialmedia	rt skinnyskis usually skis are expensive to ship but not right now through the end of november get free shipping on any order httptcoyz93if5t
+268131971048288256	socialmedia	aziawashington hold on ima share stay on my page on facebook
+268131969483825152	socialmedia	rt managementbrad cccdynapro hi tim ty for the rt i just got on facebook i hope you like me at httptcoka0ovdiq
+268131966480687105	socialmedia	rt shawnpvasfacebooksdeads
+268131958264041472	socialmedia	third dagree voted on baseball money ft blacknaturalzsssbl httptcocotyp0yw
+268131938215272448	socialmedia	i just entered the kmtv action 3 news free and clear contest and could win mortgage or rent for a yearshttptcomarzmih2
+268131915557638144	socialmedia	dear people on facebookyou really dont need to post that it snowed i know how to use a window
+268131902551105536	socialmedia	rt lindtchocolate lindtbear is giving away hundreds of incredible prizes starting now win a lindtbear gift basket httptcoq2lyu4rp
+268131887652941824	socialmedia	art painting likemypage httptco7tgcwivy
+268131884104560640	socialmedia	i posted a new photo to facebook httptcouti58pve
+268131877427232769	socialmedia	pretty upset that facebook finally forced me to move to the stupid timeline layout for my profile page fb stupidfacebook facebooksucks
+268131872696057856	socialmedia	tonnymawardi thanks for the follow join us for live after 5 at httpstcob49vkkoz
+268131866962436096	socialmedia	rt mikescamera mikes camera is growing and we are really excitedsso excited were giving away 5 different shopping spreeshttptcoj8ehb9xp
+268131857076477953	socialmedia	rt repubgrlprobs remember chickfila appreciation day its time again join rebootusa for papa johns appreciation day on the 16th httptcodhkujbgu
+268131844598398976	socialmedia	i posted a new photo to facebook httptcomfzeh8px
+268131836964794368	socialmedia	when a dude likes my status on facebook it means they think its cool but when a chick likes my status its an entirely different thing
+268131828685238272	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268131826357395457	socialmedia	join us on facebook too httptcoahudb4lksnorthway
+268131795994828800	socialmedia	rt prodogsdirect rt natcas pls rt free dog microchipshealth check at celia hammond lewisham branch sat 10th nov 12 4pm httptco8dijnjqy
+268131768270479360	socialmedia	rt erikallen racism doesnt belong on twitter and facebook it belongs in your stupid brain and in jokes that make people feel uncomfortable
+268131755729514496	socialmedia	i posted a new photo to facebook httptcocazu2sjk
+268131751249989632	socialmedia	rt benatgeo facebook is the 3 most visited site by people over age 65sfastest growing fb demographic is women 5565 hcic12
+268131751048650752	socialmedia	kenzspiering put that on facebook that was a fun night round 2 soon
+268131747487698944	socialmedia	people unliking romney on facebook httptco1q1tbrz0 krdo
+268131746023870464	socialmedia	weve updated our glutenfree menu check it out here httptcoxtcm7otp
+268131745369571329	socialmedia	third dagree voted on straight talk httptcomogdiohq
+268131723550801920	socialmedia	rt dogladymex what an absolutely fantastic clinicseveryone was incredible and did their part and then more than thatsour httptcos3bcpnbf
+268131676448755712	socialmedia	that last tweet was bought to you by facebook stalking pretty people gay ass tweet but we all do it cryingintomyfaketancannister
+268131662867607552	socialmedia	i posted a new photo to facebook httptcov51rnkpo
+268131652746756096	socialmedia	i posted a new photo to facebook httptcompdho0zo
+268131651501043713	socialmedia	rt facecrooks 15yearold molester has right to use facebook other social media sites httptcozdlg5khy
+268131641879306240	socialmedia	third dagree voted on love like you httptcoxstagdg8
+268131637315923969	socialmedia	the url for this page is now httpstcoyyrcxlar instead of the longer one you get when you first httptco8kl51exj
+268131634744807424	socialmedia	powerof facebookrss facebook hit teen couple jailed for hiring 14yo hitman to kill girlsthe australian rtfa httptcovazhvsh8
+268131633671069696	socialmedia	powerof facebookrss some irked by facebooks new pages for couplesscnn telegraphcouksome irked by facebook httptcojk5xknqc
+268131622979764225	socialmedia	like philperry httptcos2ciwbby
+268131616486989824	socialmedia	realliampayne liam my mom says facebook and twitter with a british accent now because if you guys lolsxxx
+268131614062686208	socialmedia	i posted a new photo to facebook httptcojudbxesi
+268131611650965504	socialmedia	mitt romneys facebook page is losing fans by the minute httptcoebciecp6
+268131607632826369	socialmedia	people keep inviting me to this facebook has a new color event aint nobody care all about twitter
+268131589744107520	socialmedia	its teen movie night at the library in mount vernon and blockbuster hit the avengers is showing at 630pm httptcoxvinahhf
+268131580302729216	socialmedia	no matter what the colour of facebook is its still shit
+268131576741756928	socialmedia	rt kgynradio aggies open basketball season with 14363 blowoutsby daulton perry goodwell oklasthe opsu mens basketball httptcoikpf6582
+268131567250059264	socialmedia	i posted a new photo to facebook httptcocbbvlryd
+268131564968370176	socialmedia	its awkward having facebook and never writing status lol
+268131556617494528	socialmedia	everything major ft mack tone bone httptcojfzjfzh1
+268131528033312768	socialmedia	rt veryrudetweets just saw an ad on facebook saying are you justin biebers dream girl well seeing as i have a cock i would say yes
+268131524614950913	socialmedia	i posted 42 photos on facebook in the albumshttptcomz0pyaxu
+268131519359508480	socialmedia	my facebook is colourful hahah3
+268131496978677760	socialmedia	rt georgehouse why do people put kisses at the end of facebook statuses its just stupid
+268131488036421632	socialmedia	telecommute position available 1 openings must know twitterfacebookhow to blogplease give us a callshttptco1ugs7veh
+268131482567049216	socialmedia	play share retweet weweorking third dagree voted on say what ft dj fatality httptcocph8xcsz
+268131426212380672	socialmedia	i posted a new photo to facebook httptcoo1p3t6dx
+268131404037120001	socialmedia	she blocked me on here and deleted me off facebook
+268131391575818241	socialmedia	accidentally busted my ten year old sister with a facebook oops
+268131317944811521	socialmedia	rt thefunnysexist nothing screams stalker more than accidentally putting a girls name as your facebook status when it was meant for the search bar
+268131312790040577	socialmedia	deleting all my family off of facebook is probably the smartest decision ive ever made this year snapsforme
+268131304497885185	socialmedia	rt paigesmithh if your middle name on facebook is something stupid like imadime or your whole name is along the lines of lill kay im deleting you
+268131303801622528	socialmedia	httptcodkitqqeh find niche specific facebook groups and linkedin groups to share your blog blogging series day 3 wow wh
+268131295211687936	socialmedia	rt emerylanee facebook has told me to 69 other people what a whore fb has become xd httptcoqw2fewyg
+268131291029966850	socialmedia	rt jasonevert jesus has made himself the bread of life to give us life night and day he is there if you really want to grow httptcogaqvou14
+268131285346693120	socialmedia	rt optimuskleinksu read what a true kstate fan had to say about espn and their coverage of kstate httptcoskufyx7m httptcodgmjlhjw
+268131281894797313	socialmedia	i posted 8 photos on facebook in the album november 2012 httptco9ewtbnql
+268131281475346433	socialmedia	i swear my phone is always dead abused itexttoomuch facebook twitter
+268131275888549889	socialmedia	photosfollow me at facebook httptcoajges2pu tumblr httptcoop77iekr
+268131259228749825	socialmedia	i posted a new photo to facebook httptcoejsgilgx
+268131257685262336	socialmedia	rt georgehouse why do people put kisses at the end of facebook statuses its just stupid
+268131255525208064	socialmedia	rt danmarsala hey stl ill be partyingdjing at dannos pub again tonight filling in for tylerkonersman while hes out of town httptcob112yuhg
+268131223795273728	socialmedia	i posted a new photo to facebook httptconngq7wbl
+268131192187023360	socialmedia	hey codytubbs interested in designer sunglasses were giving away 3 free pairs enter to win on out facebook page
+268131167818088448	socialmedia	did you know that travelerfun has a facebookslike our page for exclusive insight and fun information httptcoey8a8tsi
+268131156602544128	socialmedia	i hate it when people post all their messy life problems on facebook 90 of the people on you friends list dont care
+268131149883260928	socialmedia	rt googlemy bitch get on your facebook
+268131099744550912	socialmedia	rt threadtees weve been sayin it all along its about time the bcs agreed itsofficial gostate httptco6nsxbdfq
+268131095952887808	socialmedia	do you ever just look back on past profile pictures and think to yourself why did i allow myself to post this on facebook
+268131077212753920	socialmedia	this facebook all link lets you see an almost unfiltered news feed but it might get shut down httptcoraa6jmex
+268131075073667073	socialmedia	i posted a new photo to facebook httptcog6vjkowd
+268131065888112640	socialmedia	chelshtfcxx i swear i used to talk to you loads of facebook a x
+268131063933579266	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268131058560675840	socialmedia	rt arianatorsisi btrusher100 httpstcok1frbmrz please like and share
+268131042756530176	socialmedia	facebook httptcofx7q55sn
+268131026730110977	socialmedia	rt georgehouse why do people put kisses at the end of facebook statuses its just stupid
+268131025639583745	socialmedia	taniacasselle thanks for following us have a great week check out our facebook page for more great information on acting
+268131024247062528	socialmedia	i posted 7 photos on facebook in the album neve 2012 retail spotlightssfind neve today at these locations httptcosbpdxozk
+268131010443612161	socialmedia	rt shawnpvasfacebooksdeads
+268131008669429760	socialmedia	rt jadeellen123 fu facebook chat
+268130998317875200	socialmedia	enter our facebook my favorite memory contest to win an awesome brunch for 2 at rainbow chineseshttptco7mzp2lue
+268130977694486529	socialmedia	rt womenshumor im the james bond of facebook stalking
+268130942655275008	socialmedia	rt newbeautyreview rt pop up giveaway the next 10 ppl to follow my twitter will be automatically entered to win httptcoctmu9xlm
+268130941032087552	socialmedia	trying to put together the website facebook page and twitter feed simultaneously brain may explode shortly
+268130940201623552	socialmedia	rt dogsofindepmo special adoption price tomorrow 11am6pm all dogs will be just 60 fully vetted all cats will be just 50 httptcom09x1qhb
+268130935923412994	socialmedia	i just entered to be the ksdknews fan of the dayswin 4 tickets to winter wonderlandsmore click here to enter httptcozz28bvzl
+268130913865576448	socialmedia	rtmen are your women jealous when you go out with the boys chat live now at httpstcob49vkkoz
+268130910518530048	socialmedia	why do people put kisses at the end of facebook statuses its just stupid
+268130903241420800	socialmedia	thanks for the ht newscutswatch mitt romneys facebook likes decrease in real time httptcoq6yf0wdj
+268130891409289216	socialmedia	rt danmarsala hey stl ill be partyingdjing at dannos pub again tonight filling in for tylerkonersman while hes out of town httptcob112yuhg
+268130890369077250	socialmedia	kyliewheeler14 you rock kylie you can show your support on fb httptcooww7bcap
+268130889945477120	socialmedia	my current facebook rant im so mad i could cry respect your military personnel thanks httptcozaw9pruw
+268130878625034240	socialmedia	ruthieowen1 you rock ruthie you can show your support on fb httptcooww7bcap
+268130875592548352	socialmedia	kids facebook plea for a pet gets 110000 likes new catshttptcoermegbq0 httptcoik8bqwan via fcn2go
+268130875458338817	socialmedia	hard bodyshow me yourgymfacehttptcojriue4onhttptco9og5wecw httptconjot0tbe
+268130869926064128	socialmedia	rt thefunnysexist what did girls do with a 174 picture photo album of a night out before facebook
+268130864452493313	socialmedia	rt shawnpvasfacebooksdeads
+268130859100540928	socialmedia	rt shawnpvasfacebooksdeads
+268130858572058625	socialmedia	rt thegranada 3 days away asherroth w kidsthesedays chuckisdope joshsallee chasecompton785smatteastonmusic more info here httptcodlfl7xju
+268130839211155457	socialmedia	httpstcob0obalif check them out if ur in the areagreat bandawesome dudesdont miss out
+268130823847424001	socialmedia	check it and enjoy typhoon music groupssunsetblvd riddim reggae fusion must get hotshttpstcovb4mbcae like us on facebook
+268130821284716545	socialmedia	rt shawnpvasfacebooksdeads
+268130811633610752	socialmedia	rt cizzledizzle got that redemption cover on my fb check it out httptcoq1guuvcd kidred followback
+268130802708119552	socialmedia	rt prodogsdirect rt natcas pls rt free dog microchipshealth check at celia hammond lewisham branch sat 10th nov 12 4pm httptco8dijnjqy
+268130789504462850	socialmedia	rt fc3haiti visit our new blog httptcoflzi0vmd
+268130786534891521	socialmedia	rt magpulhq coming soon what happens to gen m3 pmags left to soak in an assortment of chemicals worthy of any httptcodoiwhyew
+268130771418619904	socialmedia	the ugly picture war im involved in on facebook
+268130761708810240	socialmedia	rt prorodeoonline ragatz right at home in the bluegrass state steer wrestler jon ragatz won his fourth ram great lakes circuit httptcosatfekkf
+268130754247143424	socialmedia	rt reecebond95 anyone with a middle name on facebook that isnt actually their real middle name is an absolute roaster
+268130753198563330	socialmedia	rt caseykim12 anglinbrooke madaxxman here it is httpstcob8j56k8b
+268130753097904128	socialmedia	i posted a new photo to facebook httptcoetciivqq
+268130721896472578	socialmedia	we can stop gop congressional obstruction plz like our facebook page httptcoj5sdv74g aliberal4compromise
+268130715881832448	socialmedia	rt newscut watch mitt romneys facebook likes decrease in real time httptcofzounytd
+268130708432748544	socialmedia	fooddictionary1 go bananas remember to sprinkle cinnamon to regulate blood sugar impact httptcomai6mtnj
+268130707879129088	socialmedia	i posted a new photo to facebook httptcoud2s4ne9
+268130704666267650	socialmedia	rt youneedrosie when creeps from school keep messaging you on facebook httptcov5pfxe8b
+268130701898047489	socialmedia	rt asheepnomore1 us continues descent toward third world status loses top 10 position among most prosperous countriesas httptcot9lbk98b
+268130653323804672	socialmedia	if facebook doesnt think a message is important it puts it in the other folder and never tells you missed connections thanks fbook
+268130637712613377	socialmedia	rt johncheshire facebook causes so many arguments i am like a magnet when it comes to arguments everyone wants a go sounds like jealousy to me tbh
+268130635711909889	socialmedia	rt volunteennation kids ages 5s18 enter the ustreasury save out loud photo and video contestshare what youre aving for httptcoiuowtkvc k12
+268130631790260224	socialmedia	i posted a new photo to facebook httptcorddkn5tm
+268130627826626561	socialmedia	hellllooooo fitness inspiration inc facebook family monday is here and nows the time for our wednesday best httptco4pb5106w
+268130626857742337	socialmedia	i posted a new photo to facebook httptcogclbrabp
+268130623284199424	socialmedia	rt threadtees weve been sayin it all along its about time the bcs agreed itsofficial gostate httptco6nsxbdfq
+268130620193005569	socialmedia	the hour grows short bryce barton needs your vote httpstcoe5c4fulc
+268130607178067969	socialmedia	facebooksdeads
+268130592653189120	socialmedia	i posted a new photo to facebook httptcoyu3uhtss
+268130573665591296	socialmedia	i posted a new photo to facebook httptcof2i54ide
+268130562789756928	socialmedia	uk teen arrested for posting a picture of a burning poppy on facebooksbusiness insider httptcoec68j1ts
+268130547686047744	socialmedia	rt mattvandyke syria govt news stations are now saying on tv that i am a terrorist very dangerous for me here now millions httptcoqjupdi2v
+268130541562368001	socialmedia	all the photos from fours headhttptcocls74knyhttptcoqktghdbthttptcoskbr0acmhttptconjbc3qiihttptcocaxcd4gk
+268130519982673920	socialmedia	no doubt bigbossplum1990 sincerlytheresa more music coming add me on fb httpstcobdacgl6b
+268130514613977088	socialmedia	i have just struck a bingo in bingo bash httptcovzreyjp2
+268130511489224704	socialmedia	people unliking romney on facebook httptcoipq2iub1
+268130502945411072	socialmedia	rt reecebond95 anyone with a middle name on facebook that isnt actually their real middle name is an absolute roaster
+268130501183807489	socialmedia	rt reecebond95 anyone with a middle name on facebook that isnt actually their real middle name is an absolute roaster
+268130500592431105	socialmedia	real estate tech company nplay introduces new marketing app to increase real estate property visibility on facebook httptcoyjwfrulc
+268130482670153728	socialmedia	rt localmarket9 enter coopergreenteams contest to guess broncos game time temp forssundays gamesyou could win 4 club level tix httptcodmsmqzrz
+268130462025781249	socialmedia	rt theartlete westormback join us as artlete has teamed with middleeasycom in creating a benefit tee to help rockaway ny httptcovg3etdxj
+268130428391682048	socialmedia	rt filltheirplate as you prepare food for thanksgiving why not prepare food for those in haitisfind a session that works for you httptcobs60ygog
+268130413346697216	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268130412432330753	socialmedia	i posted 25 photos on facebook in the album bcsd students honorsveterans httptcojdq0bjvk
+268130387748851713	socialmedia	rt fantasydouche whats thatsyour facebook says youre singlesoh now youre in a relationship again hope you like breaking rocks see ya
+268130363975544833	socialmedia	rt cun45 sportsandmore like usslove us on facebook via frankcunhaiiiscun245shttptcoj0d2yah2
+268130356790710273	socialmedia	anyone with a middle name on facebook that isnt actually their real middle name is an absolute roaster
+268130350717358080	socialmedia	hopefully facebook will end up like bebo soon
+268130348712464384	socialmedia	gkhosh problem with his most recent piece on bbcpersian or the problems obvious from his facebooks status updates
+268130347336753152	socialmedia	my dad this bitch was fucking a 2 litterswas actin like she liked it i wanted to say bitch u kno u didnt like dat lol
+268130345768067073	socialmedia	rt dogsofindepmo special adoption price tomorrow 11am6pm all dogs will be just 60 fully vetted all cats will be just 50 httptcom09x1qhb
+268130318068903937	socialmedia	rt drcraigoster i have fantastic news the harvard university institutional review board has approved the als quality of httptcorsbq3oji
+268130313207693312	socialmedia	total defense provides details about facebook antivirus marketplace offeringsallfacebook total defense provid httptcofwcplhjf
+268130295256068096	socialmedia	rt nattiecrawfs scrolling down my facebook newsfeed and someones put up a picture of a banana in a place a banana should not bei can never unseen that
+268130293096013826	socialmedia	facebook tests ranked comments to boost engagement httptcohqjibbvf via mashable
+268130284967444480	socialmedia	i posted a new photo to facebook httptcoqptzaj6t
+268130273244360704	socialmedia	rt funnyorfact facebook someone added a photo of you me fuck jajajajjaa majoglez88 tonyglez01 fergv13 ya sabemos pk vdd
+268130273194029056	socialmedia	rt hospicehomecare looking for hospice agencies in arkansas oklahoma texas missouri mississippi and louisana that might need httptcovqvr6hur
+268130249647218688	socialmedia	yes companies are harvestingsand sellingsyour facebook profile httptcowerrvx68 httptcofg19mqng
+268130227773923331	socialmedia	sionthesh33p yup i follow him on twitter and facebook
+268130221125926913	socialmedia	i posted a new photo to facebook httptcokbnv4h79
+268130199072292864	socialmedia	facebookswhere i lie to my friends twitter where i am honest with strangers
+268130199059709952	socialmedia	i posted a new photo to facebook httptcooy0rea1z
+268130197650436097	socialmedia	how long have i been telling people facebook is stupid toolong
+268130188376817664	socialmedia	femiran problem with his most recent piece on bbcpersian or thesproblems obvious from his facebooks status updates
+268130161835257857	socialmedia	i posted a new photo to facebook httptcon01qovdu
+268130117555978241	socialmedia	i posted 151 photos on facebook in the album 125th anniversarysmembership celebration httptco1acpa673
+268130114561257472	socialmedia	rt conagrafoods dont forget to join us tomorrow 1113 at 430 cst for a chance to chat live with lbtmusic on our facebook page httptcohxqokwsj
+268130109465169920	socialmedia	rt kalynraphael thanks for following us on twitter be sure to like us on facebook too httptcom5koijfe
+268130101634408448	socialmedia	jill howard allen of httptcotqibnwsg speaks to chandler rotary topic arizonas new economy httptcozs73xkmn
+268130100317417472	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268130088791441408	socialmedia	rt hospicehomecare us businesses lose 171 to 336 billion per year for working caregivers find out more when charlie broadbent httptcoqfm01lsv
+268130066205122560	socialmedia	sign up for the mwchat monsterww on weds were offering help for veterans httptcoj0ysshcb
+268130065307545600	socialmedia	i am brand new to playing daily on twitter what is your number 1 tip for me im a facebookslinkedin girl
+268130039072182272	socialmedia	like us on facebookshttptcot52kwzuz
+268130011083599872	socialmedia	enter the carly phillips fb giveaway and win a kindle or nook perfect fitsset of originalsserendiptiy series books httptco10dduuqb
+268130010488008704	socialmedia	check out our pictures from convention on our facebook page
+268129978854547458	socialmedia	bookbuyback bookbuyback thanks for the follow you can also follow me on fb wwwfacebookcomkratosmarketing
+268129954787627008	socialmedia	and all the ways facebook is better than twitter httptcosj9jck42
+268129954401763328	socialmedia	syfycity everybodys facebook dreamhttptcojygj0yugthis is all i want out of facebook anymore httptcon62g5ijw
+268129952342368256	socialmedia	find us on facebooksifwhen we implement a contest all likes will be includedshttptcoa5blw28p
+268129950287163392	socialmedia	remember when every facebook statuscomment had 3x at the end awwas that just me
+268129942385065985	socialmedia	have you seen lawyerology on facebook rtlawshttptcovkmh4vb3 rt rsullivanlaw
+268129907366850560	socialmedia	im the only person on my facebook feed without a pic of a dead deersarkyfacebookproblems
+268129877511790593	socialmedia	info will b posted here httptcoj0ysshcbs rt kcjobseekers lida360 where can i get more info abt mwchat on wednesday cc monsterww
+268129870511497216	socialmedia	my mums friends are so cringeworthy on facebook some of their posts actually horrify me
+268129845425356801	socialmedia	when creeps from school keep messaging you on facebook httptcov5pfxe8b
+268129835556155393	socialmedia	i posted a new photo to facebook httptco8zjtt6jq
+268129834776023040	socialmedia	i posted 2 photos on facebook in the album fotos del muro httptcohhistqkf
+268129834234961920	socialmedia	check out the wisk guess your gunk facebook app httptcobqksl6j5 wiskcrowd
+268129800818925568	socialmedia	i posted a new photo to facebook httptcohxcqkd3z
+268129775657308160	socialmedia	selenagomez is your real facebook httpstcopgd1okrq answers please
+268129766513713153	socialmedia	since facebook changed the way they rank post we are now posting text to see if its true
+268129757793767424	socialmedia	talking about vegetables with my sister via facebook ashley stop talking about what u r eating
+268129744783020032	socialmedia	scrolling down my facebook newsfeed and someones put up a picture of a banana in a place a banana should not bei can never unseen that
+268129734930624512	socialmedia	i remember when facebook had limited characters like twitter lol i feel old now
+268129732552450048	socialmedia	seriously considering deleting my facebook thoughts
+268129711312494592	socialmedia	i posted a new photo to facebook httptcogsv4oump
+268129705088147457	socialmedia	scotty660 its on the facebook page
+268129687795007489	socialmedia	press releasefacebook gets serious about conversations experiments with new comment httptcopfa29mvm
+268129686830329856	socialmedia	id like to keep the colour of my facebook blue so thanks but no thanks
+268129684083064832	socialmedia	press releasefacebook gets serious about conversations experiments with new comment httptcoz33heoux
+268129675694469120	socialmedia	dramashietsi think i might delete my facebooksblehs janie
+268129672095727616	socialmedia	press releasefacebook gets serious about conversations experiments with new comment httptcohoy923je
+268129671772778496	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268129657457635330	socialmedia	looking for a free ticket to hells kitchen this thursday night rt for a chance to win httpstcoyzb1cqi8
+268129606308093952	socialmedia	i wish there was a good way to express sarcasm through texts tweets facebook etctechnologykilledsarcasm weneedanemoticonforsarcasm
+268129601727918080	socialmedia	i posted a new photo to facebook httptcovlclkfel
+268129599572025344	socialmedia	tez mania uploaded the file i be httptco8e3sqhdf
+268129586024435713	socialmedia	abskinner11 our facebook messages im just kidding around with you
+268129581138071552	socialmedia	so glad i dont have a facebook account anymore i hated facebook
+268129558241370113	socialmedia	facebook facebook testing threaded comments feature on pages httptcogorjlpij
+268129544953810945	socialmedia	made a new facebooksdont freak out if i add you got real sick of seeing all the bs on there and too many people needed to be deleted
+268129544836366336	socialmedia	rt laurennjaynne facebook spam so bloody annoying
+268129528902205440	socialmedia	riamacalister thxsnice 2 meet u wish you successshappy writing i invite u to like my fb page httptconyxgmne8ssend me yours
+268129521289555969	socialmedia	checked in at longhorn steakhousesjefferson city mo httptco7symb1el
+268129519771209729	socialmedia	rt menshumor why people use twitter because updating 100 times a day on facebook is not socially acceptable
+268129480730615808	socialmedia	might bring our caveman foodtruck to this paleo seminar cfeminence crossfit box in thornton on dec 6th httptconccekwzo
+268129441186709504	socialmedia	rt jonnybirchall like the page bros httpstcorh6zughz
+268129440851181569	socialmedia	now you can make sure to see facebook page content you love httptcoc5z9l11v select get notifications under the like button
+268129432852627457	socialmedia	our facebook marketing provider is a confirmed solution to increase your niche visibility on the largest smm site httptcozdjljbvt
+268129428398292992	socialmedia	the mostliked facebook photo of all time httptcol6mcjgxb via futuretensenow
+268129428016599040	socialmedia	likeslets get them to 1k before xmassalso they need active adminsshttptcojm6w5uuc httptcorho2fmh1
+268129397997961217	socialmedia	i posted a new photo to facebook httptcoxw6n1g7n
+268129383242424320	socialmedia	rt theknot president barackobama knows how to put a ring on itshttptcosqbuqwak
+268129382529392640	socialmedia	monday night crack on facebook oldphotos
+268129372660170752	socialmedia	i posted a new photo to facebook httptcogfk63eor
+268129353173434368	socialmedia	facebook httptcomkfa9r2t
+268129337604202496	socialmedia	facebook spam so bloody annoying
+268129297330475008	socialmedia	rt ryanwillis21 why do people feel the need to state how much better twitter is than facebook omg hate facebook love everyone on twitter tho 3 s0 h1pst3r
+268129270101049344	socialmedia	rt mycancun i posted a new photo to facebook httptcohej7o267
+268129268305915904	socialmedia	get a question for you facebook nerds im looking in my news feed and all i can see are posts that appear to be httptco6s6fbf6q
+268129262396116993	socialmedia	i posted a new photo to facebook httptcotemurnpq
+268129244100562944	socialmedia	rt createwithkids starting on december 1st creative with kids and red ted art will be presenting the creative christmas countdown httptcorl5scclz
+268129241932124160	socialmedia	reading cavinpenn and kdhaas21 conversation they are having through facebook imssofunny youtwomakemelaugh
+268129207354273792	socialmedia	facebook causes so many arguments i am like a magnet when it comes to arguments everyone wants a go sounds like jealousy to me tbh
+268129200806977536	socialmedia	is your thanksgiving table looking like this httpstcomsiumgy3
+268129194494529537	socialmedia	want to know more about laphroaig 18 year old visit our facebook page for tasting notes peatygoodness httpstcoqgggelk3
+268129194117062656	socialmedia	rt sexybabenessa busy daw di makareply tapos online sa facebook at tweet ng tweet ulul hulikabalbon
+268129170838659072	socialmedia	i posted a new photo to facebook httptcowbvbfslo
+268129156326363136	socialmedia	i posted 27 photos on facebook in the album bensmegansengaged httptco6arswbxo
+268129136558612480	socialmedia	rt fr3d0s if you regularly come up on my newsfeed on facebook then i probably dont like you
+268129129772249088	socialmedia	facebook tests ranked comments to boost engagement httptcoecn6dmzu
+268129127247265792	socialmedia	beefing on my facebook page so i had to delete my damn post
+268129122105053184	socialmedia	anglinbrooke madaxxman here it is httpstcob8j56k8b
+268129121127772161	socialmedia	facebook tests ranked comments to boost engagement httptcog3iaffof tech technology uncategorized
+268129114001666050	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268129101787848705	socialmedia	facebook tests ranked comments to boost engagementsmashable telegraphcoukfacebook tests ranked comments toshttptcogvjyodzt
+268129097882927106	socialmedia	facebook twitter instagram youtubespintereststumblr myspace
+268129090530320385	socialmedia	check out oklachildadv facebook page for preview of the new changes that are coming httptco4eo2i2ob
+268129073165914112	socialmedia	rt kclightrail come by snowandcompany 68pm to get your kcstreetcar ballot notarized for free httpstco7llsiwb9
+268129068350849024	socialmedia	i love facebook
+268129062487203840	socialmedia	rt womenshumor im the james bond of facebook stalking
+268129045634494464	socialmedia	rt momsrising in case you missed it on our page earliersthank you to all our veterans feel free to leave a comment below httptcozumoggc5
+268129044489465856	socialmedia	rt timmydahitman niggas take shit to the heart on facebookbut i can put the same shit on twitter wit no problemwtf
+268129042027393026	socialmedia	rt givebackyoga were thrilled to announce mediaplanet usas thanking our troops series will be available on newstands today httptcolqmpt86z
+268129035656237056	socialmedia	rt candicehern sending good thoughts and much appreciation for your service to all veterans today i come from a family of vets httptcom3l6b3vk
+268129033781391361	socialmedia	q what do you do when youre avoiding homework a look back through everything youve ever done on facebook
+268129025875144705	socialmedia	why do people feel the need to state how much better twitter is than facebook omg hate facebook love everyone on twitter tho 3 s0 h1pst3r
+268129009362169856	socialmedia	facebook for couples fuck i know flyawayumbrella probably has one in the works
+268128996657614848	socialmedia	my messenger on facebook doesnt let me send messages so if i dont message you back sorry
+268128995940376577	socialmedia	august obviously hasnt been informed of my death on facebook
+268128992433950720	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268128970187345920	socialmedia	i posted a new photo to facebook httptcof3m9izzc
+268128940852404224	socialmedia	over 30 million accounts on facebook belong to dead people httptcobt67tqgu
+268128937996058624	socialmedia	i posted a new photo to facebook httptcojejmwt88
+268128936322535425	socialmedia	rt nailamitchell i would absolutely love to change the colour of my facebook thank you for sending me endless events its made my day
+268128934581911552	socialmedia	facebook is ass
+268128877619056640	socialmedia	ou hockey vs lindenwood lions more pics at httptcohslodkef httptcokhlw1bdz
+268128851434041345	socialmedia	niggas take shit to the heart on facebookbut i can put the same shit on twitter wit no problemwtf
+268128833641803777	socialmedia	i posted a new photo to facebook httptcohej7o267
+268128824791797760	socialmedia	assemblage 23 tonight at casselmans doors at 7httptcoz6fxmqwf httptcor6ah5dcu
+268128816755531777	socialmedia	facebook fansslast chance to buy this small packagestomorrow it will be offered to the general public httptcoizwlv4ek
+268128784815894528	socialmedia	support us please only takes a minute laci jones snow globe world record attempt visit her page on facebook 1httptcocy91hak8
+268128769263423488	socialmedia	i would absolutely love to change the colour of my facebook thank you for sending me endless events its made my day
+268128760035958785	socialmedia	kids ages 5s18 enter the ustreasury save out loud photo and video contestshare what youre aving for httptcoiuowtkvc k12
+268128753455079424	socialmedia	poke me on facebook so i know its real haha
+268128740800864256	socialmedia	need a chrome app that makes my laptop give me an electric shock when i go on reddit or facebook instead of writing
+268128704511737856	socialmedia	checkout krubeutnn on httptco49zi4ic4 share network and support promoted via jayceodpromoter
+268128699616993280	socialmedia	rt kclightrail come by snowandcompany 68pm to get your kcstreetcar ballot notarized for free httpstco7llsiwb9
+268128695162662912	socialmedia	rt ozksfoodharvest check out hunger starts this thursday at akins natural foods bistro market country mart dillons harter house httptcowywdl9my
+268128687352868864	socialmedia	rt coupondreamteam 25 lucky fans 25 target giftcards enter for your chance to ready set win one now httptcocu8yrb4v
+268128660068892672	socialmedia	twittersfacebooksyoutubesmsnshuiswerk
+268128647813140480	socialmedia	facebook is the 3 most visited site by people over age 65sfastest growing fb demographic is women 5565 hcic12
+268128644604493825	socialmedia	i entered pbkids giving thanks sweeps to win 100 enter dailysrefer friends if they win you win grand prize 2k httptcoxysz8bal
+268128625545588737	socialmedia	go to our facebook page and like us we donate 2 to zanes foundation for every new like
+268128590300839937	socialmedia	thatawkwardmoment when your brothers fiance finds you on facebook
+268128584613371904	socialmedia	never get notifications on facebook no more shit nevergetsused outofdate
+268128573007749121	socialmedia	michelleeee fineyoure lucky this isnt facebook or wed be all its complicated right now
+268128570486968320	socialmedia	seriously would you rather tie or win httptco3f6tktcx winnevertie runchat
+268128548395569153	socialmedia	rt cathygivans it finally feels like november around here and it rained last night and i got to see it this girl is happy httptcoth2jebrd
+268128547057590272	socialmedia	rt especialneeds the big preschool workbook is a gigantic book of worksheets will keep your little one happy and excited to learn httptco1goirnkc
+268128540527042560	socialmedia	daily steals is giving away prizes every hour on their facebook page httptcoua3wzyqe
+268128526346117121	socialmedia	tech facebook tests ranked comments to boost engagementsmashable httptcopfnkq6bl
+268128519517765632	socialmedia	when a family member comments on your facebook status with a completely irrelevant sentence or paragraph umm
+268128516103614464	socialmedia	cerullean thxsnice 2 meet u wish u much successshappy writing i invite u to like my fb page httptconyxgmne8ssend me yours
+268128514308460544	socialmedia	facebook has updated its messenger app this means someone actually uses messenger odd httptcou1ddmyb2
+268128502623121408	socialmedia	youranonnews httptcocaqs9zy5ssis this legit or did i just get my fb hacked
+268128486357602306	socialmedia	look greatsfeel great with these foods httptco2rilrwbe
+268128484361129984	socialmedia	rt paigesmithh if your middle name on facebook is something stupid like imadime or your whole name is along the lines of lill kay im deleting you
+268128482830200832	socialmedia	i posted a new photo to facebook httptcojt9gxkxf
+268128468737347584	socialmedia	kevin is 35 likes away from 7000 likes on facebook like his official fan page if you havent alreadyshttptcohp9eksqa
+268128466375933956	socialmedia	wondering what we all did w our feelings before twitter facebook lol
+268128441763782656	socialmedia	rape the like button janieshttpstcotsblirhw httptco3ndhmxrp
+268128431072477184	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268128413892632576	socialmedia	busy daw di makareply tapos online sa facebook at tweet ng tweet ulul hulikabalbon
+268128412856619008	socialmedia	bounce back from a setbackfailure is not an optionhttptcoavm8jbuw httptco5z4eryqu
+268128412592373760	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268128405457870848	socialmedia	im thesonly one not on facebook
+268128397568405504	socialmedia	delete facebook now twitter gone im all fcked
+268128391352438784	socialmedia	25 lucky fans 25 target giftcards enter for your chance to ready set win one now httptcocu8yrb4v
+268128384758984704	socialmedia	lucygettings92 guz a chance man just got in from work n trawled facebook now i can catch up on twitter inpatientbitch
+268128378719182848	socialmedia	sorry to disappoint you but changing your facebooktwitter profile picture every 3 seconds just makes you look shallow and into your looks
+268128376970178560	socialmedia	msum students this is an on campus event beverages will be providedshttpstcokxcjuo1f
+268128357646995456	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268128354924912643	socialmedia	i posted 8 photos on facebook in the album shelledy students sing for vets httptcocma1yhk8
+268128345970065408	socialmedia	rt famousguydee 1880sgirls got undressed for their husbands 1995sgirls got undressed for money 2012sgirls get undressed for likes on facebook
+268128344460124160	socialmedia	sweet pic and opening tomorrow rt brightonresort i posted a new photo to facebook httptcozqsejjin
+268128341654110208	socialmedia	get facebook covers at httptcog8bokkb9 httptcoi1xvwldi
+268128341364711424	socialmedia	if black ops ii becomes the best selling call of duty yet im blaming reddit and uh facebook i guess
+268128309949386754	socialmedia	rt themidland just announced httptco8v90adi9
+268128309269901312	socialmedia	if youre going to write a status on facebook atleast use correct grammer
+268128296485666817	socialmedia	i posted a new photo to facebook httptcozvmefenj
+268128292723388416	socialmedia	46 facebook notificationsthanks so much amrottinghausspaybacks a bitch beprepared
+268128284523524098	socialmedia	fc3arc willspace nycswhere fashion fitnesssarchitecture collide personaltraining will is a pt to the stars httptcotygozfxc
+268128238096773121	socialmedia	25 lucky fans 25 target giftcards enter for your chance to ready set win one now httptcog3zdybrh
+268128212490534912	socialmedia	facebook promoted posts r like sororities youre just paying 4 people 2 like u its okay i was a sorority girl socialmedia marketing
+268128200654221312	socialmedia	i read this kids facebook page and he said he hopes morrissey tickets are no more than 25 ive never paid under 50 fuck that kid
+268128195721711616	socialmedia	rt bowlbattlefield yes we will have monday night football on the big screens during ladies nite dont forget ladies are only httptcofvtec90l
+268128183197519873	socialmedia	improvements the choose to your facebook profile not very complicated httpstcoxkoll7rg
+268128179552657408	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268128179426836480	socialmedia	rt chriscamozzi my brother brian camozzi and my teammates marcus edwards and randy caruso fight this saturday at the grizzly httptcoi8w6ns0n
+268128161710080001	socialmedia	we do half the job for you let us make your facebook advertising a remarkable experienceshttptcoibcfhpww
+268128111407792128	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268128067468263424	socialmedia	jbeemills thx jb nice 2 meet u wish u much successshappy writing i invite u to like my fb page httptconyxgmne8 send me yours
+268128066310639616	socialmedia	around the leaguesnfl qbs on facebook coaches challenge nsfw language httptconveanw7o
+268128051341193217	socialmedia	huffingtonpost how facebook is making you poor httptcotd896tu5
+268128046186364928	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268128042881261568	socialmedia	mvs tags and title llc is a 3rd party motor vehicle services center thatll ge httptco6vlueoai
+268128024191447040	socialmedia	i got on facebook the other day and my whole newsfeed consisted of adults nothanks
+268128011713392642	socialmedia	facebook changed our page select like and click on get notifications to see our page updates
+268128007552630786	socialmedia	eastwood12189 yep then went back and they all say round the tv with tea watching the xfactor together its on facebook how did you not see
+268127986161704960	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268127985767424000	socialmedia	randomblogtip love that whitneyloibner has added a facebook plugin for comments since bloggers comment form is impossible
+268127944432553986	socialmedia	rt fkntwisparkle theres someone on my facebook that literally likes everything she posts gtfo
+268127938581499905	socialmedia	debating deleting my twitter facebook tumblrsthrowing my whole cell phone down the toilet
+268127921590390784	socialmedia	facebook changed our page select like and click on get notifications to see our page updates
+268127905475878912	socialmedia	drinking doesnt make me post better facebook statuses it simply makes me not care what you think of them
+268127900887285761	socialmedia	bitch get on your facebook
+268127897359880193	socialmedia	dont like my facebook statuses thats your own problem not mine bitch
+268127889726259201	socialmedia	sell my car truck online free templates ebay motors facebook craigslist googles wprebay kwfacebook httptco1knrginh
+268127889185185794	socialmedia	might just change my phone settings so it doesnt notify me about facebook anymore
+268127883988463617	socialmedia	new blog posting heavy facebook silver color finger ring metal hot fashion 1pcsshttptcov6gevndm
+268127881518018561	socialmedia	rt stonesponie a friend just posted this on facebook old but new picture to me of mother love bone beautiful people right there httptcoo1pawm4a
+268127866556936193	socialmedia	did yall know that there are over 30 million dead on fb httptcou7i8ewrq
+268127862048059392	socialmedia	i posted a new photo to facebook httptcocex6ykwp
+268127857434316800	socialmedia	i swear if i get one more invite on facebook to one more stupid thing annoyed
+268127829135351808	socialmedia	i am updating my fan pager u a fan of my workplease like my pagescheck itall new projects will b therehttptcoxrh7yvhc
+268127814576922624	socialmedia	i posted a new photo to facebook httptcodcdz2pgl
+268127797120217088	socialmedia	some irked by facebooks new pages for couples are you in a relationship on facebook if so you might wish t httptcobjceau3b
+268127789906014209	socialmedia	you blocked me on facebook now youre going to die
+268127781261545474	socialmedia	i like my own status on facebook so ill feel appreciated it
+268127778799493120	socialmedia	i posted a new photo to facebook httptco4wnv4bbd
+268127773195919360	socialmedia	i posted a new photo to facebook httptcog7bhf1hd
+268127765386104833	socialmedia	here is another chance to be on tv and show your faith american bible challenge hosted by jeff foxworthy is httptcofscutttf
+268127765327396864	socialmedia	i posted a new photo to facebook httptcolxzdq5x4
+268127743600885760	socialmedia	chuck eaton eudes pankilhas eudes pankilhas take this christmas by chuck eaton running in httptcoyywovdlm
+268127742300672000	socialmedia	rt quarterbackguru 9 yr old youth qb student daron bryden 2011 high lite video 2012 cominghard work and a good qb coach helps to httptcoczfcrvi1
+268127740023169025	socialmedia	facebook tests ranked comments to boost engagementsmashable telegraphcoukfacebook tests ranked comments toshttptcoorkdsyuh
+268127738102177793	socialmedia	hoosier hero continues to do great at lexington and his planned breeze over the weekend turned more in to a 2 httptcolpespav7
+268127713410297856	socialmedia	rt sampbell tie dye gets revamped in newcastle fashion startup tiedyeforr product release tba design newvintage httptcowrmf0ars
+268127712793731073	socialmedia	its here finally will have it available for purchase just in time for xmas httptcolckyrs4l
+268127700277936128	socialmedia	rt thefunnysexist nothing screams stalker more than accidentally putting a girls name as your facebook status when it was meant for the search bar
+268127668233449472	socialmedia	are you ready to rock my songpop username is shaevierra httptcoy2kjnowv
+268127663418388480	socialmedia	rt iseusa guys we are about to launch a new blog if any ise student past or present would like to write one about their httptcompp5urha
+268127661744848896	socialmedia	call me attention seekerswhy do you think am on twitter and not facebook huh
+268127658087432192	socialmedia	zach57collins who even puts that kind of stuff on facebook
+268127646825734144	socialmedia	come see how reality tv is made rebus 6pm tomorrow cfmoriginals httptcosi56afae
+268127636763578369	socialmedia	tweetlikeagirl your relationship status on facebook is still single and my name isnt in your bio
+268127632015626241	socialmedia	i never knew that the lil notification icon for facebook is a lil mini world
+268127631562653697	socialmedia	theres someone on my facebook that literally likes everything she posts gtfo
+268127613938171905	socialmedia	thanks for being my fancheckouthttptcobkbtzskg
+268127605650231297	socialmedia	have you heard about facebook offers httptcoaute5grt
+268127599123906560	socialmedia	i posted a new photo to facebook httptcop2ct0bnf
+268127582258622464	socialmedia	i entered pbkids giving thanks sweeps to win 100 enter dailysrefer friends if they win you win grand prize 2k httptcoqzihfi1a
+268127567331090432	socialmedia	facebook couples pages make me want to retchstelegraph httptcohenokxp7
+268127565720481792	socialmedia	facebook ad review maximize your advertising success httptcotsc8u6sq sm marketing
+268127563665264640	socialmedia	im pretty sure this girl frapes herself on facebook
+268127561194811393	socialmedia	if your middle name on facebook is something stupid like imadime or your whole name is along the lines of lill kay im deleting you
+268127559869403137	socialmedia	rt famousguydee 1880sgirls got undressed for their husbands 1995sgirls got undressed for money 2012sgirls get undressed for likes on facebook
+268127556853698562	socialmedia	rt whitehippy i hate austy on facebook forreal forreal shes fucking annoying as shit 1800chokethathoe
+268127535039127553	socialmedia	sackingshare i love jimmer hes my home boysme and his bro are friendsthat isfacebook friends
+268127524041662464	socialmedia	321takenduh can we bring facebook back to life liven up nabihas page or summin
+268127513602052096	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268127503967715329	socialmedia	have you heard about facebook offers httptcogfrnwxse
+268127486372626433	socialmedia	httptco2rkvdq45 like please3
+268127468702007296	socialmedia	my younger cousin just messaged me on facebook saying his 2 girlfriends both have tickets to a one direction concertsreallytim
+268127459185147906	socialmedia	people unliking romney on facebookscnn brisbane timespeople unliking romney on facebookcnncnnsnobody httptcob8v5ifos
+268127446518362112	socialmedia	rt famousguydee 1880sgirls got undressed for their husbands 1995sgirls got undressed for money 2012sgirls get undressed for likes on facebook
+268127442424705024	socialmedia	rt menshumor why people use twitter because updating 100 times a day on facebook is not socially acceptable
+268127429992779776	socialmedia	i posted a new photo to facebook httptcowzaevnda
+268127425131597826	socialmedia	dont be caring about rt jodygfacts i dont be logging on facebook because i be judging people
+268127424464711681	socialmedia	check out this awesome site free facebookshttptcotghdufvx smashexchange sweevadotcom
+268127368961462272	socialmedia	facebook stay buggin
+268127366189031425	socialmedia	rt jthompsondesign come join indie minded on facebook httptcob2zcyjey
+268127362531618816	socialmedia	strongstarter httptco0ljfo7wd look at the top left
+268127348665237504	socialmedia	marthaandtom you need to enter via the form here httptcohcfa4jek check the twitterfacebook box share then click enter good luck
+268127335612575745	socialmedia	pakistan people unliking romney on facebookscnn sunheraldcompeople unliking romney on face httptcob8v5ifos socialmedia
+268127333179850754	socialmedia	pakistan people unliking romney on facebookscnn sunheraldcompeople unliking romney on facebookcnnthe fo httptcob8v5ifos
+268127326695456768	socialmedia	sol is having a pj party contest post a picture of yourself on sols facebook page wearing sleepwear from sol httptcopct6c8m6
+268127321343524865	socialmedia	keep getting loads of facebook notifications about people cancelling events i dont care
+268127292490915841	socialmedia	rt chenoite pls rt just 4 dogs on the acc list for tonight fosteradoptpledge and save them httpstcomdfq2c9c
+268127288565039104	socialmedia	bubbafenton zrobinson1 oh just visit my facebook page and it has links to all sorts of ideas menus and stuff you can do
+268127282667851776	socialmedia	ayye everyone watch the fight on marquise young facebook page tell me why the bandana girls gittin the hands
+268127242100543488	socialmedia	cbaginski i agree but i suspect facebook is going to take it away soon
+268127242029248512	socialmedia	happy monday everyonesif you are new welcome to the page as long as i stay out of the facebook naughty httptcoyralhaux
+268127233477070848	socialmedia	i posted 7 photos on facebook in the album travel around the earth stationery setsp160 httptcognoorshb
+268127233183449088	socialmedia	rt famousguydee 1880sgirls got undressed for their husbands 1995sgirls got undressed for money 2012sgirls get undressed for likes on facebook
+268127229790257152	socialmedia	facebook hit teen couple jailed for hiring 14yo hitman to kill girlsthe australian rtfacebook hit teen coup httptcojyazarko
+268127221544275969	socialmedia	wisks gunk jar facebook app eww httptcoov0trovd wiskcrowd
+268127219954622464	socialmedia	theres nothing on tele got no one exciting to text facebook is wank and twitter is shit sometimes someone entertain me please sobored
+268127193400479744	socialmedia	thank god i took my swimming lesson bks her pussy wetter them the pacific
+268127181396398081	socialmedia	yall add me on facebook though httpstcomxifgcvo
+268127175734079488	socialmedia	how i get 5000 facebook fans on your fan page account within few days httptco0s92ssr3
+268127172777111553	socialmedia	facebook testing ranked comments httptcoxrcnufly facebook
+268127167752327168	socialmedia	dspassword facebook gue yang ke ii
+268127162790469634	socialmedia	rt chenoite pls rt just 4 dogs on the acc list for tonight fosteradoptpledge and save them httpstcomdfq2c9c
+268127151482601472	socialmedia	im here on twitter because my family is on facebook
+268127136227930113	socialmedia	rt rstransport we are feeling the love from new facebook likes today 11 away from our goal of 200 and giving away 7 tshirts httptcofzr6eu3t
+268127119501041664	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268127119345868801	socialmedia	just realized instead of tweeting i was posting things to facebook lame
+268127116493746177	socialmedia	missgeecastillo caught me off guard lolmissgeecastillotumblrcomtwitter missgeecastillofb httptcox8o00oyo httptcoonmxwbli
+268127115298349058	socialmedia	rt jackieegray fuck twitter facebook skype texting and phone calls nothing compares to actually spending a day with someone
+268127112332984320	socialmedia	loopdesk is a free online b2b networking group with members in over 80 countries check us out on facebookshttptcok2ot2otq business
+268127109250154496	socialmedia	rt erinhaust national papa johns appreciation day httpstcottcn6k1a show your support istandwithpapajohns brought to you by rebootusa
+268127088702275584	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268127083476185088	socialmedia	i posted a new photo to facebook httptcose6dfqzg
+268127082654085120	socialmedia	i posted 5 photos on facebook in the album more shots httptcouil3mqnp
+268127081706184704	socialmedia	i posted a new photo to facebook httptconquojh3i
+268127060252299265	socialmedia	i posted 2 photos on facebook in the album shirogane naoto persona 4scosplay httptcoammc3coc
+268127046813753344	socialmedia	i posted 8 photos on facebook in the album georgia may jaggersby hedi slimane httptcouoky6dnk
+268127044020338688	socialmedia	i posted 33 photos on facebook in the album zombie pub crawl httptcoovbtw96t
+268127039129804801	socialmedia	i posted a new photo to facebook httptcozvow9ghu
+268127038320287744	socialmedia	pls rt just 4 dogs on the acc list for tonight fosteradoptpledge and save them httpstcomdfq2c9c
+268127026165207040	socialmedia	rt rockywondergeek afpv p2sscarmona camp we haven039t given up on the senate race httptcowvkbbjolshttptcofedbiey5
+268127025162760192	socialmedia	rt rockywondergeek afpv p2ssfiscal cliff not so much call it a fiscal obstacle course httptcomxzdzoygshttptcok7nxs1ek
+268127024504270848	socialmedia	i posted 11 photos on facebook in the album mcys sneaker bagsp675 httptcogvzt61zy
+268127022973349889	socialmedia	rt rockywondergeek afpv p2sssandy recovery requires big vision httptcorswb3u3hshttptcofti61okp
+268127021895409664	socialmedia	rt rockywondergeek afpv p2ssthe queen of versailles the best film on the great recession httptcocmu0l77nshttptco4sk26ogj
+268127014693781504	socialmedia	my last like 10 new friends on facebook have all been girls playa
+268127013930405888	socialmedia	accordin to the fans haha so not sure maybestheysare checking airline schedule httpstcoorctfwon
+268126991063076864	socialmedia	rt reillyschaal i have no clue who half the people on my facebook newsfeed are
+268126956116127744	socialmedia	facebook tests ranked comments to boost engagement httptcoup3xcmww
+268126946322436096	socialmedia	i posted a new photo to facebook httptco0eyoeyll
+268126942488846337	socialmedia	rt womenshumor im the james bond of facebook stalking
+268126920405815296	socialmedia	dont worry go ahead and play on facebook and ill be your slave saidnooneever
+268126906472341504	socialmedia	facebook im playing a show tonight at buzz bakery in alexandrias901 slaters lane 810scome on down httptcoezs8nxl3
+268126892052324352	socialmedia	rt itinagraves twitter makes me want to have drinks with people ive never met and facebook makes me want to throw drinks at people i know realtalk
+268126889640620032	socialmedia	rt coolmorefantwit ballydoyle irish classic entry for 2013 updating 121112 httptcoth8bksyi
+268126886503251968	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268126880903860224	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268126865565290496	socialmedia	i posted a new photo to facebook httptcolmwo0j4n
+268126849928937472	socialmedia	i posted 61 photos on facebook in the albumshttptcoeccfodso
+268126833726349312	socialmedia	on facebook when someone goes on a status and says i love this awesome theres a like button there for a reason bro justclickit
+268126833227214848	socialmedia	part 3 facebook marketing for restaurants managing customer response httptcorcnrhlsf via markeatingllc
+268126827418120192	socialmedia	whoever did this facebook for android is a stupid fellow
+268126825589391360	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268126820954689536	socialmedia	facebook testing ranked commentssallfacebook httptcol4ejjtgp
+268126799194624000	socialmedia	its like facebook but real
+268126794568323072	socialmedia	facebook testing ranked comments in recent days facebook has been tweaking the format of its comments earlier httptcoig0gbfty
+268126786922098688	socialmedia	rt tennischannel congratulations to world 1 novak djokovic he finishes the year by defeating roger federer 76 75 at the httptcoekwn98qv
+268126769759010818	socialmedia	do you play fb games do you save strangers lives while playing said gamesshttptco0iygsl5n
+268126745926987776	socialmedia	i posted 111 photos on facebook in the album satans castle httptcomtpwzfll
+268126735650942976	socialmedia	learn more about the far isle halfelven world like on facebook httptcogr5oi3o8 or httptcorxd4pfyn indie promo fantasy read
+268126728428339200	socialmedia	hidrodinamica 3 ideal vessels for sightseeing and beachshttpstcoxpjcyhke
+268126713953779712	socialmedia	rt womenshumor im the james bond of facebook stalking
+268126688897024000	socialmedia	i posted a new photo to facebook httptcoicd8gkll
+268126675512999937	socialmedia	curtaaaaaaaaaaaam httptcotkvkwrnm
+268126668676272129	socialmedia	people unliking romney on facebook nobody likes a loser httptcos9kxjzao trending news
+268126655174811649	socialmedia	facebook pests fuck off
+268126645473378305	socialmedia	come join indie minded on facebook httptcob2zcyjey
+268126597138247682	socialmedia	maddow hardballchris edshow rt jbouie watch people unlike mitt romneys facebook page in real time httptcogpulfvsm
+268126587155787776	socialmedia	rt longevityok happy monday we are looking forward to all of our upcoming and exciting events planned for novembersdecember httptcoqdxap6zw
+268126587004788737	socialmedia	yo wtfsthis guy poked me on facebook
+268126581304725505	socialmedia	elentay oi tay you fancy changing the colour of your facebook ill invite you to this sick event
+268126558563209218	socialmedia	nasty tweetssracially insensitive facebook posts can cost you pay attentions eliminating true intoleranceshttptcog7hegycg
+268126539533651968	socialmedia	1880sgirls got undressed for their husbands 1995sgirls got undressed for money 2012sgirls get undressed for likes on facebook
+268126536664772608	socialmedia	grrrr i dont want to change the colour of facebook for fuck sake
+268126522764836864	socialmedia	total defense provides details about facebook antivirus marketplace offeringsallfacebook total defense provid httptcoiedtol8b
+268126519665254400	socialmedia	bynau thanks for mention did you know theres still time to win rascalflatts tickets httptcozhjqmj9d
+268126487557853186	socialmedia	1 hr until mic math monday todays focus rakimgodmc follow the leader era join the discussion 6 pm us central httptcojvll0wdo
+268126474299658240	socialmedia	rt jackedpack vote for our first of five meathead of the month finalist nick anderson at httptcomiis0age
+268126468888993793	socialmedia	does black facebook make facebook faster
+268126458780737537	socialmedia	esto fue latin side of the moon de docsdf httptco1sylnpdn
+268126429974237184	socialmedia	facebookstwitter
+268126422160261122	socialmedia	did you get your tickets yet for randy rogers band at the wareham httpstco1e0toe9z
+268126414941872129	socialmedia	for me this is the maximum method to gain increased facebook fans and turned my socially involved higher httpstco3jjzdipd
+268126401620758528	socialmedia	just saw a guy with a facebook status of taylor swift lyrics yougaybro
+268126396096868352	socialmedia	were already the first name in towing products keep us first in this contest by voting for curt contest ends today httptcoydqxqvje
+268126379042811904	socialmedia	geordi3b0y facebook tests ranked comments to boost engagementsmashable httptcos3tcsguu
+268126369760808961	socialmedia	rt tcmaker this wednesday is 3d printer night httpstcod41dlls7 come print with us oh andsdec welding has 3 spots httptcoahmqzqqg
+268126369651769344	socialmedia	rt tcmaker this wednesday is 3d printer night httpstcod41dlls7 come print with us oh andsdec welding has 3 spots httptcoahmqzqqg
+268126369001652226	socialmedia	i posted a new photo to facebook httptcovcbfve0v
+268126341252120579	socialmedia	like them c please janie httpstcolbwqiush httptcoefyio0ca
+268126328992182272	socialmedia	facebook for wordpress viral traffic that will speed up your site and boost conversions instantlyshttptconqkxa962
+268126326798561281	socialmedia	facebook httptcolwl8rnbg
+268126316598026243	socialmedia	i posted a new photo to facebook httptcogakyywuf
+268126307278262272	socialmedia	facebook tests ranked comments to boost engagementhttptcoxxlhhz43

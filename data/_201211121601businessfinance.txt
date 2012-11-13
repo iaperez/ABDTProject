@@ -1,0 +1,1001 @@
+/usr/local/java/jdk1.6.0_37/bin/java -Xms1024m -Xmx1024m -cp :../lib/*.jar:../lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:../lib/twitter4j-2.2.6/twitter4j-async-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-core-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-examples-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-media-support-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-stream-2.2.6.jar:../lib/twitter-text-1.5.0/twitter-text-1.5.0.jar:bin UsersMentionDownload business finance
+business finance lang:en geocode:39.8,-95.583068847656,2500km
+268143208851189760	business	might fortunemagazine why the fiscalcliff might be overblown httptcozzfvysoh
+268143116337430529	business	more women have drivers licenses than men in us httptcoty4skkav
+268143115481788417	business	fda finds contamination issues at ameridose httptco8nmoyjkb
+268143114563244032	business	lee enterprises posts smaller 4q loss httptcozwqmtx7a
+268142419609010177	business	personal finance and investments posts reviewed part iishttptcoa38uziwq
+268142218991243264	business	insiders explain how mitt romneys campaign completely fell apart on election daysyahoo finance httptcooxzlsjgj via yahoofinance
+268141602327896066	business	rt kimhansardstar httptcolazo6wn0 with rates so low nows a great time to finance or refinance a home cnbtn im atshttptcorxiv0sdn
+268141318214127616	business	preparing for a finance meeting tomorrow started with coffee now bringing out the beer its going to be a longgood night work
+268141154531414017	business	three things to do if insurers reject your hurricane sandy claims httptcokhwnfjzf
+268140949631291393	business	business rt lee enterprises posts smaller 4q loss lee enterprises inc publisher of the st louis postdispat httptcob87aeeyt
+268140272913891328	business	victorias secret apologizes for fashion show gaffeshttptco5lpozoaw racist to indians tcot
+268140190080569344	business	onlinebusiness devry online services helps create the realtor university graduate school httptcotzhe0fo2
+268140137379139584	business	verizon to pay 85 billion dividend to its owners httptco2tqqmsjo
+268140136485756928	business	kodak reaches deal to borrow 793 million httptcoqxh9x1bc
+268139572100218882	business	business newsshttptcorgjehhbd
+268139071728132096	business	the danger of identity theft after a car crash httptconjrujejg
+268138858783309824	business	so my ex basically rescinded the offer to come meet hersthe baby and her finance dude was her ex boyfriend at one time while we were
+268137535375556608	business	fda finds contamination issues at ameridose federal health inspectors found numerous potential sources of conta httptcou7qpvee4
+268137529289605120	business	fda finds contamination issues at ameridose federal health inspectors found numerous potential sources of conta httptcouta4g3bm
+268137479029284864	business	fda finds contamination issues at ameridose federal health inspectors found numerous potential sources of conta httptcolqbdkg2x
+268137249705713664	business	fda finds contamination issues at ameridose federal health inspectors found numerous potential sources of conta httptco9r2hbuuw
+268137248216719362	business	verizon to pay 85 billion dividend to its owners verizon wireless said monday that it will pay a dividend ofshttptcotrfh1irt
+268137247344320512	business	how the major us stock indexes fared monday us stocks closed nearly unchanged monday after a day of uneven t httptcovbjcooug
+268137110781976578	business	fda finds contamination issues at ameridose federal health inspectors found numerous potential sources of conta httptcooykgv8zl
+268137100191334400	business	amazon launches wine marketplace httptcobsasm2o6 via zite
+268136685987057664	business	oil down on worry about looming fiscal threat the price of oil fell slightly monday as global economic news too httptcolq1ylhka
+268136509239078912	business	us stocks erase gains as finance chiefs meet on greece aid us stocks erased gains failing to rebound after httptcouukfehjk
+268135940428554240	business	new best buy cfos goal is transformation of decade new york reuterssfor former williamssonoma finance c httptcoavlqpoxp
+268135812560982016	business	new best buy cfos goal is transformation of decade new york reuterssfor former williamssonoma finance c httptcok9ygki3w
+268135706528972800	business	new best buy cfos goal is transformation of decade new york reuterssfor former williamssonoma finance c httptcoviixrms6
+268135705551712256	business	new best buy cfos goal is transformation of decade new york reuterssfor former williamssonoma finance c httptco0uvvfxwq
+268135704821907456	business	new best buy cfos goal is transformation of decade new york reuterssfor former williamssonoma finance c httptcoi3m04gz7
+268135703802691584	business	new best buy cfos goal is transformation of decade new york reuterssfor former williamssonoma finance c httptconpxfz0on
+268135688208252929	business	us stocks erase gains as finance chiefs meet on greece aid httptcodyoffo7m
+268135102922510336	business	the economics of voting the x factorsthe economist httptco7uhov9ph
+268135076456439808	business	oil down on worry about looming fiscal threat the price of oil fell slightly monday as global economic news too httptcofoppvyni
+268134964841824258	business	first trust specialty finance and financial opportunities fund declares itss dailyfinance httptcoou4uyptt
+268134704782405632	business	feeling the pinch 10 signs american families are falling behindsus newsshttptcolfelpayo via usnews
+268134442399305731	business	udr restores operations at two of its lower manhattan communities and updates damage estimate udr incsa lea httptcojey35z2q
+268134147283898368	business	markets fall after election the journal record index slid 5126 or 385 percent last week and closed at httptcon9kbtwya
+268134120524226561	business	exbbc boss set to take reins at new york timessyahoo news httptcomcrtk6ku via yahoonews
+268133303062765568	business	france eyes libya deals after unfreezing 2 billion assetssyahoo news httptco0ihczt4z via yahoonews
+268132871548579840	business	rt politicallogic when infinite inflation isnt enoughspeter schiffs httptcoseeefqlj via townhallcom
+268132732457070592	business	robert paisola news us stocks nearly unchanged as fiscal threat looms us stocks closed nearly httptcozqfddfoe world news zone
+268132689553547265	business	rt adamedmunds like i said last week irs is going to have a huge q4swealthy dump assets before year end httptcouex0mktg
+268132616476192769	business	when infinite inflation isnt enoughspeter schiffs httptcoseeefqlj via townhallcom
+268132520112037888	business	like i said last week irs is going to have a huge q4swealthy dump assets before year end httptcouex0mktg
+268132115684667392	business	rt sexxandweed spoil me with loyalty i can finance myself
+268131828852994048	business	euro finance chiefs to meet november 20 on greece juncker says httptcoidrbmwwa
+268131820510527488	business	euro finance chiefs to meet november 20 on greece juncker says httptcotbfmwlbs
+268131458059751424	business	consignment store franchise grows from a moms needssyahoo finance httptcox6tk31dl via yahoofinance
+268131129062748163	business	looking for a legaljobswe are filling them in tx ca and co esp looking for ma finance and transactional attys w 25 yrs of exp
+268130939345989632	business	first trust specialty finance and financial opportunities fund declares itss dailyfinance httptcopxkdxu3e
+268130135193034753	business	insiders explain how mitt romneys campaign completely fell apart ons yahoo news blog httptcocbf3sgfj
+268130066481938433	business	euro nations split on how to help greece cut debt brussels apseurozone finance ministersshttptcoqtd0x8qg via ap politics
+268129899825487872	business	kodak reaches deal to borrow 793 million struggling photo pioneer eastman kodak co said monday that it has re httptcoiynelmh7
+268129670602584064	business	insiders explain how mitt romneys campaign completely fell apart on election daysyahoo finance httptcorv4qmn1r via yahoofinance
+268129582962577408	business	us to pass saudi arabia in energy production iea says huge foreign policy economic implications httptcomrsippxi via yahoofinance
+268129580844453888	business	tech gadgets kodak reaches deal to borrow 793 million struggling photo pioneer eastman kodak co said monday httptcocttumxae
+268129168221413376	business	newcarincentives new car finances09 financing on a new honda crosstoursbuy a new honda crosstour below in httptcoojvea2df
+268128908510113792	business	thompson starts as ny times ceo amid bbc scandal new york times co ceo mark thompson started his job monday am httptcow1is1ymj
+268128683481518080	business	kodak reaches deal to borrow 793m kodak says it has reached an agreement to borrow 793 million an importantshttptcomg6dkpdo
+268128615714152448	business	socialmedia adinfluent continues to be the pioneer in the social media celebrity microendorsement space httptcojrtxotrt
+268128582860165120	business	analysis googles android finally earns respect with developers you buy on your phone with pretty much a clic httptcoubwjfkic
+268128558331867136	business	kodak reaches deal to borrow 793 million httptcox6h1fonm
+268128538572492800	business	forex analysis gbpusd trading the uk consumer price report httptcokyx8eyav
+268128458339655680	business	world marketing newsshttptcoerygjato
+268128388336738304	business	shark tanks lessons in the art of negotiation the entrepreneur behind a leftoversaving plate attempts to make httptconrfej2en
+268128273278566401	business	braiden harvey euro finance chiefs to meet november 20 on greece juncker sayssbloomberg economic timeseuro f httptcovgn0bdwu
+268128028721283072	business	news coeur dalene mines larger than sp 500 component washington postshttptco8uyios7m yahoo finance
+268128021234450432	business	rt whitegirlwhit spoil me with loyalty i can finance myself
+268127952632434689	business	m8rsmark gottalaff i dont know but i doubt theyve thought it through pretty difficult to finance your own country
+268127830448148481	business	forex analysis us dollar speculative positioning flips to net long forex analysis us dollar speculative posit httptcotdie9th4
+268127756720672768	business	mo governor barge industry urge action on rivers missouri gov jay nixon and the barge industry are imploring httptco12pzbnoy
+268127755965693952	business	mo governor barge industry urge action on rivers missouri gov jay nixon and the barge industry are imploring httptcofsz4am0s
+268127376611885056	business	as the sun sets in minneapolis the team gathers round the finance guy to learn his favorite numbers game c httptcotyquzqpc
+268127343241998336	business	shark tanks lessons in the art of negotiation the entrepreneur behind a leftoversaving plate attempts to make httptcodzdrfdkd
+268127342642216961	business	shark tanks lessons in the art of negotiation the entrepreneur behind a leftoversaving p httptcot0h5modz httptcolospg3xz
+268127229517639680	business	tech news kodak reaches deal to borrow 793 million httptcosajgogot
+268127045576433664	business	how con ed turned new york citys lights back on httptcogz4zr0ox va fortunemagazine
+268126960050397184	business	business euro finance chiefs to meet november 20 on greece juncker sayssbloombergsnews
+268126927120891904	business	rt whitegirlwhit spoil me with loyalty i can finance myself
+268126837203427328	business	jobparkvilleks64152finance tutors are needed for upcoming assignments this summer as well as the 20102011httptcoymmpkqea
+268126738079444992	business	a few points on protecting your online reputation httptco3jlrk1ej via financefox
+268126720119431168	business	raytheons rtn patriot air and missile defense system receives us armys httptcoga8njx9g news yam
+268126644307365889	business	as momentum dries up has the multifamily reit bubble burst a 2013 forecast httptco4mgrs8if finance
+268126639051907073	business	checkbook register for excel 20 commercial manage your checkbook in excel httptco4posa6c6
+268126638171099137	business	checkbook ease freeware 21 freeware checkbook ease 21sfreeware checkbookbudgetbeautiful window with 20 colors httptcovonunkmm
+268126637088985091	business	charttool 219 shareware stock charting software that charts world stocks and indices intraday or daily httptcoetgc2b98
+268126418720931841	business	the secret to affordable printer toner httptcoom5glxsg
+268126359002419200	business	rt clarkhoward what is the best safest most secure move to make with your retirement dough httptcolixrj6os
+268126344926334976	business	7 types of angel investors to avoid httptcohdtapbqn
+268126038649884672	business	us stocks nearly unchanged as fiscal threat looms us stocks closed nearly unchanged monday after a day of httptcoeb7cz6cn
+268125632934858753	business	who woulda guessedus to pass saudi arabia in energy productions daily tickersyahoo finance httptcoa18wtcxs via yahoofinance
+268125453460594688	business	euro finance ministers to discuss greeces futuresbusiness juncker said eurozone finance ministers meeting mo httptcosladxkc8
+268125402852102144	business	events memphis center city revenue finance corp will meet tuesday nov 13 at 9 am in the boards office in the httptcocitu15sg
+268125253908193281	business	penney is the days biggest stock loser httptcorvqladwm
+268125252058509312	business	news summary wheat tumbles a second day on report httptcox068bhzc
+268125251253178370	business	how the major us stock indexes fared monday httptcoqkjibpay
+268125100065312769	business	pipe dream or possibility unified sales and financess pipe dream or possibility unified sales and financessis it possible
+268125032599912448	business	for economists the question of why people vote where it is not compulsory remains something of a mystery httptcomevhlzcy politics
+268124795760177152	business	celebrating food stamps for mexicosmark baisleyshttptcom9ew9sz7 via townhallcom tcot freemenforever governorperry teaparty
+268124748549066752	business	lg electronics honored with 10 ces 2013 innovations awards for smart technologies httptcoiapvgobm httptcomcjjrahc
+268124367559462912	business	what will jurassic cliff mean for dividend investors higher taxes on dividend paying stocks is a httptcouldatbxl yahoo uco
+268124297556541440	business	jandrewjohns mt theeconomist for economists the question of why people turn out to vote remains a mystery httptcosurcpauc
+268124266967482370	business	dallas certified or licensed review appraisers nm 6s dallas httptcoqm3ftym8 ebc jobs
+268124162839695360	business	8 finance questions to ask when considering a job offersthe art of manliness httptcoro16gbrx via artofmanliness
+268123769535602690	business	yahoo finance caesars entertainment executive to speak at 2012 citi north american credit confere httptcoh9oj7adm casino news
+268123623372500992	business	pt finance manager position open at cmccrshttptcoystnfhe4
+268123565763743744	business	the big four takes 4 out of the top 10 places to work slots congratulations on continuing to be great places to workshttptconh9t0pdy
+268123462420275200	business	qa is it better 2 finance a used car through a bank or through a dealer httptcoc7wlaby9 educational loans student
+268123138842316800	business	but will oil prices will drop signif seems doubtful us seen overtaking saudis as biggest oil producerscomcast httptcofcz2jygz
+268122943584882689	business	gamestop shares up ahead of earnings gamestop corps shares jumped monday ahead of the videogame retailers q httptconzsxynuo
+268122825439715329	business	news summary wheat tumbles a second day on report httptcohw1ipx1w
+268122510917246976	business	good ministrysfellowship while in the tennessee districts2 new pims and we were able to raise finance in httptcoflb7whjc
+268122467065798656	business	business rt us stocks nearly unchanged as fiscal threat looms us stocks closed nearly unchanged monday afte httptcov9tmvjxp
+268122465815904258	business	business rt best buy hires exwilliamssonoma exec as cfo struggling consumer electronics chain best buy saidshttptcotvdsxunn
+268122464414994432	business	business rt penney is the days biggest stock loser jc penney co executives may be confident in the departm httptco1ifedlgw
+268122358907301888	business	rt joshdance finance in the library random guy offers chrome cookie thanks random google man httptco3jaxzpxl
+268122081223385088	business	family finance class got married todaysi cant wait for next semester to see who i will marry
+268121565021995008	business	british economy to grow faster than all major countries in europe via telegraph httptcolskwxhly
+268121424789643264	business	if you know of an entry level job in the financeaccounting field in the twin cities areaplease let me know emailsdawnbalkegmailcom
+268121407718846464	business	greece gripped by 48hour austerity strikes via telegraph httptcomxqzfoel
+268121292870393857	business	jooliabutler i was above the choir room in personal finance
+268121283181568000	business	angela merkel sticks to austerity script in portugal as revolt builds via telegraph httptcopxotfzyc
+268121121495343106	business	sinopec chairman rules out talisman takeover wsj says sinopec snp chairman fu chengyu said that the companyshttptcotx5nhkkh
+268120898530312192	business	deans news post money fund founder cleared of fraud the founder of the reserve primary money market fu httptcoa9ztps9b finance
+268120897586597888	business	deans news post bloomberg launches itunesstyle platform the media company is launching an itunesstyl httptcoscr9zccz finance
+268120836446224384	business	finance in the library random guy offers chrome cookie thanks random google man httptco3jaxzpxl
+268120575266922498	business	just seen the news on the link up between lancs county council and fund httptcoh2w6iowj well done to lccsfinance support is there
+268120453137170432	business	readallaboutit enquirer new nosmudgee mascara shield invention assures smudgefree mascara application pressrelease httptcoizrc3qgf
+268120387387273216	business	jc penney stock loses 13 and drops to its lowest price since march 2009shttptcovwb1ijq5
+268120334916542464	business	fda finds contamination issues at ameridose httptco8nmoyjkb
+268120254675300352	business	fda finds contamination issues at ameridose federal health inspectors found more than a dozen manufacturing pro httptconup427k3
+268119841796390912	business	us stocks nearly unchanged as fiscal threat looms us stocks closed nearly unchanged monday after a day of un httptcogdrcdog2
+268119839959310337	business	penney is the days biggest stock loser jc penney co executives may be confident in the departmentstore cha httptcospaujk5c
+268119839023976448	business	hostess closing 3 bakeries following strike hostess brands inc is permanently closing three bakeries following httptco2jrwbgvi
+268119719767339008	business	if anyone knows of am entry level job in the financeaccounting field in the twin cities areaplease let me know email me at dawnbalke
+268119635893829633	business	fda finds contamination issues at ameridose federal health inspectors found more than a dozen manufacturing pro httptco9r2hbuuw
+268119619313745920	business	health federal health inspectors found more than a dozen manufacturing problems including leaky ceil httptco9r2hbuuw pakistan
+268119433334120449	business	jaguar mining reports third quarter 2012 financial results sees further cash cost improvement cnw groupsja httptco6xrso3u6
+268119305709834240	business	moodys sees recession if washington talks fail moodys analytics on monday forecast that the us economy will httptcocxwauy8i
+268119298726309888	business	canada finance minister flaherty delivers fall economic update tuesdaystoronto star httptcog9usfeb5
+268119160326856704	business	lowes iris smart kit named as ces innovations 2013 design and engineering award honoree lowes companies inc httptcoaaws3ytu
+268118797158854656	business	news summary us stocks close barely changed httptcomepwr3b5
+268118795816677376	business	ups ends grants to boy scouts over discrimination httptcom5yzkrsz
+268118791320391680	business	fda finds contamination issues at ameridose httptcokmtm4h8n
+268118579218612224	business	rt frugalrules generating income while not workingss via financefoxssshttptconve7znqz
+268118439128858624	business	httptcosrnj9f5t wealthy dump assets in advance of cliff httptcole4nubgx taxes
+268118438143225856	business	httptcosrnj9f5t fiscal cliff what are the options for a deal httptcoba6lkuql taxes
+268118118998630401	business	rt arvadabuzz jobs future accountingfinance internship opportunities at henry schein arvada co httptco5om0buyq spon localbuzzz
+268117835455283201	business	ups ends grants to boy scouts over discrimination httptcodmwcozms
+268117531091423232	business	minnesota ceos wind down 2012 with wary words httptcogccxjgvp
+268117233165815810	business	new best buy cfos goal is transformation of decadesnew york reuterssfor former williamssonoma finance chie httptcoghe2jtks
+268117079725572096	business	httptcolazo6wn0 with rates so low nows a great time to finance or refinance a home cnbtn im atshttptcorxiv0sdn
+268117044074008576	business	httptcorv8yfbry fda finds contamination issues at ameridose federal health inspectors found more than a do httptconqewkkft
+268116990068150272	business	divide or conquer excellence in unifying financessalesss divide or conquer excellence in unifying financessalesssrobert
+268116981620822016	business	mintlife blogspersonal finance newssadvicestop 3 creditsmore stories from john ulzheimer top 3 credi httptcojj2vqndv
+268116530166915073	business	jobs future accountingfinance internship opportunities at henry schein arvada co httptco5om0buyq spon localbuzzz
+268116421685411840	business	jimcramer is president serious about letting bush tax cuts expire httptcowidoxcfl
+268116305264136193	business	mondays top upgrades and downgrades analysts shift stance on navistar hibbet sports and straye httptcovijiqnfu yahoo uco
+268116011662852096	business	and this is why we continue to self finance create and promote our own short films and other art based endeavors httptcotqvytc4i
+268115666362572800	business	personal finance 78th period sucks the day seems toooooo long
+268115389051990016	business	robert paisola news fda finds contamination issues at ameridose federal health inspectors found httptco9d5i74da world news zone
+268115380961157121	business	davis graham adds to finance and acquisitions group ansley covey previously worked as an associate at lathams httptcobw6k0e55
+268115378280992768	business	fda finds contamination issues at ameridose federal health inspectors found more than a dozen manufacturing pro httptco3hls0e6t
+268115115000356864	business	news summary rim to unveil new blackberry phones httptcoyxz9jcrd
+268115114773868545	business	a year in youtubes channels not mustsee tv yet httptcomrux7ddk
+268115023417716736	business	a year in youtubes channels not mustsee tv yet httptcooxdko7bf
+268114983668310016	business	france eyes libya deals after unfreezing 2 billion assets httptcofiv8k0pe
+268114900625285120	business	world business newsshttptcorgjehhbd
+268114793309810690	business	verizon to pay 85 billion dividend to its owners httptcoukiuyrgy
+268114790809993216	business	dollar little changed in light trading httptcoonu7fyjh
+268114788255678464	business	penney is the days biggest stock loser httptco3beszgi8
+268114785508405248	business	us stocks nearly unchanged as fiscal threat looms httptcosxqxlumz
+268114784082329600	business	hostess closing 3 bakeries following strike httptcokywyrsrc
+268114782702428161	business	penney is biggest the days biggest stock loser httptcopufqmqnq
+268114781532209153	business	fda finds contamination concerns at ameridose httptcoxebhpneb
+268114765799370752	business	a year in youtubes channels not mustsee tv yet httptcoewd31pwn
+268114763932917760	business	stocks close little changed as fiscal cliff looms httptcok7kaatee
+268114761588297728	business	chicago financial planningsanalysis managerslake forest ils lake forest httptcooibkaoad ebc jobs
+268114759692468226	business	chicago financial planningsanalysis managerslake forest ils lake forest httptcof8yet8a9 ebc jobs
+268114754864828416	business	wheat falls for a second day on supply concerns httptcofjhdbs99
+268114749085073408	business	french doctors protest over costcontrol efforts httptcoapkdc8a7
+268114747189235713	business	dutch coalition revamps unpopular austerity plan httptcorimhznck
+268114584089550848	business	analysis googles android finally earns respect with developers httptcokbqw6azn
+268114541378940928	business	a year in youtubes channels not mustsee tv yet httptcogu5jqv0m
+268114537465663488	business	source kodak reaches deal to borrow 793m httptco5po21sbl
+268114535972495360	business	news summary led replacements for 100w bulbs httptcoiajvtqad
+268114532021444610	business	news summary rim to unveil new blackberry phones httptcox1rgthf6
+268114458881167360	business	1st person sticking to my grocery budget amid rising food pricessfrugalshttptcodp6dleqs
+268114346092142594	business	business rt how the major us stock indexes fared monday us stocks closed nearly unchanged monday after a da httptco3wcnszv3
+268114344921935873	business	business rt fda finds contamination issues at ameridose federal health inspectors found more than a dozen manu httptcopdqaxxhn
+268114343437139968	business	business rt verizon to pay 85 billion dividend to its owners verizon wireless on monday said it will pay a d httptcoj09bvjeu
+268114249270829057	business	stocks close little changed as fiscal cliff looms stocks are closing little changed on wall street as investors httptcoyoycakh8
+268114223295508480	business	china to raise fuel prices 665 percentsbeijing reutersschina is raising the retail price of gasoline and httptcodcdyyhxg
+268114016323383296	business	celebrating food stamps for mexicosmark baisley on httptcorvwvx7qy httptcofoaa1med via townhallcom
+268113917941805056	business	the ou finance department is awesome saidnooneever
+268113717990916096	business	the irs has gone roguesmichael f cannon on httptcorvwvx7qy httptcod94vx9yq via townhallcom
+268113605000564737	business	ford builds new plugin in michigansyahoo finance httptcoc4ruc69r via yahoofinance
+268113576257019905	business	rt nhssupporters bma personal health budgets must be delayed httptcoregmgjbi
+268113509882142720	business	egyptian groups reject 48 billion imf loan seventeen cairobased groups sent a letter monday to the head of the httptco6tubaveq
+268113342940459009	business	rt ariegreenberg httptcofiawxu2q beacons new buy in pennsylvania httptcoxx2g7hzh httptcox9l7aoa3
+268113111553294336	business	rt nhssupporters bma personal health budgets must be delayed httptcoregmgjbi
+268112910847471616	business	httptcofiawxu2q beacons new buy in pennsylvania httptcoxx2g7hzh httptcox9l7aoa3
+268112870259171328	business	france eyes libya deals after unfreezing 2 billion assets httptcovebzprxk fb
+268112812113547265	business	public safetyscrime prevention policysfinance committee mbr daudts drivers license suspended 4 times since 2006 httptcopdxyap3z
+268112701933367296	business	analysis googles android finally earns respect with developers httptcotvuw4y1h
+268112655049441280	business	deans news post obama election sparks demarco trade investors see obama administrations hints ar re httptco6hj9pcka finance
+268112476263043072	business	rt dhillonssd44 ja finance park was alright httptcoh18c3koi
+268112317391175680	business	rt nhssupporters bma personal health budgets must be delayed httptcoregmgjbi
+268112252564021248	business	dollar little changed in light trading the dollar is trading in tight ranges against other major currencies inshttptcoq8g4q9kf
+268112199610949632	business	bma personal health budgets must be delayed httptcoregmgjbi
+268112018974834688	business	new york part time bookkeeper needed for residential property management compas massapequa park httptcojsdxdtiz ebc jobs
+268111830617030657	business	france eyes libya deals after unfreezing 2 billion assets httptcokdjl75ox
+268111732600344576	business	wall street ends flat on fiscal standoff stocks were little changed in a lightly traded session on monday wit httptcojtbne8za
+268111704313974786	business	lcabanellas umm yea it was finance until i took finance lol it wasnt what i expected
+268111561367887873	business	missouri career job future accountingfinance internship opportunities at henry schein missourishttptcot2rb0pkb
+268111559463677952	business	newcarincentives new car financesonly six days leftsto get 09 financing on a new honda pilots httptcol6uxgztt
+268111409320173569	business	verizon to pay 85 billion dividend to its owners verizon wireless says it will pay a dividend of 85 billion httptcoo1tq4mqw
+268111408045113344	business	penney is the days biggest stock loser jc penney co executives may be confident in the departmentstore cha httptco6qoexck6
+268111262108491776	business	sr pm compliancefinance job in bellevue wa at teksystems inc httptcol1sn8qim management jobs
+268110934734680065	business	nyc to spend 500m to repair schools hospitals new york city mayor michael bloomberg has announced a 500 mill httptcoatdqzrhh
+268110864056455168	business	thanks farnoosh for the excellent article on yahoofinance httptconcf2pvsn
+268110743679926272	business	lipa to restore most long island ny power on tuesday reuterssthe new york stateowned lon httptcojx9rhoqy teamfollowback
+268110742748803072	business	lipa to restore most long island ny power on tuesday reuterssthe new york stateowned lon httptcoezkudqvd autofollowback
+268110711337660417	business	billionaire warren buffetts secret ice cream fixsoff the cuffsyahoo finance httptcoxqi0ux0s via yahoofinance
+268110616038895616	business	world business newsshttptco1bonsbtq
+268110563551346692	business	jobs future accountingfinance internship opportunities at henry schein tulsa ok httptcocahyo59x spon localbuzzz
+268110274593169411	business	money personal finance investing newssadvicesmsn money httptcoyo8wtkd4
+268109792004935680	business	penney is biggest the days biggest stock loser httptcoekhstidl
+268109790239158272	business	euro nations split on how to help greece cut debt httptco9jhxcdik
+268109544431943681	business	tanger factory outlet centers offers growth income httptcouuwqg0pk finance
+268109430963462144	business	onlinebusiness sc12 news multimedia and online press kits available at httptcosmmgao7x httptcopce3v4zl
+268109247093559298	business	moodys sees recession if washington talks fail moodys analytics on monday forecast that the us economy will httptcotgir2yck
+268109246024003584	business	euro nations split on how to help greece cut debt european finance ministers appeared no closer monday to agreeing httptcob1lwhv80
+268109035922915329	business	nonprofit nonprofits face challenging endofyear giving seasonsus newssworld report us newssworld r httptco39vskzap
+268108791831203840	business	verizon wireless plans to pay 85 billion to its parents httptcokv4ypmso lifestyle
+268108131060563968	business	antiobama ceo raises no layoffs antiobama ceo raises no layoffs httptcozwbs8lvb obamanews obama
+268107659436236800	business	so i definitely ripped ass in finance and no one even looked boom roastedsmy boyfriend ladies and gents lol johnwall14
+268107521212960768	business	junk or jewels the lowdown on highyield bonds after a year in which junk bonds were anything but junky the o httptcoc4546j6k
+268107166739755008	business	power solutions international inc reports third quarter 2012 results net sales up 21 year over year 3 sequ httptcocvo0k98g
+268107087194750976	business	a year in youtubes channels not mustsee tv yet httptcomrux7ddk
+268107084233580545	business	source kodak reaches deal to borrow 793m httptcoz0aamoom
+268106906944565250	business	radio xg technology extends leadership in cognitive radio innovation with two new patents httptcousiwp6zm
+268106860782055424	business	rt sydshithans im glad i finally get to see alicrewdson back in my personal finance class
+268106714384056322	business	studying finance fml i have never hated learning so much
+268106671862206464	business	this could be interestingif it works rt toyota tests cars that communicate with each other httptcoetd3hmpe
+268106514747756544	business	why we need campaign finance reform rt mprpolitics in closest race of her career bachmann spent 120 per vote httptco5cbua4wu
+268106191572451328	business	sc12 computational finance nvidia carma sounds like raspberri piscuda gpu
+268106185113210880	business	a year in youtubes channels not mustsee tv yet when google announced its plans to fund some 100 new channel httptcou70wokax
+268106082466009088	business	robert paisola news euro nations split on how to help greece cut debt greeces international cr httptcotnimzyya world news zone
+268105768581095424	business	need a part time job in the naples fl areasdegreed in finance experience as a tutorteacherclick httptcohvvh7wpf
+268105761392041985	business	business rt a year in youtubes channels not mustsee tv yet when google announced its plans to fund some 10 httptcotkrwcpqe
+268105760402198530	business	business rt stocks close little changed as fiscal cliff looms stocks are closing little changed on wall street httptcoxl41igw5
+268105732778508290	business	euro finance ministers to discuss greeces future httptcoeck4aexw via sharethis economy eurozone greece
+268105388287725568	business	californialos angeles title californialos angeleslocation stockcashiertrue095377 httptcowp7unvxk jobs employment
+268105313750773762	business	upward commodity price momentum slows in octobershttptcozwh7r5dm httptcod7hzt9rh economy commodities momentum
+268105066479767553	business	chinas central bank policy seen steady despite drop in loans httptcohpx84o0m china economy bank policy loans
+268105030408749056	business	interest in chinas once lucrative mutual fund sector wanesswestern firms taking a waitandsee attitude as httptcoou7gwlaa
+268104786061193216	business	rt smartypig save 200 a month on groceries yes please expert farnoosh tells us how httptconogm9rdx
+268104770391261184	business	a year in youtubes channels not mustsee tv yet httptcoiixi5dd0
+268104600127672321	business	cost becomes bigger question in treating heart disease httptcoanbtocbz
+268104520138108928	business	identity theft intensifies protect yourself weve heard that identity theft is on the rise and after hearing its httptcorsd1droq
+268104302495670272	business	how to devise passwords that drive hackers away httptcol0mhe35f via tweetsmarter socialmedia smallbiz
+268104115484233728	business	a year in youtubes channels not mustsee tv yet when google announced its plans to fund some 100 new channel httptcohwps7yz3
+268104114620215297	business	a year in youtubes channels not mustsee tv yet httptcooh4qnfzm
+268104095158636545	business	a year in youtubes channels not mustsee tv yet when google announced its plans to fund some 100 new channel httptco3qizq46e
+268104029576519681	business	tech gadgets a year in youtubes channels not mustsee tv yet when google announced its plans to fund someshttptcogkc75gew
+268103703855251456	business	loans money finance httptco4p4ngyeq
+268103695877685249	business	euro nations split on how to help greece cut debt european finance ministers appeared no closer to agreeing on whether they were rea
+268103634343063553	business	german stocks little changed as finance ministers meetsbusinessweek httptcoebwtlxwy
+268103609194012673	business	simple tips for investing for the long term httptco86absez8
+268102951262879744	business	euro nations split on how to help greece cut debtsyahoo news httptcohfbzyhyy via yahoonews euro economy greece debt
+268102901560393728	business	jrnl2015 united states getting ready to head off of a cliff httptcontqpnglu
+268102189032034304	business	janewells cnbc hq wrote this for youshttptcozbzczyp7
+268101869388328961	business	identity theft intensifies protect yourself httptcopl9o14li
+268101775549157377	business	eurozone mulls new bailout loan for greece httptcos2p9f66dsbrussels finance
+268101425903587328	business	mon dieu europe moves toward us retirement modelsfox business httptcoc5zi82en via foxbusiness
+268101208823185408	business	i dont know how to cancel my student finance ooop
+268101171741356034	business	rt aubrystein httptcosrnj9f5t oil down slightly on worry about us fiscal cliff httptcoa4bzqd74 taxes
+268101115151777792	business	nppd says wells fargo misled it about risks the managers of nebraska public power districts retirement plan have httptcoxazgirje
+268100989331050497	business	5 ways to makemoney onlineshttptcokgluikbx
+268100988232159232	business	singles day chinas online shopping holiday lei shujie a designer in shanghai piled up a wish list for the qui httptcogwt2xua0
+268100850990342144	business	and vix continues to fall and all the vol experts question why are we certain about getting a budget deal done
+268100574069800961	business	secondary sources veterans jobs finance competition deadly growth finance competition raghuram rajan says httptcofhwxftgc
+268100557342924801	business	dollar little changed in light trading the dollar is trading in tight ranges against other major currencies inshttptcoapox1gde
+268100556420169729	business	penney is biggest sp stock loser jc penney co executives may be confident in the departmentstore chains e httptcoaasdtpr9
+268100554444664834	business	wheat falls for a second day on supply concerns wheat prices are closing lower again because of the higher crop httptcoj7imrop0
+268100553140236288	business	egyptian groups reject 48 billion imf loan seventeen cairobased groups sent a letter monday to the head of t httptcojalycc1y
+268100396667506690	business	rt hellosantia i hate hate hate finance this class drags on foreveeer
+268100270557388800	business	brigus gold reports q3 financial results business wiresbrigus gold corp announces results for the third qu httptcow86elpkx
+268100213946843136	business	rt lrubiof the world in 2060 the oecds forecastssthe economist httptcorqte0psv
+268100212038459393	business	rt lrubiof the world in 2060 the oecds forecastssthe economist httptcoaux65yuj
+268100126520782848	business	im glad i finally get to see alicrewdson back in my personal finance class
+268100098855149568	business	at a glance oil price stays above 85 per barrel the price of oil fell monday as global economic news took a b httptcog2xvuowy
+268099885834850305	business	i hate hate hate finance this class drags on foreveeer
+268099802577915904	business	new best buy cfos goal is transformation of decade new york reuterssfor former williamssonoma finance c httptcomuszwjno
+268099786136240128	business	the best way to finance your business is through customer revenue
+268099702422138882	business	dealership owners general managers finance directors and salespeople combined their expertise to create this comprehensive crm software
+268099642867187712	business	china money supply and loan demand declinesforexpros httptcowchjspva china economy moneysupply loandemand business finance
+268099632104607745	business	rileykay16 i hope fhsu requires you to take finance class
+268099614954123264	business	californialos angeles title californialos angeleslocation stockcashiertrue095377 httptcof1ypvfpl jobs employment
+268099554140889088	business	top paying careers in accounting and finance httptcorptdillc
+268099407025676289	business	campaign finance reform and dancing cigarettes httptcofy3ign00
+268099232878190592	business	vcc virtual credit card experts needed by anettloewe httptcorye77qvj
+268099231355650050	business	vba virtual bank experts needed by anettloewe httptcom3ac4rhl
+268099223239655426	business	billions spent in the election only to keep things largely the same election 2012 campaign httptco6lj31kt7
+268099207989182465	business	medicaid what it means and how you qualifysfox business httptcoqdxcracz
+268098546140602369	business	jefferies acquisition makes a ton of sense for leucadia httptcookydya9l finance
+268097831590559745	business	rt clarkhoward what is the best safest most secure move to make with your retirement dough httptcolixrj6os
+268097781145690113	business	personnel reform ballot measure passes campaign finance addressed by electorate httptcon4cphu4w
+268097612354314240	business	socialmedia marketlive hosts free webinar optimizing social media strategies and tactics for 2013 httptcoognrjiou
+268097023033622528	business	newcarincentives new car finances29 financing on a new ford f150sbuy a new ford f150 below invoice pric httptcofjybqfpq
+268096849385238528	business	source kodak reaches deal to borrow 793m httptcobtsyrmk4
+268096845052514304	business	finance briefs nov 13 2012 shelly perkins has joined legacy bank as trust officer and assistant corporate httptcotgccyght
+268096623987531776	business	tight credit is hampering uk recovery bank of englands kingslondon reutersstight credit conditions are httptcoctwtqdty
+268096616538439682	business	rt rt merrilllynch rt merrilllynch are you a vet seeking a career in finance check out mlcareers for the latest job opportunities
+268096359746400256	business	occupy wall street campaigners buyup debt to abolish it the telegraph httptcovgtlpkbh httptcotvuhkotl
+268096357657628672	business	dollar little changed in light trading the dollar is trading in tight ranges against other major currencies inshttptcoh6zmxjvr
+268096356927823872	business	dollar little changed in light trading the dollar is trading in tight ranges against other major currencies inshttptcovnpgxhoh
+268096356051218432	business	dollar little changed in light trading the dollar is trading in tight ranges against other major currencies inshttptcoydwvmls0
+268096274388115458	business	rt chinazaupdates vacancy for the position of accounts and finance officer in ibadan an fcmg company with presence in ibadan oyo httptcoathabgn0
+268096147262955520	business	hdrarchitecturesbooth 4353n and check out our announcement of an hdr project last week in the run up to greenbuild httptco21vaum4y
+268096053130194945	business	ilsmart now available on mobile devices story here httptcofdkll6dc
+268096040312401922	business	greatim new to the while paypal thing and i think its a great app has done everything it said it httptco94hti5rw ios
+268095913728278532	business	pipe dream or possibility unified sales and financess pipe dream or possibility unified sales and financessis it possible
+268095889145466880	business	4 tips for comic book investors httptco39r4lztn
+268095747675803649	business	marketing newsshttptco1bonsbtq
+268095737307463681	business	new york legal billing specialist 2s new york httptcoyb6qqofv ebc jobs
+268095736439250945	business	new york financial planningsanalysis managers new york httptcom7l0thzc ebc jobs
+268095719947268096	business	greece to get more time but no immediate aid i thought it will go bankrupt without aid clock is ticking httptcoznby1y28
+268095627873882113	business	rt chinazaupdates vacancy for the position of accounts and finance officer in ibadan an fcmg company with presence in ibadan oyo httptcoathabgn0
+268095613076389889	business	about to fall asleep in this finance class zzzzz
+268095211698266112	business	vacancy for the position of accounts and finance officer in ibadan an fcmg company with presence in ibadan oyo httptcoathabgn0
+268095043410206722	business	if you are in a walmart in arkansas buying this for your finance teacher who is a razorback is never a bad idea wps httptco3xhcabgw
+268094696910376960	business	no major pollution upgrades expected at refinery chevron does not plan to increase production at its firedamag httptcomxiyfke1
+268094596314169344	business	who should you ask for help credit card companies or credit counselors httptcoqb2lpbxd
+268094400876388352	business	business rt wheat falls for a second day on supply concerns wheat prices are closing lower again because of th httptco0gjwx8cy
+268094399777476611	business	business rt egyptian groups reject 48 billion imf loan seventeen cairobased groups sent a letter monday toshttptcoz73qr8p1
+268094398439501824	business	business rt oil down on worry about us fiscal cliff the price of oil fell slightly monday as global economic n httptcoztcszm1n
+268094329996849153	business	instant unsecured loanssinstantly approved articlesfinance loans by adam stephenchristian louboutin http httptcoow1679i6
+268094327232790528	business	robert paisola news source kodak reaches deal to borrow 793m kodak has reached an agreement t httptco4s48ucgq world news zone
+268094265836584962	business	ils has partnered with danaos to develop cloudbased ship management system for the marine industry story here httptco820iox0d
+268094202523557888	business	the worlds most promising new companies heres a list of potential ipos to buy if they go public httptcol98mnypo
+268094054561091584	business	save 200 a month on groceries yes please expert farnoosh tells us how httptconogm9rdx
+268093996897812480	business	financial analystsinvestment management advisor categories financesinsurancessalesjobshttptcooclffgor jobs employment
+268093950034837504	business	onlinebusiness research and markets online shopping habits of business executives in asiapacific 20122013 httptcortgcdo24
+268093800826695680	business	houston bilingual office coordinators38ks 50 kssspring httptcogpxzs0y3 ebc jobs
+268093796762398720	business	houston bilingual office coordinators38ks 50 kssspring httptcoep3r3kwi ebc jobs
+268093538288422912	business	the best of bankmarketing is out httptcouxqkjbz0
+268092825588080640	business	do you want to save well here are tips that could be helpful httptcov5gsyb26
+268092739965558785	business	tech gadgets source kodak reaches deal to borrow 793m kodak has reached an agreement to borrow 793 million httptcoira22a8n
+268092682340036608	business	source kodak reaches deal to borrow 793m kodak has reached an agreement to borrow 793 million potentially a httptcotijuib46
+268092628237692929	business	caveadsum hahaha true let me know if you get your cardstudent finance sorted out before this weekend and we can do something
+268092555927887872	business	on the road again with the ed finance task force this time at mrea conference in baxterscrowd filling the conference room
+268092530111950848	business	deans news post republicans shift stance ontaxing wealthy glenn hubbard who advised mitt romney isshttptcooqgx7i0h finance
+268092491578888192	business	egyptian groups reject 48 billion imf loan seventeen cairobased groups sent a letter monday to the head of t httptcosvdagkkc
+268092459886714880	business	blackstone sells stake at a loss according to reuters blackstone has reduced its stake in german telecommunica httptcob1fnq4gv
+268092234983944192	business	with the fiscal cliff looming congress must act how might lawmakers decisions or lack thereof affect your wallhttptcovpuvhfwa
+268092138418487297	business	a few points on protecting your online reputationss via financefoxssshttptcobaaogew0
+268091816203669504	business	money money market pioneer bruce bent cleared of sec fraud charges httptcob2rhzbc9
+268091801401966592	business	jefferies squeezes through graceful exit jefferies has become the second midtier investment bank in a week toshttptcoxezbyrmt
+268091526033330177	business	egyptian groups reject 48 billion imf loan seventeen cairobased groups sent a letter monday to the head of t httptcoy3wn93mj
+268091372697952256	business	obama news analyst lowers caterpillar rating price target jp morgan cut its rating and price t httptcoi5hmfpva obama video
+268091368860172288	business	egyptian groups reject 48 billion imf loan httptcojxkfwrob
+268091367543160833	business	oil down on worry about us fiscal cliff httptcoefwwxogt
+268091366612033536	business	dutch coalition revamps unpopular austerity plan httptcotjhroz71
+268091365135622145	business	french doctors protest over costcontrol efforts httptcojn1nuqob
+268091215482851330	business	tech news news summary led replacements for 100w bulbs httptcodgzhttsb
+268090986691981312	business	no major pollution upgrades expected at refinery chevron does not plan to increase production at its firedamag httptcou8dttjkq
+268090957398962176	business	struggling with what kind of job to look for something in sports or fitness would be awesomei have a degree in finance
+268090876717305856	business	twin cities sr financial analyst neededs saint paul httptcodkaxwkku ebc jobs
+268090441977708544	business	ja finance park was alright httptcoh18c3koi
+268090338990755840	business	us to pass saudi arabia in energy production yes we have enough oil the problem is getting it httptco8dw1m4na
+268090137982939136	business	monarch investmentsmanagement group joins with g5 and yardi to launch the most advanced marketing and retentio httptcoeeukrktb
+268090037223178240	business	global shifts of the financial kind httptco15vfx5ux newday
+268089895342456833	business	finished all my psych credits and i dont have to write a paper anymore thanks to the new finance professor its gonna be a easy week
+268089651175247872	business	httptcosrnj9f5t oil down slightly on worry about us fiscal cliff httptcoa4bzqd74 taxes
+268089636063162369	business	at a glance oil price stays above 85 per barrel the price of oil fell monday as global economic news took a b httptcoubw3zjb4
+268089430382899202	business	httptcoepta8311 senior vice president for administrationsfinancechief business office httptcojmouoxhv hiring jobs hire
+268089261079793664	business	do it now at httptcojbws47n8srt yahoofinance please raise my taxes says this millionaire via cnbc wealth httptcon2padz6n
+268089166921879553	business	working on the railroad bus routes reshaped to align with lrt httptcozckubbim
+268089051305897984	business	news summary led replacements for 100w bulbs httptcocevv1o4l
+268089050076962816	business	news summary rim to unveil new blackberry phones httptcozhwsvyhr
+268089028102995969	business	finance healthcare httptcomiulavct finance
+268089023292133378	business	expiration of bush tax cuts reason enough to embrace the fiscal cliff httptcowidoxcfl senatedems copolitics chrisvanhollen senate
+268089020158992385	business	finance jobs in healthcare httptcollxtb0sx finance
+268089012152041473	business	investment healthcare httptcoclxriynz
+268089003075579904	business	good healthcare stocks httptcooiubgroo good
+268088997656535040	business	healthcare investment opportunities httptconkpvxqr6
+268088962466320384	business	cases in healthcare finance httptconhmzuuua cases
+268088961627463680	business	journal of healthcare finance httptcojskb3gte finance
+268088960205586432	business	learn forex trading the doji candlesyahoo finance httptcoqrisqjkn
+268088956216823809	business	investment bank healthcare httptcoz9uagrps bank
+268088952127385600	business	healthcare investment firms httptcoje0s7o4u firms
+268088941339615233	business	healthcare finance group httptcopau98kqx finance
+268088940018421762	business	investment healthcare httptcoclxriynz
+268088939120820224	business	investment in healthcare sector httptcoqnvw2w0f
+268088930023387136	business	investment in healthcare sector httptcoitpg1nel
+268088925745197057	business	healthcare finance services httptcousg3kyyq finance
+268088925032153089	business	healthcare stocks to invest in httptcow3idfkjw
+268088923102777344	business	world business newsshttptcoerygjato
+268088893121900544	business	cases in healthcare finance solutions httptcogqpc6gtm cases
+268088871345074176	business	investment in healthcare sector httptco3wndbeq7
+268088871097618433	business	investment in healthcare sector httptcog91pf9uf
+268088866836189184	business	healthcare investment banking firms httptcoxjghhjsm banking
+268088861509419009	business	essentials of healthcare finance httptcocltagork
+268088857206067200	business	healthcare investment opportunities httptcobqa0cgd9
+268088845332000768	business	healthcare penny stocks httptco7wlergee
+268088824888967168	business	healthcare stocks to invest in httptcowcassmgg
+268088824704421888	business	healthcare investment opportunities httptcowzq6w6mf
+268088724313759744	business	money news who should you ask for help credit card companies or credit counselors in oc httptcopjap6x1v httptcojyiq6ere
+268088721130278913	business	money news personal finance tis the season for donating money like many other economicshttptcoum9ox6c1 httptcojyiq6ere
+268088486702239744	business	rt yahoo british lawmakers take starbucks amazon others to task over tax evasion in the uk httptcowp2kouhu
+268088468402483200	business	rt clarkhoward what is the best safest most secure move to make with your retirement dough httptcolixrj6os
+268088321639596032	business	boulder agile software meetupsfinance and budgets in the agile worldstues 7pm free at rallydev httptcol2dfolpz
+268088282284433408	business	uk finance bonuses to plummet as london loses groundsreuters httptco72mf6yeq
+268088097177231360	business	obama steers us towards focus on asia on his first foreign trip since the election barackshttptcoeeivlbqo obamanews obama
+268087844428447745	business	good day at the finance park
+268087439619399682	business	check out share on twittershttptcoo75iepf1 via dailyfinance
+268087340273111040	business	french doctors protest over costcontrol efforts hundreds of french doctors many wearing white lab coats and b httptcouamscbf9
+268087339610423297	business	french doctors protest over costcontrol efforts hundreds of french doctors many wearing white lab coats and b httptcoh92dmgk1
+268087338725416960	business	french doctors protest over costcontrol efforts hundreds of french doctors many wearing white lab coats and b httptcoqvcj3lwn
+268087003294339073	business	aliceabura beetulynk tonight and it really helped having loads of books and c space ive done finance so what do u wna do xx
+268086271249899521	business	celegene unexpected abraxane development should add 550 million tos istockanalyst istockanalystcelegen httptcopaibsgqv
+268085921709174784	business	nice entrepreneurship finance the genius of starting a company without outside capitalshttptcobyglm1mb httptcohrlhsezo
+268085523699081216	business	business rt dutch coalition revamps unpopular austerity plan newly installed dutch prime minister mark rutte s httptcotwyzvue5
+268085522004594688	business	business rt penney is biggest sp stock loser jc penney co executives may be confident in the departmentst httptcojmqxhgyp
+268085520721129472	business	business rt euro nations split on how to help greece cut debt european finance ministers appeared no closer mo httptcoupf85gr5
+268085376898445312	business	apple making the 5ssalready httptco8blgi5kj
+268085217091260417	business	robert paisola news led replacements hit stores empty of 100w bulbs sorry to see 100watt bulbs httptcolyu5tfrr world news zone
+268085215304495104	business	robert paisola news penney is biggest sp stock loser jc penney co executives may be confide httptcondmc7kl2 world news zone
+268085183092256768	business	led replacements hit stores empty of 100w bulbs sorry to see 100watt bulbs disappear from stores because theyshttptcoltcavrxd
+268084346861277184	business	rt clarkhoward what is the best safest most secure move to make with your retirement dough httptcolixrj6os
+268084183778344960	business	what is the best safest most secure move to make with your retirement dough httptcolixrj6os
+268083753660858368	business	tech gadgets interdigital forecasts strong 4q revenue interdigital inc said monday that it expects patent ro httptco4nuujtff
+268083679920799744	business	interdigital forecasts strong 4q revenue interdigital inc said monday that it expects patent royalties and str httptcov6mpwp5m
+268083668101251072	business	interdigital forecasts strong 4q revenue interdigital inc said monday that it expects patent royalties and str httptcooafhj9o9
+268083492477349889	business	deans news post us and eu fiscal woes weigh on stocks investors unsettled as data hinting at a recessi httptcoihphbjkq finance
+268083432960192514	business	lol i sound like ya finance or some shit
+268083187597594624	business	rt electronicpr apple aapl likely to start iphone 5s trial production in decsistockanalyst httptcohdmv1lry
+268083139392466944	business	treat yourself alexgeleeshttptcodojtcf7g
+268083086040920064	business	apple aapl likely to start iphone 5s trial production in decsistockanalyst httptcohdmv1lry
+268083015761154048	business	latinamerica financial markets today argentina 061sbrazil 051scol 005schile 021smex 017 finance investing
+268082996563812352	business	lps finance wins 17th consecutive international budget award congratulations to the lps finance department for httptcopymoagyl
+268082883628003328	business	jobs business internsfinance operation summer 2013 at mutual of omaha bank omaha ne httptcoxzk2gyb5 omaha ne
+268082731752243200	business	penney is biggest sp stock loser jc penney co executives may be confident in the departmentstore chains e httptcofq7b6fxs
+268082669097713664	business	at restaurant finance development conference
+268082619613331456	business	celegene unexpected abraxane development should add 550 million tos istockanalyst istockanalystcelegen httptcopzbqlmau
+268082612898242560	business	euro nations split on how to help greece cut debt european finance ministers appeared no closer monday to agree httptcoiceasjer
+268082611795140608	business	news summary karzai in india to woo investment hat in hand afghan president hamid karzai urged indian compani httptco9zgqe4kz
+268082610947883008	business	google amazon and starbucks face questions on tax british lawmakers on monday accused major multinational comp httptcohoxuw1vc
+268082610054520832	business	leucadia buying investment banker jefferies group leucadia national is buying the investment banking firm jeffe httptco7v7qfyhk
+268082602576052224	business	euro nations split on how to help greece cut debt european finance ministers appeared no closer monday to agree httptcot4jyuhys
+268082600667656192	business	drrdb wisdomismisery we arent producers which is why im curious as to where the economy is going finance isnt it either
+268082529897181184	business	cost becomes bigger question in treating heart disease los angeles reuterssthe cost of treating heart disea httptcosaahuxww
+268082524490702850	business	health los angeles reuterssthe cost of treating heart disease has become a key factor in decision httptcosaahuxww pakistan
+268082430542508033	business	celegene unexpected abraxane development should add 550 million tos istockanalyst istockanalystcelegen httptconb8izgau
+268082311638163457	business	tech news interdigital forecasts strong 4q revenue httptco68tui3vs
+268082287537704960	business	obama news mo governor barge industry urge action on rivers missouri gov jay nixon and the bar httptcotx8jebwt obama video
+268082169627422720	business	mo governor barge industry urge action on rivers missouri gov jay nixon and the barge industry are imploring httptcoqdvyunhj
+268082168750800896	business	news summary karzai in india to woo investment hat in hand afghan president hamid karzai urged indian compani httptcoxf9n7gqo
+268081770510028800	business	jobdenverco80219finance tutors are needed for upcoming assignments this summer as well as the 20102011httptcoxtswcpdc
+268081566176129024	business	time for the alternatives industry to write a new narrative httptco6q5x5la4 cayman finance cayman finance
+268081514649104386	business	pageonce money and bills crossplatform personal finance gets seriously mobile
+268081480369070080	business	working on the railroad bus routes reshaped to align with lrt httptcoi2vb7vcr
+268081371807899648	business	upgrade your computer without downgrading your walletshttptco6pk533mq
+268081051954470912	business	via ivnetwork european finance ministers meet to discuss greek debt crisis httptcorc9mcoex independents
+268080892654792705	business	us small business hiring slows in august wages dip reuterssreutersshiring by us small businesses slowed httptcopypz9q3q
+268080798194864129	business	interdigital forecasts strong 4q revenue httptco3to7jriz
+268080467557879808	business	and another raping committed by finance 102 ouch
+268080363996319744	business	newcarincentives new car finances09 financing on a new land rover range rover evoquesbuy a new land rover httptcokh3qppoh
+268080046143569920	business	mo governor barge industry urge action on rivers missouri gov jay nixon and the barge industry are imploring httptcovxggflrb
+268079892279726082	business	cd howe inst report suggests voucher system more choice in providers how to manage the surge in longterm care needs httptcolwylbabg
+268079860356882433	business	euro nations split on how to help greece cut debt httptcoq75aqoib
+268079859039866880	business	news summary karzai in india to woo investment httptcolumpfdnq
+268079648603254784	business	interdigital forecasts strong 4q revenue httptco9pzaxysx
+268079616210649089	business	cost becomes bigger question in treating heart disease httptcoeqaujl1h httptco16zkucjb
+268079345640275968	business	rt econompic anyone have a clue why retail investors can easily access this 2x vix etn and not hedge funds httptco1bihb207
+268079130388606976	business	newcarincentives new car financesonly eighteen days leftsto get 09 financing on a new nissan jukes httptcokd8xtnzd
+268078988105224192	business	wats a good place to get a car from or finance from
+268078921558409216	business	httptcorv8yfbry cost becomes bigger question in treating heart disease los angeles reuterssthe cost of httptcokymg8tph
+268078829204041729	business	google amazon and starbucks face questions on tax httptcowqmjtqfu
+268078289548095489	business	tourists swim in flooded venicesphoto gallerysyahoo news httptcoewacbbl5 via yahoonewssawesome photos
+268078166785007616	business	apple about to start production of the iphone 5ssdaily tickersyahoo finance httptcohuknmuct via yahoofinance
+268078025424392192	business	euro nations split on how to help greece cut debt european finance ministers appeared no closer monday to agree httptcowwlkpguq
+268078024656830465	business	euro nations split on how to help greece cut debt european finance ministers appeared no closer monday to agree httptcogu0jy0gs
+268078024107388931	business	euro nations split on how to help greece cut debt european finance ministers appeared no closer monday to agree httptcovgnguklq
+268078007938342912	business	adamdanger studied econ and finance it just makes cents
+268077674872856577	business	starbucks amazon and google admit using favourable tax jurisdictionsstelegraph httptco86iqmhvk aalhudaithi
+268077658221469696	business	exclusive advanced equities shutting down the end of advanced equities httptco3mqhpfmu
+268077632749461504	business	mostread stories on httptco3iugdl9h week of nov 5 httptco1elcvors
+268077069617987584	business	reqqa tester12 positions hi please let me know if you have any suitable consultant available for the follo httptcoccpk4ywq
+268076950768189441	business	houston severance tax advisor job 108527s houston httptcosujvqn71 ebc jobs
+268076946842320899	business	houston severance tax advisor job 108527s houston httptcoezsai6oq ebc jobs
+268076392237903872	business	personal finance daily giving new life to vacant lots empty lots and vacant buildings aren httptconemb52yu
+268076124037316608	business	business rt news summary karzai in india to woo investment hat in hand afghan president hamid karzai urged i httptco4cntvyy7
+268076122472857600	business	business rt a year in youtubes channels not yet mustsee tv when google announced its plans to fund some 100 httptcos8xn6g5s
+268075809741369345	business	national marketing newsshttptcorgjehhbd
+268075758218522624	business	ellieclifford when do we actually apply for student financespoo
+268075705613574144	business	a year in youtubes channels not yet mustsee tv httptco8mleuwa5
+268075661153931265	business	while obama invested in alternate energy big oil invested in reality httptcom7ff612i so nationalize big oil like chavez
+268075467570024448	business	pc mall reports third quarter 2012 results httptcouaxbjfic pc
+268075268755816449	business	definitely need to get some badman monitors on finance these speakers just aint cutting it
+268075224262643713	business	raleigh tax preparerssraleigh free tuition tax schoolirs approved qualifies for ce credits httptco5t8gdsrx ebc jobs
+268074832921497601	business	a year in youtubes channels not yet mustsee tv httptco2yp1fdlz
+268074832359481344	business	httptcoj06fzfwa via townhallcom the way the irs will force people to pay for health insurance more great news
+268074832141381632	business	news summary greece may get 2 more years httptcoiokdh2dm
+268074143449235456	business	a year in youtubes channels not yet mustsee tv when google announced its plans to fund some 100 new channels httptcodiwfj9vy
+268073980840247296	business	learn forex trading the doji candle httptcox6kry6y1
+268073937244663808	business	google amazon and starbucks face questions on tax british lawmakers on monday accused major multinational comp httptcodjkb1uw0
+268073920538767360	business	tech gadgets a year in youtubes channels not yet mustsee tv when google announced its plans to fund some 1 httptcopx0s8hnt
+268073899734994947	business	httptcofiawxu2q top zacks ranked healthcare etf in focus httptcoq72trsls httptcox9l7aoa3
+268073880671887360	business	walden university announces 2012 educator for a day grant recipients httptcoyghr3leo edu
+268073802997592064	business	cost becomes bigger question in treating heart disease los angeles reuterssthe cost of treating heart disea httptcoim4lreq0
+268073524424503296	business	braiden harvey how con ed turned new york citys lights back onsfortune blog fortune bloghow con ed turne httptcoitjwqziq
+268073155082481665	business	i love when there are technical problems in personal finance because that means less class time
+268073001961009152	business	a year in youtubes channels not yet mustsee tv httptcolejlfpf0
+268073000824344577	business	led replacements hit stores empty of 100w bulbs httptcowwm9dtce
+268072953516789760	business	israel rt didiremez netanyahus government has quietly doubled funding for settlements says finance minister httptco7a9m9fxo
+268072575761002496	business	home prices rose in october rt realestatemn falling leaves rising prices for local home sales httptcohelhjdj2
+268072463248809984	business	nonprofits face challenging endofyear giving seasonsus newssworld report httptco3pid67en
+268072210839769088	business	leucadia buying investment banker jefferies group leucadia national is buying the investment banking firm jeffe httptcoepyvl75c
+268072208914583552	business	us to import almost zero mideast oil by 2015 httptcofwcasr0uscanada usa wallstreet finance oilprice
+268072175385313280	business	euro finance ministers to discuss greeces futuresbusinessweek httptcor67ni8jm
+268072094175211520	business	japan on brink of recession httptcoyajjcgzisbeijing usa dollar china tokyo finance euro gold economy
+268072073556017154	business	sex trumps economics will petraeus scandal scuttle a fiscal cliff deal the petraeus scandal could potentially httptcodqxfhlyw
+268071956388134913	business	exbbc boss set to take reins at new york times today httptco7e12o5al
+268071842676367360	business	mortgages finance ginnie maes john getchis reflects on his initial days httptcohfmf7sie
+268071833704726528	business	led replacements hit stores empty of 100w bulbs httptconinfvwhr
+268071788624375809	business	education finance working group session for chartersmde has been hosting listening sessions across the state to httptcooesvm4xb
+268071698153226242	business	a year in youtubes channels not yet mustsee tv httptcos3eq6to3
+268071696861384705	business	news summary greece may get 2 more years httptcoqinn7szo
+268071695728902145	business	dozens arrested in croatia anticorruption sweep httptcoii6vnoow
+268071694562897920	business	egyptian groups reject 48 billion imf loan httptcoqxxp06q7
+268071457039478784	business	led replacements hit stores empty of 100w bulbs httptcowtehjqxj
+268071387128799232	business	finance business probe into alleged gas price fix httptcotyk88fhr stalbans harpenden
+268071352915873792	business	senior agingscost becomes bigger question in treating heart diseaseshttptco9nnuowig
+268070918188834816	business	rt ariegreenberg asset managers for dividend income and capital returns httptcopwancpag finance
+268070810302955520	business	what a weekend check out this photo taken by marian our finance manager on friday night up at brighton you httptcohqmvd8mg
+268070483281473536	business	rt economy google starbucks and amazon to face mps over tax avoidance bosses from google httptcosl1eop6g money debt credit
+268070348191301632	business	asset managers for dividend income and capital returns httptcopwancpag finance
+268070245661548545	business	httptcof5gagjim how con ed turned new york citys lights back on httptcop3xwiapg httptcomd9hi4j0
+268070236165644288	business	how con ed turned new york citys lights back on hurricane sandy took out four of the utilitys power plants a httptcoulgswiso
+268070214393004032	business	how con ed turned new york citys lights back on hurricane sandy took out four of the utilitys power plants a httptcoswg1spki
+268070203722723328	business	cnn how con ed turned new york citys lights back on httptco4bgk6yx5
+268070106242891777	business	hmrc launches campaign to smoke out tax cheats via telegraph httptcokunupn1p
+268069982276050944	business	sbs europe greek bailout bill rises as ministers meet eurozone finance ministers have been told that agreeingshttptcozu7lp0pe
+268069942824407040	business	d0xing new mnleg house minority leader kurt daudt httptcoz7aihnp7shis horrible driving record httptcozmxjojb3 via sallyjos
+268069726603866114	business	startups internet week new york names caroline waxler as festival director longtime industry leader to take helm httptcotxwfv6vm
+268069717145690113	business	falling leaves rising prices for local home sales httptco6x3pqez1
+268069671293571072	business	apple apple htc drop charges apple inc recently settled its longstanding patent dispute with the taiwaneseshttptcojpw9rmi2
+268069076524490752	business	rt megemooo financeshminance ugggggh
+268069016143282176	business	sp and fitch accused of market manipulation in italy via telegraph httptcontpsnafl
+268068994672640000	business	global markets preview us bond markets are closed in observance of veterans day meanwhile european finance ministe httptcor2y6puk5
+268068803303313408	business	national business newsshttptcoerygjato
+268068601947365376	business	nonprofits face challenging endofyear giving seasonsus newssworld report us newssworld reportnonpro httptcorumrm05e
+268068561300377600	business	rt oppinkpower netanyahus government has quietly doubled funding for settlements says finance minister httptcozjjewkyc
+268067776076328961	business	dow jones inches up slightly after a week of dramatic lossesshttptcomeeuchux oregonlivecomdow jones inch httptcogxzddoyj
+268067463890087936	business	news summary un says nkorea faces food shortages httptcodd81iqxt
+268067314317029377	business	rt vote19thknesset haaretzcom netanyahus govt has quietly doubled funding for westbank settlements says finance minister httptcobzjx91li israel
+268067244611862529	business	top zacks ranked healthcare etf in focus for investors looking for a new play on healthcare etfs c httptcoawn2bdd1 yahoo uco
+268067186537533440	business	rt oppinkpower netanyahus government has quietly doubled funding for settlements says finance minister httptcozjjewkyc
+268067127779545088	business	sitting through a finance class without my hubby seemsodd misshim padzik9
+268066862804385792	business	rt oppinkpower netanyahus government has quietly doubled funding for settlements says finance minister httptcozjjewkyc
+268066843128897537	business	haaretzcom netanyahus govt has quietly doubled funding for westbank settlements says finance minister httptcobzjx91li israel
+268066791681568768	business	socialmedia social starts fund names seth rosenblatt lead partner httptcozgw0xkx6
+268066733783408641	business	rt oppinkpower netanyahus government has quietly doubled funding for settlements says finance minister httptcozjjewkyc
+268066712719601664	business	business rt news summary un says nkorea faces food shortages shortages a united nations report said north ko httptcodrmx1oik
+268066711704580096	business	business rt eu commission offers airlines a carbon tax freeze the european commission on monday proposed freez httptcohzjbazf2
+268066710685372417	business	business rt united to repay 56m in incentives to chicago the mayor says united airlines will repay 56 mill httptcoxhxc9n3v
+268066709640986624	business	business rt more women have drivers licenses than men in us women have passed men on the nations roads more httptcobwb0g0se
+268066542695112705	business	netanyahus government has quietly doubled funding for settlements says finance minister httptcozjjewkyc
+268065918729453572	business	global markets preview us bond markets are closed in observance of veterans day meanwhile european finance ministe httptcoxz6bdwaj
+268065720871579648	business	robert paisola news eu commission offers airlines a carbon tax freeze the european commission o httptcoupuget5m world news zone
+268064722941784064	business	the massive impact of mortgage interest rate increases on your buying power httptcosin205wa
+268064523401957376	business	john cridland and the cbi in the pocket of the banks banks exploited consumer ignorance over ppi for more tha httptcorlmw2mtl
+268064522047209472	business	rt freedomwarrior petraeus just another mystery victim in the benghazi triangle john ransomsthe coverup is deeper than a submarine httptcoqwdk4x1c
+268064220434808833	business	httptcofiawxu2q boston scientific to buy vessix httptcou2qvwtpv httptcox9l7aoa3
+268064219465932801	business	httptcofiawxu2q select comfort corp enters oversold territory httptcozyykj6k4 httptcox9l7aoa3
+268064025886208000	business	financeshminance ugggggh
+268063893706919937	business	for all of those whiners out there about baseliii check this out free exchange strength in numberssthe economist httptcoxgj3x0lf
+268063760772640768	business	strong turnout for anchorage families requesting housing assistance from alaska housing finance corporation anc httptcowifr59wc
+268063326116913152	business	newcarincentives new car finances19 financing on a new gmc canyonsbuy a new gmc canyon below invoice pric httptcoarrenl03
+268063179760877568	business	nonprofits face challenging endofyear giving season a look at financial hurdles confronting charities plus s httptco1id9dnug
+268062872079327232	business	more women have drivers licenses than men in us women have passed men on the nations roads more women than m httptconmvsejqi
+268062871135592448	business	uri economist pace of ri recovery slowed in sept an economist at the university of rhode island says the pace httptcoylpkjsyr
+268062649894461440	business	rt driveswift walmart is brilliantsraise the cost of healthcare for its workers so they have to switch to medicaid to go with ebt httptcojhumh2xu
+268061864460685312	business	rupert murdoch gleeful at bbc debacle in britain httptcoxmx4jzn9
+268061863667970049	business	creditors propose giving greece 2 more years httptcogrhl0tkf
+268061557206958080	business	well after that test i feel like i successfully taught myself how to do some real estate finance last night from 27am hopefully
+268061449543372800	business	transocean report pins oil spill blame on bp reuterssreutersstransocean ltd the owner of the oil drilling rig httptco8rcybiyc
+268061427724591104	business	wimps need not apply umd sees help with designs for a mobile corer to drill deep into the antarctica paywall httptcotaigy4ic
+268061397848580099	business	annaly brilliant or desperate time will tell httptcohxpcoe1i finance
+268061396330225664	business	grupo financiero galicia management discusses q3 2012 resultssearnings call transcript httptcoltqgckop finance
+268061340093018112	business	sp and fitch accused of market manipulation in italy httptcorqv1hz1x telefinance
+268061289371287552	business	well that finance exam kicked my ass
+268061088673837056	business	2008 dodge avenger nice car great on gasswe financesdetroits7495 2008 dodge avengerpw httptcomkypiwhq
+268061081740664833	business	textbook tactics delivers more than 50000 video tutorials to students this year httptcozwhypgrt edtech edchat
+268060575454597120	business	mortgages finance reit completing purchase of anothersannaly capital management has proposed to purchase the sha httptcofpycxy6e
+268060560644530176	business	global markets preview us bond markets are closed in observance of veterans day meanwhile european finance ministe httptcofswtpriu
+268060522732220418	business	rt aarontask will petraeus scandal scuttle a fiscal cliff deal httptco2oqincva
+268059844207054849	business	former citi chief pandit gets 67 million bonus new york apscitigroup has paid its former ceo vikram pandit httptcosrx1swyh
+268059712250068993	business	nonprofits face challenging endofyear giving seasonsus newssworld report us newssworld r httptcox5yofqkq nonprofit
+268059655199158273	business	more women have drivers licenses than men in us women are passing men on the nations roads httptco7qrudvx2
+268059654817464320	business	more women have drivers licenses than men in us women are passing men on the nations roads httptcofkdn5dfk
+268059355616792576	business	more women have drivers licenses than men in us httptcohgse2sjk
+268059354433978368	business	thompson starts as ny times ceo amid bbc scandal httptcoieu5vudm
+268059353288962048	business	rupert murdoch gleeful at bbc debacle in britain httptcoz9q24lbi
+268059350864625664	business	rupert murdoch gleeful at bbc debacle in britain httptcozeks9wpx
+268059173961478144	business	walmart is brilliantsraise the cost of healthcare for its workers so they have to switch to medicaid to go with ebt httptcojhumh2xu
+268059139975032833	business	olympusats telecom division partners with akamai and kit digital to offer comprehensive media solutions o httptcowm9unq3b ynlm
+268059072434143232	business	ron paul8217s texas straight talk 111212 abolish all price controls let the free marketshttptcoxobcxjao via libertycrier
+268059027777417216	business	finance business viewpoint should executives get rewards for failure httptcokl30z1wh stalbans harpenden
+268058695781457921	business	massachusetts housing finance agencysmoodys assigns ratingsmassachusetts housing finance agencysmood httptcosghhjzhd
+268058500670824448	business	how to finance new small businessshttptcocssxetpz look closely at what you already have be creative save buy used share equipment
+268058381703598081	business	do you know how to calculate working capitalshttptcojdbpdacp
+268058108654407681	business	this article reminds us that now that the election is behind us we still need to be concerned about the fiscal cliff httptcoozu39roe
+268057887438417920	business	pipe dream or possibility unified sales and financess pipe dream or possibility unified sales and financessis it possible
+268057798347194369	business	google amazon and starbucks face questions on tax multinational companies are paying little or no tax on their httptcoqre8tlfd
+268057774817173504	business	business rt thompson starts as ny times ceo amid bbc scandal new york times co ceo mark thompson is startingshttptco9mxkdiui
+268057773659521026	business	business rt rupert murdoch gleeful at bbc debacle in britain few seem to be enjoying the management meltdown a httptco8kgmqml8
+268057772644528129	business	business rt news summary cars that talk to each other car talk toyota motor corp is testing car safety syst httptcova0bpcco
+268057771713363968	business	business rt google amazon and starbucks face questions on tax multinational companies are paying little or no httptcowraasxnh
+268057518729728000	business	fucking finance oops it didnt work when i tried to switch the first two letters around
+268057409367457793	business	thompson starts as ny times ceo amid bbc scandal httptcoai2mwufb
+268057408436310016	business	rupert murdoch gleeful at bbc debacle in britain httptcoxmx4jzn9
+268057407610032129	business	news summary cars that talk to each other httptcozavxzsd8
+268057406716649473	business	google amazon and starbucks face questions on tax httptcowqmjtqfu
+268057395576582144	business	5 retirement havens in europe for less than 100000syahoo finance httptcomojjbyww via yahoofinance
+268057035034202112	business	stlouissmo finance job intern finance at southeast missouri state university httptcoiuox3ymo jobs tweetmyjobs
+268057029942337536	business	cincinnati staff accountants ft wright httptconagwcsxw ebc jobs
+268056985432375297	business	global markets preview us bond markets are closed in observance of veterans day meanwhile european finance ministe httptcoremwe7bx
+268056823502888960	business	us stocks fluctuate as finance chiefs meet on greecesbusinessweek httptcottlrvfc1
+268056592107319297	business	robert paisola news thompson starts as ny times ceo amid bbc scandal new york times co ceo mar httptcoftgvpgoj world news zone
+268056591109062656	business	robert paisola news rupert murdoch gleeful at bbc debacle in britain few seem to be enjoying th httptcocq1cceow world news zone
+268056589284540417	business	robert paisola news creditors propose giving greece 2 more years greeces international credito httptcocwsbl5so world news zone
+268056359906467840	business	wentworth direct finance personal loans reviews httptcokona6vmu
+268055805192986624	business	hitachi units to merge in april nikkei reports hitachi metals and hitachi cable are planning to merge in april httptcop0tn3r33
+268055784636706816	business	press releasesspanish finance minister quizzed by ep economics committeescommittee on economic and monetaryshttptcozgjjjhra
+268055604852039680	business	creditors propose giving greece 2 more years greeces international creditors are proposing granting the countr httptcowhawc1nn
+268055479282970624	business	global markets preview us bond markets are closed in observance of veterans day meanwhile european finance ministe httptco07tejfn6
+268055158968160256	business	first marblehead to present at the sandler oneill east coast financial services conferenceshttptcoftmxi6sh
+268055131956862977	business	creditors propose giving greece 2 more years httptcojtnkay8x
+268055083533598720	business	news summary cars that talk to each other httptco4c89osmu
+268055082308861952	business	google amazon and starbucks face questions on tax httptcolllriyot
+268055081117708288	business	news summary us will be biggest oil producer httptcov6wgnlbp
+268054845683015680	business	saintlouissmo finance job asia pacific maintenance associate st louis m at scottrade httptcow6xlf1m8 scottrade
+268054665613172736	business	finance business video starbucks not avoiding tax httptcozgtmpzbe stalbans harpenden
+268054653583896577	business	andysturniolosapple is about to start production of the iphone 5ssdaily tickersyahoo finance httptcoih8ia8ed via yahoofinance
+268053988275003393	business	imfs epic plan to conjure away debt and dethrone bankers via telegraph httptcoxltzbsm5
+268053886324064256	business	telefinance uk recovery gathering steam oecd says httptcojx4kcqz6ukeconomy
+268053703599210496	business	i bet yall didnt know the richest person in the world is mexican httptcoln5ccp7r
+268053431615377408	business	philaldrick the uk recovery is gathering momentum thats what the oecds leading indicators show httptcoc7kpn9bueconomy gshoots
+268053153113579520	business	more stores to kickstart black friday with thanksgiving openings reutersstarget corp and toys r us inc areshttptcodlfbjpdi
+268053132796366848	business	news summary cars that talk to each other car talk toyota motor corp is testing car safety systems that allo httptcoacyl2zk0
+268052874276257793	business	thx for donating your time and expertise rt cynthiajordan70 at habitatstl finance committee meeting
+268052835390853120	business	us to become largest oil producer energy independent big implications a new report by the international ene httptcowl3l3kmi
+268052726548672513	business	global markets preview us bond markets are closed in observance of veterans day meanwhile european finance ministe httptcomisqxnjf
+268052507639562240	business	rt thomasrapp123 finance professor playing the nellyville album before class airforceones
+268052500991582208	business	premarketing vc shakeoutsthe term sheet fortunes deals blogsa chipotle breakfastssarah lacy the vc httptcosoapls7g
+268052402811318273	business	two more years for greece to cost 33 billion euros troika greece will get two more years to reach previously a httptcofbzjbyyp
+268051982831460353	business	finance professor playing the nellyville album before class airforceones
+268051971896913921	business	tweetmyjobs finance job alert finance internskeeneonthemarket comschicagosil httptco56bymqbo jobs
+268051965869690880	business	financial internslocations etc incsnewyorksny httptco4ac32dxt finance job jobs tweetmyjobs
+268051814618890241	business	money lead by example when teaching teens about money httptcon1fsh4xe
+268051739222110208	business	boy all i ask is to spoil me with loyalty i can finance myself
+268051567129812993	business	unisex annuities men lose less income than feared prudentials latest annuity rates announced today are id httptcohlidh3e8
+268051471453544448	business	why steve jobs was wrong about the ipad mini httptcott0vks86
+268051470581121024	business	fiscal cliff talks a process sure to enrage americans httptcoyxoyjd7p
+268051252888367104	business	spain finance minister government sticking with deficit goalsspolitics at httptcowuimjvg6
+268051182805741568	business	rt tierrah46 the irs has gone roguesmichael f cannonshttptcosshmw0lz via townhallcom
+268050941750693891	business	uri economist pace of ri recovery slowed in sept an economist at the university of rhode island says the pace httptco26vedso9
+268050590133809154	business	what to do when insurers start rejecting hurricanesandy claims httptcokhwnfjzf
+268050585603956736	business	tmx groups ceo discusses q3 2012 resultssearnings call transcript httptcowpboxrz5 finance
+268050584291119104	business	consumer portfolio services shows a clear path on how to profit from sectordriven markets httptcouwyer3cv finance
+268049843405074433	business	sdges energy innovation center awarded leed platinum certification by us green building council san diegoshttptcozdql8jbl
+268049842700443648	business	sdges energy innovation center awarded leed platinum certification by us green building council san diegoshttptcowwvgzcli
+268049825356980224	business	rt goldnewsweekly gold price to rally regardless of who is elected presidentshttptcoiw78hykw
+268049642632146945	business	radicalcomediansi thought it was a trick question with megachurch pastor talking about finance
+268049139395354625	business	but will obama stop this in its tracks us seen overtaking saudis as biggest oil producerscomcast httptcoc5cldyek
+268048891293880321	business	los angeles mortgage claim process researcher iiis westlake village httptcopu9bgchz ebc jobs
+268048671067734016	business	news summary sas cuts jobs pay in savings plan last call scandinavian airline sas ab plans to cut 40 percent httptco1qonqrwx
+268048669771702272	business	news summary sas cuts jobs pay in savings plan last call scandinavian airline sas ab plans to cut 40 percent httptcof3x1orps
+268048669511647232	business	news summary sas cuts jobs pay in savings plan last call scandinavian airline sas ab plans to cut 40 percent httptcozhrlzqrj
+268048372236161025	business	personal us to become worlds top oil producer httptcogu3wajbl finance
+268048324974751745	business	us seen overtaking saudis as biggest oil producersyahoo news httptcogjyj4sly via yahoonews
+268048160486744065	business	amerigroup finance analystsalbuquerquesalbuquerquesnm httptcoyts3m0gv finance amerigroupjobs healthcare job
+268048057604653056	business	the 10 best states to be young in americashttptco3b66q5ju
+268047895591280640	business	petraeus just another mystery victim in the benghazi trianglesjohn ransom httptcorsnxnjd1 lies damn lies and wh lies teaparty
+268047590099128320	business	senior sharepoint application developermd hi ram from 3k technologiesplease let me know if you have anysre httptcohyuettqy
+268047589163819008	business	my client needs asap urgent need etl ab initio developer consultant positionsetl ab initio developer locati httptcoxtbdmvxy
+268047575930793984	business	company finance loan personal httptcoaf89abpa
+268047222791360512	business	check out dailyfinance market minuteshttptcokvqbrj7t via dailyfinance
+268047055828692992	business	how to raise cash to cover holiday spending the holidays often mean shopping marathons for gifts party outfits httptcockeqhtmj
+268046953978408960	business	crunchy logistics accounting job finance and accounting internshipsorlandosfl httptcopsqlc4hd jobs tweetmyjobs
+268046897493733377	business	the next education finance working group community outreach meeting is 3 pm today in brainerd craguns resort 11000 craguns drive
+268046878376071169	business	why steve jobs was wrong about the ipad mini an interesting thing has happened in the days since apple aapl r httptcoxapspsxv
+268046786273345536	business	news summary sas cuts jobs pay in savings plan httptco9etq4uxz
+268046776613883904	business	spanish banks halt evictions amid growing protests httptcowvmeiy2b
+268046738265362432	business	alliance data to buy hyper marketing with the vision of obtaining a pioneer position in digital age httptco3ejv4pes yahoo uco
+268046703742029824	business	business rt news summary sas cuts jobs pay in savings plan last call scandinavian airline sas ab plans to c httptcobeibssbd
+268046702559240192	business	business rt us seen overtaking saudis as biggest oil producer the united states will become the worlds larges httptco9jzcxwgw
+268046701439352832	business	business rt merkel insists on austerity despite protests german chancellor angela merkel took her fiscal disci httptcoep9resat
+268046662134530048	business	finance business video mps round on pathetic amazon httptcohqins5uo stalbans harpenden
+268046659672473601	business	check out 3 compelling reasons to think an economic boom is comingshttptcofrtxhjom via dailyfinance
+268046455162421248	business	the massive impact of mortgage interest rate increases on your buying power wireserviceco httptcoivku41a7
+268046189520355328	business	why steve jobs was wrong about the ipad minishttptcoqohn6ye0
+268046188635357184	business	why steve jobs was wrong about the ipad minishttptcovuvshx5z
+268046187943313408	business	why steve jobs was wrong about the ipad minishttptcojyokx8ts
+268045828894105600	business	raytheons rtn patriot air and missile defense system receives us armys httptcoga8njx9g news yam
+268045772103241728	business	thousands of banks may disappear httptcoldebxnww
+268045756034850816	business	twitter google and twitter get crackin with wonderful pistachios httptcoqswu4gzz
+268045755313451008	business	fefinance malagel what is a biggest threat regarding basel iii please vote and discussshttptco8w0mqk2p basel banking
+268045742856347650	business	indy de underwriters fishers httptcotapjfkqu ebc jobs
+268045569300246528	business	king coal hasnt abdicated throne in kentucky kentuckys beleaguered coal industry suffering under economic co httptco0kwk8nd9
+268045563726016512	business	king coal hasnt abdicated throne in kentucky httptcobkxzcsm8
+268045485120565248	business	newcarincentives new car finances29 financing on a new ford transit connect wagonsbuy a new ford transitshttptco8gdgqn74
+268045206782349312	business	robert paisola news us seen overtaking saudis as biggest oil producer the united states will be httptcoqj9urpyc world news zone
+268045171441156096	business	us seen overtaking saudis as biggest oil producer the united states will become the worlds largest oil produce httptco3yfmquot
+268044722277322753	business	healthcare investment conference httptcozq7iav12
+268044700949303296	business	finance in healthcare httptcoepvqiofi finance
+268044597438062592	business	healthcare finance conference httptco1elmzgqb
+268044538776530944	business	healthcare investment fund httptcolekdlbjl fund
+268044537207848961	business	healthcare investment partners httptcokw2t7dqq
+268044535836332034	business	hot healthcare stocks httptcohmv4mccw
+268044502302871552	business	stearns healthcare finance httptcojwixvfnx finance
+268044502118313984	business	healthcare finance recruiters httptco8ab6wtkg finance
+268044489350856704	business	healthcare finance conference httptcoycppfbpe
+268044469377581057	business	essentials of healthcare finance httptcoyysmp6pi
+268044455951605760	business	healthcare investment banking httptcocsqcepy6 banking
+268044374443708416	business	keep your accounts secure in the dangerous world of the internets httptcolcssbwty
+268044359730089985	business	careers in healthcare finance httptco0k0c04wu careers
+268044298623254529	business	5 retirement havens in europe for less than 100000syahoo finance httptcoeh6rkk76 via yahoofinance
+268044151357071363	business	cases in healthcare finance httptconhmzuuua cases
+268044144117698560	business	investment healthcare httptcown1mkyy2
+268044124270247936	business	healthcare finance courses httptcooekowhsk courses
+268044108243816448	business	investment bank healthcare httptco9yjja2py bank
+268044099557404674	business	new york otc derivativesscollateral mgts new york httptcon5ea1lzr ebc jobs
+268044098659827712	business	healthcare investment conference httptcoc6dp6adn
+268044031748100096	business	illinois department of finance retailers occupation 1 12 cent tax tokens wprebay kwfinance num0 httptco3liyjnbo
+268044016875085824	business	markjrobby that one finance manager la hahaha
+268043963452235776	business	healthcare sector stocks httptcoksczhv3x
+268043873270517760	business	healthcare investment research httptcoe2pkwcjp
+268043869311074304	business	merkel insists on austerity despite protests german chancellor angela merkel took her fiscal discipline message httptco1szpsmov
+268043868904226816	business	finance jobs in healthcare httptcooeyermww finance
+268043868346396672	business	healthcare investment partners httptcovcfefcyh
+268043867952119808	business	healthcare boutique investment bank httptcovzick5us bank
+268043867075526656	business	us fiscal uncertainty keeps lid on markets uncertainty over whether washington will agree a spending and taxati httptcobaoacxju
+268043780815462400	business	cases in healthcare finance httptcoazep64qw cases
+268043775421607936	business	barclays healthcare investment banking httptcoebowqprp banking
+268043769562161154	business	investment in healthcare httptcobi2evsjm
+268043682928791553	business	healthcare finance jobs httptcom3utol6u finance
+268043644810973184	business	debt crisis no report on greece as troika cant agree on who paysslive greeces international lenders are sp httptcotrppnhcz
+268043641023524864	business	debt crisis no report on greece as troika cant agree on who paysslive greeces international lenders are sp httptcofmproo3q
+268043628218310656	business	healthcare investment opportunities httptcobqa0cgd9
+268043533468975104	business	stearns healthcare finance httptcoud27wl1m finance
+268043508798062592	business	healthcare finance news httptcofpht5f9q finance
+268043502661812224	business	finance healthcare httptcoy5w4h4eu finance
+268043313846816768	business	greeces monster debt problem haunts europeshttptcofnxdrfnd usanext
+268043287494025216	business	spanish banks halt evictions amid growing protests spains major banks agreed on monday to suspend some evictio httptco6d40rogk
+268043285161975808	business	oil down on worry about us fiscal cliff the price of oil fell monday as global economic news took a back seat t httptconduljwgm
+268043234679341056	business	twitter google and twitter get crackin with wonderful pistachios httptcoyurgxzio tweezard
+268042989358682112	business	what you need to do when you are one year from retirement httptcowcf05ata retirementcenter
+268042852691492864	business	lufthansa arbitration talks to end midnovember sourcesfrankfurt reutersstense mediation talks between httptcos27rrq0h
+268042809888628737	business	merkel insists on austerity despite protests httptcodefat02y
+268042808739377153	business	spanish banks halt evictions amid growing protests httptco0l5zwsr7
+268042807636291584	business	oil down on worry about us fiscal cliff httptcoc9dfzpjx
+268042806457667584	business	eu commission offers airlines a carbon tax freeze httptconwah0yaz
+268042805312630785	business	ny gets 95m from nc firm over soldier debt fraud httptcom1ohpdwb
+268042298590367744	business	finance business highspeed rail plan for scotland httptcoer93bdz9 stalbans harpenden
+268041973754126336	business	nar presents realtorr bruce aydt with distinguished service award bruce aydt a realtor from the st louisshttptcoim91yrcs
+268041946805714944	business	us to topple saudi arabia as an oil producer by 2020 via telegraph httptcou8xpkyic
+268041901779861506	business	euro finance ministers to discuss greeces future httptconkfeocjj
+268041747433656321	business	mortgages finance good month for mortgage insurerssthere was 101 billion of primary new mortgage insurance wri httptcogkqig8gc
+268041528042205185	business	drill baby drill httptcofey89iat
+268041226513694722	business	spain finance minister government sticking with deficit goalsswall street journal httptcox81fhrki
+268041224211005441	business	rt filterednews walmart employees to pay more for health care planssyahoo finance httptcobkcjbjwz
+268041053720948736	business	movies moviessentertainment global industry guide httptco9isxow1n
+268040985186017281	business	our next meeting is tonight in the finance center at the graduate school of management gsm 226 it will be at 700 pm
+268040820429578240	business	rt porterspeakman netanyahus government has quietly doubled funding for settlements says finance minister via haaretzonline httptcohureggwb
+268040770186010624	business	miami senior auditor for established public accounting firms miami httptcoai0qqfjo ebc jobs
+268040673830256641	business	wow just wow ziffdavis has been well ziffed httptcoqeuq4con
+268040524030693376	business	rt axialmarket fiscal cliff doesnt seem like the end of the worldsthe fiscal cliff may be overblownshttptcoi38ntkhe fortune
+268040356828954624	business	creditors propose giving greece 2 more years a draft document from greeces international creditors proposes gr httptco0jmavkxj
+268040356325629953	business	creditors propose giving greece 2 more years a draft document from greeces international creditors proposes gr httptcox9qkrwge
+268040355591618561	business	creditors propose giving greece 2 more years a draft document from greeces international creditors proposes gr httptcoikuyxmvo
+268040290760286210	business	global markets preview us bond markets are closed in observance of veterans day meanwhile european finance ministe httptcoqhoysp6j
+268040188448620546	business	private equity dealssthe term sheet fortunes deals blog termshttptcolnt5p6go
+268040106827456513	business	rt filterednews walmart employees to pay more for health care planssyahoo finance httptcobkcjbjwz
+268039898001448960	business	rt kpmgus accountingsfinance pros dont see eye to eye with hr regarding trainingsnew kpmg survey httptconltdlpcj
+268039774575669249	business	am i getting scammed by my finance company httptconz9mwnzt loanscreditmortgagecards
+268039714945241088	business	global markets preview us bond markets are closed in observance of veterans day meanwhile european finance ministe httptcog9masq4f
+268039455431094272	business	the irs has gone roguesmichael f cannonstownhall finance conservative columnists and financial commentary httptcommcxhkm4
+268038958477352960	business	vermont gas prices continuing to decline the price of gas is continuing to go down in vermont httptcocmzzspau
+268038805171347458	business	creditors propose giving greece 2 more years httptcogrhl0tkf
+268038804257001473	business	penney shares drop to lowest point in over 3 years httptcofxmp56vr
+268038740377747457	business	creditors propose giving greece 2 more years httptcongedwjji
+268038739220103168	business	penney shares drop to lowest point in over 3 years httptcox7nibiiv
+268038736829366272	business	why steve jobs was wrong about the ipad mini httptcoh7jhw80k
+268038733280985089	business	fiscal cliff talks a process sure to enrage americans httptcoxxpb3fzy
+268038727476051969	business	facebook one of facebooks biggest advertisers says it isnt creative enough httptcom77vv4jp
+268038650342809600	business	how to get rich quick httptcoks7hgwgv consume family finance getrichquick money produce time
+268038645448060928	business	netanyahus government has quietly doubled funding for settlements says finance minister via haaretzonline httptcohureggwb
+268038591299608577	business	rt kpmgus accountingsfinance pros dont see eye to eye with hr regarding trainingsnew kpmg survey httptconltdlpcj
+268038517836374016	business	global markets preview us bond markets are closed in observance of veterans day meanwhile european finance ministe httptcoigpz0nkz
+268038510274023424	business	business rt creditors propose giving greece 2 more years a draft document from greeces international creditor httptcodu6xt2y6
+268038509238042624	business	business rt penney shares drop to lowest point in over 3 years investors are growing increasingly worried that httptcodhgodaq4
+268038508181061633	business	business rt euro finance ministers to discuss greeces future greeces international creditors appeared splitshttptco63o39dq4
+268038313724747777	business	the boston globe euro finance ministers to discuss greeces future httptcoyzjm4cbp business
+268038289703989249	business	teleflex incorporated strong buy teleflex achieved zacks 1 rank strong buy on november 3 httptcote6pbcy1 yahoo uco
+268038232346865664	business	why steve jobs was wrong about the ipad mini httptcogmugfvoa
+268038231352827904	business	fiscal cliff talks a process sure to enrage americans httptcowl4wptwo
+268038229557653505	business	pipe dream or possibility unified sales and financess pipe dream or possibility unified sales and financessis it possible
+268038224952303616	business	ludgsnew press release out at noon click here to read httptcoryupedk7 disclaimer httptconc73v764 httptcowhszx2df
+268038210737803264	business	why steve jobs was wrong about the ipad mini an interesting thing has happened in the days since apple aapl r httptcocfc1v419
+268038209857019905	business	onlinebusiness now book trade fair business visitor tickets online httptcovc3v4pov
+268038152894156802	business	working with finance departmentssanta fe indian school httptcojlhbzvp5
+268038012015886336	business	personal finance is so boring someoneshootmealready
+268037901948964864	business	rt kpmgus accountingsfinance pros dont see eye to eye with hr regarding trainingsnew kpmg survey httptconltdlpcj
+268037770633699328	business	hell yeah i got an a on my finance exam happy
+268037668166828033	business	how to turn a moaning monday into a magical monday tips from a career coach via telegraph httptcojiijtawy
+268037630422294532	business	dallas director of accountings dallas httptcoxd6bvyw8 ebc jobs
+268037577947357185	business	accounting job in desmoinessiassenior investment accountantsat robert half financesaccounting httptco8ai6fg10
+268037558271873025	business	rt kpmgus accountingsfinance pros dont see eye to eye with hr regarding trainingsnew kpmg survey httptconltdlpcj
+268037310979919873	business	ap to launch spanishlanguage stylebook httptcovc2oxybm
+268036957223927808	business	dont get hackedshttptcojn1h8ty0
+268036711504818176	business	comments from euro zone finance ministers and officials httptcomd1ko90k
+268036697135149057	business	comments from euro zone finance ministers and officials httptcobbmwwti3
+268036688687800320	business	home depot reports tomorrow and other things to watch on wall st this weekshttptcokcs6pndy
+268036591333810176	business	vice president of finance and human resourcesscardinal stritch catholic high school and st kateri catholi or httptco7hld5hdr
+268036182187851777	business	fiscal cliff talks a process sure to enrage americans last weeks election results were largely as expected t httptcodulrvzdo
+268036175107850240	business	euro finance ministers to discuss greeces future httptcof7txnz0y
+268036161111470080	business	denversco accounting job payroll administrator at robert half financesaccounting httptcoigmbyzev jobs tweetmyjobs
+268036103926345729	business	the best bangs for your buck httptcozbfphn0s
+268036041758347264	business	our magic carpet crashed httptcoeydjqtow via townhallcom
+268035953669595136	business	rt kpmgus accountingsfinance pros dont see eye to eye with hr regarding trainingsnew kpmg survey httptconltdlpcj
+268035669996212224	business	accountingsfinance pros dont see eye to eye with hr regarding trainingsnew kpmg survey httptconltdlpcj
+268035578359074816	business	live commentary on the amazon google and starbucks uk tax avoidance livestelegraph httptcodvsnlijt
+268035511648657410	business	personal finance tis the season for donating moneyshazard herald personal finance tis the season for dona httptcotdihv9he
+268035317330755584	business	fox news comments from euro zone finance ministers and officials httptcoihfim9cm
+268035033124712448	business	fiscal cliff talks a process sure to enrage americans last weeks election results were largely as expected t httptcokstgxq1d
+268034931488333824	business	oil demand to surge with us top producersninemsn httptcoovfp1co7
+268034903352954880	business	obama news trina solar lowers 3q guidance trina solar ltd lowered its thirdquarter guidance onshttptcovfjbewla obama video
+268034846750818305	business	my finance professors beforeclass music choices are getting progressively more random as the semester goes on getinthezone
+268034842757840897	business	unequal finance costs in eu largest risk to spain growth minister madrid reuterssdifferences in financingshttptcod6wf8eab
+268034840601964544	business	us to become biggest oil producer energy independent the us will overtake saudi arabia to become the world httptcolqqpqbta
+268034820372848640	business	mortgagetitleescrow assistantskelly servicessomahasne httptcoxjrgoo49 finance kellyjobs kellyservices job
+268034816711196674	business	kelly services finance job mortgage title and underwritings omahasne httptcopkpdh4z1 kellyjobs kellyservices
+268034689661554688	business	forex analysis trading strategies continue buying us dollar forex analysis trading strategies continue buying httptcojaig3h6o
+268034674209742848	business	vermont gas prices continuing to decline the price of gas is continuing to go down in vermont httptcoghkumrjz
+268034664495730688	business	oil down slightly on worry about us fiscal cliff the price of oil is down slightly in veterans day trading as a httptcohdj7mvfx
+268034663640092673	business	oil down slightly on worry about us fiscal cliff the price of oil is down slightly in veterans day trading as a httptco81c2brr1
+268034494114693120	business	london to lose title of worlds finance capital study warns httptcolwbphhp8 via guardian london business finance
+268034481649238017	business	ive got a 6 year old joining me in business finance this morning and its not cause shes a child prodigy colingreen11 memphisproblems
+268034389705904128	business	cedarrapidssia finance job mortgage processor at kelly services httptco8kfzfugf kellyjobs kellyservices jobs
+268034385452883969	business	regions financial mortgage loan originatorswaterswaterloosia httptcoxqvlrbp2 finance regions regionsbank job
+268034296709795840	business	finance business video advice for women on car insurance httptcov3lcisrg stalbans harpenden
+268034265931993088	business	rt nutritionbizjrl top takeaways from dsms acquisition of fortitech httptcodc4ejg2z
+268033679362760704	business	global marketsus shares sag euro off twomonth lows httptcopxu4etly via reuters us business stocks euro finance
+268033607573045248	business	oil down slightly on worry about us fiscal cliff the price of oil is down slightly in veterans day trading as a httptcoiedvtd11
+268033358376878080	business	good advice httptcoyuhsbm7t
+268033330744815616	business	update 1brazil may grow above 4 pct in 2013sfinance minister httptcodjzw6xj0
+268033238629511168	business	dovetailing technical expertise with sales and marketing skills httptcolpcbeaj0
+268033191980437504	business	largest option buying in equities so far nearing the halfway mark in todays session here are the individual e httptco7mcshr9n
+268033103187046401	business	3 strong financial stocks to consider now 1 to avoid httptcoqgwlcahc finance
+268033102176198657	business	are the companies in prospect capitals portfolio healthy httptco0w6lnhh2 finance
+268032994017681408	business	carnival of personal finance things i lost this week editionss via thirtysixmonthsss httptcoutwiz4s2
+268032945749622784	business	top takeaways from the acquisition of fortitech by dsm httptcosqgfboel via newhope360 engredea
+268032928368451584	business	if ure like meshate trying 2 come up w password 4 every account heres an interesting article i readshttptcocpstejdj
+268032829559037953	business	thanks for the street cred businessmn httptcos4qtuv3r
+268032792204570624	business	yahoo finance enjoy sa and caesars entertainment announce strategic relationship pr newswire httptcoilzj5mkq casino news
+268032565951225857	business	italy prosecutor files charges against sp and fitch via telegraph httptcozms0kjun
+268031906032005120	business	eurozone mulls finance for greece eurozone finance ministers are to discuss whether new funds can be issued toshttptco7tm1te7d
+268031664154890240	business	how to save on rental cars when traveling this holiday seasonshttptcoctmnlxoz
+268031189313531905	business	euro finance ministers to discuss greeces futurestime httptcoa4lvx8iq
+268031085697454081	business	bspinmn why yes hes on mnhouse public safety comm daudts drivers license suspended four times since 2006 mnleg httptcozmlleh22
+268031037873987584	business	finance exam ii review consists of 83 powerpoint slides
+268031025865691136	business	rt melousch too little too latesit better be inventive rt rim to launch new blackberry software jan 30 httptcobvlsvieh
+268030990503526401	business	personal financesyou suck
+268030745140924416	business	hurricane sandy gave navigation news finance apps a massive boost but not httptcojqmt1xxw iphone apple
+268030744176238592	business	hurricane sandy gave navigation news finance apps a massive boost but not weather httptco5ideonf9
+268030702065418240	business	my personal finance teacher be speakin that real shit i used to think this class was full of shit but now it all makes sense
+268030476512550912	business	zsa zsa gabors home httptcoafmyaano
+268029935539601409	business	us stocks rise on takeover activity as jefferies jumps httptcog228qkbe ma
+268029934935605248	business	us stocks rise on takeover activity as jefferies jumps httptco8wygdsz1 ma
+268029928124059648	business	rt fitfluential pedometers play up every step you take httptcovd7gpujr via yahoonews fitfluential fitgear
+268029818522722304	business	aaa michigan gas prices up 6 cents from last week aaa michigan says gasoline prices have risen roughly 6 cents httptcow7nvkssu
+268029734540165121	business	tweetmyjobs finance job alert manager financesfirst datasomahasne httptco89o7aiwm veteranjob jobs
+268029650461147137	business	amazon google and starbucks face questions on uk tax avoidance live httptcok5l5arkc
+268029497213870080	business	newcarincentives new car finances19 financing on a new buick regalsbuy a new buick regal below invoice pr httptcoqulvdn1l
+268029324156891136	business	business rt oil down slightly on worry about us fiscal cliff the price of oil is down slightly in veterans day httptco7yclvoyp
+268029164727181312	business	pedometers play up every step you take httptcovd7gpujr via yahoonews fitfluential fitgear
+268029146872037376	business	auditor general human rights commission ps finance appointedsfp turks and caicos httptcojxqthdfd
+268028979208929280	business	boston scientific to buy vessix the renal denervation franchise a therapy for the treatment of unc httptco17rmxt6x yahoo uco
+268028974754562048	business	mortgages finance feds duke wants separate mortgage regulation for small banks httptco6hkzorcm
+268028942777208832	business	playing monopoly in personal finance for a gradesimbad schoolscool not
+268028798413459456	business	wellpoint wants a ngs pricing analyst government contracting finance consult 61544 insbaltimore md httptcocsjbgqpf
+268028459400450049	business	rt savannahkhan foxnews obama wins 8 of 10 wealthiest counties in ussyahoo finance httptcopamop8hj
+268028410817806336	business	cultofmac hurricane sandy gave navigation news finance apps a massive boost but not weather httptcorjqthmxp apple iphone ipad
+268028404891258880	business	hurricane sandy gave navigation news finance apps a massive boost but not weatherscultofmac use of httptcoq7wogaq4
+268028128180457472	business	we were featured on yahoo financehttptcojq1jg5v8
+268028121272442880	business	how will obamas reelection affect the finance industry httptcomiiapig1
+268027961314271233	business	music labels maintain new music spend despite sales slump httptcocjvdgvxu
+268027893681102848	business	target is opening its doors for black friday even earlier than last yearshttptcod0dciyyb
+268027673295589376	business	cg invoicer 31 shareware cg invoicer creates professional invoices quickly and easily httptcou5bwcig9
+268027569859870721	business	fhfas big move use fannie and freddie for privatelabel mbs the federal housing finance agency wants to workshttptconb8g36bv
+268027529909137408	business	billionaire warren buffetts secret ice cream fixsoff the cuffsyahoo finance httptcoqkvg7d7o via yahoofinance
+268027148332306432	business	bob akmens sports makes documented football handicapping history httptcocb2fvzr5 sports
+268027089461063680	business	rt money whats a good personal finance book for young adults httptcoytdgd6xq moneyhelpdesk
+268026901791129602	business	atlanta finanical manager wmarketing experiences duluth httptcol0gm9k1i ebc jobs
+268026899559755776	business	atlanta finanical manager wmarketing experiences duluth httptcobu6xpbst ebc jobs
+268026887329161216	business	forex analysis trading strategies continue buying us dollar httptcobmens2h8
+268026395614134272	business	oil down slightly on worry about us fiscal cliff httptco9rmn6p5n
+268026394460696576	business	us seen overtaking saudis as biggest oil producer httptcotztgbpa0
+268026305700823040	business	ap to launch spanishlanguage stylebook httptcocs6kmiar
+268026253112659968	business	uk recovery gathering steam oecd saysshttptcod1irgr3a economy
+268026206631362560	business	us stocks rise on takeover activity as jefferies jumps us stocks advanced sending the standardspoors 50 httptco1d7pclro
+268026128323706880	business	yahoofinance forget the iphone 5sapple about to start production of the iphone 5s aapl httptco0yxhytrx chrisakeenan dont even
+268026017208217601	business	yahoofinance forget the iphone 5sapple about to start production of the iphone 5s httptcoqjbpbrbksgrissmcarlin
+268025932940464129	business	finance business bank ringfence plan still best httptcosw55yj21 stalbans harpenden
+268025896013803520	business	the irs has gone roguesmichael f cannonshttptcosshmw0lz via townhallcom
+268025883703537664	business	ap to launch spanishlanguage stylebook httptcou48ffegl
+268025714975059968	business	rt money whats a good personal finance book for young adults httptcoytdgd6xq moneyhelpdesk
+268025455163084800	business	update 1uk finance bonuses to plummet as london loses groundsreuters httptcoa3fde5se
+268025363857285121	business	pmb claims try try again httptcogcl2oxx7 medical healthcare
+268025218960879617	business	rt freedomwarrior petraeus just another mystery victim in the benghazi triangle john ransomsthe coverup is deeper than a submarine httptcoqwdk4x1c
+268025160051859457	business	finance management for the last med tomorrow
+268024692462456832	business	top takeaways from dsms acquisition of fortitech httptcombltlt0g
+268024555300331520	business	7 reasons to start an emergency fund httptco4xwgi64l finance money
+268024518885380098	business	how our national debt hurts our economy httptcoj6trgbn0 via cbsnews economy debts business finance
+268024383551975425	business	euro finance ministers to discuss greeces future httptcogrhloprm
+268024258846920705	business	finance homework helpsfinance assignment helpsonline tutoring httptcoymlitnev via tutorsglobe
+268024218644520961	business	rt gopnews tennrun health exchange faces gop roadblock httptcorcku6i1p
+268024198243430400	business	finance job alert citifinancial cfs collections services representascitisomahasne httptcodnywv9pm citijobs
+268024193172508673	business	citi citifinancial cfs collections services representative omahsomahasne httptcov7gpxjxq finance citijobs job
+268024186960760834	business	citifinancial cfs collections services representatives citisfremontsne httptco55neruq2 finance citijobs job
+268024168283516929	business	onemain financial consumer finance sales representative clivscitisclivesia httptcouqxyihcz sales citijobs job
+268024166458990593	business	citi onemain financial consumer finance sales representative hays ksshayssks httptcorg1nkl5j sales citijobs job
+268024097538207745	business	british medical journal slams roche on tamiflu httptco2awaanh8
+268024092920266753	business	un nkorea has better harvest but faces shortages httptcooqgylirv
+268024083806044160	business	staff evals my eval wspr lay leadership comm finance and esl evalstrip to new york for umdf this weeksperfect timing for youth sun
+268023969213460481	business	sec may order nasdaq to upgrade trading systems wsjsreuterssus securities regulators may force nasdaq omx httptcoplw8mzxt
+268023969028927489	business	bipartisan tax plan trims mortgage deduction apsapsa new bipartisan plan to reduce government borrowing would httptconsggolju
+268023700085936129	business	us seen overtaking saudis as biggest oil producer the united states will become the worlds largest oil produce httptco8jg2prbn
+268023699314200576	business	best buy hires exwilliamssonoma exec as cfo struggling consumer electronics chain best buy said monday that a httptcofdkatqzu
+268023697460318208	business	safricas vodacom looking for subsaharan acquisitions johannesburg reuterssvodacom is looking for acquisi httptcotbpfaq0u
+268023696642433024	business	comments from euro zone finance ministers and officials brussels reutersseuro zone finance ministers and of httptcoz5cp8lhb
+268023685091311616	business	us seen overtaking saudis as biggest oil producer the united states will become the worlds largest oil produce httptco4xugq9vg
+268023684562817024	business	us seen overtaking saudis as biggest oil producer the united states will become the worlds largest oil produce httptcobnfk4r9q
+268023639268524032	business	too little too latesit better be inventive rt rim to launch new blackberry software jan 30 httptcobvlsvieh
+268023595157041152	business	aaa michigan gas prices up 6 cents from last week aaa michigan says gasoline prices have risen roughly 6 cents httptcoputytsdn
+268023593856806912	business	maine gas prices continue to drop gas prices in maine continue to fall yet remain significantly higher than th httptco4p6c0kun
+268023592929869824	business	nh gas prices still dropping the price of gas is dropping in new hampshire but its still higher than the nati httptcoaahzyez7
+268023527976865792	business	national marketing newsshttptco1bonsbtq
+268023496179851264	business	hopefully this finance test isnt too rough wishfulthinking candrew358
+268023479775932416	business	oil down slightly on worry about us fiscal cliff the price of oil is down slightly in veterans day trading as a httptcofqkrzgd9
+268023477896896512	business	king coal hasnt abdicated throne in kentucky kentuckys beleaguered coal industry suffering under economic co httptcoomxilknd
+268023421936492545	business	economy watch foreclosed property discounts lv short sales down consumer confidence up httptco9xhy2xe2 cre realestate
+268023273479090176	business	warren buffett says his fortune buys him freedomsand private jet travelsbut he treasures freedom the most httptcosd65vzrz
+268023009766432768	business	king coal hasnt abdicated throne in kentucky kentuckys beleaguered coal industry suffering under economic co httptcom7at1cci
+268022813619798016	business	rt sexxandweed spoil me with loyalty i can finance myself
+268022763623702528	business	rt abbyzimbelman thank you finance professor for wasting 20 minutes of my time repeating exactly what you did friday mondays
+268022736234889216	business	onlinebusiness bally technologies signs agreement to offer online casino tablegame content from shfl entertainment httptcorl2dr89p
+268022635575799809	business	us seen overtaking saudis as biggest oil producer the united states will become the worlds largest oil produce httptcov7aguoar
+268022433720725504	business	starwood property trust to pay yearend bonus on top of 8 dividend httptcoukxvhqvl finance
+268022306134163456	business	rt sexxandweed spoil me with loyalty i can finance myself
+268022235032322048	business	rt money whats a good personal finance book for young adults httptcoytdgd6xq moneyhelpdesk
+268022184088317954	business	epa official hopeful on gas drilling studysyahoo news httptcoaxfkeyur va yahoonews
+268022088810500096	business	constituencies bend okla govs ear on health care httptcofirjolyw
+268022087980048385	business	tennrun health exchange faces gop roadblock httptcorcku6i1p
+268021803614629889	business	fhfas big move use fannie and freddie for privatelabel mbs the federal housing finance agency wants to workshttptcocpuctyd6
+268021803375538176	business	rt sexxandweed spoil me with loyalty i can finance myself
+268021362210254848	business	microsofts surface tablet has modest start ballmer microsoft corps new surface tabletsits challenger toshttptcogc2aau21
+268021358959673345	business	rt money whats a good personal finance book for young adults httptcoytdgd6xq moneyhelpdesk
+268021305301938176	business	robert half financesaccounting controllerscedarrapidssia httptcovagpixsd accounting job jobs tweetmyjobs
+268021234904748032	business	finance professor got fired can you say finally what took so long awful
+268021193339203585	business	comments from euro zone finance ministers and officials httptcoljgtcwsp
+268021134841241601	business	thousands of banks may disappear httptcotkhkidzp httptcosi2ljkjh
+268021109033672705	business	rt money whats a good personal finance book for young adults httptcoytdgd6xq moneyhelpdesk
+268020673442619392	business	guest post personal finance lessons during the camping trip from hellss via lbeemoneytreessshttptcoeb0smd9h
+268020609076850688	business	dallas controllerscpashealthcare industry exps sherman httptcozydneu4n ebc jobs
+268020607315238912	business	dallas staff accountants fort worth httptco02mmpkeb ebc jobs
+268020581662851072	business	end of year household budgeting tipssfinance httptcoul8aqgrk
+268020426909818880	business	walmart and target to report quarterly results and other things to watch on wall st this weekshttptcokcs6pndy
+268020046608101376	business	rt revkahjc the irs has gone roguesmichael f cannonstownhall finance conservative columnists httptcoefij5ibp via townhallcom
+268019913862557696	business	vt college euthanizes farm ox at center of uproarsyahoo finance httptcoivyq3jr2 via yahoofinance
+268019821470433281	business	rt money whats a good personal finance book for young adults httptcoytdgd6xq moneyhelpdesk
+268019804517052416	business	when infinite inflation isnt enoughspeter schiffstownhall finance conservative columnistsshttptco8huwzccy via townhallcom
+268019704436760576	business	celebrating food stamps for mexicosmark baisleystownhall finance conservative columnists httptcovb3k40ga via townhallcom
+268019659708694529	business	coordinator community programs sports managementfinanceadminsjobs in usa united statess new yorkshttptcocgsnmp92
+268019659700326401	business	coordinator community programs sports managementfinanceadminsjobs in usa united statess new yorkshttptcoq4s1scba
+268019545162256385	business	rt mathewi pearson is said to be in talks about a joint venturemerger with reuters according to the telegraph httptcoslrqecsv
+268019534676516865	business	congratulations tom httptcohakdj3wl
+268019462190546944	business	eu probes chinese subsidies of solar panels partssyahoo finance from yahoo finance the european union isshttptcobxebkgi4
+268019430540316672	business	guess whos failing the shit out of personal finance
+268019082144649217	business	the irs has gone roguesmichael f cannonstownhall finance conservative columnists httptcoefij5ibp via townhallcom
+268018885998018561	business	constituencies bend okla govs ear on health care looming decisions for gov mary fallin onshttptcoavodc8gy newhealthcarelaw

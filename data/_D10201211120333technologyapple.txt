@@ -1,0 +1,1501 @@
+/usr/local/java/jdk1.6.0_37/bin/java -Xms1024m -Xmx1024m -cp :../lib/*.jar:../lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:../lib/twitter4j-2.2.6/twitter4j-async-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-core-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-examples-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-media-support-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-stream-2.2.6.jar:../lib/twitter-text-1.5.0/twitter-text-1.5.0.jar:bin UsersMentionDownload technology apple
+technology apple lang:en geocode:39.8,-95.583068847656,2500km
+267953900957626368	technology	14 new awesome users just followed me i found out using this awesome iphone apphttptcotc7bqmjn twitrmanager
+267953847530582018	technology	rt natashaanastasi misshaletra pls rt aspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267953791637266432	technology	ziphone ios 6 untethered jailbreak for iphone 5 update there seems to be growing criticim over httptcoxsywj7r8 apple iphone ipad
+267953713090539520	technology	video breakingviews bbcs bad crisis managementshttptcoxcaftg5s via httptcodihkkd3l
+267953711467331584	technology	internet someone goofed and apples new prototype store is unbearably noisy two weeks ago apple unveiled a httptcormjrcre9
+267953702214709248	technology	although your motto might be live and let live it seems likesmore for sagittarius httptcorv5jgipc
+267953658589753345	technology	happy hausfrau caramel apple spiced cider httptco1nbnyfqf
+267953429748523008	technology	rt jonasbrothers check out jbradiocity pics now avail on our mobile app itunes httptcomlyqufvjsandroid httptcoadh8qhpm httptconit25amk
+267953368880787457	technology	apple and htc sign truce ending patent disputesshttptcondqqpsya httptcotjcxcejp
+267953243500466176	technology	a world without linux where would apache microsoftseven apple be today httptcodfv2wgyk
+267953220230459392	technology	rt imashleyroberts you can now download ashleys brand new solo single yesterday from itunes httpstcob70iofuysrt for ashley imaceleb ashhq
+267953210101202944	technology	video an american revolutionary as httptcob26khgfx via httptcodihkkd3l
+267953138772889600	technology	guardian news apple and htc call off hostilities mobile phone makers sign 10year licensing agreement after 32 httptco64dx7olf
+267952856282320896	technology	imessagesfacetime or something that contact using appleslittlepanda15yahoocom
+267952827236765697	technology	video cursivesthis house alivesthey shoot musicshttptcorhbeidfy via httptcomd1ieqri
+267952755384139776	technology	apple reportedly paid 21 million for rights to swiss railways clock design httptcosloku8g0
+267952727835938816	technology	forget the iphone 5sapple is about to start production of the iphone 5s report aaplshttptcokwdpnazm
+267952711922753536	technology	htc and apple settle patent dispute perhaps tim cook realizes patent fights are a waste whileshttptcokpyhkieb teamfollowback
+267952707464216577	technology	video wealth strategies retail mayshttptcozr27ozq4 via httptcodihkkd3l
+267952670910844928	technology	rt genevievedewey love familydrama w humorsromance firstiloveyou amazon httptcofevybpwt apple httptconume9xnc bn httptcoxoz0aobn asmsg
+267952668255850496	technology	according to published reports the number of mobile health apps in the apple store increased from 3000 in early 2010 to 13000 in 2012
+267952616342962176	technology	htc and apple settle patent dispute perhaps tim cook realizes patent fights are a waste httptcogrb5numl techdirt rootsync
+267952572873187328	technology	forget the iphone 5sapple is about to start production of the iphone 5s report aaplshttptcobspmvbus via sai
+267952560718098432	technology	available now on itunes djfreshx3 presents the tonite show sessions vol 1 httptcofgnx9mmu httptcoyg9kqa85 11
+267952548755955714	technology	keep getting excited cause i see i have one email thinking someone might be giving me a job then its just apple or some spam thing
+267952461891895297	technology	video injury update terry could be out for monthsshttptcopce5vpgn via httptco1zzzxz8j
+267952461690585088	technology	video cursivesthe cat and mousesthey shoot musicshttptcov4gy94lr via httptcomd1ieqri
+267952430631763970	technology	rt brieeikeseth class of 2015 drinks apple juice at their parties calmyourself
+267952398666960896	technology	review busycal 20 remains superior to apples calendar httptcol48nk9dp macworld
+267952274448457729	technology	apple htc settle patent suits apple inc and android phone maker htc have settled a group of patent suits file httptcoyvqnh7mi
+267952273743814656	technology	shares in taiwans htc up by daily limit on apple dealshttptcoh49edzsr httptcoubqdlmnh htc
+267952209948471296	technology	video city view guesthouse accommoda httptcog8fhonwf via httptcolmz4rsuz
+267952209940074496	technology	video greece awaits bailout funds af httptcot1j9z42g via httptcodihkkd3l
+267952181020352513	technology	tomdaley1994 pls rt aspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267952180487659520	technology	a world without linux where would apache microsoftseven apple be todaysinfoworld a world without linux httptcoq88kktya
+267952132957814784	technology	natcarterx pls rt aspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267952083632807936	technology	my food today was 4 packs of ramen and an applesvery satanic worst day of the year for food
+267952058307592192	technology	shares in taiwans htc up by daily limit on apple dealshttptcopwmaowid shares in taiwans htc up by daily httptco0yp6rsfo
+267952048513900545	technology	tommcfly pls rt aspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267952008932245505	technology	keithmahon pls rt aspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267951983057592320	technology	thescript pls rt aspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267951954964135936	technology	unionjengland pls rtaspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267951920986079232	technology	directix1d pls rt aspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267951877965086720	technology	conormaynard pls rt aspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267951851255771137	technology	rt natashaanastasi melovesunionj pls rt aspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267951841264951296	technology	misshaletra pls rt aspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267951830527508480	technology	htc shares jump after settles patent issues with apple taipei reuterssshares of htc corp jumped by their pe httptconuc8wscr
+267951816208158720	technology	jamiewoodsky pls rt aspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267951783064788992	technology	melovesunionj pls rt aspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267951753838862336	technology	mcflyharry pls rt aspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267951701305212928	technology	why cant you get apple flavour milkshakes
+267951661547405312	technology	frankiecocozza pls rtaspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267951654354161664	technology	rt imashleyroberts our imaceleb queen of the jungle ashleys brand new solo single yesterday is out now httptcojysn9zksplease spread the news ashhq
+267951613065449472	technology	jaythewanted pls rt aspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267951589904482304	technology	can you guess the word clue green health gel moisturiser spikey guesstinyco httptco0ua2lk1b
+267951580618313729	technology	reallorraine pls rt aspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267951534535503872	technology	elenabieberox pls rtaspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267951498539958272	technology	looking for cookie recipes hundreds of delicious cookie recipes are available here for iphoneipadipodhttptcojixqi0hm
+267951458199162880	technology	harryscrushx pls rt aspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267951260324466688	technology	is that a hippo or you happy to see me zoo watershttptcoqa38wwhb
+267951167806525441	technology	davidwalliamsuk please rtaspiring singer natasha was killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267951151750713344	technology	371 a locating b to locate c located d will locates get this ios app httptcoiz0mrxyn
+267951131475447809	technology	forbesstake a lesson from apple a strategy to keep customers in your ecosystemsmore apple iphone newsshttptcoum9dso7v
+267951117663621120	technology	htc to pay apple licensing feesshtc corp will have to pay licensing fees to apple inc as part of its settlementshttptcobjtetfad
+267951102685757440	technology	the week in gadgets a universal keyboard apples fall from the top and as httptcoxkchcvvi httptcon3vx8evd
+267951099456151553	technology	check out my ride in csrracing for iphone try it for freehttptcotxqgs2x0 httptcoqtqtdh3g
+267950995772948480	technology	kiddulthood please rtaspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267950963510353922	technology	could apple be shifting its patent strategyshtc corps settlement with apple inc indicates a potential shift in httptcolapjhhzo
+267950880819666944	technology	shares in taiwans htc up by daily limit on apple deal httptcoanca1rxu technology
+267950864453496832	technology	liveloved3 please rt aspiring singer natasha was sadly killed in a car accident 7 yrs ago her track is available now httptcono22gzwj
+267950831649845249	technology	seyonski i hate apple because they are too proud just simple instruction they refused the sad part is that theshttptcocrqkmvxv
+267950711483011072	technology	rt useclear todays the last change to get 50 off clear for mac spread the word httptco2ciprnfk
+267950513482522624	technology	a world without linux where would apache microsoftseven apple be today httptco00g1j7ta
+267950510944948225	technology	rt jallbreak apple sells three million ipads in three dayss httptcoomabux9q
+267950305822511106	technology	apple photos 20 mustsee concert movies httptcogfxcio08
+267950198565765120	technology	really hoping apple fixes the itunes podcast feeds today
+267950113379475456	technology	can you guess the word clue yousan envelope shut guesstinyco httptco6pfjau2s
+267949946664263680	technology	can you guess the word clue loud aounds come from your mouth guesstinyco httptco6pfjau2s
+267949926795862016	technology	the new single lifted from natashas tribute album cant keep it in is available now on ituneshttpstcobd4pshh5
+267949892947828736	technology	apple avoids thermonuclear war is settling htc patent disputeswral tech wire httptcohyzkznke
+267949892184453120	technology	apple settles patent spat with htcsfast company httptcog7t6qfhr
+267949891458838528	technology	apple and htc agree 10year patent licensing dealshttptco5zjkhhp3 blog httptcoripbiako
+267949889948893185	technology	htc and apple settle global patent battleshttptcodn4gcjzj httptcox5m4hfhv
+267949862417481728	technology	apple apple and htc settle worldwide patent disputes apple and taiwanese smartphone maker htc have settled all httptcofiehj2tm
+267949861553463296	technology	apple confidential agreement ends apple and htcs patent feud apple and htc ended their 32month intellectualshttptcohsl4aykg
+267949769975029760	technology	can you guess the word clue rhymes with retireyou put it on your bod like a shirt and pants guesstinyco httptco6pfjau2s
+267949607944871936	technology	who has my apple headphones
+267949502135140352	technology	theres just nowt worse thn wen u wear them apple bottom jeans but u jst cnt find those boots with the furnytmare
+267949453690953728	technology	pocketclimber is so fun i just climbed over 135 floors chanllenge me app linkhttptcowxrfecql
+267949393376866304	technology	are apple stores just too crowded
+267949362032812032	technology	folks go download this amazing tunesfanfairmusic httptcocb7oat2us xx
+267949355401609217	technology	apple rumored to begin trial production of iphone 5s by the end of the year httptcocpbstiyc
+267949232936329216	technology	apples aapl iphone 5s trial production to begin earlier than expected reportswall httptcobrmtpedx
+267949231535452161	technology	is apple losing its innovating touchsseeking alpha httptcoyxxg417r
+267949148068782080	technology	rt worthavegroup in the name of progress apple is suing anyone who comes out with another tablet whos really losing here ithappens
+267949030598922241	technology	httptcom7ncf7fy splash signature folio leather case for apple ipad
+267949026719174657	technology	pocketclimber is so fun i just climbed over 119 floors chanllenge me app linkhttptcowxrfecql
+267949010877304832	technology	saramason9 itsasecretxxx mrsemb im on peasham soup for lunch and an apple omlette and salad for tea me thinks going shopping later
+267948945441964032	technology	icy tower 2sfree lunch design ab icy tower 2 free lunch design ab genre games release httptcoqljnpkhe
+267948908943126528	technology	tvnewsguru applenws apple is starting to make me angry just let me have my phone for a year before you drop something elsessheesh
+267948848415117313	technology	apple apple forced to pay an increased 20 percent more for mobile processorsscnet cnetapple forced to pay an httptcoqwo3vmyb
+267948847706300416	technology	apple could apple be shifting its patent strategyswall street journal blog could apple be shifting its pa httptco4o7ugyfn
+267948846200532992	technology	apple us stock futures climb as apple gainssbloomberg us stock futures climb as apple gainsbloombergus httptconqlpiucl
+267948719960371200	technology	tadasrt businessinsider forget iphone 5sapple is about to start production of the iphone 5s aapl by hblodget httptcokqm1vhsk
+267948716625911808	technology	zuandoemkta check it out and enjoytyphoon music groupssunsetblvd riddim reggae fusion must get hot httpstcovb4mbcae
+267948689803317248	technology	nytimes as apples battle with htc ends smartphone patent fights continue httptcoc5fz4nse
+267948675152613376	technology	us stock futures climb as apple gainssbusinessweek httptcojutdnzdp
+267948635608739841	technology	343 a ever b never c not d rarelys get this ios app httptcoiz0mrxyn
+267948445954895873	technology	apple and htc sign truce ending patent disputesshttptcoctys6zra telegraphcoukapple and htc sign truce e httptcoobucjdll
+267948364262428672	technology	apple replaces samsung didnt copy notice with a new one httptcog1drmgod apple
+267948232443826176	technology	rt eclipsemaps just 4 days to the total solar eclipse on november 14 lots of maps and animations in ibook httptcouwnm0yxzscairnseclipse tse2012
+267948226051723264	technology	uk appeals court orders apple to pay samsungs legal fees httptcot0tl1z45
+267948172733714433	technology	winchestersamb that one with the weird lookin barn that had the bright orange door and the dead apple tree
+267948150340329473	technology	win a 50 shabby apple gift card from hardly a housewife fashion giveaway babybraddy httptcoxczbknfn
+267948053036687360	technology	teamtyphoon hustle hard check it out and enjoytyphoon music groupssunsetblvd riddim reggae fusion must get hot httpstcovb4mbcae
+267948030924304384	technology	forget the iphone 5sapple is about to start production of the iphone 5s report aapl httptcoju2lgfaq tech technology
+267948024737722368	technology	htc shares jump after settles patent issues with apple taipei reuterssshares of htc corp jumped by their pe httptco5q3j9amh
+267947979816714240	technology	angry birds star warssrovio entertainment ltdssssssssssssssssssssssssssssssshttptcol0y99e1h
+267947978126397440	technology	incipio apple essentials kit for ipad 2 httptcot2r98oqa
+267947919854927873	technology	rt tvnewsguru rt applenws forget the iphone 5sapple is about to start production of the iphone 5ss business insider httptcotgchxvlj apple
+267947652887478272	technology	rt applenws forget the iphone 5sapple is about to start production of the iphone 5ss business insider httptcotgchxvlj apple
+267947511841427456	technology	check it out and enjoytyphoon music groupssunsetblvd riddim reggae fusion must get hot httpstcovb4mbcae
+267947377233637377	technology	356 a moment b comment c recruitment d managements get this ios app httptcoiz0mrxyn
+267947374968717312	technology	rt imashleyroberts our imaceleb queen of the jungle ashleys brand new solo single yesterday is out now httptcojysn9zksplease spread the news ashhq
+267947187630116866	technology	cat news us stock futures climb as apple gains httptcoqruueaef apple climb futures
+267947153568194561	technology	i should become an interior designer or own an interior designing company httptcofwdioixm
+267947123985743872	technology	apple to begin trial production of iphone 5s for earlier than expected launch httptcobq7optw6
+267947074325213185	technology	jjfosterr 13inch mpb got it from apple store refurbished mid 2012 model 850
+267946987423404032	technology	apple to begin trial production of iphone 5s in december taiwanese httptco9xuc78n1 iphone apple
+267946986936885248	technology	apple to begin trial production of iphone 5s in december iphonehacks taiwanese publication httptco0hjszor9
+267946986911707138	technology	uk appeals court orders apple to pay samsungs legal fees previously on httptcobtljkoai iphone apple
+267946986899124224	technology	samsung galaxy tab 2 7inch available for 120 after cashback from amazon uk httptcojqhopcue iphone apple
+267946986873962496	technology	uk appeals court orders apple to pay samsungs legal fees android central previously on httptco0azzzzau
+267946986869755904	technology	youtube axing 60 percent of its original content channels back in january httptco8rg1gft3 iphone apple
+267946986865569792	technology	icy tower 2sfree lunch design ab icy tower 2 free lunch design ab genre httptcoynmbkh47 iphone apple
+267946972932104192	technology	star trek soundssdownload nowshttptcotemb1o0y
+267946928170471424	technology	scitech uk court slams apple over samsung noticesall things digital httptcocgwzaxds
+267946826223718400	technology	im earning rewards in nexercise for iphone httptcome5z9rdy mpoints
+267946794141495296	technology	black premium dual protection rubberized hard case cover for apple ipod touch 4th generationsmirror screen pro httptcosfmrns6i
+267946754526298112	technology	this just in smurfs love to love smurfette tap smurfette once a day to earn extra xp httptcoylrwqqho smurfsvillage beelinegames
+267946688067547137	technology	apples aapl iphone 5s trial production to begin earlier than expected report commercial times a chinesela httptcommnikmdj
+267946443661246464	technology	apples aapl iphone 5s trial production to begin earlier than expected reportshttptcojfctoq79
+267946249305616384	technology	i liked a youtube video httptcoctp1ambj applesipad ministv adssphotos
+267946140429852672	technology	android central uk appeals court orders apple to pay samsungs legal fees previously on patent httptcoqdd7qote android phones
+267946126135656449	technology	rt imashleyroberts our imaceleb queen of the jungle ashleys brand new solo single yesterday is out now httptcojysn9zksplease spread the news ashhq
+267946106728611841	technology	uk appeals court orders apple to pay samsungs legal feessandroid central previously on patent warsshttptco8vavnvpy
+267946006782562304	technology	rt blackfridaycoun zagg black friday 2012 sale gives away a free apple ipad every hour we received the inside scoop on the zagg bl httptcooapsavlg
+267945913404751874	technology	new apple i phone 4 s 16gb still in boxs 499shttptcotil85myh
+267945791824470016	technology	having fun playing csr racing for iphone why not join me for freehttptcorkwqscp3
+267945776657883136	technology	is it acceptable to eat an apple in the library
+267945710681456640	technology	just bit into an applesattempted to eat it on my new wisdom tooth fuck fuck fuck fuck fuck
+267945675663237120	technology	ryanfulton hows the apple at the front of the car doing
+267945384792432641	technology	just 4 days to the total solar eclipse on november 14 lots of maps and animations in ibook httptcouwnm0yxzscairnseclipse tse2012
+267945384742100992	technology	two top execs out at apple rtlawshttptcofyvizgka via rsullivanlaw
+267945377104265216	technology	overview animation of total solar eclipse httptcoqpp0tzzmsibook httptcouwnm0yxzscairnseclipse tse2012 coming soon
+267945221038432256	technology	gentle speaking also describe your personality this can helps you to highlight your personality in any audience httptcosm69ukuv
+267945082991300609	technology	rt themoneygame forget the iphone 5sapple is about to start production of the iphone 5s rpt aapl by hblodget httptco4tmhgvxu
+267944867869638656	technology	180 a because of b consequently c thus d according tos get this ios app httptcoiz0mrxyn
+267944853978091520	technology	rt ewanzdoodles tomorrow 1d will be in big apple aka new york ciittyyy
+267944844222140416	technology	httptcoyf4x2jb9 from reddit pics httptco444g33tl haha
+267944772327600128	technology	rt ewanzdoodles tomorrow 1d will be in big apple aka new york ciittyyy
+267944742107635712	technology	keronnyah that dude is ah samsung user lol he willfully fighting down the apple lol
+267944705248071681	technology	tomorrow 1d will be in big apple aka new york ciittyyy
+267944690698047489	technology	apple pussy or anus httptcoqs08kfgz
+267944631029866496	technology	apple39s stumbles bumps in the road or more serious httptcorj0mdecj apple
+267944596678516736	technology	iphonesandipads iphonehacks apple to begin trial production of iphone 5s in december taiwanese publication httptcou65qgiip
+267944595541864449	technology	iphonesandipads apple to begin trial production of iphone 5s in decembersiphonehacks taiwanese publicationshttptcohesmwbfi
+267944538868424704	technology	i just moved up to level 8 in csrracing for iphone you should check it out for free httptcorkwqscp3
+267944504470953984	technology	video major blaze ravages south australiashttptcobsobyef8 via httptcodihkkd3l
+267944163230765057	technology	rt imashleyroberts our imaceleb queen of the jungle ashleys brand new solo single yesterday is out now httptcojysn9zksplease spread the news ashhq
+267944147233681409	technology	apple and htc settle worldwide patent disputes apple and taiwanese smartphone maker htc have settled all of the httptcojf8nna3v
+267944138006216704	technology	video 24 hours president mark emmer httptcohli4kfc2 via httptco1zzzxz8j
+267944001691320320	technology	video inside storyschina dying fr httptcopbpjlefd via httptcodihkkd3l
+267943969286148097	technology	video todays daily humor stand upshttptcohmlr96u5 via httptcomdyptxv9
+267943957328175104	technology	apple to begin trial production of iphone 5s in december taiwanese publicationsdigitimes reports that httptcogzbf3cdp
+267943894937915393	technology	uk court slams apple over samsung notice false and misleading httptcoyjima3vo
+267943855226253312	technology	video inside the ncaas24 hours p httptcopwokrxs5 via httptco1zzzxz8j
+267943844102955009	technology	rt imashleyroberts our imaceleb queen of the jungle ashleys brand new solo single yesterday is out now httptcojysn9zksplease spread the news ashhq
+267943837610151936	technology	could apple be shifting its patent strategy httptcozhrl1ctt tech technology smartphones uncategorized asia patents htc
+267943761424830464	technology	uk court slams apple over samsung notice httptcodzhceel8
+267943743863263232	technology	uk court slams apple over samsung noticesall things digital all things digitaluk court slams apple over s httptcoa3mgbfce
+267943716570927104	technology	technology inquirer htc and apple settle android and iphone patent disputesinquirermobile phone designers htc and httptcortozwrox
+267943709683884032	technology	uk appeals court orders apple to pay samsungs legal fees httptcowtasarwn international
+267943570688839680	technology	whoabellatrix i need some more of that hot apple cider sogood warmsoldbones
+267943547481780225	technology	omg selena is wearing justins watch dshttptcorsli8eyw httptcowd4iirkp
+267943521007321088	technology	video injured us soldiers demand better careshttptcog1yiyfr3 via httptcodihkkd3l
+267943506209824769	technology	rt maggiestewart apple needs to get their shit together ios6 sucks oldsoftwaresthis shit
+267943410223169539	technology	uk appeals court orders apple to pay samsungs legal feesspreviously on patent warssapple sues samsung in t httptco4z0ideur
+267943383614517248	technology	iphonehacks apple to begin trial production of iphone 5s in december taiwanese publicationshttptco9qnwpinu apple iphone ipad
+267943376995885056	technology	apple to begin trial production of iphone 5s in decembersiphonehacks taiwanese publicationsdigitimes httptcovxcrzufs
+267943358469660672	technology	nowplaying fiona applessleep to dream httptcolp9lpwm3
+267943249963008001	technology	rt imashleyroberts our imaceleb queen of the jungle ashleys brand new solo single yesterday is out now httptcojysn9zksplease spread the news ashhq
+267943228421046272	technology	bbc newssapple and htc settle patent disputes httptcovxmbpfeu
+267943182224986112	technology	apple and htc settle worldwide patent disputes apple and taiwanese smartphone maker htc have settled all of the httptcox2wg6zlg
+267943146007166976	technology	consumers will spend 1bn through mobiles this christmas report apple google amazon to reap benefit of table httptcop8xsy5am
+267943074129383424	technology	apple and htc settle worldwide patent disputes apple and taiwanese smartphone maker htc haveshttptcoo8zddphf voip conference
+267943064054665217	technology	apple to begin trial production of iphone 5s in december httptcodk5ssfpv updatessjailbreak
+267943063937245184	technology	apple imagine getting bannged by way of a real alien httptcopdtekeby
+267942891031261185	technology	our imaceleb queen of the jungle ashleys brand new solo single yesterday is out now httptcojysn9zksplease spread the news ashhq
+267942655885987840	technology	apple and htc bury the hatchet rival smartphone makers apple and htc have settled all outstanding dis httptcogr4pdka8 pakistan
+267942587246211073	technology	htc to pay apple licensing fees htc corp will have to pay licensing fees to apple inc as part of its settlement httptcoqrc64j2l
+267942515171282944	technology	i entered to win an ipad mini from workwithiws because i love apple products httptcolzm5udil
+267942083854217216	technology	im using trackurs free social media monitoring tools and entering to win the new apple ipad mini you can too httptcok6m9fvnd
+267941919915663360	technology	if this happens im going androidshttptcoey63qhog
+267941606743764992	technology	apple and htc finally make peace with 10year licensing agreement httptcon6pexdsk
+267941543745290241	technology	apple settles htc patent suits in shift from jobs war planssan francisco chronicle httptcof2xmpazt
+267941542696722432	technology	apple and htc settle worldwide patent disputesshttptcoatbnrolq httptcoem4oil27
+267941541866242050	technology	apple and htc reach common ground for patent licences with 10year dealstech hunter httptcobmeciisr
+267941541031587841	technology	htc settles global patent fight with appleswall street journal india httptcouqvnkjbr
+267941514125123584	technology	apple confidential agreement ends apple and htcs patent feud apple and htc ended their 32month intellectualshttptcoy7xrnslw
+267941377483083776	technology	htc to pay apple licensing fees htc corp will have to pay licensing fees to apple inc as part of its settleme httptco5dqs6liw
+267941371996938241	technology	htc to pay apple licensing fees htc corp will have to pay licensing fees to apple inc as part of its settleme httptcon1ycg2fm
+267941203557875713	technology	im at walmart supercenter apple valley mn httptcoilrlyiot
+267941195693559808	technology	rt iphonesandipads itunes free apps icy tower 2sfree lunch design ab icy tower 2 free lunch design ab genre httptcorwre8god apple iphone ipad
+267941147882692608	technology	join the iosnoops sweepstakes giveaway to win a free apple ipad mini httptcoaiohj7ig
+267941106996637696	technology	win a 75 gift card from shabbyapplesmommydigger giveaway shabbyapplegiveaway ends 1112 httptcoswrqriin
+267941079674929152	technology	bitethisapplesgood morning
+267941018857517056	technology	one 4s 16gb sprintsmintsboxsaccessoriessapple care warrantys400shttptcowjx5wzbc
+267940773226479616	technology	with htc patent deal apple is going for androids jugular httptcow2nvwwb1 via editions
+267940521916383233	technology	rt judiemp643 among top four internet companies is apple most vulnerablesforbes disallowed key characters apple
+267940501825671168	technology	rt appleupdater apple apple pays out for copied clock designstg daily daily mailapple pays out for copied clock designtg dai httptcopybzfxmi
+267940499086786560	technology	rt iphonesandipads itunes free apps icy tower 2sfree lunch design ab icy tower 2 free lunch design ab genre httptcorwre8god apple iphone ipad
+267940328990990336	technology	itunes free apps icy tower 2sfree lunch design ab icy tower 2 free lunch design ab genre httptcorwre8god apple iphone ipad
+267940310473138177	technology	apple apple pays out for copied clock designstg daily daily mailapple pays out for copied clock designtg dai httptcopybzfxmi
+267940138246627328	technology	rt blackfridaycoun best apple black friday 2012 deal is on ipad 2 besides the apple store black friday sale other retailer like b httptcoxgytndx8
+267940101722632193	technology	shoutout done with lazyshoutout android app at httptcoqrzryumasiphone app also available at httptcom7391pdf
+267940085029281793	technology	among top four internet companies is apple most vulnerablesforbes disallowed key characters apple
+267939966682804224	technology	apple to begin trial production of iphone 5s for earlier than expected launch newslocker httptcokzjv4ipn
+267939845253505026	technology	uk court slams apple over samsung notice httptcovwwgz6po
+267939830720245760	technology	video fluminense joy fred secures the brazilian titleshttptcowzme2f6l via httptco1zzzxz8j
+267939745391316995	technology	woodythewood suppagyrl good morningsaccepts apple takes bite has pupil woods recovered enough so lessons may begin
+267939686830460928	technology	video debbie after surgeryshttptcosccliusi via httptcoc8jwrncy
+267939655788408832	technology	video whats left to cut greece sa httptcomhdkduaa via httptcodihkkd3l
+267939636201009152	technology	apple products to me are like chocolate fireguards useless
+267939546396782592	technology	shoutout done with lazyshoutout android app at httptcoqrzryumasiphone app also available at httptcom7391pdf
+267939427022667776	technology	video super goal just 10 seconds aft httptcodtjwxceu via httptco1zzzxz8j
+267939421721067520	technology	video fashiontv presents hairsmake httptcoc6dbtbrz via httptcoc8jwrncy
+267939420852854784	technology	video booty luv black widows popjustice httptco2z59rqzi via httptcomd1ieqri
+267939418118180865	technology	crystalios omgg i choked on my apple this is too damn true
+267939374367404033	technology	apple pays swiss federal railways 21 million for clock icon video httptcopntbigsl via mashable
+267939314921508864	technology	apple pays 21 mn to use swiss railway clock design httptco1zcnjqlu
+267939167965683712	technology	video indonesia defies global convention on smokingshttptcomizfbnaz via httptcodihkkd3l
+267938591571836929	technology	tech uk court slams apple over samsung noticesall things digital httptcogcxhdcym
+267938240575705088	technology	uk glamberts get a copy of the trespassing ep at amazon httptcoyqmrn7y6s uk itunes httptcoimweedvssplay httptcoi9bac4ze
+267937937507880960	technology	why would good autocorrect to food damn it apple context clues
+267937839294070784	technology	geordi3b0y uk court slams apple over samsung noticesall things digital httptcomgg9aujs
+267937783086186497	technology	available now on itunes djfreshx3 presents the tonite show sessions vol 1 httptcofgnx9mmu httptcoyg9kqa85 10
+267937766338351105	technology	news gadget htc and apple settle android and iphone patent disputessinquirer inquirerhtc and ap httptco13sanpte technology
+267937751188508672	technology	have to use the apple earpiece then
+267937412154540032	technology	ofcom sets uk 4g auction timeline should see multicarrier rollout by june httptcofixekimg iphone apple
+267937410858496001	technology	uk 4g auction process to begin in december rollout slated for mayjune uk httptcoqmqwaych iphone apple
+267937409184968704	technology	movember moustache app that gives back in an effort to make the world aware httptcozjxsmoxu iphone apple
+267937364444340224	technology	im gonna get my nutri tea along with an apple and watch some shows before i sleep whee
+267937312837603328	technology	101 a how b which c where d thats get this ios app httptcoiz0mrxyn
+267937048382545920	technology	beautiful apple slice dianthus httptcorwozjwsq flower photo
+267937048164462592	technology	wounded me mam bought is apple pop tarts this weeksnotnice
+267936991780433920	technology	as apples battle with htc ends smartphone patent fights continue httptcoaeiwvkbg
+267936861488549888	technology	rt chinazaupdates apple and htc end patent disputes htc and apple both mobile phone makers have decided to sign a licensing agree httptcoon3fidbt
+267936740780687360	technology	apple to begin trial production of iphone 5s for earlier than expected launch httptcoo6zxggir
+267936725567942656	technology	httptconsjdl73d apple ipad 4th generation wifi reviewsdigit httptcohyrqzvmc
+267936662657564674	technology	best cell phone dealsshttptcolv3d4to2
+267936470881431552	technology	rt vallie boot up the uss poor what next for apple tv shipments fall surfaces and mores httptconjzxkkiw
+267936375419056128	technology	rt lnternetgrandma when i eat an apple im so fucking healthy
+267936160725213184	technology	kindle book reviews says wheels is far from your average book available on amazon httptcoqkjvwmgisibooks httptcoofrwybcd
+267936152768610304	technology	apple iphone 4 aegis series impact resistant casesby tridentstri agiph4pkspinkshttptcoi61bnmge
+267935807615143937	technology	i liked a youtube video httptconehggrh0 applesipad ministv adspiano
+267935732528721920	technology	apple to begin trial production of iphone 5s for earlier than expected launch httptcol5c9bnv1
+267935631836069888	technology	inmediatum apple and htc settle global patent disputessmartphone giants sign 10year licensing deal httptcoez4jtu7l
+267935342370357248	technology	rt worthavegroup in the name of progress apple is suing anyone who comes out with another tablet whos really losing here ithappens
+267935294190387201	technology	broiled chops fried potatoes peas salad apple pie cheese grapes
+267935127605227520	technology	nearer the house was a kitchen garden with an apple
+267934889154838528	technology	apple newsswhos vulnerable among the internets fantastic four techonomy panelists say it httptcoztujgibh via techcrunch
+267934795311493121	technology	238 a effecting b effectively c effect d effecteds get this ios app httptcoiz0mrxyn
+267934755746635776	technology	apple and htc end patent disputes htc and apple both mobile phone makers have decided to sign a licensing agree httptcoon3fidbt
+267934730077470721	technology	iphone 5s entering production says chinese newspaper apple is not selling as many iphone 5 units as it couldshttptcoqynv0m1d
+267934623793807361	technology	i managed to finish the apple on the groundsapple tree around assignment try it for yourself httptcoop5cimcw ipa
+267934446618038272	technology	does htc deal signal end to apples thermonuclear war against android httptcocrj8jxlb via undrip
+267934336114905088	technology	imore ofcom sets uk 4g auction timeline should see multicarrier rollout by june 2013 ofcom httptcoq5qjo8bn apple iphone ipad
+267934325801095168	technology	oflynnexpress i did wonder though if clegg liked apple pie just trying to lighten up monday morning
+267934303692939264	technology	math trickshidden creek software math trick hidden creek software genre education price httptco2u8cvcfw
+267934266254565376	technology	davidventernet me too raspberry apple is also amazing but xxx is my favorite
+267934226349953024	technology	bigsfor an icon mashable apple pays swiss federal railways 21m for its clock icon sfiegerman has the story httptco7eqfhf7f
+267934129608335360	technology	kalencom coated double buckle bag httptcoske7b6j9
+267933970606460928	technology	for sales brand new apple iphone 5 cost 600usd united kingdom specials available new iphonesunlocked firm httptcohepmqsgc
+267933540228935681	technology	reviews of julie apple hardworkin hobo httptcobjhqfdf6
+267933367780143104	technology	my twitter app keeps crashing i shall blame apple for this
+267933313644257280	technology	videos2012 apple mac mini handson by cnet httptcofqhe8meg
+267933221738655744	technology	htcs shares go up after patent settlement with applestopnews arab emirates httptconjgsaiea
+267933220908183552	technology	apple and htc settle smartphone patent disputespc advisor httptcoyddpjubn
+267933161831403520	technology	rt frankiecocozza didnt know i had a single out but would anyone expect any better than 89 anyway fucking epic get my ep here httpstcoalrhgxnc
+267933138737565696	technology	white sprint apple iphone 5s600shttptcouuiwv359
+267933065383391232	technology	apple to begin trial production of iphone 5s for earlier than expected launch httptcoh8iwac4istech it fb geek
+267933040116903937	technology	apple must pay samsungs uk legal costs after ipad copy comment farcesslashgear the guardianapple must pay sa httptconfzcusbq
+267933039269658624	technology	htc and apple settle android and iphone patent disputessinquirer inquirerhtc and apple settle android and iph httptco3urjoth3
+267932917890682880	technology	uk court slams apple over samsung notice httptcoceb2a93v tech technology apology falseandmisleading general galaxytab
+267932890019557376	technology	i liked a youtube video httptcogqaxmfa1 android nexus 4 vs apple iphone 5 review part 1
+267932808654233600	technology	apple pays 20 million swiss francs for clock us tech giant apple has dished out 20 million httptcodwc027nb
+267932786755784704	technology	startups among top four internet companies is apple most vulnerable httptcogbytjdg4
+267932753520099328	technology	battle reportspaul clarkssssssssssssssssssssssssssssssssssssssssshttptcomznayozz
+267932752614129664	technology	bc onlinesinfront asssssssssssssssssssssssssssssssssssssssssssshttptcolgarlxle
+267932710587228160	technology	mchlleho dont worry i will still go back to apple i was think of getting android then only apple
+267932548708061185	technology	oflynnexpress is that what he is sayingsfree apple pie for workers
+267932534220939265	technology	apple to start manufacturing the iphone 5s early so they can iron out the kinks apples iphone 5 is without qu httptcoyb1otp2l
+267932324136640513	technology	iphonesandipads apple to begin trial production of iphone 5s for earlier than expected launchsmacrumors httptcoml0qww86
+267932321938804736	technology	rt elbowroomapps crowded garden is a great app for the ipad mini all levels unlocked no ads httptco3mapyino iphone ipad ipod app idrtg
+267932318679826433	technology	iphonesandipads macrumors apple to begin trial production of iphone 5s for earlier than expected launch httptcoleutj5yr
+267932298534604801	technology	228 a previously b closely c frequently d nearlys get this ios app httptcoiz0mrxyn
+267932185917538305	technology	ive created my page on aboutme check out httptcobkwequni and sign up download the new iphone app at httptcoy92nwss4
+267932170474094592	technology	rt elbowroomapps crowded garden looks great on iphone4 iphone5 and ipad 2 games all levels unlocked no ads httptco3mapyino ipod app idrtg
+267932163511578625	technology	rt beyondbrics htc apple settlementsgood news or temporary reprieve httptcov3htz81e
+267931999740776448	technology	apple apple must pay samsungs uk legal costs after ipad copy comment farcesslashgear apple insiderapple mus httptcoawtelgkc
+267931817405988866	technology	the apple ipad is far more than just another electronic product that has been introduced lately learn how to use your ipad fully
+267931799114641408	technology	on hold with apple zzz
+267931794609950720	technology	beauty tips pro provides you to improve your appearance become more confident and beautiful featuring expert advice httptco27e8rmrg
+267931626862960641	technology	ultra thin 05mm clear hard case for apple iphone 4 electronics httptco2euhx64o
+267931606935805953	technology	video bentley continental gt dynamic httptcolp33crlc via httptcou7djdchr
+267931600296226816	technology	mcflymusic a note form dannymcfly to brighten up your mondaysloveiseasy httptcobydsedlm cheeky
+267931570449567744	technology	apple htc settle patent suits sign 10year licensing dealsforbes httptcofy2jkssg
+267931497653211136	technology	judge tells apple that they wont be throwing out patent troll case httptcoynvvmrgj
+267931380263026688	technology	apple is coming out with a product for asians the iopener
+267931336663248898	technology	looks like new iphone5 on wednesday not so good apple
+267931335778254848	technology	rt applenewshub ipadsnews ipad mini launch sees mini queues is apple losing their grip httptcolhl9rmce apple grip ipad
+267931285207535618	technology	ipad is the ipad mini brilliant the openforum discussessars technica blogsnews httptcorypruoxb
+267931280723828736	technology	rt greenpois0njb the iphone is boring its time for apple to unleash a new os apple iphone ios httptcorxrjukdq
+267931265808867328	technology	uk court slams apple over samsung notice apples cheeky handling of a uk court ruling ordering it httptcowcs7ejtk internet
+267931118244872192	technology	apple must pay samsungs uk legal costs after ipad copy comment farce httptco5nrl14f5
+267930842804940800	technology	rt antijokeapple what do you call a deer with no eyes still a deer the absence of eyes do not change the animal species
+267930812790501376	technology	ipadsnews ipad mini launch sees mini queues is apple losing their grip httptcolhl9rmce apple grip ipad
+267930760688840704	technology	mac rumors apple to begin trial production of iphone 5s for earlier than expected launch httptcoyennf7ts
+267930740539400192	technology	taken by fisheye pro on my iphone kodachrome film httptco5eizty43 rinyusr httptcoporsaurx
+267930623191166978	technology	samsung bumps up the price of apples processors by 20 httptcombolwklo
+267930383566401536	technology	the100bus lindadrummond thats the worst thing ive seen in months that guys not smuggling budgies put me right off my apple crumble
+267930069832458240	technology	video paul van dyk feat adam youngshttptco8rwpvdxx via httptcomd1ieqri
+267929879713026048	technology	htc and apple settle android and iphone patent disputessinquirer inquirerhtc and apple settle android and iph httptcop1vlr1lk
+267929846292815872	technology	tech apple must pay samsungs uk legal costs after ipad copy comment farcesslashgear httptco079vrulb
+267929845571411968	technology	tech htc and apple settle android and iphone patent disputessinquirer httptcoszlosfvp
+267929822364319744	technology	apple iphone 3gs 32gb new apple iphone 3gs 3gs black screen glass replacement digitizer with frameslcd assembl httptcoc4mcfxsq
+267929764407418880	technology	338 a relation b resemblance c identity d witnesss get this ios app httptcoiz0mrxyn
+267929743955992576	technology	life was much easier when apple and blackberry were just fruits httptcouxubjaao
+267929733864513536	technology	video un gives ecowas green light to move into malishttptco6gnu1hle via httptcodihkkd3l
+267929479308005376	technology	bout to make a bowl of apple jacks
+267929051157626880	technology	apple to begin trial production of iphone 5s for earlier than expected launch httptconi6secxe iphone apple
+267929038557937664	technology	how to jailbreak ios 6 and ios 601 with sn0wbreeze 297 if youre a httptcorhlvwer6 iphone apple
+267929035143790592	technology	sn0wbreeze jailbreak tool updated to support ios 6601 ih8sn0w has just httptcolvu1jieh iphone apple
+267929006098227204	technology	apple to begin trial production of iphone 5s for earlier than expected launch macrumors httptcolwk2yalt
+267928956420886529	technology	geordi3b0y htc apple settlementsgood news or temporary reprievesfinancial times blog httptcomfjyo0cg
+267928731362930688	technology	just rtsive harvested 1126 of food httptcohqnukgcg ipad ipadgames gameinsight apple entertainment
+267928502844674049	technology	324 a consistent b consistently c consisted d consists get this ios app httptcoiz0mrxyn
+267928206630330368	technology	rt khalidseconds rt if u remember backstreet boys aaron carter jesse mccartney nsync
+267928029215465472	technology	rt streetdiamond httptcoarm0ym3xsdownload hit em in da mouth by jodyfloyd now available on itunes
+267928021808345089	technology	rt elbowroomapps looking for something different try crowded garden all levels unlocked no ads httptco3mapyino iphone ipad ipod app idrtg
+267927959489363969	technology	rt elbowroomapps crowded garden is family friendly no simulated violence all levels unlocked no ads httptco3mapyino iphone ipad ipod app idrtg
+267927917164650496	technology	rt elbowroomapps looking for something different try crowded garden all levels unlocked no ads httptco3mapyino iphone ipad ipod app idrtg
+267927893915598848	technology	i just got up to 16562 in doodlejump beat that im sure u willshttptcovgpzhcfp httptconvr3eovs
+267927782703652864	technology	rt djbencastaneda world war z looks so fucking goodswatch the trailer for the new film starring brad pitt worldwarzmovie httptcogfkjajus
+267927646690742272	technology	can you guess the word clue the master ofsguesstinyco httptcoe44suitq
+267927396013965314	technology	evans reply after i asked him have you ever had a caramel apple sucker httptcoqwainmp7
+267927360890863616	technology	apple reaches patent accord with htcstg daily httptcoozgc9xjc htc
+267927322194239489	technology	htc apple settlementsgood news or temporary reprieve httptcov1fz6jhd
+267927275985580032	technology	htc apple settlementsgood news or temporary reprievesfinancial times blog cbccahtc apple settlementshttptcogdauy20y
+267927172726005761	technology	faisal3alm thanks to applessaudis have stopped pronouncing the letter p as b now they bronounce it berfectly ipad ipod
+267927165620867072	technology	rt boynamedalex occasionally i make a mistake on my computer oversover again just to hear the apple soundsremind myself that im a privileged white boy
+267927089066418178	technology	the ipad is assembled by foxconn which also manufactures apples ipod iphone and mac mini in its largest plant in shenzhen china
+267926967481929729	technology	anthonymoliva apple must pay samsungs uk legal costs after ipad copy comment farce apple has been forced httptcoizb3yohe bbc
+267926953108070400	technology	apple must pay samsungs uk legal costs after ipad copy comment farce apple has been forced to pay for samsung httptco1azitkau
+267926926763626496	technology	rt brianbotkiller holy shit apple yoursautocorrect algorithm is the worst thing ever
+267926559879462912	technology	rt appletwets apple to begin trial production of iphone 5s for earlier than expected launch httptcocd6jhp67 apple macrumors
+267926512378998784	technology	frank sinatra talks ipad mini in new apple adsvideo apple is obviously pushing to direct as much as attenti httptcoxe2eqhve
+267926141468282880	technology	httptco5phmf5ntsdownload hit em in da mouth by jodyfloyd now available on itunes
+267926096329195521	technology	20000s residential lot 224 acres stoddard wellsapple valley area nice propertyshttptco4eoj1k0i land realestate
+267926060832784384	technology	apple to begin trial production of iphone 5s for earlier than expected launch httptcoctrugycw
+267926028905746433	technology	apple to begin trial production of iphone 5s for earlier than expected launch httptcoispn3rqp frontpage
+267925987562512384	technology	152 a very much b for long c once again d by fars get this ios app httptcoiz0mrxyn
+267925571395256320	technology	world war z looks so fucking goodswatch the trailer for the new film starring brad pitt worldwarzmovie httptcogfkjajus
+267925472342589440	technology	video brendan macleansbeat me to its amandapalmer httptcozk9vhcuz via httptcomd1ieqri
+267925388481687552	technology	video lg fashiontv model search presents nataliashttptcobhnvle3s via httptcoc8jwrncy
+267925388477489152	technology	video napolitano housing is 1 issue after sandyshttptco7zknpbmq via httptcodihkkd3l
+267925363311661056	technology	i freed tim of the north shellrazer httptcopx6qexzv httptcozzbdrmb0
+267925246189916160	technology	oh fuck off seriously rt macrumors apple to begin trial production of iphone 5s for earlier than expected launch httptcohqmsazn7
+267925236677234688	technology	apple to begin trial production of iphone 5s for earlier than expected launch digitimes relays a report coming httptco7bq2xjfo
+267925235838361600	technology	apple to begin trial production of iphone 5s for earlier than expected launch digitimes relays a report coming httptcoklixa8lt
+267925234844315648	technology	apple to begin trial production of iphone 5s for earlier than expected launchsmacrumors digitimes relays httptcoatpog92v
+267925233011412992	technology	digitimes relays a report coming from a chineselanguage commercial times reportsin it the commercial times c httptcoc01u0zym
+267925228682870785	technology	apple to begin trial production of iphone 5s for earlier than expected launch httptcol9cd80cc
+267925223897186304	technology	apple to begin trial production of iphone 5s for earlier than expected launch httptcox0utgxqk
+267925218230673410	technology	macrumors apple to begin trial production of iphone 5s for earlier than expected launch httptcouur2kakv apple iphone ipad
+267925208621518848	technology	apple to begin trial production of iphone 5s for earlier than expected launch httptcocd6jhp67 apple macrumors
+267925087267717120	technology	patent crosslicensing agreement brings litigation to an endstechcentralie httptconqo7zzai
+267925086504361984	technology	apple and htc settle global patent disputesit pro httptco1pwmmrki
+267925085749391360	technology	taiwans htc settles patent disputes with applesmanila bulletin httptco7mkqtsti
+267925084923129856	technology	apple and htc drop patent lawsuits sign 10year licensing dealsitproportal httptcoha6sqkb9
+267924730533797888	technology	254 a consents b consented c consentingly d consents get this ios app httptcoiz0mrxyn
+267924639479656448	technology	microsoft apple profit with tabletssfort wayne journal gazette httptcos8v67k39
+267924553408319488	technology	apple movie logo design ideas logo inspirationsgallery graphicssdesigns ideas httptcokwollkhx
+267924514652950529	technology	hot shower and warm apple cider before bed on this cold night perfect good night beautiful people
+267924162323046400	technology	5 new awesome users just followed me i found out using this awesome iphone apphttptcorew6dof1 twitrmanager
+267924147156418560	technology	httptcowphi8aczsdownload hit em in da mouth by jodyfloyd now available on itunes
+267924134774857728	technology	i hate you apple
+267924099836305409	technology	1 users just unfollowed me i found out using this awesome iphone apphttptcorew6dof1 twitrmanager
+267923855677485056	technology	available now on itunes djfreshx3 presents the tonite show sessions vol 1 httptcofgnx9mmu httptcoyg9kqa85 9
+267923820793430016	technology	i want some apple juice
+267923662051606528	technology	apple apple must pay samsungs uk legal fees after false statementszdnet blog apple insiderapple must pa httptcoyuu8gwds
+267923497601351680	technology	rt f0reverkellin if i was an apple product id be iunattractive
+267923468379635712	technology	300 a enough b too much c well d verys get this ios app httptcoiz0mrxyn
+267923408736616448	technology	rt patentwire apple htc settle patent suits worldwidesmacworld uk httptcomhsqrpcd
+267923256558895104	technology	dailyiphoneblog sn0wbreeze jailbreak tool updated to support ios 6601 ih8sn0w has just httptcog0hmatpc apple iphone ipad
+267923239983001600	technology	angry birds star warssrovio entertainment ltdssssssssssssssssssssssssssssssshttptcoq3becgqz
+267923208781582336	technology	two new ipad mini tv ads released the ipad mini went on sale last week apple has revealed that they had a reco httptcookrkteth
+267922876945014784	technology	rt mayaakatrina i just choked on apple juice why apple juice why would you betray me like that
+267922560010813440	technology	virnetx slaps apple with another facetime lawsuit virnetx is looking to squeeze a little more juice from apple httptcov7kaeyiv
+267922518713696256	technology	apple iphone 4s whites300 salemshttptcoyq5e5llg
+267922297455800320	technology	rt laurah160696 samcallahan94 download runaway train on itunes httpstcouwqji8gjgo buy it
+267922237372391425	technology	earvizu32 you kno im not the biggest apple fan but some of the apps for autistic kids like my sis are not on androids
+267922001413419008	technology	rt onedirection uk directionersstake me home is out today whos got it fave track so far 1dhq x httptcorl0h86oi
+267921999307866113	technology	rt worthavegroup in the name of progress apple is suing anyone who comes out with another tablet whos really losing here ithappens
+267921905489678336	technology	hey i just won a race in csrracing for iphone winning you should check it out for free httptcoyvqdyj3m
+267921851886485504	technology	i just moved up to level 23 in csrracing for iphone you should check it out for free httptcoyvqdyj3m
+267921796311953409	technology	httptcoxnpuqumrsdownload hit em in da mouth by jodyfloyd now available on itunes
+267921785922658304	technology	apple must pay samsungs uk legal fees after false statementszdnet blog httptcouvoj8gi0
+267921576572383232	technology	rt tannawings i just entered to win an apple ipod from lifesabargain and you can too giveawayssenter here httptcoohb8otwn
+267921543097634816	technology	httptconsjdl73d microsoft apple profit with tabletssfort wayne journal gazette httptcouj0ur2nd
+267921280785870848	technology	ella enchantedstommy ohaverssssssssssssssssssssssssssssssssssssssshttptcogrk100hw
+267921261710155776	technology	i just choked on apple juice why apple juice why would you betray me like that
+267921046299103232	technology	agptek 4 in 1 camera lens kit for apple iphone 4 8x white telephoto lens fish eye lens wide anglesmicro le httptcowk7biqfr
+267921037231013888	technology	rt rockrollandroid android now holds 75 while apple had 15 share in smartphone marketshttptcopp04kleo
+267920957086253056	technology	256 a as if b still c in addition to d as soon ass get this ios app httptcoiz0mrxyn
+267920934919352320	technology	pocketclimber is so fun i just climbed over 388 floors chanllenge me app linkhttptco8zdgeblh
+267920772717219840	technology	tech patent war over apple htc sign 10year licensing dealsfirstpost httptcokwlod54a
+267920554265280512	technology	btoc httptcoznuxl6jf httptcoe0iyizgz
+267920502411112448	technology	rt tannawings enter in the boundbytech giveaway contest to win a brand new 13inch apple macbook proshttptcocbwcngs3 via punchtab
+267920495863795712	technology	samcallahan94 download runaway train on itunes httpstcouwqji8gjgo buy it
+267920473201971200	technology	10 new awesome users just followed me i found out using this awesome iphone apphttptcofnu60e1i twitrmanager
+267920399130570752	technology	enter in the boundbytech giveaway contest to win a brand new 13inch apple macbook proshttptcocbwcngs3 via punchtab
+267920287742443521	technology	haters watching httpstcojyferjrm
+267920173628006400	technology	samsung bumps up the price of apples processors by 20 apple cant say no every iphone or ipad or ipod touchshttptcow8spcvoz
+267920097522364416	technology	apple and htc call truce in patent dispute apple and htc have finally put their differences aside and hugged it httptcoxb8i7zxz
+267919838184353792	technology	rt doyoubelievelt if apples ipads were made by us workers they would retail for 14970
+267919833742589953	technology	the unpleasant change in climate has caused some serious problemsdo you know how you can save this worldhttptcoqr6bebsg
+267919785176739841	technology	android now holds 75 while apple had 15 share in smartphone marketshttptcopp04kleo
+267919575331504129	technology	rt marcigwgmi rip mr apple
+267919439746437120	technology	check out my cars in car town streets and challenge me to a race in the grand prix series httptco8zfykuja httptcoofaslk2p
+267919319218929664	technology	giveaway enter to win an apple ipod touch in pink i just did free plumcrazeeshttptcouaxa3qjx
+267919274847375360	technology	logging this for future referencesrt dorkymum theboyandme its bart bananas apple rice toast
+267919114343960576	technology	rt internetnews2 internetnews among top four internet companies is apple most vulnerablesforbes httptcoe2qam9rs
+267918738681118720	technology	video lg fashiontv model search presents magdashttptcom1dxryj8 via httptcoc8jwrncy
+267918717231460352	technology	video political party with james kot httptcoivctc2bl via httptcodihkkd3l
+267918659786252290	technology	spennylea03 lol that apple was legiiit
+267918492328677377	technology	aogjewelrys a new ipad mini giveaway from topweddingsites check it out httptcobawwplko
+267918347176394752	technology	video rihannasstay live on snls nmemagazine httptcoysm0vwan via httptcomd1ieqri
+267918263248379905	technology	video 11122012 in the world papersshttptcoyiz4jyr5 via httptcodihkkd3l
+267918263135109121	technology	video maison martin margiela with h httptcolxqgxaho via httptcoc8jwrncy
+267918259322507264	technology	designrshubsgiveaway win a brand new apple ipad mini 32gb worth 429 on designrshub join hereshttptcordmzmna9
+267918210148466688	technology	rt alejandrinapyqi eating an apple a day does wonders
+267918128909021184	technology	ipad mini gets 2 new ads same old same if you have become somewhat bored with apples first commercial for the httptcon8xvfw67
+267917867184435202	technology	apple htc work out settlement deal to end their patent dispute httptcoz3rgpqdo
+267917234565963777	technology	rt rychuss eightyninegeekssattached by stringsone and the same phuckedrecords dubstep banger httptcospvh9xnu httptco3qttfpds
+267917181864525824	technology	324 a consistently b consist c consistent d consisteds get this ios app httptcoiz0mrxyn
+267917129070825472	technology	i just entered to win an apple ipod from lifesabargain and you can too giveawayssenter here httptcoohb8otwn
+267917059449581569	technology	rt yungburna314 eightyninegeekssattached by stringsone and the same phuckedrecords dubstep banger httptcocx2j8gdw httptcon8chp7pw
+267917059256614913	technology	polar bear sounds from the artic to you appshttptcoc7c038df
+267917013589057536	technology	tweetndfqk apple jacks nasty afsget soggy hella quicks reese puffsswell idk cus im allergic to peanuts lol
+267916598587846656	technology	rt frankiecocozza didnt know i had a single out but would anyone expect any better than 89 anyway fucking epic get my ep here httpstcoalrhgxnc
+267916549858410496	technology	my house is now level 40 in design this home get design this home for free here httptco3h5hbutk designthishome
+267916445764177920	technology	brutha maksleggo tim tebowssingleshttptco4xbu4huj itunes
+267916155702886400	technology	rt paddadkins byee blackberry olla apple
+267916149373669376	technology	poblakk work album is finally out on itunesson fire listen downloadsbuy now httpstcodw23uqjw
+267916094398947328	technology	supersonic freefall helps red bull beat google as king of social videos while apple misses top 10 energy drink httptcoa6iigkxo
+267916077953069057	technology	supersonic freefall helps red bull beat google as king of social videos while apple misses top 10 energy drink httptcofbmcgvtv
+267916000534593536	technology	tim cook news tim cook boosts apple rd spending by 1b httptcorx1ygyt1 1b apple boosts
+267915921102880770	technology	355 a is performing b performance c to perform d will performs get this ios app httptcoiz0mrxyn
+267915900760518656	technology	rt 360mediapost if newsmedia companies continue to ignore tablets they will once again miss the entire boatshttptcoufyxw3eq
+267915843587932160	technology	supersonic freefall helps red bull beat google as king of social videos while apple misses top 10 httptcosdrdkrbm
+267915732564713472	technology	supersonic freefall helps red bull beat google as king of social videos while apple misses top 10 httptcoagtqhq8q
+267915702327975936	technology	supersonic freefall helps red bull beat google as king of social videos while apple misses top 10 httptcoi31gs08o
+267915677845815296	technology	supersonic freefall helps red bull beat google as king of social videos while apple misses top 10 httptco7dgrq71a
+267915676629475328	technology	video 2013 new honda goldwing f6b us promotional videoshttptco6tol3nmj via httptcou7djdchr
+267915627853918208	technology	supersonic freefall helps red bull beat google as king of social videos while apple misses top 10 httptconvlybtob
+267915616281837569	technology	baby logicsalvin mcbridessssssssssssssssssssssssssssssssssssssssshttptcofxzog4t0
+267915615279382528	technology	baby namessboyssgirlssyves nasanssssssssssssssssssssssssssssssssssshttptcowtg9oolg
+267915604290318336	technology	supersonic freefall helps red bull beat google as king of social videos while apple misses top 10 httptcoworhlsds
+267915531997306881	technology	leggo so to tim tebow and every courageous man of god who knows the battle starts on our knees in prayer httptco2tiebbbd
+267915493162246144	technology	supersonic freefall helps red bull beat google as king of social videos while apple misses top 10 httptco8pckfprq
+267915405291565058	technology	htc apple settle patent disputesindependent online httptconeb9tiia
+267915404385587200	technology	htcsapple patent deal winners and loserssseeking alpha httptcox03lmill
+267915401512501248	technology	apple htc settle patent suits worldwidesmacworld uk httptcomhsqrpcd
+267915350253903872	technology	rt saustingrimes rt how much blood does it take to feed an entire alien species itunessbookssjericos down by stan grimes httptco1qcch0lw
+267915314505871360	technology	aapl news apple news nov 12 apple inc aapl misleads uk notice ordered by ukshttptcoraki0rdb aapl apple news
+267915195542802432	technology	ipad skin 10snew apple iphone ipad 123 rd gen ipod usb data sync charge cable us seller us 1088 0 bid e httptcov1lhvnfl
+267915165574508546	technology	match match matchspixeleap match match match pixeleap genre games release date november httptcoymspifjt
+267915048549224449	technology	check out my ride in csrracing for iphone try it for freehttptcoqbodfsjd httptcomidn9yc1
+267915014680236033	technology	prepare yourself for a complete makeover as you discover the inner world of true beauty httptcom3hadqof
+267914824716005377	technology	check out my ride in csrracing for iphone try it for freehttptcoqbodfsjd httptcorsyshc1r
+267914818470703104	technology	ready for skiingshttptcoytvyukkg httptcocabx26nx
+267914663407259648	technology	310 a yours b yourself c you d yours get this ios app httptcoiz0mrxyn
+267914593681162240	technology	the only reason why i like this computer cause of its super sexy keyboardsthe apple
+267914563909980160	technology	picked up an iphone 5 in white but have the dreaded light leak problem near power button sighsapple iphone
+267914510092881920	technology	just added to itunes robot rock soulwax remixssinglesdaft punk robot rock soulwax remixssingle by daft punk httptcozi12eq7g
+267914164872306688	technology	video 100 years later titanics jewels go on displayshttptcoq1ztulhs via httptcodihkkd3l
+267914163228119040	technology	i want to bite into your ass like an apple pie
+267914155745480704	technology	rt betterbobj bringing betterbobj to sap customers in zurichsbi4 powered by apple httptcougabnn17
+267914054327226368	technology	byee blackberry olla apple
+267913997636993025	technology	video dp30 bernie cowriterdirec httptcozyl38abj via httptco7xkfyszi
+267913996617777152	technology	video leonard podolak and matt gordo httptcoaqhxq1jw via httptcomd1ieqri
+267913925557899264	technology	are cleansing diets and products bshttptcog0gv2n0u
+267913744376537088	technology	video lg fashiontv model search presents joanashttptconadrzpyx via httptcoc8jwrncy
+267913744347181056	technology	video reuters today athens hopes to httptcook1i7qqr via httptcodihkkd3l
+267913514386063360	technology	internetnews among top four internet companies is apple most vulnerablesforbes httptcoe2qam9rs
+267913418839838720	technology	rt leaverou sad to see that after steve jobs passed away innovation has ceased at apple ipad mini seriously thats the best you could come up with
+267913386761793536	technology	bringing betterbobj to sap customers in zurichsbi4 powered by apple httptcougabnn17
+267913118259232768	technology	grab this laugh tracks to help in your daily lifeshttptcongekvupt
+267912739253526528	technology	primal snackingdiet tipssmarks daily apple health and fitnessshello all i am relatively new to primalshttptcopppy0ot2
+267912738251096064	technology	primal snackingdiet tipssmarks daily apple health and fitnessshello all i am relatively new to primalshttptcooq0mkvml
+267912688695398400	technology	htc to pay apple licensing fees htc corp will have to pay licensing fees to apple inc as part of its settleme httptcos95nt4mt
+267912481551298561	technology	6pack ezguardz apple ipod touch 5th generation screen protectors ultra clear httptcoelveqwgg credit cards
+267912199111065600	technology	i freed curtis the war mage shellrazer httptcopx6qexzv httptcoqor2wkw6
+267912164206059520	technology	trending flojack brings nfc to apple devices for first time video httptcosubfb6zq see more httptco32l5hc8o
+267912147202359297	technology	253 a diverse b distant c contrary d likelys get this ios app httptcoiz0mrxyn
+267912137953923072	technology	check our big variety of cheap used apple alltel cell phonesshttptcorzctzevh
+267912033326989312	technology	i just moved up to level 3 in csrracing for ipad you should check it out for free httptcou1okddcw
+267911953362604032	technology	redbox wow 50 rental on two dvds without the option to keep itunes rentals through apple tv suddenly have way more of my interest
+267911945229848576	technology	httptco74zncctu htc to pay apple licensing fees httptcolqzif7pe httptcoxnmumtls
+267911908311592960	technology	apple and htc settle patent cases httptcoalragid9
+267911502059679744	technology	tech htc apple settlement likely to benefit q4 industrial productionsfocus taiwan news channel httptcotk7mb3dl
+267911272438308865	technology	scitech htc apple settlement likely to benefit q4 industrial productionsfocus taiwan news channel httptcod0h0ym0n
+267911192759123968	technology	saamlovesbacon its apple slowing down the old iphones so we can buy the 5
+267911136614182913	technology	drop featuring officialflo httpstcoqeqxdx5i
+267911113054769152	technology	eating an apple a day does wonders
+267910990581080064	technology	having big apple donuts for tea
+267910967344635904	technology	rt candypants i really wish fat kids would get their shit together because i am really sick and tired of getting apple slices in my happy meals
+267910683860017152	technology	loaded apple cider oatmeal muffins httptcoqkz5oqxp
+267910554365091840	technology	video cleric elected head of new syrian opposition blocshttptcoy2j2uxgl via httptcodihkkd3l
+267910214538362880	technology	best online smartphone accessories store for apple iphone 3g 4 4s 5s united statesss smacktomco httptco2belmpiz
+267910050885009408	technology	video congress wants answers on petraeus affairshttptco8co7rjee via httptcodihkkd3l
+267909987517472768	technology	pinnacle strategies httptcozyuviqyd
+267909883003805697	technology	lawsuit victories against apple and google fuel investor interest in mgt httptco4mofznvp
+267909809972584448	technology	video assassins creed 3 review divsubisoft httptcoqimeu5bs via httptcopqr5cxyx
+267909809414746113	technology	video leonard podolak and matt gordo httptcopi9x5f1g via httptcomd1ieqri
+267909563154583552	technology	like anything else in life relationships can become routine and even the words httptcomjx4jbas
+267909557496475649	technology	video crosstalk fiscal agonys russiatoday httptcofckzvqei via httptcodihkkd3l
+267909435270234112	technology	new apple ceo tim cook im thinking printers httptco6zjd8cc4
+267909388013035520	technology	htc to pay licensing fees to appleswall street journal httptcoqtvw7a26 htc
+267909366710169600	technology	get a free apple or droidhttptcoz2hfl0ao
+267909261919657984	technology	best photo apps for iphone still just using the default camera app on your httptco8xibhysn iphone apple
+267909190050258944	technology	rt keeganheiland some good morning apple juice onlygotitcauseimshaking diabeticprobz
+267909044738609152	technology	apple pie breakfast cakes httptcoxgjr9c9z
+267908903981953026	technology	mountain cats sounds prowling in your pocket appshttptcomcttermv
+267908875586510848	technology	dizturbdwun thelifeofmilton httptcoporwrqow ohh sht i just got sosexcited nickiminaj or shld isaysmixtapenika
+267908701678092288	technology	rt worthavegroup in the name of progress apple is suing anyone who comes out with another tablet whos really losing here ithappens
+267908426263306242	technology	confidential info on apples sbb clock license gets leaked apple has shelled out 20 million swiss francs 21 m httptco1oros1ks
+267908255571906560	technology	rt mromero34 i wish apple would create a middle finger emoji
+267908030698504192	technology	recipes for health sweet potato and apple kugelsrecipes for health httptcozpukzqtf
+267908010293215232	technology	rt iphone4sdrips instasafe can quickly boot your iphone into safe mode httptcoa980wdib via drippler
+267907878705299456	technology	hi guys youve gotta join me in this game httptcomyc72kpk texas poker freesits awesome2
+267907521640017920	technology	twitter htc capitulates to apples thermonuclear patent war httptcoavd0l3m8
+267907244035825664	technology	available now on itunes djfreshx3 presents the tonite show sessions vol 1 httptcofgnx9mmu httptcoyg9kqa85 8
+267907113022550017	technology	263 a length b lengthy c lengthen d lengthilys get this ios app httptcoiz0mrxyn
+267907049151684609	technology	i wish apple would create a middle finger emoji
+267906876228923392	technology	apple settles htc patent suitssthe sunday business post httptcoxd2p4pxw
+267906875419422720	technology	apple and htc settle patent lawsuits with licensing dealsgeeky gadgets httptcotqaiuokd
+267906874131759104	technology	taiwans htc settles patent disputes with appleswashington times httptcohzthq2bf
+267906839050592256	technology	rt oneloveceo check out the new onelove digital love release on itunes with bonus dj mix from chris arnott httptcomin2nbsh
+267906545587740672	technology	rt frankiecocozza didnt know i had a single out but would anyone expect any better than 89 anyway fucking epic get my ep here httpstcoalrhgxnc
+267906479502282752	technology	rt snowgoons want beats here we go httptcofyxkviba
+267906346639310848	technology	iphonehacks best photo apps for iphone still just using the default camera app on your iphone httptcohu9p6gtm apple iphone ipad
+267906101750685696	technology	among top four internet companies is apple most vulnerablesforbes httptco0qcvxq6s apple
+267905858074202113	technology	27 a is liking b like c likes d would be likings get this ios app httptcoiz0mrxyn
+267905837807308800	technology	dawn pakistansapple and htc settle global patent battlesmore apple iphone newsshttptcoum9dso7v
+267905717569200128	technology	rt moogottittg gettingbands damn you just have robbed the apple store wit chris ass and the g the g was yall get away driver chris was the send off
+267905595993104384	technology	gettingbands damn you just have robbed the apple store wit chris ass and the g the g was yall get away driver chris was the send off
+267905543983747072	technology	apple htc to pay licensing fees to appleswall street journal htc to pay licensing fees to applewall street j httptcoljeleyvd
+267905192740155393	technology	video buyralsprofessional clickings mashable httptcoz71zfbc5 via httptcolmz4rsuz
+267905080462811136	technology	is apple vindictive and evil httptcognwyddi2 ucoms
+267904953899692032	technology	i blame these contractions on eve damn y she eat that apple ugh
+267904671321055232	technology	we have snicker apple salad and douchebags lololol i love workinitburkett
+267904568111804417	technology	check out preppy apple tag iphone wallpaper at httptcordss16bf
+267904550206324736	technology	caramel apple ice cream httptcojnzknnsm
+267904475686117377	technology	instasafe jailbreak tweak can quickly boot your iphone into safe mode a new httptcoomdubgpc iphone apple
+267904474234908672	technology	sn0wbreeze 297 released to jailbreak ios 60601 for those of you that httptcoql2zsr1k iphone apple
+267904469952503808	technology	lamborghini gallardo superleggera call it unmellow yellow cnet on cars httptcodkgnkxfb iphone apple
+267904468509667328	technology	apple airs two new ipad mini tv ads featuring iphoto and ibooks apple has httptcoq2qvlqiw iphone apple
+267904343049662465	technology	rt lnternetgrandma when i eat an apple im so fucking healthy
+267904104033046528	technology	somebody ate my caramel apple suckeri swear in elementary my teacher could get me to do damn near anything for one of those suckers
+267904084198162432	technology	judge tells apple that they wont be throwing out patent troll casesthese patent lawsuits over the last few ye httptcoazb1mykz
+267904076262539264	technology	apple pie crumb muffins httptcofl0j4fql
+267903963188297729	technology	rt snowgoons want beats here we go httptcofyxkviba
+267903937175236608	technology	i want sumrt ambitiousgrl90 bout to warm my apple pie wit some vanilla ice cream to go with yum
+267903474929381376	technology	apple tower httptcok8ovuldi classicpost
+267903471896903680	technology	appleloveis love is lovedslove dont need to back answered with loveslove dont want anythingswith love from me to you
+267903262110396416	technology	video hundreds brave weather to protest in spainshttptcorizk1lns via httptcodihkkd3l
+267903253319122944	technology	an advance compass hdsqing long guanssssssssssssssssssssssssssssssssssshttptcoi0lxzbl9
+267903147954020353	technology	oval or apple shape which to choose in conclusion in picking wine glasses to buy you must consider the wine yo httptco93fqqsji
+267902989870702592	technology	httptcoxnpuqumrsdownload hit em in da mouth by jodyfloyd now available on itunes
+267902758840061952	technology	video thousands protest against belgian ford closureshttptcocazy8g4e via httptcodihkkd3l
+267902319226679296	technology	caramel apple upside down cake httptcoolpaozcb
+267902272841867264	technology	video tiastamera helping handsshttptcok9quqoht via httptcoc8jwrncy
+267902255599063041	technology	video canals and streets look the same in veniceshttptcocdzvtfbn via httptcodihkkd3l
+267902161013338112	technology	among top four internet companies is apple most vulnerable the four top internet companiesgoogle facebook httptcophnxtcyb
+267901769550557184	technology	video giulianasbill home sweet homeshttptcoygk6pwfe via httptcoc8jwrncy
+267901752815255552	technology	video frustration simmers toward long island utilityshttptco0wrsr4cw via httptcodihkkd3l
+267901629427232768	technology	among top four internet companies is apple most vulnerable who is the best among the fantastic four interne httptcoi0rgn91t
+267901598418739200	technology	rt basedbuddhist gotta make it to the big apple soon
+267901514633334784	technology	my team tigres just had a big win with a score of 227 playing big win football bigwin httphttptcojfrixivd
+267901470106587136	technology	the apple im tokin out of is getting gross and moldyit is returning to the earthtake me with you
+267901316104323072	technology	video facial recognition tech estima httptco3zzkeblo via httptcouwvwa2ex
+267901266565427200	technology	video giulianasbill birthday girlshttptconr2etdao via httptcoc8jwrncy
+267901258130673664	technology	as apple and htc end lawsuits smartphone patent battles continue httptcoouwtrgvw
+267901248739614720	technology	video daily digitsjapan on brink of recessionshttptcolo7wocom via httptcodihkkd3l
+267901128996446208	technology	peripherysfiona apple httptco8zkbewvp spotify
+267900898045489152	technology	video leonard podolak and matt gordo httptcoxmybwvua via httptcomd1ieqri
+267900813542817792	technology	video china dispute takes toll on japans economyshttptcor1weamzg via httptcodihkkd3l
+267900813521846273	technology	video twit 379si look at yahoo okayshttptcozfwvyb3s via httptcouwvwa2ex
+267900715962355713	technology	captain gingerbeard via apprewardsclub httptcoxjx6zx2j httptcormhkzurl
+267900685524291585	technology	if you are a die hard fan of eminem and looking for his complete song lyrics collection here it is httptcoftzez2jt
+267900540774674432	technology	doctorwho ebooks ibooks kindle lulu scifi harrypotter facebook twitter instagram amazon apple c httptcofc6qfx4s
+267900491424485376	technology	made ringtone with ringtones iphone app httptco6zoga648 from track bulletformyvalentines httptcoj033bv3a clk2download
+267900434847502336	technology	rt djfreshx3 available now on itunes djfreshx3 presents the tonite show sessions vol 1 httptcofgnx9mmu httptcoyg9kqa85 7
+267900418011561984	technology	relly9393 better go to mcdonalds and get an apple pie
+267900059411165185	technology	jailbreaknation sn0wbreeze 297 released to jailbreak ios 60601 for those of you that are httptcolzqkvuvq apple iphone ipad
+267899957195988992	technology	the only cereal i will eat is apple jacks honeycombs captain crunch and banana nut crunch
+267899885351743489	technology	its my birthday httpstcoaqguvnk1
+267899879072866305	technology	can you outcampaign obama and become president ipad app prime candidate can prove your skills httptco4fkf3akx
+267899600940179456	technology	apple gives 25 million to hurricane sandy relief efforts raises additional millions via itunes httptcoimtao3k2 via techcrunch
+267899228779577344	technology	rt kirstyycorbett apple should replace siris voice with morgan freeman
+267899193463541760	technology	apple ipod nano 16 gb green 6th generation newest model httptcoqms8asce
+267899109212553216	technology	the lite version users can enjoy the some features of the interior designing app httptcofwdioixm
+267898977867923456	technology	among top four internet companies is apple most vulnerablesforbes forbesamong top four internet companiesshttptco5qubiohy
+267898825874763776	technology	i just moved up to level 28 in csrracing for iphone you should check it out for free httptco1tlqbbty
+267898727329579008	technology	htc and apple settle patent disputeswebwire press release httptcomrbqhwgw
+267898725911891968	technology	apple and htc settle global patent battleshttptcopl8xzhyi httptcoadw5skqz
+267898725152722944	technology	rt snowgoons want beats here we go httptcoijc3rhr5
+267898690067394560	technology	want beats here we go httptcofyxkviba
+267898607666069504	technology	want beats here we go httptcoijc3rhr5
+267898591090196480	technology	video theonelightprojects1111s dulcecandy httptcosgj3q7kt via httptcoc8jwrncy
+267898507959074816	technology	therealh3r i hope you got another apple 7 oclock a long time to last on one apple
+267898283182157825	technology	forbestechnologysamong top four internet companies is apple most vulnerablesmore apple iphone newsshttptcoum9dso7v
+267898201867182080	technology	video breaking dawnspart 2 fan ca httptco5nenps7o via httptco7xkfyszi
+267898087111028736	technology	video lipstick reviewshttptcohuimevep via httptcoc8jwrncy
+267897926838259712	technology	i just dumped my apple sauce on my face
+267897698479386624	technology	video breaking dawnspart 2 fan ca httptco97qbf7xo via httptco7xkfyszi
+267897583832297472	technology	video covergirl foundationshttptcolyxkmuqc via httptcoc8jwrncy
+267897562361626624	technology	video 2013 greek budget approved by a wide marginshttptcoj1yldbsw via httptcodihkkd3l
+267897552026890240	technology	apple ditching intel for arm on the mac stop the insanity according to recent reports by bloomberg and othershttptcoiygpxofl
+267897340973703168	technology	apple among top four internet companies is apple most vulnerablesforbes forbesamong top four internet comp httptcomatvaibk
+267897330160775169	technology	apple cinnamon popped rice snacks are the bomb
+267897210027536384	technology	rt jlfk56nitro minecrftios dude apple never replies to tweets httptcoestptlbv
+267897195611693056	technology	video scary movie 3shttptcopzkbssnh via httptco7xkfyszi
+267897151844139008	technology	apple ordered to pay samsung legal fees for misleading uk notice httptcobubmvrpq
+267897121271848960	technology	one big happy familyshttptcotnb2emjq httptcosevaywib
+267897080054415362	technology	video good lipstick but not much of a lip glossshttptcotakefcjm via httptcoc8jwrncy
+267897059405869056	technology	video 11122012 in the french papersshttptco5pqycxa9 via httptcodihkkd3l
+267897048454529024	technology	check it out and enjoytyphoon music groupssunsetblvd riddim reggae fusion must get hot httpstcovb4mbcae
+267897045778583553	technology	109 a however b therefore c despite d becauses get this ios app httptcoiz0mrxyn
+267897038711164928	technology	veg wisdom choosing between apple and rabbit httptconpefmesd via veganlogy
+267897016166789120	technology	the world of technology apple patenkan sudut membulat pada tablet httptcoosehweyo
+267896820997447680	technology	apple and htc end patent battleshttptcoiggxtfgtstechnology httptcohy3xgxlq
+267896811723816960	technology	apple iphone five years on disallowed key characters iphone
+267896764802158592	technology	video dwight howard talks about theshttptcoiabw80ev via httptco1zzzxz8j
+267896719461724161	technology	rt f0reverkellin if i was an apple product id be iunattractive
+267896716433444864	technology	in ancient greece tossing an apple to a girl was a traditional proposal of marriage catching it meant she accepted
+267896596560232448	technology	video evens the skin tonereduces lo httptcod01pzvmn via httptcoc8jwrncy
+267896596254044160	technology	video rebel kill list govt supportsrussiatoday httptcovii8nbca via httptcodihkkd3l
+267896596216303616	technology	video the best luke skywalker impresswickedawesomefilms httptco5rk5k3yq via httptcomdyptxv9
+267896512758022144	technology	video highlands country house accomm httptco09xt6xtl via httptcolmz4rsuz
+267896429748580352	technology	iamjericho fozzyrocksguess ill ask a question maybe you will answer have you ever ate an apple
+267895996334350336	technology	trutherbot i just ate an apple pie
+267895612589105153	technology	rt elbowroomapps crowded garden looks great on iphone4 iphone5 and ipad 2 games all levels unlocked no ads httptco3mapyino ipod app idrtg
+267895548235902976	technology	scrolling is consistently 60fps no matter the app very nice apple
+267895534868631552	technology	im thirstytired of this damn apple juice
+267895285999603712	technology	rt julianswurv if mary never ate that fuckin apple from that tree and persuaded adam to eat one then females wouldnt have their period crazyshitbuttruuuu
+267895269369184257	technology	rt elbowroomapps crowded garden looks great on iphone4 iphone5 and ipad 2 games all levels unlocked no ads httptco3mapyino ipod app idrtg
+267895265233604609	technology	iphonesandipads apple airs two new ipad mini tv ads featuring iphoto and ibooks iphonehacks apple has httptcoiktsr2lo
+267895247072284673	technology	rt elbowroomapps crowded garden is family friendly no simulated violence all levels unlocked no ads httptco3mapyino iphone ipad ipod app idrtg
+267895224901173248	technology	apple bacon pancakes httptco92kh9uin
+267895216499994624	technology	i hate apple products
+267895215925370882	technology	apple new iphone leak sennheiser hd 439 closedback headphones black httptco0gmdftwr
+267895151173713920	technology	rt pokeherneck omfg i have no fukn adams apple
+267895063638593536	technology	amazing girls lite artbooksgo youngtossssssssssssssssssssssssssssssssss httptcotfgmuh2n
+267895062803906560	technology	amazing stage lighting fx hdsdisco light effectsshu mei lingssssssssssssssssssssss httptcoqtuhq1jp
+267894925327208448	technology	itunes top songs 97 somebodys heartbreakshunter hayesss hunter hayesshttptcohkif0eqe
+267894916468850688	technology	onlyastoner blazednconfus3d mine turned into an apple so i ate it
+267894776978890752	technology	if mary never ate that fuckin apple from that tree and persuaded adam to eat one then females wouldnt have their period crazyshitbuttruuuu
+267894762315603969	technology	apple juice
+267894689590566913	technology	forbes who is the best among the fantastic four internet companies apple facebook google and amazon httptcoiw90zokq
+267894652517109760	technology	rt worthavegroup in the name of progress apple is suing anyone who comes out with another tablet whos really losing here ithappens
+267894527971442688	technology	95 a guards b covers c wraps d spreadss get this ios app httptcoiz0mrxyn
+267894426540576768	technology	im watching president obama im really p httptcol2bkbg9f on httptcozupdtpze
+267894322274390016	technology	fall giftsscrockpot apple butters1 dozen apples peeled cored cubed 12 c water 14 c brownshttptco8yaoxfo9
+267894212287135744	technology	apple airs two new ipad mini tv ads featuring iphoto and ibooks iphonehacks apple has httptcofbtsn2pb
+267894187620450305	technology	lamborghini gallardo superleggera call it unmellow yellow cnet on cars httptcodrimgw60 iphone apple
+267894106884280321	technology	check our large variety of low price refurbished apple att cell phonesshttptcorzctzevh
+267894074223255552	technology	apple airs two new ipad mini tv ads featuring iphoto and ibookssiphonehacks apple has started airing two httptcod8rwkf3o
+267894070540652544	technology	iphonehacks apple airs two new ipad mini tv ads featuring iphoto and ibooks apple has started httptcobnbu0ot9 apple iphone ipad
+267894005801570305	technology	2 users just unfollowed me i found out using this awesome iphone apphttptcocam4kadj twitrmanager
+267893990282633216	technology	serenity httptcofpdvgyd9
+267893969369845760	technology	serenitysjoss whedon a passenger with a deadly secret six rebels on the run an assassin in pursuit when th httptcordtebtyc
+267893771457400832	technology	3d bling crystal rhinestone flower case cover for apple iphone 4 and 4s color pink 3d bling crystal rhinesto httptco21kkfbc9
+267893575151386624	technology	video breaking dawnspart 2 fan ca httptcoiaf7ejkt via httptco7xkfyszi
+267893536576376832	technology	yesterday my sister was wearing her apple bottom jeans but she didnt used her boots with the fur
+267893458201636864	technology	baby baby run to younp run to youled apple
+267893409262497792	technology	among top four internet companies is apple most vulnerable the four top internet companiesgoogle facebook httptcouayzvqo6
+267893335425966080	technology	dear apple i love you and all your products make something else i can buy
+267893271664144384	technology	13 a submitting b submits c submit d submitteds get this ios app httptcoiz0mrxyn
+267893268640047104	technology	if you need motivation then check out motivational quotes httptcoipmtd3p2
+267893234838147072	technology	rt elbowroomapps looking for something different try crowded garden all levels unlocked no ads httptco3mapyino iphone ipad ipod app idrtg
+267893071549714433	technology	video breaking dawnspart 2 fan ca httptcowtnabfps via httptco7xkfyszi
+267893047323402240	technology	interior designing is available and sold in two basic versions lite version and ultimate httptcorqx6tq3h
+267893017996832768	technology	can you guess the word clue you might say something thats not true is called this guesstinyco httptcotcyyofsw
+267892988452171776	technology	these sour apple bitter bitches im not fuckin wit em
+267892968181100546	technology	appleloveis butall my love is for you httptcok87uburz
+267892894323580929	technology	can you guess the word clue keeps your shoes tight guesstinyco httptcotcyyofsw
+267892852753833985	technology	focus htcs settlement with apple removes legal woes but outlook stills nasdaq httptcomnv0gn3a htc
+267892829441884160	technology	nowplaying ryanstar breathe grab it on ituneshttpstcothebcvb1s1159 3
+267892826723979265	technology	i just moved up to level 5 in csrracing for iphone you should check it out for free httptcovnyyue0m
+267892825868353536	technology	nice cold apple juice
+267892763050270720	technology	available now on itunes djfreshx3 presents the tonite show sessions vol 1 httptcofgnx9mmu httptcoyg9kqa85 7
+267892734776442880	technology	video sesame hot noodlesshttptcogjvagohb via httptcocomxbh7e
+267892650819076096	technology	video community building versus bransfilmcourage httptco0fez2duz via httptco7xkfyszi
+267892647966949376	technology	time is up up up uuuuuu np time is upled apple
+267892515917660160	technology	i just moved up to level 2 in csrracing for ipad you should check it out for free httptcou1okddcw
+267892501082431488	technology	rt imashleyroberts you can now download ashleys brand new solo single yesterday from itunes httpstcob70iofuysrt for ashley imaceleb ashhq
+267892478311555072	technology	i appreciate apples attention to detail motor memory says to spotlight address booksfirst app for quick launch contactssyay
+267892473265803264	technology	will mps have had solid tax advice before questioning amazonuk starbucks google im guessing not oh and what about apple
+267892399475400704	technology	video bth 2shttptcoyl8uedtp via httptconxmilz7s
+267892314221985795	technology	whatifcamera httptcoeyahko4e httptcoplldzriy
+267892220361854976	technology	rt briaisbria but it hurts my joeys apple
+267892122739408896	technology	im the boss apple sauce judgejudy whoareyou
+267891806837026818	technology	apple airs two new ipad mini tv ads featuring iphoto and ibooks httptcovhwxudwj updatessjailbreak
+267891775715307520	technology	loiicg connected feat kirsty hawkshaw by johnbbeta httptcoki6ueh3asholy smokes
+267891768387854336	technology	hurry up and download guess the character by jandusoft for free httptcodcujkz5h httptcoremu74jv
+267891562841767936	technology	5 apple ipad 2 mc984lla tablet 64gb wifisatt 3g white 2nd generation httptcowilokyuq bestdeals
+267891555455627264	technology	photoset thecakebar a new look for apple pie recipetutorial i shall be trying this for thanksgiving httptcoosmvd7rs
+267891552863539200	technology	5 apple ipad 2 mc984lla tablet 64gb wifisatt 3g white 2nd generation httptcokisyz2ut bestdeals
+267891552788025344	technology	5 apple ipad 2 mc984lla tablet 64gb wifisatt 3g white 2nd generation httptcowxjwlhaq bestdeals
+267891543715753985	technology	rt tylowb apple pie and clocks 0os whoa fuck
+267891527991300097	technology	rt vallie boot up the uss poor what next for apple tv shipments fall surfaces and mores httptconjzxkkiw
+267891411737788416	technology	rt womenshumor apple maps was created based on a mans sense of direction
+267891235086270464	technology	iphonesandipads apple releases two new ipad mini ads photos and books video apple has httptcoqmc2fwvd
+267891234826244097	technology	voice living the dream httptco4kdho4di ipad iphone apple
+267891223661006848	technology	apple ordered to pay samsung legal fees for misleading uk noticesapple insider httptcoxtzgqr6n
+267891203507367936	technology	judge will review if applesamsung jury foreman withheld infosopposing views httptco6qcjdml8
+267890971310690304	technology	apple confidential agreement ends apple and htcs patent feud apple and htc ended their 32month intellectualshttptcoll9tr1ke
+267890836711297025	technology	apple and htc sign agreement over lawsuit patent rights still under contentionseconomic times httptcoar1w6g4t
+267890835943743488	technology	apple nasdaqaapl htc pinkhtcxf settle patent disputeslive trading news httptcor2v8j0gb
+267890834475724800	technology	htc shares rise after patent settlement with applesndtv httptcoq98qd2f0
+267890833653633024	technology	htc shares jump after settles patent issues with applesmanoramaonline httptco46r42qqt
+267890778746003456	technology	apple and htc settle patent cases apple and taiwanese phonemaker htc settle all their outstandi httptcoyik39wna teamfollowback
+267890755283058688	technology	263 a lengthen b lengthily c length d lengthys get this ios app httptcoiz0mrxyn
+267890725528674304	technology	an apple a day keeps the doctor away
+267890618590720001	technology	im hungry af that apple didnt do shxt lol
+267890543252619264	technology	nowplaying themikesanchezswithout you 3 pick it up on itunessfrom the grove third sessions ep httpstcoq3w0vf9t
+267890277501501441	technology	apple airs two new ipad mini tv ads featuring iphoto and ibooks apple has started airing two new ipad m httptco5njwgrg2
+267890235894013952	technology	had a great time apple bees suree hit the spot
+267890235491352576	technology	urgirlnxtdoor mybarbidoll lols i just drank some of that exact same apple cider
+267890202863886337	technology	omfg i have no fukn adams apple
+267890168399269888	technology	this could be huge news for the patentwars httptcoceqaqmaq htcapple sign a 10 year licensing deal now for us pto reform
+267890101600780288	technology	fiona apple is such a badass
+267890094810202112	technology	themoiderer no my hubby is the tech loverswould never permit a nonapple device in the home library trip due i think
+267890043073490944	technology	rt doyoubelievelt if apples ipads were made by us workers they would retail for 14970
+267889935896412160	technology	boot up the uss poor what next for apple tv shipments fall surfaces and mores httptconjzxkkiw
+267889899775078400	technology	apple iphone 4s whites300 salemshttptcoyq5e5llg
+267889791931142144	technology	i keep rubbing the apple
+267889771551023104	technology	jennerzzxox apple juices
+267889537034903552	technology	zzzboredtodeath demasthr this fake apple earpiece i bought from flea sucks luh fuck
+267889536447700992	technology	microsoft chief technology officer why the need for so many apps as it takes on apple with a fullfledged gadget httptcocbfeiw87
+267889524036755456	technology	apple htc settle patent dispute dismiss all cases disallowed key characters apple
+267889483704332288	technology	i liked a youtube video from thesneakyzebra httptcoonurjcfx apple genius basically a death star apple mac parody
+267889480051064833	technology	rt amlhala1708 this just in smurfs love to love smurfette tap smurfette once a day to earn extra xp httptcoleqywiig smurfsvillage beelinegames
+267889344726052864	technology	check our large variety of low price used apple att cell phonesshttptcorzctzevh
+267889309133189120	technology	apple apple ditching intel for arm on the mac stop the insanityszdnet mybroadbandapple ditching intel forshttptcomu0hqcka
+267889273045401600	technology	right nayurabiitch wat ass rt luckylee he said he wanted to see the big apple so i turned around and showed him my ass lhh
+267889255022460928	technology	sounds of america s power and strenghtshttptcoo68qf7k4
+267889206754422784	technology	appetizer recipes has over 600 kitchenapproved appetizers httptcozbyqamam
+267889183769624576	technology	bad news for apple on this oneshttptcodethgl5y perhaps their legal team should think harder next time
+267889145488211968	technology	gotta make it to the big apple soon
+267888759964590080	technology	my house is now level 38 in design this home get design this home for free here httptcoc0ehvoiu designthishome
+267888682676142080	technology	video peanut chickenshttptcootcq89zz via httptcocomxbh7e
+267888430644592641	technology	video highlights syracusessan diego stshttptcoj3ab9zxo via httptco1zzzxz8j
+267888271697272833	technology	instaframesforks2012shttptcoco5ncffd httptcohjwi7lls
+267888263329628160	technology	video cia head resigns over affairshttptcobdrl2hwc via httptcodihkkd3l
+267888234456039424	technology	caramel apple coffee cake httptcokqlvhw4r
+267888208229064704	technology	apple and htc settle patent disputes httptcoctvxnmrm
+267888094605361152	technology	i just moved up to level 3 in csrracing for iphone you should check it out for free httptcovnyyue0m
+267888055011119104	technology	rt davuccig olafasasi whoome osas89 sade that kinda apple will only make you realize you both naked ask adam
+267888022530424832	technology	girl you are the apple of my eye
+267887971095678977	technology	having fun playing csr racing for iphone why not join me for freehttptcolylsfjpf
+267887691226554368	technology	this just in smurfs love to love smurfette tap smurfette once a day to earn extra xp httptcoleqywiig smurfsvillage beelinegames
+267887547819098112	technology	latest apple cell phones auctionsshttptcopffu2bq8
+267887120692150272	technology	rt licmicockiness apple outta line for only one working speaker
+267887096964988928	technology	but it hurts my joeys apple
+267887089515896832	technology	all social camerasoneworld co ltdssssssssssssssssssssssssssssssssssshttptcokhtz8nom
+267887088760918016	technology	alluring night sky fxsying ni niessssssssssssssssssssssssssssssssssss httptcokthfk78g
+267886961052770304	technology	apple outta line for only one working speaker
+267886883873386496	technology	rt traisjames on a relative scale the skin of an apple to an apple is thicker than our atmosphere is to earth
+267886559104225281	technology	nowplaying thetylerbryant shackless download the song here httptcouzzwwqbmstbandtheshakedown fromthesandcastle 3
+267886492955852800	technology	flojack brings nfc to apple devices for first time video httptco45yqzmjr
+267886454296940545	technology	having fun playing csr racing for iphone why not join me for freehttptcomn4iyoam
+267886356850688000	technology	i just moved up to level 28 in csrracing for iphone you should check it out for free httptcoa4vqoshp
+267886339465297920	technology	suddenly i want an apple
+267886288399659010	technology	apple pie and clocks 0os whoa fuck
+267886217360732160	technology	apple pays swiss federal railways 21 million for clock icon video httptcoq7tuk6n8
+267886195990753280	technology	rt imashleyroberts you can now download ashleys brand new solo single yesterday from itunes httpstcob70iofuysrt for ashley imaceleb ashhq
+267886128013656064	technology	apple and htc end their global patent battle httptcogtzf97ax
+267885956982534144	technology	beginning of total solar eclipse of arnhem land oz nov 14 httptcow8mjvr8vsibook httptcouwnm0yxzscairnseclipse tse2012
+267885938779234304	technology	having fun playing csr racing for iphone why not join me for freehttptcovnyyue0m
+267885872546971648	technology	apple releases two new ipad mini ads photos and books video apple has released two additional ipad minishttptcoyrl7iyl2
+267885839915307008	technology	tescos are so dumbtwice now ive bought juice labelled apple and blackcurrant and its turned out to be summer fruitsew
+267885829970604032	technology	httptcoxnpuqumrsdownload hit em in da mouth by jodyfloyd now available on itunes
+267885816712396800	technology	this bitches name is apple
+267885723288469504	technology	383 a will send b were sent c to send d be sents get this ios app httptcoiz0mrxyn
+267885665033785344	technology	i can barely find my adams apple through all my neck fat this is a problem
+267885630292365312	technology	video postgame press conference lashttptcorvtktp5i via httptco1zzzxz8j
+267885611942309888	technology	right by my side feat chris brownsnicki minaj httptco3yf4xm21
+267885602903556096	technology	all americanshoodie allen httptcoi3ug0fi4
+267885565804957697	technology	this just in smurfs love to love smurfette tap smurfette once a day to earn extra xp httptcorbsl7u4g smurfsvillage beelinegames
+267885441750032384	technology	rt patentwire htc shares rise after patent settlement with applestimes of india httptcoozxc33bu
+267885393318404096	technology	i think this apple is frozen
+267885387345690624	technology	rt modmyi apple debuts passbook enabled gift cards in apple store app apple added passbook enabled gift cards to the app httptcozyux9a5o
+267885367972208640	technology	27 en la lista 40 pnk blow me one last kiss httptcoi88ri4db love it
+267885356215582721	technology	walking dead the game por telltale incauchhhhhhh si me lo daba httptcomxcmp4au
+267885340671500288	technology	im earning rewards in office jerk httptconz4xd7l2 mpoints
+267885276058247168	technology	find your sound by downloading one of these bangers for your next album or mixtapeshttptcoplscnigq
+267885231359533056	technology	apples ipad mini the first mobile tablet httptcoijmshwm9 via mobilemarketer
+267885225474945024	technology	update apples ipad mini the first mobile tablet by tobias dengelthe ipad mini is not the first of its kind httptcoq87aoole
+267885166939234304	technology	apple cobbler and ice cream
+267885126686502912	technology	video online ot pick em week 11shttptcotctml31v via httptco1zzzxz8j
+267884991860572160	technology	janeyee yep but you dont get discounted phone you have to buy the phone unlocked from somewhere apple or dick smith
+267884967969828866	technology	apple ordered to pay samsung legal fees for misleading uk notice newslocker httptcokzjv4ipn
+267884929008926720	technology	bourbon apple fried pies httptco8adbtnuj
+267884810192711680	technology	rt mindbiowingfact iphoneseye phonesilluminati phone siri spelled backwards is iris thats a part of the eye apple is illuminati they are watching you
+267884783835697153	technology	news gadget as apples battle with htc ends smartphone patent fights continuesnew york times l httptco7qqe799e technology
+267884623172878336	technology	video top 10 plays of the night november 11thshttptcocxsspl9j via httptco1zzzxz8j
+267884600297148416	technology	video breaking dawnspart 2 fan ca httptcowhb3exq7 via httptco7xkfyszi
+267884500283953153	technology	new follower shoutout done using lazyunfollow android app at httptcoc92smbzrsiphone app also available at httptco1280l9ff
+267884465781628928	technology	apple and htc call off hostilitiessthe guardian httptcofe6kdwh0 htc
+267884462916911104	technology	heffrondrive youre the apple to my pie youre the straw to my berry youre the smoke to my highand youre the one wanna marry
+267884462799470592	technology	217 a explained b published c focused d progresseds get this ios app httptcoiz0mrxyn
+267884404809031680	technology	ive gained 2 followers since i last checked lazyunfollow android app at httptcoc92smbzrsiphone app also at httptco1280l9ff
+267884358566809600	technology	video nba nightly highlights november 11thshttptcoo6qfvxdn via httptco1zzzxz8j
+267884240673325056	technology	boot up the uss poor what next for apple tv shipments fall surfaces and moresthe guardian blog the gua httptcoc3rbbqeg
+267884177637130241	technology	how did they manage to make this autocorrect shit worse these apple niggas man
+267884093675548672	technology	harrystyles asswipe follow paynemiracle bc shes your main bitch bitchslove you youre the apple to my pie im sorry haz omg
+267884037899694080	technology	if im found half dead in the morning its okay ill make sure to save one apple for that moment igotthis
+267883774350598144	technology	rt frankiecocozza didnt know i had a single out but would anyone expect any better than 89 anyway fucking epic get my ep here httpstcoalrhgxnc
+267883390517272576	technology	so apples are supposed to give you more energy than coffee right that explains why i have a bagful next to me woo
+267883280832024576	technology	5 new awesome users just followed me i found out using this awesome iphone apphttptcor4yvixfi twitrmanager
+267883184186871808	technology	7 users just unfollowed me i found out using this awesome iphone apphttptcor4yvixfi twitrmanager
+267883145041432576	technology	apple pie cookies by annieseats httptcoz4yorqvz
+267883120500555776	technology	the sounds of these seagulls will take you straight to the beachor the parking lotshttptcox1jsyyoc
+267882948911575040	technology	buying a tablet this weekend apple os or android os ipad mini or nexus 7
+267882841612898304	technology	apple iphone 5 64gb factory unlocked united kingdom promo promo promopromo offer buy 2 get 1 freei httptcocgc7vxde
+267882757441597443	technology	this just in smurfs love to love smurfette tap smurfette once a day to earn extra xp httptcor8jprcui smurfsvillage beelinegames
+267882713913110531	technology	warm autumn apple cider doughnuts recipe httptcoeedgcsnd via stagetecture
+267882542198321152	technology	pick up your copy of get wasted by pedro dadon featuring kaos3 nowsitunes httptcohhqiaz69
+267882487659782145	technology	i want an apple
+267882456257019904	technology	dr owsley highly recommends this course httptcoc0vnjfsi
+267882418470531072	technology	rt bagyants what if we make headphones that stay in peoples earsgood idea bob aside kill him and his whole familyapple meeting
+267882383737507840	technology	apples next chip architecture transition will be inconvenient but not the end of the world httptconeznqtr1
+267882356583591936	technology	pick up your copy of get wasted by pedro dadon featuring kaos3 nowsitunes httptco4i2qcjg5
+267882292872105984	technology	pick up your copy of get wasted by pedro dadon featuring kaos3 nowsitunes httptcocakqn9a0
+267882259896471552	technology	apple lol maps httptcowhnd4hww
+267882224525910017	technology	rt mindbiowingfact iphoneseye phonesilluminati phone siri spelled backwards is iris thats a part of the eye apple is illuminati they are watching you
+267882066610368513	technology	me am my hubby httptcofr7loyab httptcosaocavyn
+267881984087449600	technology	definitionoffaf wonder if perry will wait till apple has completed the move to texas
+267881975799484416	technology	httptco7ix1b8zu from reddit pics httptcolyre3ntj hope you thanked a vet
+267881920757657600	technology	joegilson in other words dont eat that apple
+267881914130632704	technology	rt imashleyroberts you can now download ashleys brand new solo single yesterday from itunes httpstcob70iofuysrt for ashley imaceleb ashhq
+267881895369515008	technology	syncmesupdate your contacts with a full screen picture and status from facebook httptco3psx96kc
+267881691899637760	technology	reading apple stomps on tapjoys app download circle jerk again httptcoxvf5koug
+267881518062514177	technology	rt dannymcflysyeahhhhh mcflyslove is easyshttptcopxh5sfaysitunes
+267881494947700737	technology	rt patentwire apple htc settle patent suits worldwidescomputerworld india httptcoqamcjwma
+267881457106681856	technology	rt igiveaway epichearts japanskoreas 1 game is now on sale retweet to win an ipod shuffle from igiveaway httptcocvpyopbx
+267881433555673088	technology	ok these headphones sound amazing compared to my apple headphones but they keep falling out of my ears you cant sit still listening to mars
+267881379994423296	technology	video israelis palestinians trade fireshttptcoo80t7pze via httptcodihkkd3l
+267881135604895744	technology	yay caramel apple at midnight d
+267881071729856512	technology	always wanted to work for apple go for it theres a ton of retail jobs right hereshttptcokeyuczxmssp
+267880876694720512	technology	video questions surround petraeus resignationshttptcoim2qclvz via httptcodihkkd3l
+267880871149850624	technology	my type of female if you like ikea and have a thing for buying furniture and interior designing httptcofwdioixm
+267880815097155585	technology	rt imashleyroberts you can now download ashleys brand new solo single yesterday from itunes httpstcob70iofuysrt for ashley imaceleb ashhq
+267880786018058240	technology	rt worthavegroup in the name of progress apple is suing anyone who comes out with another tablet whos really losing here ithappens
+267880771895820288	technology	piusmckenzie taha cause an apple a day keeps the doctor away
+267880769077268480	technology	bali its the silver part i believe because when i went to the apple store to check it out it look like it was the silver part nah mean
+267880599031775232	technology	rt freejarvy apple pie and ice cream is the best food ever orgasmic
+267880519893647360	technology	video postgame interview mike mageeshttptcow1azxffh via httptco1zzzxz8j
+267880466881863680	technology	whos vulnerable among the internets fantastic four techonomy panelists say its apple and facebookshttptcoq5zhjygj
+267880452675751938	technology	apple stomps on tapjoys app download circle jerk againshttptcooym3ucau
+267880373369835520	technology	video chinas migrants struggleshttptcofjex8xwb via httptcodihkkd3l
+267880317963100160	technology	rt patentwire apple htc settle patent suits worldwidescomputerworld india httptcoqamcjwma
+267880291794817024	technology	breakersssingle por local natives que tal httptcoep0dsysn
+267880193698443264	technology	why does itunes have a little shitfit when you try to add album art to a wav file seriously apple
+267880108944154624	technology	pick up your copy of get wasted by pedro dadon featuring kaos3 nowsitunes httptcomk6jzinc
+267879873635307520	technology	rt patentwire patent perestroika what apple and htcs landmark pact means for the patents time httptcoztpdmp5b
+267879870510538752	technology	video general petraues affair details emergeshttptcojkxphohp via httptcodihkkd3l
+267879841800540161	technology	apple releases two new ipad mini ads photos and books video cultofmac apple has httptcoimfeyoqh
+267879840345112576	technology	apple releases two new ipad mini ads photos and books video apple has httptcoz9bjmqhw iphone apple
+267879837027401728	technology	have a merry monster christmas with this hairy interactive storybook app with httptcoexonzppa iphone apple
+267879835681058816	technology	two new ipad mini commercials debut two new ipad mini television ads have httptcodyoq3wdl iphone apple
+267879834275954688	technology	ballmer says microsoft surface sales off to modest start ceo steve ballmer httptcohlxr8sgg iphone apple
+267879761286664193	technology	make a wedding toast with apple juice soclassy
+267879690981765120	technology	giveaway enter to win an apple ipod touch in pink i just didfree plumcrazeeshttptcojgiywmfc
+267879631586213889	technology	new post apple and phone maker htc settle disputes httptco1dkgubqk
+267879606684622848	technology	shes a good girlloves her mamaloves jesusand america too tompetty download freefallin here httpstcojy3yuvgr tpath greatesthits
+267879498811330560	technology	play this with me at httpstcotxwy4o7c httptcoauegf6xk
+267879431530504192	technology	231 a selective b selected c selection d selects get this ios app httptcoiz0mrxyn
+267879300156493824	technology	rt f0xtar i liked a youtube video httptco8m9qguan applesipad ministv adssbooks
+267879268242038785	technology	rt appletwets apple releases two new ipad mini ads photos and books video httptcojz7qwyvs apple tfb iphone
+267878986506465281	technology	what games would you play though they would have to create some yonic02 i wonder if apple would ever make a gaming console getonit
+267878881493651456	technology	instaframe my two loves all that i needshttptcoskkviy9g httptcoax3whvzy
+267878783602790400	technology	iphonesandipads apple releases two new ipad mini ads photos and books videoscultofmac apple has httptcohoapw3dr
+267878780603879424	technology	iphonesandipads cultofmac apple releases two new ipad mini ads photos and books video apple has httptcobujim3en
+267878764728442880	technology	rt mcflymusicslove is easy is number 3 on itunes guys amazing thank you thank you thank you httptcogh6yvbed
+267878702610796546	technology	httptcolvag2l79 from reddit pics httptcolyre3ntj poor pup
+267878680762646528	technology	rt patentwire htc settles patent issues with apple shares jumpsthe australian financial review httptcopo7ajpyu
+267878513816764416	technology	rt thewantedus ifoundyou is currently in the 14 spot lets keep it going twfanmiiy were so close httptcox9jelw8e
+267878486079844353	technology	boot up the uss poor what next for apple tv shipments fall surfaces and more plus what the ipad mini could httptcokodncwbq
+267878463782916096	technology	cnn newcomer unaware of apple fetish httptco6c7xi0na via cnnmoneytech
+267878456115744768	technology	latest apple iphone 5 16gbs64gbipadmacbook skype adamsrussellssaint vincent and grenadinesss apple httptco4kedoaog
+267878402558668800	technology	rt f0reverkellin if i was an apple product id be iunattractive
+267878400537014272	technology	rapidcityrush needs an app on androidi suppose for apple too
+267878359411851264	technology	aimssnano equipment pte ltdssssssssssssssssssssssssssssssssssssss httptcohr9mugdc
+267878345524535296	technology	boot up the uss poor what next for apple tv shipments fall surfaces and more plus what the ipad mini could httptcozidcabpj
+267878343528046592	technology	apple cider sage turkey brine apple cider sage turkey brineshave your best ever thanksgiving turkey
+267878294685380608	technology	rt acneskinsite trade that morning cup of coffee for an apple an apple is more efficient at waking you up then that cup of coffee fact
+267878230906785793	technology	i remember i grabbed kenisha ahh dat bitch felt like squeezing a rotten apple
+267878194189840384	technology	im tired of apple
+267878141933010945	technology	jennjenn427 apple lol
+267878101147582464	technology	the dutch apple dinner theatre is a yearround theatre presenting live musicals a favorite among our guests httptcoxe0jomra
+267877764248502273	technology	s i feel for you that shit sure tastes better going downsrt livingdeadgrrl drink apple cider and then threw it all up boo
+267877662503079936	technology	danryckert lcd is broken definitely a manufacturer defect unless it cracked due to misuse take it into apple
+267877531854708736	technology	mmm that apple cider hits the spot after tonights run
+267877437512237057	technology	theycallmearaab buy half of apple or something cool
+267877426653167617	technology	jadekillah yeah wtf that machine is wack whatevs i had an apple for dinner
+267877341332647936	technology	nowplaying seetherofficial tied my hands livesonecoldnight download this song httpstcotjcrxgfxs
+267877273837899776	technology	rt elbowroomapps all ages will enjoy this app great hd graphics 2 fun games all levels unlocked no ads httptco3mapyino iphone ipad ipod idrtg
+267877229374078976	technology	moto 4 the movie httptco4mqe0hwn
+267877207244939264	technology	find out how high you are right now app travelshttptcoi4j3npvz
+267877204967448578	technology	moto 4 the moviestaylor congdon what is it like to witness a virtuosic riding performance by rising stars el httptcozyhjc09t
+267877161233444865	technology	google nexus 4 vs apple iphone 5 android 42 vs ios 6 battle at its bestspctablet disallowed key characters android
+267877060343640066	technology	available now on itunes djfreshx3 presents the tonite show sessions vol 1 httptcofgnx9mmu httptcoyg9kqa85 6
+267877045172850688	technology	designing your new bedroom with new fashioned model interiordesigmb httptcofwdioixm
+267876939451228160	technology	rt elbowroomapps crowded garden looks great on iphone4 iphone5 and ipad 2 games all levels unlocked no ads httptco3mapyino ipod app idrtg
+267876915526918144	technology	109 a despite b because c however d therefores get this ios app httptcoiz0mrxyn
+267876902168039424	technology	video extra point gonzalez the greatshttptcohkzg4pln via httptco1zzzxz8j
+267876897046814720	technology	cvkedarnath cumiastowski innovation is a fight apple is eventually doomed httptcooojupvim
+267876895251632128	technology	rt carlosbasquet this just in smurfs love to love smurfette tap smurfette once a day to earn extra xp httptcoc9fhxl2x smurfsvillage beelinegames
+267876800305172480	technology	rt tpaperchaser so who wants to share an apple
+267876720776974336	technology	rt tpaperchaser so who wants to share an apple
+267876598332665858	technology	so who wants to share an apple
+267876552753172480	technology	the very best of por earl grantsotro excelente disco httptcoq8gckwf7
+267876440580698112	technology	josephhorrigan haha im sure its pretty sweet everyone loves them ive never even owned any modern apple products
+267876398784471040	technology	video week 10 nfl recapshttptcoij5boo7s via httptco1zzzxz8j
+267876398050459649	technology	rt 1dworldupdates when the boys left their hotel in la they left behind unfinished apple juice cont httptcoeqmb3izx
+267876382758014976	technology	rt brandontreb my app cheats 4 letterpress is finally out ill trade you a promo code for a tweet pls rtshttptcouj3xm2vz
+267876303036899328	technology	rt tpaperchaser only people who have actually shared an apple with me understand what apples really mean to me
+267876289006927872	technology	shout out to this apple mango laundry detergent right now
+267876230357987328	technology	httptconsjdl73d apple ordered to pay samsung legal fees for misleading uk noticesapple insider httptcoscduq1bb
+267876161466531841	technology	where did my apple juice gosya im being dramatic
+267876146018926593	technology	the game on my phone for my lil cuzo coot rico httptcodbkwhnt1 httptco89ega38t
+267876137974263808	technology	apple releases two new ipad mini ads photos and books video httptcojz7qwyvs apple tfb iphone
+267876125827559424	technology	check out my ride in csrracing for iphone try it for freehttptcowaca4x0c httptcoii5diyib
+267876117933879296	technology	only people who have actually shared an apple with me understand what apples really mean to me
+267875944570712065	technology	i wanna dance in the apple store with trevormoran
+267875943689879552	technology	video epic moments week 10shttptcoa3bflwko via httptco1zzzxz8j
+267875924068954112	technology	apple releases two new ipad mini ads photos and books video httptco9qgnd1sb
+267875911930638336	technology	rt penguinspark apple stomps on tapjoys app download circle jerk againshttptcoy1jteh0f
+267875899364483072	technology	apple releases two new ipad mini ads photos and books videoscultofmac apple has released two httptco6vpmmgxh
+267875889952464896	technology	cultofmac apple releases two new ipad mini ads photos and books video apple has httptcooigycgos apple iphone ipad
+267875772960763904	technology	att lifts facetime restrictions on apple iphones att said thursday that it will allow all subscribers httptco0gthgxsd iphone
+267875772021219328	technology	att lifts facetime restrictions on apple iphones att said thursday that it will allow all subscribers httptcoem7guryl iphone
+267875742682066945	technology	kronos tabletskronos incorporated kronos tablet kronos incorporated genre business httptcoj5otdy7d
+267875733777559552	technology	light textschaoji li light text chaoji li genre productivity price 299 release date httptcoyhuyxo1y
+267875720347402240	technology	eatn apple
+267875691738058752	technology	video scattered mexico cityshttptcooknotq5k via httptcolmz4rsuz
+267875655532806144	technology	259 a allocated b succeeded c participated d complieds get this ios app httptcoiz0mrxyn
+267875649727897600	technology	i could go for a nice hot chocolate with mini marshmallows or hot apple cider right nowscold
+267875602298724352	technology	itunes news apple leads legal battle over ecommerce vs privacy rights in californiashttptcobolwstnfsapple battle
+267875529070362624	technology	i liked a youtube video httptco8m9qguan applesipad ministv adssbooks
+267875527338098688	technology	baked apple cider donuts with chobani apples applecider healthy yummy instafood httptcoi618ocda
+267875471922982912	technology	new article apple iphone 5 sales figuressrelated tagsscustom wedding thank you cards with photo jazz christmas r httptco6zvk7gqe
+267875401278320640	technology	nowplaying soundgardenbeen away too longskinganimal download this song httptcofq4ynmli rocknroll
+267875378553565184	technology	an apple a day httptcomqk5ktml
+267875362732654592	technology	nerd news flojack brings nfc to apple devices for first time video httptcotrowxfg1
+267875328259670016	technology	rt elbowroomapps crowded garden is family friendly no simulated violence all levels unlocked no ads httptco3mapyino iphone ipad ipod app idrtg
+267875290007605248	technology	apple to pay 21 million for the swiss clock design they borrowed httptcodpq6fs2m
+267875257908604928	technology	top 10 free itunes a gangnam style massacrescarolina patron you are in gangnam a wealthy neighborhood in the httptcoig0sqo8m
+267875130204626944	technology	if we share an apple you know yous my dude
+267874956782755841	technology	this is the next one im working on its going to be an apple tree httptco4z1mjozj
+267874842655748096	technology	apple ordered to pay samsung legal fees for misleading uk notice httptco9jawymp6
+267874808782528512	technology	earths best organic fruit yogurt smoothie baby foodsapple blueberrys42 oz pouch usda organic certified e httptcohwxjmhip
+267874761584046081	technology	htc shares rise after patent settlement with applestimes of india httptco4ay4r7en
+267874751593205760	technology	annoying things to do at school httptcoce8bdde8
+267874684173946880	technology	video week 10 recap is foles the futureshttptcoi4u1otku via httptco1zzzxz8j
+267874631980027904	technology	iphonesandipads apple ordered to pay samsung legal fees for misleading uk noticesappleinsider in a uk court httptcoygl7hhy7
+267874630826594304	technology	iphonesandipads appleinsider apple ordered to pay samsung legal fees for misleading uk notice in a uk httptcoexern840
+267874629983555584	technology	this just in smurfs love to love smurfette tap smurfette once a day to earn extra xp httptcoc9fhxl2x smurfsvillage beelinegames
+267874580650160128	technology	apple posts two new ipad mini ads photos and books apple has started airing two new television ads for the httptco4oy37np5
+267874453814407168	technology	symantec broadens encryption options for apple devices dropboxsaustralian macworld httptcoiyh9fcw7
+267874436861014017	technology	symantec broadens encryption options for apple devices dropboxsaustralian macworld httptcolj2ly7jl securitybusiness
+267874395136073728	technology	312 a following b immediate c consecutive d constants get this ios app httptcoiz0mrxyn
+267874360075907073	technology	rt elbowroomapps looking for something different try crowded garden all levels unlocked no ads httptco3mapyino iphone ipad ipod app idrtg
+267874275229315072	technology	rt tweetbutlers apple ordered to pay samsung legal fees for misleading uk notice in a uk court ruling on httptcovry7chza httptcownc8vepb
+267874212222476288	technology	sashanicaela thats the typical apple fan response nice
+267874209118691328	technology	htc settles apple iphone and ipad patent battle httptcobacseulq
+267874099148247040	technology	sashanicaela why because no apple
+267874094232506368	technology	steve jobs you will be missed all over the world you were apples ceo and role model rip you were a hero you were my hero
+267874023130681344	technology	vrydah saiafolau saia is voted off the island cause he cant even afford an apple lmao peaceoutmyfriend
+267874010648436736	technology	available in itunes now httptcomu9tq3wf
+267873955061313536	technology	taiwans htc settles patent disputes with appleshttptcovitsgj3c httptcoymvr1uq9
+267873954251800576	technology	htc shares rise after patent settlement with applestimes of india httptcoozxc33bu
+267873953459077120	technology	applehtc patent battle endssmybroadband httptcojzpjvbat
+267873815340654592	technology	1 users just unfollowed me i found out using this awesome iphone apphttptcocam4kadj twitrmanager
+267873731471351808	technology	my ipod touch was sold d now im listing my apple care unused of course for 35s
+267873672235192320	technology	school bleeehs apple3
+267873649204281344	technology	rt elbowroomapps crowded garden is family friendly no simulated violence all levels unlocked no ads httptco3mapyino iphone ipad ipod app idrtg
+267873636675907585	technology	apple ordered to pay samsung legal fees for misleading uk notice in a uk court ruling on httptcovry7chza httptcownc8vepb
+267873547043622912	technology	i was beat by massimo luppi 1012 in professional level download httptcozbdkfb6ishttptcombdnasir httptcogz24glpu
+267873545009389568	technology	im earning rewards in crackle httptcobingvpeg mpoints
+267873467741917185	technology	rt htcsource htc and apple agree to 10 year crosslicensing agreement settle all patent disputes httptcommtawesn
+267873434149728256	technology	luuuuucylu remember when i made youskayla go to the park to meet that random guy and then we had a hedge apple fight what was i thinkin
+267873424829988865	technology	your nerdy flashy girl who spends her day as illustrator and is eager in apple products photography plot and technology gems
+267873381112758272	technology	i favorited a youtube video from detroitborg httptcorgn8trac new 2012 apple imac giveaway
+267873246739841024	technology	rt f0xtar apple mouse evolution httptco7oqgi87v
+267873173490524160	technology	video online ot play clocksweek 10shttptcohivpc4ed via httptco1zzzxz8j
+267873019710537730	technology	apple airs two new ipad mini tv ads for your information were two of a kind httptcobyllesct via appadvice
+267873010885738496	technology	ever was it thus and not coincidentally men have blamed women for it dating back to that whole apple story xeni
+267872981605294080	technology	this just in smurfs love to love smurfette tap smurfette once a day to earn extra xp httptcolmdoyyvz smurfsvillage beelinegames
+267872964530278400	technology	rt elbowroomapps crowded garden is fun to play with a group of friends all levels unlocked no ads httptco3mapyino iphone ipad ipod app idrtg
+267872921555464192	technology	i never smoked weed chronic reggie dope green monster pine apple expressi dont need that to be high on life
+267872864563253249	technology	my niece was likemy apple needs saltsgrabbed a salt shaker poured 12 of it in her mouthsate it then took a tiny nibble of her apple
+267872800243605504	technology	applesipad ministv adcomercialsbooksofficial new 2012 hd 1080p httptcodeadv4dq thq
+267872684602433537	technology	apple cider
+267872684396912640	technology	its crazy how people have all different kinds of tastes whats unappealing to you could be the apple of someone elses eye
+267872670262124544	technology	video online ot atlno recapshttptco1lpsurhs via httptco1zzzxz8j
+267872587944718336	technology	apple mouse evolution httptco7oqgi87v
+267872475096969216	technology	rt riagarner12 i want a carmel apple from the fair
+267872472274190336	technology	i want a glass ceiling in my bedroom with an aquarium in my attic httptcofwdioixm
+267872458957275136	technology	playing dollhousestory on my iphoneits so much fun and its freecheck it outhttptcoidoijd6v
+267872414782873600	technology	guess its caramel apple time
+267872319601537024	technology	i need an apple right about now
+267872314958430208	technology	i love apple juicesthatisall
+267872313733685249	technology	join my fashion shopping network were shopping closets together on poshmarkapp sign up w code hjtwh for 5 credit httptcobwaj6cgn
+267872273761959936	technology	justlola20 apple pimpin yall asses
+267872232544534528	technology	i want to grow an apple tree
+267872196519677952	technology	apple judge will review if applesamsung jury foreman withheld infosopposing views opposing viewsjudge willshttptcotoj480ea
+267872195529826304	technology	apple apple ordered to pay samsung legal fees for misleading uk noticesapple insider maximum pcapple order httptco6kyunrjb
+267872181340495873	technology	coyoyes sounds best sounds of the wild appshttptcotbkr7bdv
+267872128114782208	technology	pinnacle strategies httptcozyuviqyd
+267872062423580672	technology	can you guess the word clue eagles nail guesstinyco httptcobtgiobli
+267872031045984257	technology	vrydah saiafolau trust me you want the apple and the cookie lol
+267871978000637952	technology	memory clean frees up memory without logout or restart via appletellsmemory clean is an app forshttptco9l2rbvzm
+267871964847288320	technology	crap if i only had 1 moresrt woot 147999sapple 17 macbook pro httptco1crciyy5
+267871949621960704	technology	riagarner12 i want a carmel apple from the fair
+267871928679821313	technology	hard apple cider is the best appleridgemn im looking at you
+267871918605074432	technology	cvkedarnath he loves apple products
+267871905556619264	technology	can you guess the word clue as white assssssson a winters day guesstinyco httptcobtgiobli
+267871880080416768	technology	276 a easy b eased c easily d easiers get this ios app httptcoiz0mrxyn
+267871829270597632	technology	i want a carmel apple from the fair
+267871711595204608	technology	rt illnguyen cambodian girlfriend german cars and apple products samsmilesalot bmw apple
+267871697737248769	technology	anyone else notice applebees logo looks uncomfortably similar to apples logo
+267871693765218304	technology	video memphis monster block and huge threeshttptcohentplay via httptco1zzzxz8j
+267871640975704064	technology	musa publishing apple app available httptcozvobzggo via suzannegrogers
+267871611707850755	technology	can you guess the word clue in the eggs on the leaves guesstinyco httptcobtgiobli
+267871593051598848	technology	apple htc enter into 10year crosslicensing deal exit all patent litigationsscoopit httptcodvr57svf
+267871573950746624	technology	htc shares jump after settles patent issues with apple httptcokl2rhjaw
+267871544645140480	technology	josephhorrigan should have gotten the google nexus 7 like me androidsapple hahaha and it only cost me 250
+267871525946945536	technology	video today in history for november 12thshttptcozdf4kgsv via httptcodihkkd3l
+267871517075976192	technology	rt elbowroomapps crowded garden is a great app for the ipad mini all levels unlocked no ads httptco3mapyino iphone ipad ipod app idrtg
+267871432619474944	technology	rt ovodomxo callysexx we still need to go to double apple just when theyre less busy
+267871357956665344	technology	trevorbaldwin93 johnross55 no trevor we broke away from apple we are steak inc
+267871241900285953	technology	crossbacca that kids adams apple was asking for a punch
+267871207335022592	technology	shout out to the la lakeshow its a celebrationshttptcojdoboeha httptcofbf0fmqz
+267871111461609472	technology	saiafolau man i shared an apple with you you know we cool hahaha im just fucking with you
+267871100057292801	technology	apple paid 21 million after it was accused of ripping off this clock design for httptcos4fpoasd adnewsus
+267871002262925312	technology	htc apple settle patent disputes taiwanese smartphone maker htc corp has settled with apple inc on their out httptcou4y1lozl
+267870957081866240	technology	check out the look i just created in styletouchgame httptcojaxb0a0w httptcoloaunxmy
+267870813364043776	technology	apple airs two new ipad mini ads httptcoyqcn59kc
+267870797509582848	technology	rt newmusic poblakk work album is on itunesson fire you can listensbuy it now httpstcodw23uqjw
+267870794103812096	technology	apple airs two new ipad mini ads httptcos79marvc
+267870788969975809	technology	apple airs two new ipad mini ads httptcoiam4boan
+267870687518150656	technology	callysexx we still need to go to double apple just when theyre less busy
+267870601480372226	technology	iphonesandipads apple ordered to pay samsung legal fees for misleading uk notice in a uk httptcoh1rnkyde
+267870600364687360	technology	iphonesandipads apple ordered to pay samsung legal fees for misleading uk notice appleinsider in a uk httptcohz6jw8dq
+267870571138789377	technology	go to sleep mot httptcokfwln7vh httptcoxzar2wwm
+267870507150487553	technology	apple ordered to pay samsung legal fees for misleading uk notice in a uk httptcojwxpchob iphone apple
+267870505703444480	technology	apple ordered to pay samsung legal fees for misleading uk notice appleinsider in a uk httptco7bws2i06
+267870471435988992	technology	can you guess the word clue i am a stylist who does my s hair guesstinyco httptcoiqotmx2v
+267870123560427520	technology	damn i really want some apple pie
+267870066987634688	technology	itswillyferrell whenever i see a bruised apple at the market i give it a soft hug and whisper who did this to you lol
+267870031407366145	technology	cvkedarnath i only said that to get some sort of reaction out of him cause apple seems to be his expertise if you know what i mean
+267870018295971840	technology	can you guess the word clue horse riding footwear guesstinyco httptcobtgiobli
+267870000998658048	technology	you da man in yo city then you wanna bump thisshttptcourbinydw
+267869983026061312	technology	jasminejuliette yeah because the apple and expensive price
+267869966060097536	technology	johnross55 this device sounds less like apple with every addition lol
+267869954483826688	technology	im makin apple and pumpkin pie for thanksgiving
+267869950503428097	technology	rt elbowroomapps all ages will enjoy this app great hd graphics 2 fun games all levels unlocked no ads httptco3mapyino iphone ipad ipod idrtg
+267869888704552960	technology	activelearn gospearson educationssssssssssssssssssssssssssssssssssssshttptcom56frq04
+267869803686002688	technology	rt elbowroomapps crowded garden looks great on iphone4 iphone5 and ipad 2 games all levels unlocked no ads httptco3mapyino ipod app idrtg
+267869761923330048	technology	video will the us negotiate state to state with iranshttptcogkcdiebe via httptcodihkkd3l
+267869739202797568	technology	for all apple nerds who follow me please do not upgrade to the latest ossit sucks in an excessive fashion
+267869696282460161	technology	rt ashkdiaz simplythequeen apple bottom dusty hell yeahsroca wear baby phat coolgi etc
+267869603277979650	technology	mauramwatson sue apple autocorrect corrects everything wrong hateit
+267869546604535809	technology	shes so fine ill drink her bath water cuz shes pure she sweats apple juice i cant with them in my room lmao
+267869366853464064	technology	33 a who b it c that d whoses get this ios app httptcoiz0mrxyn
+267869318753185792	technology	simplythequeen apple bottom dusty hell yeahsroca wear baby phat coolgi etc
+267869289837637633	technology	rt patentwire apple made to pay after losing facetime patent trialshttptconvlseml6 httptcod7dgfqsm
+267869262700507136	technology	i just flew 311m in a brilliant game of jetpack joyride on iphone any challengersmmmmnnnnnbb httptconr0ogs62 httptcoytnid9lk
+267869258791415809	technology	video china congress prepares for leadership handovershttptcord0elgiz via httptcodihkkd3l
+267869258657181697	technology	confessionnight i can only drink apple juice on airplanes ihavenoideawhy
+267869242580426752	technology	corinaluvs and you rush to the apple store to get their latest gadget p
+267869219968925697	technology	apple airs two new ipad mini television ads photos and books httptcomz9emioxstech it fb geek
+267869041144786944	technology	memory clean frees up memory without logout or restartsmemory clean is an app for optimizing your macs memory httptcohnwdothn
+267868968172285953	technology	can you guess the word clue pokemon item for money guesstinyco httptcobtgiobli
+267868943321026560	technology	dude everyones about to blow apple out rt adriansays damn microsofts about to blow apple out of the game with these new laptoptablets
+267868903894568960	technology	have you tried mixing scentsshere are some great fall recipes to trydulce de lechesapple pressscaramel httptcocy3nxmyj
+267868808541241344	technology	1dnialllmarryme yess tweet me as soon as you get out i may not respond right away because idk what time but im trying to go to apple
+267868789176164352	technology	baking a pumpkin pie gross a chocolate pie and miniapple pies for thanksgiving dinner imgettingold didimentionhomeadecrust
+267868759358844928	technology	rt dankhazanov i found it in my everyday bag d fail ipod apple nano tech httptcoowq571sj
+267868755189694464	technology	video cancuns underwater museumshttptcozayydtow via httptcodihkkd3l
+267868703163564033	technology	eww is that apple juice nooooo
+267868558313271296	technology	i found it in my everyday bag d fail ipod apple nano tech httptcoowq571sj
+267868501220405248	technology	ipodtouch zookeeper dx for iphone ipod touch and ipad on the itunessthe definitive version of zookeeper httptco63mjbptp
+267868500347998208	technology	apple sauce
+267868430974189568	technology	icanonlybeme instaframeshttptcoevgusway httptcohhla0msg
+267868363273928704	technology	the only thing i like better than apple pie is hulu
+267868346849062912	technology	captainedgardo i get like all those symptoms dudesu kno i hate mc ds well i bought fries a mc chickensan apple pieslol
+267868338611445760	technology	apple ordered to pay samsung legal fees for misleading uk noticesappleinsider in a uk court ruling on httptcokptlsosi
+267868336707215360	technology	appleinsider apple ordered to pay samsung legal fees for misleading uk notice in a uk court httptcomqa99wzz iphone ipad apple
+267868278548992000	technology	major iphone microphone problem identified by expert apple refuse tospatrick lee the ceo of iexpert a com httptcoosypeny8
+267868252607246336	technology	video ivory coast wants un diamond ban liftedshttptcohdnua01l via httptcodihkkd3l
+267868252363952130	technology	why does the apple gotta be black
+267868246387064832	technology	which one is different 420 httptco5dtate17 httptcofuyk2uai
+267868133925212161	technology	rt elbowroomapps crowded garden is family friendly no simulated violence all levels unlocked no ads httptco3mapyino iphone ipad ipod app idrtg
+267868102283378689	technology	rt elbowroomapps crowded garden is fun to play with a group of friends all levels unlocked no ads httptco3mapyino iphone ipad ipod app idrtg
+267868082846986241	technology	cvkedarnath very true like thorsten tim cook after htcs settlement seems to be laser focused sad apple has to copy everything
+267867959853207552	technology	dannybennett7 yeah because that skyscraper with a screen of apps is so cool hasnt changed in years but it does have an apple on it
+267867916777689088	technology	your the apple to my pie
+267867903586611200	technology	video texans continue to adaptshttptcopjgdgcbj via httptco1zzzxz8j
+267867829343252480	technology	apple airs two new ipad mini television ads photos and books apple has started airing tw httptcoomrymqyl apple macrumors
+267867828676358145	technology	apple airs two new ipad mini television ads photos and books apple has started airing tw httptcorv2uvsbh apple macrumors
+267867826751148033	technology	mac iphone ipad apple airs two new ipad mini television ads photos and books
+267867817741803520	technology	cambodian girlfriend german cars and apple products samsmilesalot bmw apple
+267867748942614528	technology	video raw flash mob dances gangnam style in romeshttptco7bquilgd via httptcodihkkd3l
+267867645989224448	technology	video howard lakers roll over kingsshttptcor8rmrcjt via httptco1zzzxz8j
+267867591702368256	technology	why did the calc teacher eat an apple a day a balanced diet is integral to a healthy lifestyle justcameupwiththat
+267867538082381824	technology	rt illgiveyouhals my fav drink no longer a ciroc girlsrt czechmeout yall i had apple martinisomg was it the best and i dont even drink
+267867506662846464	technology	apple htc lawsuit settled by agreeing not to fight for 1 whole decadeshuffington post httptcobldbqpme htc
+267867452740861952	technology	my fav drink no longer a ciroc girlsrt czechmeout yall i had apple martinisomg was it the best and i dont even drink
+267867421703012352	technology	i put a hole in your apple what that is apple jacks
+267867346025213953	technology	rt acneskinsite trade that morning cup of coffee for an apple an apple is more efficient at waking you up then that cup of coffee fact
+267867311380254721	technology	video chinas migrants struggleshttptcoyuzqh6hs via httptcodihkkd3l
+267867254589386753	technology	rt epitomeofclass tfyoumean you aint got no worriessnigga you taking 9th grade classes as a senior
+267867242811764736	technology	rt worthavegroup in the name of progress apple is suing anyone who comes out with another tablet whos really losing here ithappens
+267867226202329088	technology	video verybaddates the very oldshttptcol9zxslmc via httptcomdyptxv9
+267867144270778368	technology	rharvley apple spends millions on advertising nice try
+267867134963634176	technology	rt theofficialrobe samoonlighters our new album can be purchased at itunessdownload your copy today httptcoihofniex getsome
+267867103518932993	technology	badapple for showing some love im hookin you up with a pair of beatsbydre head phones go right here yourdrebeats
+267867080869695488	technology	high quality geese sounds in your pocket appshttptco1zmqvcev
+267867057679368192	technology	can you guess the word clue the place bush lived and now oboma livessguesstinyco httptcovfrtm5jj
+267867028071800832	technology	instaframe courtneybrittmckayla kimand ishttptcobjeg0odz httptcoztwypmzj
+267866984593649664	technology	buckybarnes beckybarnes dont know whats going on so talk ill buy you two ice cream and apple pie
+267866941060943873	technology	missfacetious yeah because it has an apple on it you obviously know nothing about technology
+267866857015484416	technology	rt suckmyshit confessionnight i used to text ugly lol
+267866846521356290	technology	rt nino4thwxnmo in ancient greece it was considered a marriage proposal to throw an apple at a women snapplefacts
+267866808973934592	technology	can you guess the word clue you move from here to there guesstinyco httptcosvjxssd7
+267866805173895168	technology	instaframe courtney brittmckaylakim and i courtney and brits little sister is in there tho httptcobjeg0odz httptcor5i4btbj
+267866723909238784	technology	applesamsung judge probes jury misconductsthe chosun ilbo httptco483blcsc
+267866679453818882	technology	zheniyafager zebras high eating nutella inside your apple acronymforyourname lolz
+267866657664425984	technology	can you guess the word clue you eat out of it guesstinyco httptcosvjxssd7
+267866593265078273	technology	iphonesandipads apple debuts passbook enabled gift cards in apple store app modmyi apple added passbook httptcow1uqzmrm
+267866572134158336	technology	nova case 3d bling crystal iphone case for att verizon sprint apple iphone 44s coco bag and flower httptcorhzbzl4z
+267866557311504384	technology	prosopobibliophobiasfacebook phobia or having an aversion to all things facebook udd httptcoegvpbzcl
+267866475266715648	technology	can you guess the word clue cannon guesstinyco httptcosvjxssd7
+267866394857730049	technology	get your mind off that stress download this and feel bettershttptcoo8st3guf
+267866284341989377	technology	can you guess the word clue ssjkss guesstinyco httptcovfrtm5jj
+267866179115298816	technology	battle born by the killers sweet album httptcou59xp3xp
+267866176682598400	technology	hannahlally if you still cant find out whats wrong get mysfrom kristina and ill help you out more i have a friend whos good with apple
+267865985577525248	technology	apple stomps on tapjoys app download circle jerk again httptcogzehptxa via techcrunch
+267865893135065088	technology	best offer for today testskeep the new iphone 4s additional terms applyssget a free apple iphone 4s click httptcotcufvs7m
+267865802814914560	technology	laurenkrakau26 joeybrodnax know everything about apple
+267865802471006208	technology	my lap top never over heats oh how i love the good work done by apple
+267865787442819072	technology	rt elbowroomapps crowded garden is a great app for the ipad mini all levels unlocked no ads httptco3mapyino iphone ipad ipod app idrtg
+267865697860845568	technology	asshatsone who has their head up their ass thus wearing their ass as a hat asshat udd httptcoegvpbzcl
+267865683113680896	technology	apple htc shares jump after settles patent issues with apple taipei reuterssshares of htc corp jumped by t httptcovyto7v4l
+267865591472349186	technology	229 a increased b increasing c increase d increasinglys get this ios app httptcoiz0mrxyn
+267865549638344704	technology	apple htc settle patent suits worldwidescomputerworld india httptcoqamcjwma
+267865548828852224	technology	patent perestroika what apple and htcs landmark pact means for the patents time httptcoztpdmp5b
+267865547985780736	technology	htc settles patent issues with apple shares jumpsthe australian financial review httptcopo7ajpyu
+267865547201466369	technology	apple made to pay after losing facetime patent trialshttptconvlseml6 httptcod7dgfqsm
+267865523256168448	technology	who is more fragile google apple facebook or amazon of the 4 tech giantsshttptco2jzppyaj
+267865441597267968	technology	hannahlally id go straight to apple then thats very strange try looking it up on the apple communities sometimes they help me out
+267865323095601152	technology	rca rc130ipk ipodriphoner clock radio dock pink ipod accessoriessaccessorize your apple compatible w httptcouc2ktsor
+267865280447922176	technology	applenws iphone 5 rumored to arrive in china by late 2012 or early 2013snetwork world apple what china didnt get it 1st
+267865254015426560	technology	jayhawkkevin nope its recorded new one coming out tomorrow you can check out old episodes here httpstco9kbdb8uj
+267865151083012096	technology	rt tarpezoid apple sucks a fart out of my ass and patents the process bottomfeeding bottomfeeders microsoft
+267865095835619328	technology	rt iphonesandipads best tweaks of the week nov 5snov 11 here are the best jailbreak httptcoc9lqmxj4 iphone apple
+267865093528760320	technology	rt iphonesandipads xbox 360 holiday bundles with 50 off promotion still dont have an xbox 360 httptcoyxw1e4qu iphone apple
+267865091431600128	technology	rt iphonesandipads totallyme visualize and personalize your social updates news headlines and httptcoaoqssbrx iphone apple
+267865001501548545	technology	fuck my life burned my apple pie
+267864994463490049	technology	i want a apple
+267864912238362624	technology	rt elbowroomapps all ages will enjoy this app great hd graphics 2 fun games all levels unlocked no ads httptco3mapyino iphone ipad ipod idrtg
+267864873952763904	technology	margaretrosey annnnnnnd im done theres a little bit of apple love that runs through my veins can you tellsp
+267864670105374721	technology	still in apple valleywakin up early and back on the grind tomorrow in morris imready
+267864658151632897	technology	margaretrosey do it for me well ok do it for you itd be perfect with your iphonesipad i mean look at this httptcopowa18zc
+267864568406110208	technology	josieacre djpaulye when i come home ill transfer your things over f apple all they want is more money
+267864507366375425	technology	rt elbowroomapps crowded garden looks great on iphone4 iphone5 and ipad 2 games all levels unlocked no ads httptco3mapyino ipod app idrtg
+267864468816539648	technology	rt htcsource htc and apple agree to 10 year crosslicensing agreement settle all patent disputes httptcommtawesn
+267864445844332544	technology	can you guess the word clue he is a man made of snow guesstinyco httptcol63yfffr
+267864419361517569	technology	and a bottle of apple juice im craving apple juice reeeeally bad
+267864336817614851	technology	this just in smurfs love to love smurfette tap smurfette once a day to earn extra xp httptco2mdhi5rs smurfsvillage beelinegames
+267864298330677248	technology	me and my best friend httptcohn7rj7sw httptcozfsie4yw
+267864271105425408	technology	apple posts new ipad mini tv spots showcasing photos and ibooks httptcoku8s3vei
+267864154730287104	technology	eating a apple never tasted so good
+267864111554129920	technology	apple bing maps reveal secret sites httptcob7tjwcjs
+267864005790552065	technology	can you guess the word clue wenzals is one wuthout the s guesstinyco httptcol63yfffr
+267863978456272896	technology	rt elbowroomapps crowded garden is family friendly no simulated violence all levels unlocked no ads httptco3mapyino iphone ipad ipod app idrtg
+267863911804583936	technology	rt elbowroomapps looking for something different try crowded garden all levels unlocked no ads httptco3mapyino iphone ipad ipod app idrtg
+267863882658357248	technology	totallyme visualize and personalize your social updates news headlines and httptcoaoqssbrx iphone apple
+267863881228099584	technology	xbox 360 holiday bundles with 50 off promotion still dont have an xbox 360 httptcoyxw1e4qu iphone apple
+267863879823020032	technology	best tweaks of the week nov 5snov 11 here are the best jailbreak httptcoc9lqmxj4 iphone apple
+267863826354020352	technology	stevefoti262 its late over here everything is closed so ill just have to settle for some grapes and an apple oh well
+267863811988541440	technology	love my apple bees family oohleo dakidddddd12 httptcohtg5m6qv
+267863796268281857	technology	join the iosnoops sweepstakes giveaway to win a free apple ipad mini httptcokapsv82x
+267863774826991616	technology	love him or hate him scott forstalls departure makes apple a more stable company and i wonder if that is h httptcoa8batfxi
+267863716945616897	technology	this apple cider chapstick tastesgreat
+267863671433199616	technology	sooo gonna have a candy apple head when i drop to 155shttptco0vodsckf
+267863661882793984	technology	realliampayne zaynmalik niallofficial louistomlinson harrystyles welcome to the big apple boys
+267863525530144768	technology	hannahlally yeah you should be able to go to httptco1muvtdwd login in with your apple id and your contacts should still be there
+267863482492407809	technology	instaframe me and nicole d httptcobjeg0odz httptcofyavphe6
+267863460518457344	technology	bite meapple sign
+267863308537847808	technology	innovation apple suffered a blow in the third quarter as samsungs galaxy s3 overtook the iphone asshttptcopzvq1nej pakistan
+267863282755436544	technology	nuggetsshoney bbq chipssapple juice nd a movie
+267863238954323968	technology	instacollageshttptcoytctskbu httptcoeszluipr
+267863133006213121	technology	wildcatchild15 hell yeah big apple here we come newyork hope those yankees are ready for some wyoming kids to come stormin through
+267862995638550528	technology	itsfunnylife an apple a day keeps the doctor away but if the doctor is cute forget the fruit
+267862986973122560	technology	instaframe courtneymckaylakim and i httptcobjeg0odz httptco4kuhndyn
+267862979104612352	technology	i read that tweet out loudmadeline actually i had apple jacks but thanks anyway
+267862965217275904	technology	check out my monsters in minomonsters for iphone and ipod try it for free httptcooclqhxz9 httptcofogly4xf
+267862962155442176	technology	having fun playing csr racing for ipad why not join me for freehttptcoyrqycy0e
+267862940244406272	technology	having fun playing csr racing for ipad why not join me for freehttptcoffkddmtx
+267862936188497920	technology	youwassexyuntilyouwassexyuntil until i seen that big ass adams apple
+267862890231496704	technology	having fun playing csr racing for ipad why not join me for freehttptcocjuwej8h
+267862758505209856	technology	apple sucks a fart out of my ass and patents the process bottomfeeding bottomfeeders microsoft
+267862550945869824	technology	rt brandontreb my app cheats 4 letterpress is finally out ill trade you a promo code for a tweet pls rtshttptcouj3xm2vz
+267862534793592833	technology	instaframe me courtney mckayla and kim dshttptcobjeg0odz httptco1lcczchm
+267862172779020288	technology	instasafe can quickly boot your iphone into safe mode httptcoa980wdib via drippler
+267862133449056256	technology	motivational quote categories httptcoipmtd3p2
+267862128654958592	technology	bakelite buttons huge vintage lot all bakelite buttons carved cherry apple juice dice httptcojjzuyyr3
+267862035407204352	technology	mizzchievouz it was in my new videos and i cant wait to try and make it cranberry and apple crisp it even sound yummy when you say it
+267862021922488321	technology	apple patents turds bottomfeeding botomfeeders apple
+267861978729574400	technology	available now on itunes djfreshx3 presents the tonite show sessions vol 1 httptcofgnx9mmu httptcoyg9kqa85 5
+267861941123432449	technology	top story flojack brings nfc to apple devices for first time video httptcoakxvsx8o see more httptco39rfidgv
+267861884252876800	technology	this apple pie amazing
+267861772814401539	technology	hannahhboo smh gonna go drink some apple juice to relieve this tension
+267861443423109120	technology	benthepcguy ive got 3 converts waiting to get a wp 1 from android 2 die hard apple fans verizon people have been waiting
+267861387408191488	technology	pandamimi deluxe silver chrome bling crystal rhinestone hard case skin cover for apple iphone 4 4s 4g with 2 pcs httptcoq1knrlb4
+267861141844283392	technology	hillary clinton is so stupid she has a blackberry hasnt she heard that apple is on its 5th iphone
+267861104577884160	technology	ive gained 5 followers since i last checked lazyunfollow android app at httptcohijnlwkwsiphone app also at httptcogorb4x9l
+267861026224082944	technology	i sliced 340 fruit in fruit ninjas classic mode including 19 bananas httptconiuvx9kf httptcowt47qmix
+267860982125182977	technology	pariskank i dont think i can eat ive had two little cups of apple sauce today and that didnt settle lol
+267860957160689664	technology	you think i can find someone on craigslist that can make me an apple pie
+267860931541860352	technology	goodnight apple
+267860931420225538	technology	celebration day live at o2 arena in london on december 10 2007 por led zeppelin maana mismo voy por els httptco3tfrulcv
+267860821739192321	technology	i just moved up to level 3 in csrracing for iphone you should check it out for free httptco6pekvcug
+267860769436233728	technology	buy that charmssupport the g chasencashe tour coming soon httpstcopecw1f0v
+267860749404225536	technology	check out this item i found on ebay httptcossvwsqbq
+267860693372518400	technology	iphone 5 news review apple iphoneography gear series 49 photojojo lens set httptcohyajt87j apple gear iphone
+267860679988494336	technology	confessionnight i want some hot wings from apple bees
+267860635482718209	technology	the poison apple to my bite
+267860578918346752	technology	rt mindbiowingfact iphoneseye phonesilluminati phone siri spelled backwards is iris thats a part of the eye apple is illuminati they are watching you
+267860564783554560	technology	tayymill i do not own a apple product therefore i have no clue what that emoji is but im guessing its not very nice haha
+267860553798676480	technology	147 a retroactively b adversely c extremely d dramaticallys get this ios app httptcoiz0mrxyn
+267860546173419520	technology	m irthd is i 6 dsscreated with httptcofm2aufo5 textizer
+267860537717714944	technology	san francisco ca kpixsapple settles patent disputes with taiwans htcsmore apple iphone newsshttptcoum9dso7v
+267860434206478336	technology	apples first ipad mini adspiano apples first advertising effort with the ipad mini the ad is called piano httptcook2ovcdo
+267860358256025602	technology	if i aint the apple man of the year who isswaggerkid
+267860305982410752	technology	apple not in chinas smartphone top five according to research firm canalys apple isnt even ranked in the to httptconjfnr8p7
+267860305189691392	technology	as apples battle with htc ends smartphone patent fights continue late saturday apple and htc the taiwaneseshttptco17pq1opu
+267860173287211009	technology	the apple hasnt fallen far from the tree testiculardeathgrip
+267860042152304640	technology	video early game recaps 1111shttptco6bobdj70 via httptco1zzzxz8j
+267860028336246784	technology	1 new awesome users just followed me i found out using this awesome iphone apphttptcorkgslb0s twitrmanager
+267859949433024512	technology	black friday survival guidessazze inc black friday survival guide sazze inc genre httptcogulz9zop
+267859945570045952	technology	i made an apple tart and i love mt new kitchenaid httptcot2gzbwwn
+267859828674818048	technology	apple cider goes great with a chilly night httptcouwocvwo5
+267859781765705728	technology	rt nino4thwxnmo in ancient greece it was considered a marriage proposal to throw an apple at a women snapplefacts
+267859780251557888	technology	samsung electronics raised price of mobile processor supplied to apple by 20ssamsung electronics 005930se httptcoqwmjtzc1
+267859772458532864	technology	i just got a meowmm decal in csrracing for iphone paintjob get it for free httptcoid54zbby httptcoa1ageujv
+267859626526134272	technology	rt kq2sarahhatten tomorrow morning the athletic office at missouriwestern is going to look like an apple store when the new iphones came out
+267859613565714432	technology	rt nino4thwxnmo in ancient greece it was considered a marriage proposal to throw an apple at a women snapplefacts
+267859599225405440	technology	i made an apple pie httptcosd4cy6mc
+267859543101407232	technology	video early game recaps contd 1111shttptcosi2akdr4 via httptco1zzzxz8j
+267859465565532160	technology	omg yes i love apple anything httptcooxz2plbk
+267859452038877184	technology	rt jungphil609 jmims16 jung phils single babygirl available on itunes jpmusic httptcoaejx2gx7 httpstcovapcdigl
+267859444606578688	technology	video teenage driver texting prevention device part 2shttptcozyvxkdkp via httptcouwvwa2ex
+267859428282343426	technology	in ancient greece it was considered a marriage proposal to throw an apple at a women snapplefacts
+267859397911379968	technology	edenriegel ellaskitchen i actually got 1 of those of apple sauce and they are really good
+267859264415100928	technology	ny times as apple and htc end lawsuits smartphone patent battles continue httptco4iiqg6ab business
+267859263685292033	technology	i just moved up to level 2 in csrracing for iphone you should check it out for free httptco6pekvcug
+267859239563821056	technology	rt bagyants what if we make headphones that stay in peoples earsgood idea bob aside kill him and his whole familyapple meeting
+267859197541109760	technology	as apples battle with htc ends smartphone patent fights continue the htc suit however was the first one app httptcolgfupd7e
+267859196639330304	technology	blogoversary giveaway by worksavelive apple ipad mini 100 amazon gc 50 paypal cash httptcorbml6jhn
+267859123050274816	technology	check out the httptcoiqod88wt calorie tracker that helps me track my progress daily httptcoxplyxjj9 httptcoz4mtvnwq
+267859075063230465	technology	daviddeedj7the apple valley basketball team going be to niceno one cant stop my boysshsonie14 fronky14 tyusjones06 dennis23austin
+267859070516613120	technology	like an apple on a treeshiding out behold the leavessi was difficult to reachsbut you picked me
+267859035406086144	technology	video playoff highlights la galaxyshttptco0fa3cqzi via httptco1zzzxz8j
+267858973204557824	technology	not sure if day one is huge or apples servers are just being slow
+267858958851637248	technology	this just in smurfs love to love smurfette tap smurfette once a day to earn extra xp httptcoaks5shth smurfsvillage beelinegames
+267858941332054018	technology	video applesipad ministv adssbookss thenextweb httptcolktvfcaz via httptcouwvwa2ex
+267858917541965824	technology	looks at yelloweyedjoeysyeah yo galaxy 3 cool but does that bitch have a fuckin ocarina zelda bitch apple
+267858906045378560	technology	confessionnight my grandma made brihendrikson eat an apple out of the garbage stillfunny
+267858848130424832	technology	im earning rewards in calorie tracker lite httptcoqgc90zl8 mpoints
+267858842484895744	technology	katbock remember that one time we left econ and went on that quest for apple juice ineedapplejuice now
+267858761337671680	technology	apple ipad 2 unlocked 64gb wifis3gs350 httpgrazonocom
+267858642043277312	technology	seriously thinking about leaving my house just to get apple juice omg ineedit
+267858639472181250	technology	so when does apple release the 13 ipad maxi greatideasinhisfory
+267858620484567040	technology	a new ipad mini giveaway from topweddingsites check it out httptco7ptlr8zc
+267858592210767872	technology	video gamespot aus shipping outsnovember 12 2012shttptconma57bdi via httptcopqr5cxyx
+267858588716920832	technology	video kobe bryant finds peace for the alleyoopshttptco5obrjuol via httptco1zzzxz8j
+267858587177590784	technology	video little green carssfull perfo httptcokjedgdxq via httptcomd1ieqri
+267858419229278208	technology	video cancuns underwater museumshttptcoufhyu7oi via httptcodihkkd3l
+267858335057973248	technology	video mtv hip hop game showsshttptcogllzu11f via httptcomdyptxv9
+267858334772764672	technology	video this river no longer existsshttptcoqr6tnnva via httptcolmz4rsuz
+267858290443165696	technology	chargessync 3foot lightning cable for apple iphone 5 for 15sfree shipping today only all4cellular offers httptcorquxytrw
+267858274253172736	technology	challenge your friends to outrageous stunts and distances in extreme road trip 2 for iphone and httptcohz9gvdn1 ipad2 via drippler
+267858259984146433	technology	dealnews skinit coupon 10 off apple iphone ipad or samsung galaxy s iii cases in a preview of its cyber m httptcobtsc0eif
+267858255529779200	technology	dealnews chargessync 3foot lightning cable for apple iphone 5 for 15sfree shipping today only all4cell httptcohkogq0f8
+267858233752969216	technology	imma apple user til i die but i cannot deny that windows 8 is legit microsoftsontheirwayback
+267858192279691264	technology	rt worthavegroup in the name of progress apple is suing anyone who comes out with another tablet whos really losing here ithappens
+267858039904813056	technology	97 a advisable b advisedly c advise d advisorys get this ios app httptcoiz0mrxyn
+267857966189928448	technology	sounds of the peregrine falcon great for bird watchingshttptcobchy8e5f
+267857895469756416	technology	i hate it when i wear my apple bottom jeans and i cant find my boots with the fur hahahahaha tayler can always make me laugh
+267857820978909184	technology	wreckmyworld apple bees
+267857795129409536	technology	got ipad spy on sample ibook for november 14 total solar eclipse at httptco2ba7ghgzscairnseclipse tse2012
+267857612719144960	technology	the normalization of apple httptcohbahogoe
+267857584143335424	technology	confessionnight i love winter candy apple scent from bathsbody holidayspirit
+267857563104727040	technology	ameriahlaila geez you have fun with that haha but youre a smart apple i know you can do it unlike myself id quit haha
+267857561028526080	technology	dear apple eat a dick httptcoxwri7ntzim sure people will be inclined to blame the patent office but it takes two to tango
+267857508037697536	technology	apple stomps on tapjoys app download circle jerk again httptcobdoemlox httptcomthmbavh
+267857333567254528	technology	justadenvergirl thepioneerwoman so good right i made her apple pie amazing
+267857309072498688	technology	taiwans htc settles patent disputes with applescaymanian compass httptco9tltu6lr
+267857308283973632	technology	apple htc settle longpending patent disputesradio australia httptcojv1ljs1l
+267857306677571585	technology	apple and htc make peace in global smartphone patent warscity am httptcoxu5rkokx
+267857305868050432	technology	htc shares jump after settles patent issues with applesfinancial express httptcozr1ox4dw
+267857180462551040	technology	jojowynn912 nun it froze up so i turned it off n turned it back on n its frozen on the black screen with the apple
+267857177342005248	technology	rt markpighetti33 cran apple juice is my shit
+267857120907624449	technology	all i want right now is apple juice
+267857072136273921	technology	computer was acting weird turned it off for a while now its fine love when things fix themselves apple
+267857048434257922	technology	love being ledafied by the led apple boys 3 good night
+267856798457937920	technology	apple posts new ipad mini tv spots showcasing photos and ibooks httptcocc9nn0x6
+267856776794345474	technology	dirty business httptcobk6euvaz
+267856735451095040	technology	rt danfarfan fbs vulnerability will topple the web itself rt billgross techonomyspanelists declare applesfb vulnerable
+267856620820770816	technology	can you guess the word clue biscuits andsgravysguesstinyco httptcorzekaz6i
+267856578470871040	technology	i may go to apple tomorrow to get my iphone5 get excited a
+267856554244583424	technology	tips for designing a home with successful httptcofwdioixm
+267856550603919361	technology	enter in the boundbytech giveaway contest to win a brand new 13inch apple macbook proshttptcoja44lzbo via punchtab
+267856548792000512	technology	rt f0reverkellin if i was an apple product id be iunattractive
+267856513190727681	technology	apple posts new ipad mini tv spots showcasing photos and ibooks apple is continuing its advertising campaign fo httptco0q4rcqv3
+267856513064902656	technology	im earning rewards in nexercise for iphone httptcowefrxsul mpoints
+267856489253838849	technology	apple posts new ipad mini tv spots showcasing photos and ibooks httptcob3nk7xx6 via thenextweb
+267856473105764352	technology	apple posts new ipad mini tv spots showcasing photos and ibooks apple is continuing its advertising campaign fo httptcoauwnfkvp
+267856373218418688	technology	apple posts new ipad mini tv spots showcasing photos and ibooks httptcok9nkxhjw
+267856347687690240	technology	apple posts new ipad mini tv spots showcasing photos and ibooks httptcozthwpjqb
+267856335410962432	technology	apple has like their own language that only apple users can see all i see on my android and pc are boxes when theres some type of emoticon
+267856224517767168	technology	can you guess the word clue gov arnold swartzwhatever ofsguesstinyco httptcorzekaz6i
+267856178942459905	technology	apple has taken a big step toward processor independence with its internally designed a6 chip httptcoghrhozrk
+267856157757026305	technology	rt theibanez97 tldtoday i think google are doing a lot of things right with their technology but people want that apple trademark so they dont go google
+267856114115305472	technology	sadtae ooh i like the mango mandarin as well do they not sell it anymoresmmm i bet winter candy apple smells good i will have to
+267856042937954304	technology	intel has supplied chips for all of apples mac products over the last six years
+267856016782270464	technology	sweetprican nice bites apple your catching on
+267856007403798531	technology	apple aims to dodge intel tax q httptcomb65aqfi
+267855986113523712	technology	can you guess the word clue where the santa clause lives guesstinyco httptco7uc8euax
+267855801077612544	technology	httptco5phmf5ntsdownload hit em in da mouth by jodyfloyd now available on itunes
+267855720098197507	technology	appleasian oh amy im just a tweet away if you want me back lol jk p
+267855674128596992	technology	rt macstoriesnet apple airs new ipad mini commercials httptcorcops4vg
+267855626829438976	technology	apple iphone 4s 16gb never used for sprints450 hammontonshttptcodihquix8
+267855567777849344	technology	rt buy poblakk greezyboyz work da album only 999situnesmusic httptconh37b7ec teamfollowback
+267855433623011328	technology	rt afair293 apple crisp and ice cream nomnomnom teresaedelman jennyandera
+267855381680754688	technology	infographics totallyme visualize and personalize your social updates news httptco0jy9rn6v apple iphone news
+267855306535624705	technology	holiday sangriascranberry pomegranate orange apple and of course a good white wine httptcop8urcjok
+267855183306969088	technology	giveaway enter to win an apple ipod touch in pink i just didfree plumcrazeeshttptcouhj1tsfi
+267855180765200386	technology	be a winner in just 20 minssapple ipad 1st generation 16gb wifi 97insblack mb292lla httptcobbol5yfl
+267855126469959681	technology	rt f0reverkellin if i was an apple product id be iunattractive
+267855063987404800	technology	rt allantdsflojack brings nfc to apple devices for first time video httptcoaeafecv5 startups
+267855035893960704	technology	htc shares get lift from apple dealsrpt ieahttptcoc5jet8wd
+267855011831230464	technology	zookeeper dx for iphone ipod touch and ipad on the itunessthe definitive version of zookeeper the action httptcobtzoode1
+267854990356402176	technology	boosh i just scored 6050 billion in supermamc think you can beat that httptcoxyorpdms httptcooivb9jhd
+267854900921257984	technology	rt newmusic poblakk work album is on itunesson fire you can listensbuy it now httpstcodw23uqjw
+267854893577031680	technology	life2chevy drank some water and apple cider badass
+267854867060629505	technology	apple store is hiringscustomer care repss1350 per hrscontact lauren little for this jobshttptcog4bhatwm
+267854847309647872	technology	rt mattbarnes22 the other big homie couldnt even finish eating b4 he passed out deandrejordanshttptcoyoyd7e1u httptcoueredyyk
+267854845745184770	technology	purchase nickiminaj freedom hereshttptcoeghin0th uk httptcoockhnkpj usa
+267854794801176576	technology	cran apple juice is my shit
+267854780557312001	technology	eating an apple bigger than my hand
+267854752170270720	technology	be a winner in just 20 minssapple ipad 1st generation 16gb wifi 97insblack mb292lla httptcolhhsboah ebaymobile
+267854732222144513	technology	uk buy nickiminajs new single freedom on itunes nowshttptcoze2kq6c8s greatness to the extreme
+267854730116595712	technology	i wanna get led apples single toosbut im going to wait
+267854702329339905	technology	rt rhymesayers rt this if youre down with yeahrightpos new album wdelh httptcoxax2p0gm
+267854580098936832	technology	rt takecaremichael alessandraspage imma touch you with an apple
+267854541226135554	technology	apple crisp and ice cream nomnomnom teresaedelman jennyandera
+267854437781995521	technology	this is my birthchart i am the scorpiodragon zodiac scorpio scorpioseasonshttptco9jevd43k httptcoa0byocgx
+267854357834391552	technology	i need apple crisp
+267854349902938113	technology	apple is set to drop intel chips from their machines have fun everyone httptcogezj911q
+267854303681720320	technology	video greek parliament passes austerity budgetshttptcoycfifiwo via httptcodihkkd3l
+267854267862376448	technology	having fun playing csr racing for ipad why not join me for freehttptcougcp4em5
+267854211310555137	technology	i want some apple cider
+267854167379439616	technology	uk buy nickiminajs new single freedom on itunes nowshttptcoze2kq6c8
+267854153588543488	technology	daayumdavid rape alessandraspage with an apple
+267854119983779840	technology	ijailbreak xbox 360 holiday bundles with 50 off promotion still dont have an xbox 360 why httptco1777gbhp apple iphone ipad
+267854117429473280	technology	going to apple tomorrow to see if they wanna fix it for free notpaying250
+267854079655546880	technology	buy nickiminajs new single freedom off pink friday roman reloaded the re up hereshttpstcoony4txyz 7 days
+267853980133101568	technology	rt worthavegroup in the name of progress apple is suing anyone who comes out with another tablet whos really losing here ithappens
+267853870024228864	technology	rt takecaremichaelsaw shucks swaagyolat i dont wanna be touched with no apple takecaremichael swaagyolat alessandraspage no imma just touch you wi
+267853838273376256	technology	buy nickiminaj freedom hereshttptcoeghin0th uk httptcoockhnkpj usa
+267853837921042434	technology	video news bulletins0335 gmt updateshttptco0zc0chkb via httptcodihkkd3l
+267853788281458688	technology	jasonsheesley yes and you could substitute apple wany subject and my answer would likely be the same
+267853739333922816	technology	food cooked outdoors always seems to taste good enjoy hundreds of camping recipes httptcolaklfpg1
+267853718186242048	technology	bout to catch some zzzz then off to the the big apple
+267853639631114240	technology	i could really go for some hot apple cider right now yum
+267853576083226624	technology	buy freedom by nickiminajsget it now thou httptcoaqrkwure
+267853509762879488	technology	modmyi best tweaks of the week nov 5snov 11 here are the best jailbreak creations for the httptcolte6ckft apple iphone ipad
+267853491890950144	technology	i just moved up to level 16 in csrracing for ipad you should check it out for free httptcoomgcq976
+267853481363255296	technology	aw shucks swaagyolat i dont wanna be touched with no apple takecaremichael swaagyolat alessandraspage no imma just touch you wi
+267853256930238466	technology	nowplaying paper bagsfiona appleshttptcoxoviriwl
+267853213812809728	technology	thelowerlights im playing phase10 a rummytype card game with an exciting twist for ioss download httptcoiwi19xwvsumm
+267853074251534336	technology	the reason why we females dont get the respect we need is the way we carry ourselvess one bad apple spoil the whole tree
+267853026801356800	technology	rt iphonesandipads icrackuridevice how to get paid apps free gift cards on 601 app store for all ios devices httptcowdha52vf apple iphone ipad
+267853010053517312	technology	24 a eats b eat c eating d to eats get this ios app httptcoiz0mrxyn
+267852970375405568	technology	rt iphonesandipads how to get paid apps free gift cards on 601 app store for all ios devices httptcomu7sm10z iphone apple
+267852905623719936	technology	so this apple thing don tey sefsrt ovotosin confessionnight my first kiss was a girl and i was 12
+267852894487863296	technology	rt takecaremichael swaagyolat alessandraspage no imma just touch you with an apple
+267852830738628610	technology	kingleon lmfao now you making excusessyou better take to applestrade it out
+267852808718516224	technology	apple debuts passbook enabled gift cards in apple store app modmyi apple added passbook httptcoe8ez4we4
+267852800589979648	technology	apple stomps on tapjoys app download circle jerk again httptcoqyifgrpl news
+267852791937134593	technology	apple debuts passbook enabled gift cards in apple store app apple added httptcoua1dgyqf iphone apple
+267852790414581760	technology	how to get paid apps free gift cards on 601 app store for all ios devices httptcomu7sm10z iphone apple
+267852739835486208	technology	can you outcampaign obama and become president ipad app prime candidate can prove your skills httptcotgjoh92r
+267852679152275457	technology	htc ceo peter chou said htc is pleased to have resolved its dispute with apple
+267852610613149697	technology	swaagyolat alessandraspage no imma just touch you with an apple
+267852595782098944	technology	apple htc announce global settlement of patent disputes httptco6evjqsuv
+267852578346389504	technology	video late game recaps 1111shttptcox5hfxvmf via httptco1zzzxz8j
+267852570045861888	technology	letterpresssword game by atebits is totally stuck in waiting nothing i try works sad because i want to play httptco4ftkwnz3
+267852514999820288	technology	htc and apple settle patent dispute httptcoelym38bh via iclarified
+267852473920806912	technology	rt htcsource htc and apple agree to 10 year crosslicensing agreement settle all patent disputes httptcommtawesn
+267852440785780736	technology	rt johnstanish confessionnight every year i look back over the past and hate my previous selves a little more then i drink to forget apple juice mostly
+267852440173428736	technology	by the way probably one of the best steve jobs story happened with bowei working at apple swslp
+267852432594333697	technology	apple paid 21 million for rights to swiss railway designsreport macrumors reports that apple paid 21 millio httptco0qtfj0bc
+267852422955810816	technology	rt f0reverkellin if i was an apple product id be iunattractive
+267852373957935104	technology	hope i feel better tomorrow drank 2 gallons of gatorade and apple juice to wash this bug outta my system hopeful
+267852223248203777	technology	egg nog is disgusting apple cider is where its at
+267852168332197888	technology	htc and apple agree to 10 year crosslicensing agreement settle all patent disputes httptcommtawesn
+267852075931684864	technology	video mnf previewfantasy fill in the blankshttptcogmimhqnl via httptco1zzzxz8j
+267851954296864768	technology	arnae0622 apple pie w vanilla ice cream is my favorite that shxt bomb
+267851945878880256	technology	apple makes some pretty good commercials
+267851879181086720	technology	polar bear sounds from the artic to you appshttptcoc7c038df
+267851828069289985	technology	httptcovrv0hsov itunes
+267851795294998528	technology	daltonwhitworth dude why do t you just go to the apple store and tell then your problem
+267851792182833152	technology	rt f0reverkellin if i was an apple product id be iunattractive
+267851746095808512	technology	58 a updates b updated c update d updatings get this ios app httptcoiz0mrxyn
+267851722481864704	technology	apple begins playing nice with other kids on the playgroundssettles with clockmaker and htc httptcotcxrdbfp
+267851704043724801	technology	so halo related reading httptcos1zznbpd
+267851703695585280	technology	alessandraspage youll be with yolat then ill touch you both with an apple
+267851673119125504	technology	rt unknownprophets a year ago today we released what is likely to be the last ups album world premier 2 get it here httptcosvg6higv
+267851640265134081	technology	apple starts offering passbookenabled gift cards may save our hides in holiday shopping httptcofgu1706w va engadget
+267851590558437377	technology	slickvicent htc and apple settle patent dispute taipei taiwan and cupertino californianovember 10 2012ht httptcouvsn2vhy
+267851543297024001	technology	hunter oh wise apple gurudo you have thoughts on podcasts appswhy it gets 80 1 star reviews cant work it myself but im illiterate
+267851438531674112	technology	warm apple pie and ice creamsyummy
+267851426091372546	technology	instaframeshttptcow9waba3n httptcocwpqplwn
+267851370391011329	technology	rt f0reverkellin if i was an apple product id be iunattractive
+267851358470811649	technology	not the apple httptcocjwrsdtt
+267851339604840448	technology	shorty got dem apple bottom jeans
+267851213041700864	technology	giveaway win a brand new apple ipad mini 32gb worth 429 on designrshub join hereshttptcomacuqdvn
+267851206846722048	technology	apple and htc end their global patent battlesmashable httptcosimukami htc
+267851072897433600	technology	video bikes over baghdad day 2shttptcoa7dcv5tv via httptco1zzzxz8j
+267850990919749632	technology	making and eating dinner with awesome people aka making dinner with awesome people that theyll eat while i eat an apple eliminationdiet
+267850856009961472	technology	jennyandteets or people who think theyre famous or worse people who appear in an episode of angel and think their apple pie worthy
+267850818693242882	technology	confessionnight every year i look back over the past and hate my previous selves a little more then i drink to forget apple juice mostly
+267850805024026624	technology	this is getting ridiculousapples going to have to pay samsungs legal fees because it didnt apologize well enough httptcojckj7nkc
+267850698287378432	technology	rt internetdeals4u enjoy this robot sounds for your deviceshttptcopo66dwyo
+267850621611302914	technology	merry christmas alex crosssjames patterson merry christmas alex cross james patterson httptcotn4x5x5x
+267850565592158208	technology	video federer defeats murrayshttptcodbj59gmu via httptco1zzzxz8j
+267850545551769600	technology	rt igiveaway epichearts japanskoreas 1 game is now on sale retweet to win an ipod shuffle from igiveaway httptcocvpyopbx
+267850490283442177	technology	95 a spreads b covers c guards d wrapss get this ios app httptcoiz0mrxyn
+267850483643854851	technology	told apple needs 14 days to change untrue samsung correction notice uk judge expresses disbelief httptcoyncce3ji rsullivanlaw
+267850450756317184	technology	warm flannel pajamas a sugary caramel apple and a sharp cheddar cheese yummmm
+267850429562511360	technology	we had a great weekend thank you erica for being you and thank you to all the new friendsfans we met this httptconcsidwd5
+267850421056462849	technology	rt hdelgadolopez crystalharris thanx for follow i love your itunes single its my new favorite one httpstcoo8bgqysi
+267850420834148354	technology	rt f0reverkellin if i was an apple product id be iunattractive
+267850412080627712	technology	uk court says apple notice was false and misleading orders full repayment of samsungs legal costs httptcoh7okyvqh va engadget
+267850378165497856	technology	omfg i forgot we had apple pie omg im so happy
+267850357047185408	technology	rt brandontreb my app cheats 4 letterpress is finally out ill trade you a promo code for a tweet pls rtshttptcouj3xm2vz
+267850330358816768	technology	whats next apple and ipad pocket edition oh wait thats an iphone smh apple appleproducts
+267850291456651264	technology	katieheathswhat app store does your apple phone have microsoftsssssidiot
+267850243297644545	technology	alessandraspage imma touch you with an apple
+267850230404354048	technology	im craving apple pie fatassprobs
+267850209458003968	technology	student publishes 800page apple ii computer manualsdaily eastern news student publishes 800page apple ii co httptcom8all2a5
+267850208224894976	technology	nerdyapple where can i find the pictures from the musical
+267850196791205890	technology	i like to microwave apple juice and put pumpkin spice in it and pretend that someone amazing gifted me with apple cider
+267850150838431744	technology	baking rustic apple tarts i hope they look like the picture
+267850078742523904	technology	caramel apple me moments sunday oneyearago mylife httptco87zb1zwh
+267850061705261057	technology	video antron brown first africanamerican nhra championshttptcoaxsvs4ob via httptco1zzzxz8j
+267850048287698944	technology	apple stomps on tapjoys app download circle jerk againshttptcoy1jteh0f

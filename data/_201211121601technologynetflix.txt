@@ -1,0 +1,1500 @@
+/usr/local/java/jdk1.6.0_37/bin/java -Xms1024m -Xmx1024m -cp :../lib/*.jar:../lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:../lib/twitter4j-2.2.6/twitter4j-async-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-core-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-examples-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-media-support-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-stream-2.2.6.jar:../lib/twitter-text-1.5.0/twitter-text-1.5.0.jar:bin UsersMentionDownload technology netflix
+technology netflix lang:en geocode:39.8,-95.583068847656,2500km
+268143046175125505	technology	maybe if i wasnt addicted to watching friday night lights on netflix i might actually get something done obsessed
+268143013069467648	technology	rt awash93 cant wait to continue vampdiaries marathon on netflix tonight with holleymac lindseywalker12
+268142737419825153	technology	is season 2 of workaholics on netflix
+268142675612545024	technology	the moment you stop netflix on your phone to call hersshe dont answer jazzvators
+268142238599634944	technology	netflix stop taking away my life
+268142065953673216	technology	birisawesomness its on netflix lol
+268142033120681984	technology	i hope that show isnt being watched on the netflix i pay for i will cut you off rt danielasays cont httptcothbpek57
+268141857660338176	technology	time to go back and vegetate with video games and netflix
+268141513052139520	technology	themaincourse is it on netflix
+268141251461779458	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268141031302758400	technology	rt tylermatthews desireenix get netflix so i can watch bms
+268140934053634048	technology	really you need to take up a whole table in everyones fav study lounge to watch netflix highereducation
+268140893922529280	technology	bradoliveira oh there you are an hour later too much netflixslets play clubs im bored as fook
+268140879330557952	technology	rt tylermatthews desireenix get netflix so i can watch bms
+268140752666763265	technology	desireenix get netflix so i can watch bms
+268140742709481472	technology	rt libbiebond how i know when rodneychuck has been using my netflix spongebob thor or baby boy are on my recently watched
+268140114809585664	technology	how i know when rodneychuck has been using my netflix spongebob thor or baby boy are on my recently watched
+268139995343249408	technology	im watching alias on netflix amazed how many stars were in that show currently seeing ricky gervais
+268139614273953792	technology	christmas movies on netflixswinning
+268139399034851328	technology	oh man the xfiles is on netflix goodbye the rest of my night
+268139373239885824	technology	netflix and a cold beer tonight
+268139355380535296	technology	when did season 2 of sherlock become available on netflix instant and why did no one tell me im not mad im just very disappointed
+268139325177352193	technology	justinhawkins i trust your judgement so taking it out of my queue right now thanks for the tip i heart netflix
+268138784334426112	technology	im looking for a good tv show to watch on netflixany suggestions
+268138783357161472	technology	ive always heard al pacino in serpico was pretty good netflix
+268138517849317376	technology	teenwolf season 2sswitchedatbirth season 2 on netflixsyall imshollering
+268138397997092864	technology	rt guccimanesoulja i feel like college is just class netflix and drinking
+268138356712566785	technology	celebrating s2 being on netflix httptcoiqgilbfm getglue teenwolf
+268138279415734272	technology	dwts blind voting for shawn ill watch her dance on youtube later would rather watch doctor who on netflix
+268138046107549696	technology	trying to finish up homework as fast as i can so i can watch high school musical 2 on netflix hehehe
+268138025152811009	technology	netflix is straight low budget
+268137724698046465	technology	who wants to watch pa3 with meneverseenit netflix
+268137647380242434	technology	there is a ps3 in my housebut i only use it for netflix
+268137339732254720	technology	whaddupkaylie is it on netflix yet
+268137198782652416	technology	but i rather have wifi and netflix
+268136667163029504	technology	xboxsupport1 though i have live until march i quit the app live comes back on and i can go back into netflix to repeat the process
+268136603497672705	technology	rt guccimanesoulja i feel like college is just class netflix and drinking
+268136486862458880	technology	mermaidchiiild do you use my netflix because some weirdo keeps watching freaks and geeks or whatever
+268136144905064448	technology	zaccoffman watched to see it in theaters but missed happy to see it on netflix though also he was great on the daily show interview
+268136053221769217	technology	whats good on netflix
+268136014810345472	technology	mirandaomelette oh my god season two of teen wolf is on netflix now you can watch it
+268135965514678272	technology	rt tonybennettfilm today is the day zenofbennett is now streaming on netflix watch now or add it to your instant queue httptcodbq9szx7
+268135525225988096	technology	ohselenia who needs a boyfriendgirlfriend during the summer i got starbucks netflixsmy pillowpet 3wintersi have your pillow pet
+268134770188361728	technology	neither redbox or netflix have inceptionsdaysruined
+268134702953668608	technology	im never leaving my room nw melroseplace on netflix yass httptcovcq7cb4r
+268134618845310976	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268134580060569601	technology	rt andrewduh id rather be home watching netflix
+268134578328330241	technology	asiaamonster i miss youslets hang out wednesday after i get out of school okwe can sit and watch netflix and cuddle with your pets3
+268134422774153216	technology	rt tionnasade bouta mess with netflix for the rest of the night
+268134368969629696	technology	velenoh yeah me to my sister is always on netflix so it slows it down xd
+268134295342825473	technology	rt crankthatfollow celesteoxoxsabout to watch movies on netflixsbut you lied to me
+268134231522295809	technology	rt whgera teen wolf season 2 is now on netflix
+268134165856260096	technology	teen wolf season 2 is now on netflix
+268133831943532544	technology	celesteoxoxsabout to watch movies on netflixsbut you lied to me
+268133745247277056	technology	best invention ever goodbye dish hello streaming netflix on my bedroom tv hey winning firstworldperk httptcobqsfzq4h
+268133714297499648	technology	thank god for netflix when youre sick
+268133438991785984	technology	i feel like college is just class netflix and drinking
+268133373820674048	technology	hot shower apple and a banana for lunch and netflix and a nap for the rest of the day
+268133360457625600	technology	new season of teen wolf is on netflix i guess i wont be doing my homework tonight o0
+268133326638960640	technology	bouta mess with netflix for the rest of the night
+268133058987847680	technology	byronalex doesnt it make you feel better about yourself to see people failing at life its funny they have teen mom on netflix
+268132953228468224	technology	id rather be home watching netflix
+268132660101136386	technology	so many korean tv dramas on netflix yay
+268132487581007872	technology	rt bsievs6 season 2 of teen wolf is now on netflix addiction judgeme
+268132094385991683	technology	due to some wacky netflix mix up well be showing evil dead evil dead 2 and double dragon tonight at httptcoqememilx
+268131933526052865	technology	xbox smartglass for ipad was cool for election night gimmicky but useful when i cant find the controller to run netflix
+268130834932985858	technology	8semesters what could my professor possibly teach me that i cant learn from a netflix documentary kmikaylahucm7 realtalk
+268130774895693824	technology	rt jmaxson27 eat hockey eat netflixvideogamessnap eat workout snack netflixvideogames sleep repeat juniorhockey
+268130680771317760	technology	sickfoowalter dm your netflix account please im bored
+268130461744766976	technology	clairedicola dtetz1bamf 3rd season has been airing alreadysim waiting for netflix to pick it up
+268130409500520448	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268130289233059841	technology	netflixsmy phonesand myscheddar and brocolli soup from panera bread 3
+268130092901888001	technology	i need netflix
+268129912228024321	technology	rt avereem28 why isnt pokemon on netflix yet
+268129700700889089	technology	while you gone shid netflix on ya couch
+268129188991627264	technology	but to be honest im more concerned about not being able to watch netflix
+268129099086712832	technology	finally teen wolf season 2 is on netflix
+268128721590964224	technology	rt realmattbray hey arnold on netflix dontmindifido
+268128711100997632	technology	season 2 of teen wolf is now on netflix addiction judgeme
+268128645804089344	technology	chelseamullen why the fuck are things censored on netflix i never noticed
+268128397027319808	technology	hey arnold on netflix dontmindifido
+268128384314376192	technology	should carl icahn really scare netflix yep httptcoboqdmcfh
+268128370800349185	technology	highgroundmovie outsidemagazine high groundsan adventure movie about veterans to watch on netflix httptcoa4scwpcr
+268128214466060288	technology	finished my homework and now watching greys anatomy on netflix
+268128192571793408	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268128110535385088	technology	what the worst that can happen our netflix pic before the steelers game with my mom and bestie
+268127550256054273	technology	no homeworksnetflix
+268127309511417856	technology	rt mtdonnell why isnt 8 mile on netflix
+268127274170187776	technology	am i the only one staying in ames friday night dang netflix night it is
+268126749039161344	technology	why isnt 8 mile on netflix
+268126674162425856	technology	sophiemaskell waaaah why i watch it on netflix
+268126562925289472	technology	ohsodanni mraaronsamuels toxicbrit no not all i can watch netflixshulu where several networks work together with
+268126502678298625	technology	8semesters what could my professor possibly teach me that i cant learn from a netflix documentary kpierce2014 is this our life
+268125982865633281	technology	currently on my death bed so its only fitting to spend this time watching shows on netflix
+268125920039149568	technology	anthonymoliva should carl icahn really scare netflix yep the drama surrounding netflix is at a fever pi httptco9wqgkqpp bbc
+268125668099887104	technology	netflix just out of curiosity is the netflix top 100 updated blind side crash and hurt locker cant still be top 3 right
+268125651062620160	technology	yep teenwolf s2 netflix city httptcoxu44mvb6
+268125368068747265	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268125346078019584	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268125100321144833	technology	the top five reasons to love netflix httptcok8mks1oi
+268125100321144833	technology	the top five reasons to love netflix httptcok8mks1oi
+268124698326466560	technology	my boo turned on ghostadventures on netflix while i made his cake haha hes the best p
+268124557762760704	technology	rt chelseahouska greys anatomy on netflixstarting from the beginning gonnabeagoodnight
+268124516897681408	technology	8semesters what could my professor possibly teach me that i cant learn from a netflix documentary sarandipity23 true haha
+268124266988453888	technology	dreamonjenny jenny teen wolf season 2 is on netflix okay bye
+268124021537775616	technology	rt xoemily14 watching teen mom 2 reruns on netflix makes me feel so good about my life thank god ill never be as stupid as pbandjenelley
+268123743358963712	technology	whoa teenwolf s2 is now on netflix realgood
+268123627545833473	technology	hell ya season 2 of teen wolf is on netflix
+268123346233851905	technology	netflixcuddling with my puppy
+268123290583851010	technology	netflix is my drug
+268123130621476864	technology	how do you connect netflix to the wiisany body
+268123067945984001	technology	i just want to lay in bed and watch netflix all night
+268123057250525184	technology	8semesters what could my professor possibly teach me that i cant learn from a netflix documentary missymalu12syou wish you skipped
+268122856574046210	technology	rt avereem28 why isnt pokemon on netflix yet
+268122110591909888	technology	netflix on your phone
+268122069907148803	technology	my day is almost over then netflix pasta girls night with hbrink823shatemondays
+268121974646128640	technology	teen wolf season 2 on netflix i think yes
+268121823600836608	technology	netflix needs to hurry up and post the last season of eureka
+268121275480821761	technology	rt brisweezy season 2 of teen wolf on netflix
+268120919413751809	technology	watching rihanna good girl bad girl netflix
+268120814405156864	technology	rt ropeburn paris jackson out here make straight to netflix movies bye gewrl
+268120717327990784	technology	the kids version of netflix is so much cooler than the regular one i hate growing up
+268120715226652672	technology	jesss netflix is clearly going to explode soon
+268120674562879488	technology	tarahstabenow season 7 of how i met your mother on netflix december 1
+268120641570496512	technology	having a job makes me tired which makes me antisocial to the point that id rather watch netflix alone antisocialupperclassman
+268120532799614976	technology	season 2 of teen wolf on netflix
+268120419427569664	technology	netflix any chance of you giving ps3 netflix users an option to turn off the autoplay on the next episode it cuts off too early too often
+268120356911468544	technology	rt drldrobert i have came across a new obsession on netflix numb3rs
+268120115273420801	technology	rt jonahingraham10 netflix is amazing
+268120104225611777	technology	documentaries on netflix
+268120034759569408	technology	netflixuk downton abbey is coming check out our netflixpicks for november httptcoxfwdskfeomg im so excited
+268119628675420160	technology	netflix why is season 3 of skins uk gone
+268119539202539520	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268119440888049665	technology	netflix is amazing
+268119419425804288	technology	callmebrittnee well if you want i can give you my login info for netflix
+268118799327318016	technology	season three if glee is finally on netflix yayay
+268118434364129280	technology	netflix is my savior
+268118279833415680	technology	why isnt pokemon on netflix yet
+268118264561946624	technology	rt ropeburn paris jackson out here make straight to netflix movies bye gewrl
+268118181867032576	technology	paris jackson out here make straight to netflix movies bye gewrl
+268117940489039873	technology	rt wyattcompton teen wolf season 2 is on netflix time to rewatch it
+268117916103364608	technology	at home chillin cozy netflix httptcoftu7iqgn
+268117563488219137	technology	they have thekiterunner on netflix yesplease there is a way to be good again amir
+268117402577936385	technology	lauraisnora im tempted to get netflix
+268117164576370689	technology	i spent the entire afternoon eating pbj sandwiches in bed and watching the league on netflix
+268117160147165184	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268117041645506560	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268116639214628864	technology	thats what i am is such a good movie everyone watch it its on netflix
+268116186456264704	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268115859950686210	technology	they put more breaking bad on netflix fejwwhrejwh3ehrhrwqeoi2puo2pn so many feels
+268115610892918785	technology	popcorn netflix my house oh yeah
+268115538713141248	technology	rt hshields4 if you dont have a netflix i feel bad for you
+268115382122979329	technology	if you dont have a netflix i feel bad for you
+268115278137810945	technology	aaaabbz bubbs2012 it should be on netflix soon or hulu if you wanted to watch season one lol justin are u really about 2watch teenmom
+268114997589188608	technology	i have netflix now it is the coolest thing ever
+268114985484439552	technology	lazy netflix kind of day gossipgirl
+268114859630161920	technology	the top five reasons to love netflix httptcok8mks1oi
+268114776499040256	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268114638175105024	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268114438089998336	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268114142630658049	technology	up on that netflix status someone come over and cuddle jk dont
+268113826732445697	technology	bouta watch netflix til its time to clock out im not doin shit anyway
+268113821359538177	technology	teen wolf season 2 is on netflix now so much for getting g anything accomplished this week lol
+268113731303641090	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268113611082305536	technology	wtf customer called asking how to setup netflix lol
+268113574470250497	technology	rugrats on netflix bye world
+268113528584540160	technology	22fritsch best movie on netflix
+268113347608707072	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268113267971481600	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268113230587654144	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268112347569209344	technology	i havent watch normal tv since i watch netflix
+268112078768840704	technology	netflix is just torrenting for babies
+268111889840619520	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268111868160262144	technology	laying in bed eating cheese and crackers watching netflix its crazy days like this that make me appreciate the little things grateful
+268111783531778049	technology	netflix cancelled it was fun while it lasted but there are better options out there
+268111619249303553	technology	toxicbrit ohsodanni mraaronsamuels netflix or vampire diaries nigel
+268111515486416896	technology	geekywhiteguy makes me sad i just watched the documentary about him on netflix too
+268111429922615296	technology	uhhh who has been watching strange sex on my netflix
+268111364285931520	technology	oh and its on netflix
+268111211739099136	technology	schpoonman nope ill have to take a picture of it the next time it shuts itself off wifes watching netflix at the moment
+268110753528160256	technology	watching high school musical on netflix d
+268110497365229568	technology	what are some good series to start on netflix help me out here
+268110451248869376	technology	whatthedeez i could watch that show all day is it on netflix add it to the winter watch list
+268110336945709057	technology	watching surviving the cut on netflix
+268110081269309442	technology	watching once upon a time on netflixs
+268109953586302978	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268109878877360128	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268109750644899840	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268109684983099392	technology	johntobar yeah i know ive been watching it alone all day today on netflix
+268109592523837440	technology	i can easily tell what shows were watched by mitch on this communal netflix
+268109521384247298	technology	ohsodanni mraaronsamuels toxicbrit yeah all 3 seasons but i watch netflix us
+268109503105478657	technology	rt nottrettburner nothin like netflix and a big bowl of ice cream after school thelife
+268109413305438208	technology	i just clicked on parks and rec on netflix its happening tvshowjunkie
+268108862106763264	technology	netflix on the wii
+268108697002209281	technology	rt quaydavis3 netflix and cuddling type of day
+268108648197275649	technology	who wants to lend me their netflix so i can catch up on 90210 and the walking dead ill love u foreva
+268108497009385474	technology	adding magic mike to the netflix queue fuck yes this movie doesnt need a plotill be watching it intensely still heeheehee
+268108455104102400	technology	tserritt11 im finally buying into the hype and starting breaking bad on netflix that show is sick lol
+268108400997572608	technology	dvideostor i have it on my netflix i havent watched it yet now i have to
+268107880509628416	technology	rt kyliemkozloski ok yes i am in love with kristenyager aka my life saviorlil nuggetkdawg bestfriend thankful netflix gossipgirl httptcolakknezf
+268107799991558144	technology	sxge not sure if its on uk netflix but its on us version
+268107756391788544	technology	ok yes i am in love with kristenyager aka my life saviorlil nuggetkdawg bestfriend thankful netflix gossipgirl httptcolakknezf
+268107705451966464	technology	when rachel watches spongebob on netflixlol rachelharms
+268107587235504128	technology	rt quaydavis3 netflix and cuddling type of day
+268107513877123073	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268107468280844288	technology	netflix and cuddling type of day
+268107337108160513	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268107165280129024	technology	teen wolf season 2 is on netflix
+268107146430918656	technology	netflix moviesschocolate milk while waiting for the hubby to get home3 happy
+268107060481249280	technology	rt minnaonthemoon i dislike the fact that theirs no movies directed by tim burton on netflix
+268107051115356161	technology	slurp its one of my fav movies screamed like a fangirl when i seen it on netflix lol
+268106969385148417	technology	kayladano start it i didnt think i would like it but i watched both seasons that are on netflix within a week
+268106939307810816	technology	naughticallife ha do you even still use the netflix account that wasnt directed at you
+268106922421538817	technology	i dislike the fact that theirs no movies directed by tim burton on netflix
+268106876636508160	technology	didnt know dirty jobs was on netflix hell tess i know what ill be doing all day
+268106812249755650	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268106672428425216	technology	i love my brothers my boyfriend nail polish sunshine nice teeth twitter cozy socks netflix long hair hookah long naps happiness
+268106610440802304	technology	rt brains watching 21 jump street on netflix p
+268106429649539074	technology	eatin chilli watching netflix winning
+268106305154203649	technology	greysanatomy on netflix
+268106278885281792	technology	so much shit to do today yet i choose to lay in bed and watch netflix typical procrastination mondayblues
+268106170357657600	technology	crash is a really good movie in netflix i recommend it
+268105905583820800	technology	baby girl i have netflix and a stocked fridge i want to share that with you
+268105797525987329	technology	maddie looks at me all sadsgoes guess what happens tomorrow me you have an exammaddie worsei have to cancel my netflix
+268105776298594306	technology	my biggest dilemma of today is choosing whether i want to watch svu avatar or sons of anarchy on netflix
+268105719516123136	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268105469351063552	technology	whats eating gilbert grape on netflix going to have to watch that later on tonight
+268105255722577920	technology	its so cool how netflix has all these lame movies i have to watch for history but not bridesmaids or dance moms
+268105099061112832	technology	therealjenbrown love i recently have been watching old eps on netflix watched s4 small potatoesso underrated
+268105069038297088	technology	nothin like netflix and a big bowl of ice cream after school thelife
+268105044182835202	technology	rt tonybennettfilm today is the day zenofbennett is now streaming on netflix watch now or add it to your instant queue httptcodbq9szx7
+268105018085879809	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268104951367098368	technology	i learned i get distracted by netflix or other visual media while trying to do homework next ill move down to audio only podcasts
+268104935831375872	technology	rt wyattcompton teen wolf season 2 is on netflix time to rewatch it
+268104890092507138	technology	my warm bed and netflixsyesplease perfect
+268104843628015618	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268104712929292290	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268104624437858305	technology	i know what im doing this weekend rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268104603239841793	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268104556100063233	technology	when i go to the bathroom and come back and my bestfriends looking at gy and lesbian movies on netflix
+268104471349964800	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268104433588645888	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268104414349381634	technology	i want the new season of bones to come out on netflix already damnit
+268104295172411393	technology	eat hockey eat netflixvideogamessnap eat workout snack netflixvideogames sleep repeat juniorhockey
+268104176557490176	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268103754392412160	technology	rt wyattcompton teen wolf season 2 is on netflix time to rewatch it
+268103620959019008	technology	jamesqtheiv netflix act of valor with him or redbox it
+268103486430928896	technology	cuddlemode ready to get home shower and get under blankets drink hot coco and netflix the rest of the day
+268103406298734592	technology	i just wanted to thank netflix for sending me an email telling me season 2 of teenwolf was up you guys obviously understand me fyeahs2
+268103405703155713	technology	went out for brunch earliersandrew was watching boyz in the hood on netflix all loud idk where he gets these things from
+268103400045027329	technology	or maybe someone can just let me use their netflix and i can just watch it on there
+268103302879793152	technology	my free netflixsonce upon a time ginnifer goodwin amp josh dallas went up in flamesshttptcoa33efwkp
+268103210630254593	technology	netflixy u no work bugs please boobs easybake
+268103163758911489	technology	rt wyattcompton teen wolf season 2 is on netflix time to rewatch it
+268103131680882690	technology	dear people that also use my netflix account stop watching the same shows as me and throwing off my position stick to your sniper shows
+268102957248163842	technology	my free netflixsskyfalls878mshttptcooaojgfc5
+268102926302576640	technology	just finished 90210 on netflix now i gotta wait for the next season to come up
+268102805749895168	technology	facebook refused to post my comment about law and order being on netflix huh
+268102780433088512	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268102614644834306	technology	ugh its so tempting to just skipsor break out headphones and netflix and just watch a movie or sleepssotiredssosotired
+268102594344402944	technology	are there any good movies on netflix
+268102447250173952	technology	love eating and watching netflix
+268102398180999168	technology	netflix vs redboxsi always knew wed get back together netflix httptcogiauveox
+268101864673918977	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268101742300897280	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268101724546404353	technology	rt joespring an adventure movie about veterans now available to stream on netflix httptco5oio3pnt outsideafs
+268101698671738880	technology	friedpod popephoenix cameronmoore antbx225 is this on netflixsi might watch itand no not because of the full frontal nudity
+268101669705887744	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268101590479683584	technology	teen wolf season 2 is on netflix time to rewatch it
+268101551011266561	technology	poodlefeet irishmick1960 no but i just looked it up sounds too scary to contemplate maybe will put it on netflix queu
+268101115130814467	technology	netflix and hot coco
+268100917126111232	technology	theshyiaj rick got us a smart tv this hoe just make me feel dumb af trying to change the channelsend up on netflixs
+268100891922546688	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268100768891019264	technology	my free netflixsfabio tosti feat marshall jeffersonshouse music fabio tosti under club mixshttptcodutrhkux
+268100555275137024	technology	carolines its in my netflix queue will i need to fortify myself first
+268100548404867072	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268100432298119168	technology	cant explain how much i love watching netflix in the man cave at my parents house homesweethome
+268100420793151489	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268100410609393664	technology	lindsaydudee hell yea netflix got them all on there
+268100132178907136	technology	the walking dead on netflix and ben and jerrys ice cream im the definition of pathetic
+268100122188070912	technology	one free month of netflix im watching all of the episodes of office happy day
+268100114051112961	technology	spongebob on netflix and a bag of dum dums im 5
+268100109408018432	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268100077317402625	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268099745220800512	technology	rt mybrewtube my version of footloose is currently streaming on netflix check it out and cut loose
+268099672948764673	technology	of course they arent on netflix cuz thatd be too easy
+268099617311305729	technology	netflix because you watched breaking bad we suggest how i met your mother probably cause you need to be high on meth to think its funny
+268099532007567360	technology	my version of footloose is currently streaming on netflix check it out and cut loose
+268099013750947840	technology	ohsodanni mraaronsamuels toxicbrit im relaxing on the couch watching tvd on netflix
+268098976258084864	technology	martystewie haha yeas2 ppl on the episodes are annoying but if you can handle it then im sure youll like itsits on netflix d
+268098702785253378	technology	what new show am i going to watch now on netflix
+268098639254155264	technology	fml netflix isnt working
+268098564872364033	technology	just like that im done with wilfred on netflix in 2 days
+268098069663449088	technology	i just got some news concerning netflix that made me too happy im such a nerd for it too oh well shrugs
+268097773734350848	technology	act of valor on netflix
+268096688915365888	technology	pants off socks off netflix on peace out world
+268096650914979841	technology	rt angelchrys teen wolf season 2 just hit netflix i think i have cracky tv to watch tonight
+268096536179773442	technology	just finished sttng on netflix now im starting on deepspace9 i love the star trek universe nerdatheart warp9engage
+268096452939632640	technology	netflix app isnt loading whats the point in even living
+268096227416096768	technology	after finishing lost on netflix i am moving on to a new show weeds im about 7ep in and i think its gonna be my new show yaynetflix
+268096164744814592	technology	rt joespring an adventure movie about veterans now available to stream on netflix httptcoztbn5drq outsideafs
+268096028476047361	technology	hulu is trying to compete with netflix by bringing out hulu kids httptcojpt8pivd
+268096026919985152	technology	hulu is trying to compete with netflix by bringing out hulu kids httptco4yhi0agx
+268096026752204800	technology	hulu is trying to compete with netflix by bringing out hulu kids httptcopn1zz8xk
+268095933785440256	technology	just retraced every step of my 15 mile hike unsuccessfully to find a netflix dvd that i dropped along the route that dvd the searchers
+268095843431768066	technology	thank you letsforneycate for the netflix friends
+268095753753341952	technology	i have came across a new obsession on netflix numb3rs
+268095719372632064	technology	xbox and netflix all day
+268095682970284032	technology	season 2 of teen wolf is now on netflix
+268095664485974016	technology	freakssgeeks on netflix goodbye next 24 hours of my life
+268095523184070656	technology	rt joespring an adventure movie about veterans now available to stream on netflix httptcoztbn5drq outsideafs
+268095257827241984	technology	steffjames84 its on netflix mate im on the 2nd series now
+268094891312177155	technology	i am in love with rejoiceshout netflix they are going in
+268094833292361728	technology	langy00 pawsonater dexter any good its on netflix worth a watch
+268094542241226753	technology	maybe my netflix wants to work now
+268094307574112257	technology	omg 6x24 now to wait until dec 1st for season 7 of himym to come to netflix
+268094223054671872	technology	im not going to tweet until apple buys either sony or netflix it solves two problems and at a bargain price
+268094092175626241	technology	watching maid in manhattan on netflix love this movie
+268093935409319936	technology	johnsonr uavs should always be first except perhaps in this context where you should just make your reader watch munich on netflix
+268093733948506113	technology	just ran out of thewalkingdead episodes on netflix fml
+268093642244255745	technology	oh good rt laureniverson5 i started watching the walking dead on netflix today and im already hooked
+268093369266339840	technology	ill be chillin at home all night with netflix and ice cream blahhh
+268093180946313217	technology	netflix monday night choices i carried a watermelon guess
+268093165385428992	technology	sutterinksbeen catching episodes of soa for hrs at a time on netflix so now i want to call everyone brutha or bro and shoot shit up
+268093015812354048	technology	rt pricepeterson teenwolf season 2 is now on netflix instant and it is a very good season
+268092926402392064	technology	i hate zombie moviesshows but i will give the walking dead a try proceeds to watch season 1 on netflix
+268092648127090688	technology	teen wolf season 2 is on netflix ajsnrjelwjsbdkf
+268092298968055808	technology	drdoza9 mackenziesuda duh dont you have netflix you can catch up on all the seasonssgreys thats what im all about sogreat
+268091243857317890	technology	my netflix doesnt want to work oh my god
+268090994396897280	technology	just netflix and my iphoneoh cant forget my bed
+268090813454639105	technology	how i met your mother on netflix all day does a hangover good
+268090735667060737	technology	having internet on my tv is ruining my gpa netflix hbo
+268090468607356929	technology	rt matthewmccull the always osscontributing netflix has a gorgeous github gateway page for their repos httptcoopgjzl7m
+268090451469402112	technology	idk what else to watch on netflixnow accepting movie donations
+268090124179488769	technology	and now gridiron gang neverseen netflix
+268090063504678912	technology	watching netflix finally
+268089993891823617	technology	moonrise kingdom was such a great film now i am patiently awaiting for it to be on netflix
+268089595726557184	technology	anabanana914 yes thats long i was used to episode after episode bc netflix
+268089544434405377	technology	season 2 of teenwolf is on netflix yessss even though ive already watched it we
+268089352096210944	technology	idk what to watch on netflix time for assassins creed
+268089275868913664	technology	making a ton of snacks and chillin with my main girl netflix screweveryoneelse lolseriously
+268088690159529984	technology	about to watch a movie on netflix
+268088645913825280	technology	toddlersintiaras season 3 is up on netflix goodbye worrrld
+268088182002839552	technology	omg netflix has footloose
+268087680682844160	technology	uofmpreacher got me hooked on scandal lol i didnt even know what this was until two days ago lol oh netflix how i love you so
+268087594628304896	technology	kyleedunford this is delayed but you are married to netflix
+268087512453480448	technology	great netflix day today you should be jealous youre not here with me damnit ladies
+268087389812060160	technology	teen wolf season 2 just hit netflix i think i have cracky tv to watch tonight
+268087261902536704	technology	nw changing lanes via netflixs
+268087102602891264	technology	rt cierabaker me last night homework all day tomorrow me today eat candy and watch netflix all day priorities
+268087093308305410	technology	netflix dvd rentals and how to get the mostsgather httptcoryoletul
+268087058269102080	technology	danielmjordan making sarahjarcher23 earn the netflix password httptcodnikbztss
+268087033241686017	technology	mellokittie this is why netflix exists
+268086915230752768	technology	bet needs to show some other show than the parkers ive seen every episode cuts on netflix
+268086779624685568	technology	stay in bed all day watching netflix
+268086746976239616	technology	watching the 1st season of jerseyshore on netflix and have to say it would not have been the same if snooki would have left night 1
+268086354670399489	technology	making sarahjarcher23 earn the netflix password httptcoixcflpuw
+268086114198372352	technology	rt joespring an adventure movie about veterans now available to stream on netflix httptcoztbn5drq outsideafs
+268085958807801856	technology	i started watching the walking dead on netflix today and im already hooked
+268085815882702850	technology	i have officially found my new netflix addiction revenge
+268085751642730496	technology	just found 5 seasons of ghost whisperer on netflix yes therealjlh so excited
+268085664942268417	technology	oh no one tree hill season 9 is on netflix immahavenolife greatt
+268085208484573184	technology	watching old episodes of doctor who netflix needs to get on the ball and upload them all obsessed thedoctor
+268084977047072768	technology	just started watching breaking bad on netflix addicted cantstopwatching
+268084682283954178	technology	indiegamemovie ur welcome even though it started streaming on netflix immediately after i bought it i dont regret the purchase 1 bit
+268084258327916545	technology	netflix has definitely been my bestfriend for the day
+268084113938984961	technology	lydibeck i want to i dont have netflixsyou think they have it at blockbuster
+268084006950694913	technology	watched sodasprings on netflix this is the definition of porn for women a hot cowboy riding a horse working on his car helping his mom
+268083681086803968	technology	deathvalley on netflix with jheim17 sofunny
+268083497237872640	technology	wrapped up in the sofa ac cold as ever lots of food and netflix birthday is going well
+268083118764863488	technology	i dont wanna do 6 hours worth in homeworksi just want hot chocolate and netflix
+268083092588224513	technology	xriverxmanionx youre using her netflix still lol
+268083090902089728	technology	guys season 2 of teen wolf is on netflix
+268082577133420544	technology	today is a netflix snuggieshot coco kind of day
+268082104473116673	technology	watched hell on wheelswhile running on lunch but i got a laugh from my netflix account lineup thanks to the kiddo httptcosxzznj5j
+268081527626276865	technology	netflix is boringsthey dont have some of the movies im looking for
+268081398383013888	technology	netflix cloud architecture tutorialsgluecon httptcokajmojossnetflix adrianco gluecon
+268081299225452544	technology	rt cierabaker me last night homework all day tomorrow me today eat candy and watch netflix all day priorities
+268081256254803969	technology	netflix cloud architecture tutorialsgluecon httptcoymdbx2yh netflix adrianco gluecon
+268081117675008001	technology	who wants to watch some cassjmeter httptcomkvje6k4 so nerdy
+268081026184646657	technology	4 questions left on this homework and i just dont wanna cuz netflix
+268080944907431937	technology	who tryna hook me up with netflix
+268080936271372288	technology	me last night homework all day tomorrow me today eat candy and watch netflix all day priorities
+268080885591592960	technology	haleystehlik ohhhh goodness girl thats how i got hooked netflix will become your new best friend
+268080650253381632	technology	birthday plansalone naked bean bag chair cheetos rum and netflixsyep total pathos
+268080452257062912	technology	emaster1980 netflix canada i suppose
+268080329334591488	technology	watching 21 jump street on netflix p
+268080302092611584	technology	well now i need something new to watch on netflix suggestions
+268080264801034240	technology	microwave oven while you out there rt blametrav what this popcorn about rt theyungnupegod while you gone shittt netflix on ya couch
+268080014719868929	technology	rachaelmarie94 i watched all 4 seasons on netflix in less than 2 weeks noshame
+268079737950334976	technology	eternallovede uhhhh netflix should have it soon but hang soon and ill show you my ways of full episodes
+268079325092392960	technology	my netflix isnt working how gay
+268079271937994753	technology	on streaming netflixsfreddie the magic flute lookssand sounds rather similiar to mr hanky httptcofr69zubi getglue hrpufnstuf
+268079029284925440	technology	oh lawd the movies you find on netflix lol im watching a modern romeo and julietdont know if i can make it through the whole thing
+268078433127505920	technology	memphisdj thank goodness for netflix
+268078292614131712	technology	whats a good movie to watch on netflix cuh
+268078164100648960	technology	its me my bed and netflix all day
+268077793638756352	technology	spotifys netflix hangover cds not dead yetshttptco5fs6hpuh
+268077773258645504	technology	im watching hannah montana on netflix and cuddled up next to my bear judgeme
+268077736952750082	technology	shaylarocheal30 started the walking dead today on netflixyoull love it
+268077726697652225	technology	finished all 53 episodes of the first 4 seasons of sons of anarchy on netflix great series huge understudy ahem understatement
+268077723480645634	technology	aaalyakim i dont care what cartoon shows you used to love go netflix or hulu them no one gives a shit
+268077684272275457	technology	emilyrackers netflix all the way
+268077416306581504	technology	i dont care what cartoon shows you used to love go netflix or hulu them no one gives a shit
+268077339450146817	technology	not feeling good so ima just get on netflix
+268076714725371904	technology	also whyyy did i forget my headphones i have 45 minutes to kill before my next class and i would like to watch netflix
+268075557483323394	technology	rt birddog21 they need to put key and peele on netflix
+268075551238025216	technology	fuck it im taking a break mean girls on netflix maybe yes
+268075159661969408	technology	hawelby of course half my netflix queue is documentaries its like an addiction an addiction to knowledge wegonnabesosmart
+268075058218532864	technology	started the walking dead today on netflix
+268074985652895744	technology	i really want to watch dazed and confusedbut they took it off netflix
+268074862134833152	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268074815934566400	technology	goldenxkid no idea i fell a season behind so i watch it on netflix now
+268074796376551424	technology	thatssorachet im on netflix and httptco14zvz2yw omg
+268074428544462850	technology	arrested development is back on netflix yes
+268073548436885504	technology	mega shark vs crocosaurus on netflix dear god
+268073393566384128	technology	i kinda want to watch hidalgo for some reason it better be on netflix horses
+268072736767741953	technology	watchin the movie buried on netflixsso far its intense
+268072217626161154	technology	rt joespring an adventure movie about veterans now available to stream on netflix httptcoztbn5drq outsideafs
+268072018036011008	technology	the scary movies on netflix suck
+268071537020649472	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268071477948076032	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268071165669560320	technology	done with season 3 vampire diaries on netflix what the hell am i going to watch now
+268071160279867393	technology	weeds is currently my netflix addiction
+268071135889993728	technology	rt smoovx fuckinruby its on netflix 3
+268070949541253121	technology	netflix thumbs up
+268070774181601281	technology	rt matthewmccull the always osscontributing netflix has a gorgeous github gateway page for their repos httptcoopgjzl7m
+268070656187449344	technology	mall cops on netflix lovemylife mylifeismade
+268070618589700096	technology	rt larrywright netflix wins for best github page httptcobvikding
+268070414633283584	technology	fuckinruby its on netflix 3
+268070408543158272	technology	study break netflix
+268070376398024706	technology	slyfoxbro ajthoe being elmo is a great documentary i get 8mo out of netflix just from the documentaries
+268070029663289344	technology	rt joespring an adventure movie about veterans now available to stream on netflix httptcoztbn5drq outsideafs
+268069132317126656	technology	trey31968 if you have netflix the entire series is on there
+268068945980973056	technology	just a fat girl rt msqueenflo math class got my bagel and my yoghurt parfait and my netflix its bout to get live
+268068696856076288	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268068672189394944	technology	rt lovelaurena netflix would be better if they had more disney movies from the 90s
+268068621471862784	technology	netflix on your site gale harolds name in the description of fathersssons reads gale howardsit is correctly spelled under cast
+268068510771597312	technology	rt matthewmccull the always osscontributing netflix has a gorgeous github gateway page for their repos httptcoopgjzl7m
+268068325135888384	technology	netflixspowernaps terrific
+268068201462632448	technology	workaholics should be uncensored on netflix everything should be uncensored on netflix everything should be uncensored everywhere
+268068174971412480	technology	rt tonybennettfilm to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268067759127142401	technology	watching phantom of the opera on netflix goodday
+268067473687969792	technology	i think it would be a good idea for me to get netflix probably
+268067320268734464	technology	to mark the films netflix debut were giving away signed posters follow tonybennettfilmsrt to win ends 1119 httptcoeaefevs5
+268067287616090112	technology	the always osscontributing netflix has a gorgeous github gateway page for their repos httptcoopgjzl7m
+268067286496186368	technology	princessmonitch okie d and i swear im gonna sneak into your house one day c i dont have netflix and i neeeed to watch season two
+268067238001639424	technology	jessermara danmotl9 suits isnt on netflixswhite collars is really good too
+268067024712900608	technology	they need to put key and peele on netflix
+268066955527860224	technology	netflix should have a disney category im in the mood for a disney marathon
+268066935151939584	technology	beerandonfish k ill be watchin netflix like its my job
+268066872568729600	technology	mirror mirror we havent watched this one yet just noticed it on netflix movie timespizza
+268066757514768384	technology	bro ur dog doesnt have any food left but instead of going to work to earn money so i can feed it ur sittin on ur ass watching netflix wtf
+268066395953172481	technology	germanflavoured is it on netflixo
+268065930997817344	technology	why is season 3 of skins uk gone can you tell me why netflix
+268065864425811968	technology	i love that aj goes to netflix and watches old school sesame street
+268065169060556800	technology	dwchick dont have regular tvinternet or netflix babe
+268065123204206592	technology	netflix why you no workie youcandoit
+268065036948369409	technology	is this true the konami code is part of netflixs troubleshooting procedure httptcobbgyfbt3
+268064863866216448	technology	netflix question mode not supported while i am using streaming video from netflix with my tivo the video will stshttptcozthmrsnm
+268064665169440769	technology	watching netflix
+268064627970170880	technology	i just want to lay around and watch netflix in this snowy weather not head to the lib
+268064339368501248	technology	jetucker38 weve watched the previous seasons via hulu and netflix but we get pbs so i imagine we should have no problem watching it live
+268064188587450368	technology	an adventure movie about veterans now available to stream on netflix httptcoztbn5drq outsideafs
+268064176541413376	technology	what show should i start on netflix
+268064102675525633	technology	netflix can u get chuck streaming to help bring in more fans because we chucksters want a chuckmovie
+268063998887485440	technology	cclaymore feelin g lol netflix httptcon2wxndxd
+268063409474523136	technology	mean girls is on my netflix instant queue why is mean girls on my netflix instant queue
+268063273897840640	technology	hey arnold is on netflix nowwhadddup
+268063162601984000	technology	netflix has nothing atm so i guess ill be on crackle
+268062983261913089	technology	netflix with nicole and austin
+268062931420327936	technology	csi miami is on netflix im going to be busy for awhile
+268062918254403584	technology	last episode of glee on netflix sadday
+268062695012577280	technology	got netflix back so im in hiding
+268062641950437376	technology	jstthtguy im not gone get off it until i get this damn netflix
+268062465898733570	technology	me and my nigga fife coolin watching netflix
+268062351075442689	technology	christinegulasy allisonlindsey5 im sitting in my room watching scrubs on netflix cause i have no more classes today
+268061514513121281	technology	unicrnsrrl nope after trying and failing to read liveslet die im going to watch them all from the beginning netflix on bluray
+268061370451374080	technology	photo baby its cold outside drwho netflix dayoff boots monday cold winter winterishere httptcomkrehqod
+268061182940819456	technology	man does anyone have netflix
+268060407535632384	technology	rt kellifisher69 the updated netflix is badfuckingass
+268060235225243648	technology	jabishop19 bmilenk haha i started watching the show last month on netflix and i got hooked and couldnt stop watching last nights was omg
+268060056719867905	technology	this made me smile me and the cats in bed watching netflix httptcor2mocstq
+268059655983476736	technology	the updated netflix is badfuckingass
+268059432590663680	technology	that one was good netflix recommendation life happens so good
+268059263631507456	technology	i need a netflix
+268059094512975873	technology	watching documentaries on netflixsiliketolearn haha
+268058401769132033	technology	netflix needs some new movies
+268058346152665088	technology	is ready for netflix to come out with another season of workaholics and pretty little liars comeonalready
+268058258311372800	technology	got netflix with my cuz wooooscatching up on vampirediaries while working on my project
+268058212639584256	technology	if you want to get your mind blown go watch loose change on netflix totally changed my view of 911
+268058096612540417	technology	bookboard tries netflixlike model for kids ebooksshttptcobwamaxvz
+268057450211586049	technology	soupsnetflix
+268057159927996416	technology	netflix just cut scrubs from the instant watch queuenoooooo httptcog2zvbqpb
+268057134925766657	technology	loveit gogos new antennas should improve inflight wifi but dont expect netflix httptcorbqmimgm gogo httptco0fevurv3
+268056979753279488	technology	the fact that my dog skip isnt on netflix just breaks my heart
+268056561837027328	technology	skips858 do you have netflix lol randomthought
+268056304365486081	technology	thank god for netflix
+268056115173015552	technology	finally got disc 1 of homeland from netflix heres hoping its as good as everyone says
+268055818266624001	technology	ckjarjkajafh im okay w it haha my mom said shed watch little tree we could watch netflix p
+268055811002097664	technology	they have the saddle club on netflix now
+268055656966262784	technology	7 fashion documentaries to watch on netflix while youre home for the holidays httptcorymihkgt via racked
+268055509347745792	technology	brittkneee ok i want to see if its on netflix
+268055339281289218	technology	toshiba bdx2250ku question blue ray dvd player bdx2250ku not able to activate to netflix i have connected the plashttptcoiltntmre
+268054256467185664	technology	zrh20si know i do so many people tried to get me started but now that i can watch on netflix i might just get myself started
+268054251471777793	technology	laying in bed all day and watching netflix mayybbbee ill do some homework buttt idoubtit
+268054083145969667	technology	i have a love hate relationships with netflix 99 hate
+268054022458576896	technology	rain my bed and netflix
+268053974609973248	technology	thinking about getting direct tv or something i wanna watch teen mom 2 tonight but they dont have it on netflix
+268053533666988032	technology	hopelesslylazy what is something awesome that i am missing out on that is available on netflix or hulu i need a new distraction
+268053432697503744	technology	themariocenter ack i so envy you right now i have no tv or cable at my college maybe i can stream it from netflix 3
+268053267882315776	technology	power usage lumia 920 battery life is a concernsheres my estimate after 1s12 hours of netflix yikes httptco4bwg7mi6
+268052996984827904	technology	daviddpd firstday newjob httptcofav9pa2iwahoo good luck to my big brosnetflix
+268052665047597057	technology	who has netflix account that i can use i need to watch the walking dead
+268052180269936640	technology	misangela i dont do that anymore its netflix hulu and amazonvideo for me i saved enough by cutting it last year to go to paris
+268052043720179712	technology	yea so ive watched all movies millions of times and anything worth watching on netflix so watchin mean girls cuz oomf tweeted about it
+268051952229834753	technology	rt callmedevo no work rainy day my excuses for laying in bed and watching netflix all day
+268051869727870976	technology	thisismusic moominchops ive got a hp tablet that wont play netflix
+268051675514818560	technology	netflix with the love
+268051413676998656	technology	zrh20 im starting on weeds thanks to netflixshaha
+268051264456237056	technology	yay mirror mirror is on netflix
+268051026358185984	technology	someone please watch every movie on netflix with a rapper in it with me please oh please
+268050738331123713	technology	nerding out on some star trekthe next generationthank you netflix and wilw sttng
+268050600833454081	technology	spotify valuation drops by 1 billionspeter kafkasmediasallthingsd httptcouwxlsmsa
+268050285123993601	technology	omgg i have taylorade11 hot spot that means i could go on netflix and watch the walking dead killherbartery
+268050251343085568	technology	i love netflix
+268050194225053696	technology	readingchick it was on instant netflix awhile ago hope its still there
+268049691948769280	technology	gogos new antennas should improve inflight wifi but dont expect netflixshttptcoujtjnaud
+268049557491965952	technology	no work rainy day my excuses for laying in bed and watching netflix all day
+268049132382482433	technology	bookboard tries netflixlike model for kidsebooks httptcoexo6crz3
+268049116100165632	technology	reason i have no life netflix is always on at my house movies allday noschool
+268048697894510592	technology	netflix and homework waiting on this soup
+268048668303708160	technology	netflix pandora youtube repeat alldaylong nowork toocoldoutside
+268048470689071104	technology	sisterallie35 yes but netflix requires comcast internets p
+268048388258398209	technology	kittin13 i got season 5 playin on netflix now lol needafix
+268048334613274624	technology	i need to be in my apartment drinking tea watching netflix with my sister 3 more hours abby you can do it
+268048178044080129	technology	wowpatricia social life has always been more important than netflix im happy for you do you have a college sweetheart
+268048137413861376	technology	netflix why are you being a cunt c
+268047933163843585	technology	rt powlerbare netflix should have achievements
+268047899059957761	technology	watching netflix in class because im 2 kewl for school
+268047795754258432	technology	netflix all day with this snowthen makin dinner for my rents
+268047097515896832	technology	rt tdameritrade do you want to invest like a billionaire jj kinahan explains in his forbes post httptcorfwwwjky
+268046970189389824	technology	watching netflix
+268046853323509761	technology	anyone seen the show privatepracticeshaving a netflix day
+268046791201652736	technology	rt kaywhy why am i sooooo sick i just want some hot chocolate and my bed and netflix
+268046435205914625	technology	all video game fans should seriously watch indie game on netflix you will see what it is like
+268046224333107203	technology	all i wanna do is watch the office on netflix tell black ops 2 comes out
+268046116094881793	technology	rt tdameritrade do you want to invest like a billionaire jj kinahan explains in his forbes post httptcorfwwwjky
+268045787131424769	technology	rt tdameritrade do you want to invest like a billionaire jj kinahan explains in his forbes post httptcorfwwwjky
+268045728339853312	technology	turn the netflix off and get to work youwillthankyourselflater itskadiee
+268044890196291584	technology	blackbohemian lol i havent seen any the finale of season 2 i think fucking killed me i need weeds to get to netflix
+268044848936939520	technology	gogos new antennas should improve inflight wifi but dont expect netflix the company says a new setup shou httptconpruwrnt
+268044683526164480	technology	rt tdameritrade do you want to invest like a billionaire jj kinahan explains in his forbes post httptcorfwwwjky
+268044447311339520	technology	my netflix app wont work
+268044034466000896	technology	jessifelts netflix is amazing
+268043532164554752	technology	what series do i watch nextdexter or prison breakstv netflix helpme
+268043297564553217	technology	jnewaddler netflix or buy the season packs on amazon or illegally download the episodes exclamation point
+268043279675838464	technology	just my luck i finish the cleveland show and netflix puts on new episodes of sons of anarchy
+268042912628080641	technology	cant wait to go home lock myself in my room open a bottle of wine and watchnetflix birthdaytweet
+268042906168856577	technology	oumeli lets go workout psyche lol im telling you netflix is almost better than a bf lol
+268042793941889024	technology	homeland is not on netflix curses
+268042724379332609	technology	simplekindoffan wife and i watched an interesting documentary series on netflix about it over the weekend jeff king is a machine
+268042459177701376	technology	anne frank on netflix
+268042050014941184	technology	blackbohemian i have missed this season of weedssjust gonna wait until its on netflix haha
+268042007543435264	technology	rt swardley netflix open source repository on githubshttptcoa2mi2ipbsmigrate to cloud bring sense of humor
+268041988849418240	technology	nickstucklowws i fucking love netflix
+268041907198914560	technology	the new footloose is on netflix hellll yes
+268041815742091265	technology	you know you watch a lot of british tv when netflix recommends welsh childrens shows
+268041769718018048	technology	my name is makeshasim addcited to netflix
+268041763623682048	technology	rt tdameritrade do you want to invest like a billionaire jj kinahan explains in his forbes post httptcorfwwwjky
+268041476758446081	technology	me and my brother have been up watching netflix all day sickpeopleproblems
+268041297699409920	technology	rt tdameritrade do you want to invest like a billionaire jj kinahan explains in his forbes post httptcorfwwwjky
+268041223388925952	technology	amaeryllis boardwalk empire is very good but you will probably need to netflix 1st season first otherwise suggest us of tara on netflix
+268040883759362048	technology	so excited netflix has season 2 of teenwolf fuck yeah
+268040827249520640	technology	all ive done today is lay on the couch and watch netflix noshame
+268040495949836288	technology	rt adambation watched buried on netflix which should have been titled lets lock ryan reynolds in a coffin with a phone and a glowinthedark dildo
+268040035125837824	technology	the toughest decision ive made today is picking out my netflix movie lazydayprobs
+268040027601248257	technology	rt tdameritrade do you want to invest like a billionaire jj kinahan explains in his forbes post httptcorfwwwjky
+268039732687147008	technology	movie recommendation pontypool which apparently you can watch here if you dont have netflix httptcovnbqrofv
+268039692304384000	technology	bigfootandgray recently watched a fascinating doc on netflix called atomic cafe frightening look at how the bomb has shaped our culture
+268039216951349248	technology	rt ewasinger according to netflix my little pony friendship is magic is recommended for me because i also watch psych doctor who and avatar accurate
+268038834514702336	technology	rt tdameritrade do you want to invest like a billionaire jj kinahan explains in his forbes post httptcorfwwwjky
+268038604318724097	technology	gogos new antennas should improve inflight wifi but dont expect netflix gogo the company that httptco4urzrwvm internet
+268038558474985473	technology	gogos new antennas should improve inflight wifi but dont expect netflix httptcowkfn7bga tech technology gogoinflightinternet
+268038533191700480	technology	not sure what happened to netflix streaming title selection but its quite atrocious compared to when we last subscribed two years ago
+268038242681634816	technology	sound bar toshiba traz netflix e plataforma smartshttptcogk4r4bu2
+268037930214383616	technology	laying in my bed watching movies on netflix
+268037759678177280	technology	zatara214 ahhh i dont own music or videos i just stream everything now off xbox netflix hulu lastfm spotifyusa vevo
+268037365258391554	technology	rt tdameritrade do you want to invest like a billionaire jj kinahan explains in his forbes post httptcorfwwwjky
+268036893541818368	technology	holy shit vampirediaries gettin goodsnetflix
+268036567715688448	technology	and my granddaddy is watching his stories so im finna watch netflix
+268035784660107265	technology	netflix bout to get alot of play from me
+268035326956666880	technology	rt tdameritrade do you want to invest like a billionaire jj kinahan explains in his forbes post httptcorfwwwjky
+268035232974897153	technology	rt tdameritrade do you want to invest like a billionaire jj kinahan explains in his forbes post httptcorfwwwjky
+268035172883124226	technology	anyone has a netflix
+268035082802065408	technology	mentionto the best thing in my life oh oh my love you make my life so much less boring you are so amazing i love you netflix
+268034852543152128	technology	why am i sooooo sick i just want some hot chocolate and my bed and netflix
+268034705843163136	technology	nothing good on netflix
+268034211116617729	technology	rt sooprman come on netflix not all scary movies have to be filmed documentary style
+268034061111541760	technology	netflixstheir brated moviesslol
+268033747092389888	technology	jarydwilson so i hear guess what just went on the netflix queue
+268033664456196096	technology	rt tdameritrade do you want to invest like a billionaire jj kinahan explains in his forbes post httptcorfwwwjky
+268033556058628096	technology	watchin the movie buried on netflixsso far its intense
+268032921586237440	technology	jennifer eight is on netflix watch instantlysyayshttptcoggq17oyf
+268032920927756288	technology	rt reeps7 today is one of those days that id rather watch netflix all day than anything else
+268032846076186624	technology	rt gragg80 jbfoulks perfect netflix daythats everyday
+268032793848733696	technology	rt tdameritrade do you want to invest like a billionaire jj kinahan explains in his forbes post httptcorfwwwjky
+268032588499808256	technology	i really need to get my live back so i can watch netflix
+268032458115653632	technology	jbfoulks perfect netflix daythats everyday
+268032312522985473	technology	rt jenniloveslife under netflixs recommendations if you liked dr horribles singalong blog you might like shows doctor who no no no noooo
+268031996477964288	technology	duck off watchin netflix
+268031901984514048	technology	rt sugarbabii mamachina watching netflix in classsswaggg lol
+268031819092475904	technology	i need to find a usb port for a hdmi cord so i can watch my netflix on my tv
+268031793595289600	technology	rt tdameritrade do you want to invest like a billionaire jj kinahan explains in his forbes post httptcorfwwwjky
+268031684849582080	technology	under netflixs recommendations if you liked dr horribles singalong blog you might like shows doctor who no no no noooo
+268031664691752960	technology	nothings on tv so the seester and i are on my phone watching mirror mirror on netflix lol the screens so tiny
+268031645897093120	technology	rt tonybennettfilm today is the day zenofbennett is now streaming on netflix watch now or add it to your instant queue httptcodbq9szx7
+268031645079183360	technology	caitlynnoel17 its on netflix
+268031510131658752	technology	spending my day off on my comfy couch accompanied by netflix lazyday loveit
+268031222389800960	technology	what shall i do on my day off netflix it is
+268031158871273473	technology	today is one of those days that id rather watch netflix all day than anything else
+268031155868151809	technology	mamachina watching netflix in classsswaggg lol
+268030724878262272	technology	i finished all the 90210 that netflix has to offer
+268030627713007616	technology	rt powlerbare netflix should have achievements
+268030457696878592	technology	welp guess ill turn on some netflixaint shit too live right now
+268030352520523776	technology	rt tdameritrade do you want to invest like a billionaire jj kinahan explains in his forbes post httptcorfwwwjky
+268029712868179968	technology	in the time it takes to watch a movie i will spend searching netflix for something to watch
+268029484815499266	technology	do you want to invest like a billionaire jj kinahan explains in his forbes post httptcorfwwwjky
+268029374731804672	technology	rt tonybennettfilm today is the day zenofbennett is now streaming on netflix watch now or add it to your instant queue httptcodbq9szx7
+268028903107489792	technology	scandal kind of day nowork netflix httptcotutcwgss
+268028396037087233	technology	tayreneyoung just so u know i am laying inyour bed watching netflix right nowsbejealous
+268028394061574145	technology	sydnegant lol im prolly just gonna watch it on netflix
+268027872571166720	technology	spartagus hehe funny i dont have any of the movie channels anymore because we do the netflix thing but we own the dvd
+268026859793559553	technology	watching season 1 of kuwtk on netflixlooking back the girls were kinda ratchetlooking but omg robkardashian was adorbs
+268026528191901696	technology	i wish netflix had music videos as well lifecomplete
+268026526073749504	technology	today is the day zenofbennett is now streaming on netflix watch now or add it to your instant queue httptcodbq9szx7
+268026278140076032	technology	irobhoes miguelitoodtf its too cold ima go home and play live and sleep and watch netflix and be warm j
+268026087324385280	technology	miguelitoodtf its too cold ima go home and play live and sleep and watch netflix and be warm
+268025547420991490	technology	bport3535 oh i meant to tell you that theres an eminem documentary on netflix thats pretty sweet
+268025184571777025	technology	just came home from buying groceries going to cook make hot coco and have a netflix day
+268024614586830849	technology	its too cold ima go home and play live and sleep and watch netflix and be warm
+268024171118870528	technology	i spend more time looking for a movie on netflix than actually watching it
+268024119289868289	technology	rt kendr0 netflix all day i guess its raining like hell outside
+268023946845233152	technology	pbyrne sunshine is on its way from netflix
+268023680334979073	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+268023487485075456	technology	why isnt sisterhood of the traveling pants 2 on netflix
+268023167166066688	technology	hilitegenesis dylanbuckingham i got netflix going to plow throughout bbsmad men in no time
+268023153224208387	technology	its a cold rainy daysperfect for cuddling and watching netflix
+268023131455778816	technology	mrbryankeating i got netflix going to plow throughout bbsmad men in no time
+268023114473037824	technology	pistolsguy i got netflix going to plow throughout bbsmad men in no time
+268023000497000448	technology	just finished season 6 of how i met your mother and netflix doesnt have season 7 awesome
+268022921866379265	technology	all i wanna do is watch the grinch and its not even on netflix thatsamorningruiner
+268022462673993730	technology	can someone tell me if this actually works watch netflix hulu pandora outside of the united statessyou are httptcomms1m81u
+268022456021811200	technology	damn they took it off netflix
+268022214589296641	technology	danielgoddard yay for the random follow love yrsi want beastmaster tv series avail on netflix know anyone u can ask about that haha
+268022081613094912	technology	netflix all day ithinkso
+268021653324324864	technology	colinferg watching eureka on netflix season 4 finally you kiss allison
+268020814887153664	technology	love that i wanted freakssgeeks from netflix and instead i got harpers island notthesameatall stillgonnawatchit
+268020435331993600	technology	imanagedchaos i need that to be on netflix for the sake of my sanity lol
+268020333339111424	technology	think im going to stay home today and watch netflix with mary jane
+268020320001208320	technology	rt jakerlove netflix has to be the best thing ever made
+268019631741095936	technology	im rick james bitch chappelleshow netflix
+268019327956037632	technology	yep im excited to get off worksmagicmike netflix sexiness channingtatum explodingvagina httptcomdh7nhc9
+268019074116775936	technology	modernpengi darren8747 its on netflix d
+268019068806762497	technology	i saw the nortonsecured seal at httptcogr6ig0ivsspotthecheck
+268018900615196673	technology	hildawan i love it its on netflix
+268018886585221121	technology	khrpacksgoing offline to watch lost girl on dvd from netflix faefix
+268018313580400640	technology	my addiction to netflix is getting a little out of control
+268018229346189312	technology	this is on netflixwhy havent i watched it yet httptcoggzh6y2e
+268018003881369601	technology	going to get caught up on the walkingdead on netflix
+268017196725334016	technology	how to i advoid ghostadventures withdrawl this week rented past episodes from netflix but cant wait for friday ghostadventures
+268016836493328384	technology	im spending this whole day off watching netflix and getting fat
+268016756927381505	technology	watching netflix3
+268016557890871297	technology	the netflix simian army is kind of rad httptcosoftopv3
+268016123046400000	technology	rt binaryghost i cancelled my cable tv services im going entirely apple tv netflix hulu and itunes season passes when necessary saving 93 a month
+268015191910912000	technology	anyone wanna let me use their netflix account
+268014853766144000	technology	netflix apparently only hires senior engineers they use the word so much that im not sure what it even means
+268014589151674368	technology	tierraanita im working this sofa remote and netflix lol
+268014082131648512	technology	rt keeairuhh confession missmarion when u left u forgot to log outta ur netflix and i watched christmas movies i been ready for christmas lol
+268013816028205057	technology	tma will try and probably because my poor xbox has only been a netflix machine this semester p
+268013223079473152	technology	confession missmarion when u left u forgot to log outta ur netflix and i watched christmas movies i been ready for christmas lol
+268012530486611969	technology	watching kevin hart on netflix all his relationship stuff is dead on
+268011691302846465	technology	rt lovelaurena netflix would be better if they had more disney movies from the 90s
+268011612592566273	technology	abbalicious i dont have netflix at my parentssstill need to finish season 7
+268011301060608000	technology	arrested development on netflixsboom
+268010772930641921	technology	amykschwend i knew you would favor that lol i finally activated my netflix again season8
+268010583431974912	technology	rt evanaaasher i want to boycott classes and just sit in my dorm and read and watch netflix all day
+268009479126278144	technology	camalexander314 cant even watch netflix
+268009217628192768	technology	vampire diaries all day on netflix i love days off
+268007882832883712	technology	rt jakerlove netflix has to be the best thing ever made
+268007698799398914	technology	rt chelseahouska greys anatomy on netflixstarting from the beginning gonnabeagoodnight
+268007583829352448	technology	rt binaryghost i cancelled my cable tv services im going entirely apple tv netflix hulu and itunes season passes when necessary saving 93 a month
+268007074556956672	technology	netflix i am entrapped
+268006932613300224	technology	i should be in class but imm watching netflix
+268006556782710784	technology	rt nate2411 i waste way to much of my life on netflix
+268006433516314625	technology	rt evanaaasher i want to boycott classes and just sit in my dorm and read and watch netflix all day
+268005794501517312	technology	dmorth its a clothing delivery company kind of like netflix for size 10 clothes
+268005754617860097	technology	rt joeboygenius just bought netflix goodbye social life
+268005646128013314	technology	oxymorons on netflix is a trip
+268005636334292992	technology	i want to boycott classes and just sit in my dorm and read and watch netflix all day
+268005116412583937	technology	brick12a its all on netflix
+268004926419005441	technology	i gave luciusnite k about netflix on klout httptcokcpcts8f
+268004813952917504	technology	cheetah girls is on netflix
+268003803847081985	technology	netflix has to be the best thing ever made
+268003526238670848	technology	so sore all around from the weekendveggin out netflix
+268003062247985152	technology	bookboard tries netflixlike model for kids ebooks former adobe executives fang chang and nigel pegg know that httptcoy73tbgmk
+268002940135026688	technology	i think ive watched just about everything on netflix
+268002666964213761	technology	has anyone watched that netflix documentary happysyou should
+268002572969836545	technology	netflix all day donotdisturb
+268002558193319936	technology	i wish i could do nothing this week and just watch netflix so much to do
+268002538501062656	technology	bookboard tries netflixlike model for kids ebooks httptcolwhoqjxn
+268002377238450176	technology	i really just want to sit in my room all day watching netflix
+268001690798669824	technology	yep i may sound thirsty but cuddling with some starbucks and netflix sounds amazingsnoshame
+268001527636049920	technology	my mom makes me watch the gaaaaaayyyyest movies on netflix
+268001403576918016	technology	staying home watching scary movies on netflix
+268000958569660417	technology	liam54 its one of those dayssi am cold curled up watching movies on netflix
+268000734585446401	technology	last day of cablelandline today were all in hulu plus netflix streaming amazon prime plex ftw
+268000486077108224	technology	gusdel11 i miss those dayssi was thinking about the other day when i was trying to decide which netflix movie to watch p
+267999818994053122	technology	hope it will be addictive as netflix for my son rt gigaom bookboard tries netflixlike model for kids ebooks httptcoegk9squv
+267999644276097024	technology	joethebello actually i havent i think its on netflix though i need to hop on it
+267999175793311750	technology	netflix dont tell us how to live our livessjoe every time netflix pauses in the middle of an episode of 30 rock after not touching it
+267998803267813378	technology	collegegirl netflix was holding me hostage movies allllllll night
+267998716487684096	technology	rt arbesman friends had trouble with their netflix account last nightstech support recommended a fix using a modified contra code httptcopb1vew1f
+267997695191416832	technology	rt appletwets bookboard tries netflixlike model for kids ebooks httptco7noun4mc apple ipodtouch
+267997062971420674	technology	asr88 its on netflix
+267996958067662848	technology	my love for treasure island and my love for eddieizzard manifested their love for each other on netflix brilliant
+267996800500236288	technology	my mom needs to give me the password to her netflix damn she dont even watch it
+267996793873264640	technology	lukehoneysett willjjennings you get netflix free for the first month
+267996127410933761	technology	rt broadband4us internet data usage in the us jumped 120 percent in the past year httptcoqlptbdqs
+267995978890625024	technology	bookboard tries netflixlike model for kids ebooks httptco7noun4mc apple ipodtouch
+267995846652592128	technology	bookboard tries netflixlike model for kids ebooks httptcof5sucar1 nigelpegg
+267995355675766784	technology	watchin the movie buried on netflixsso far its intense
+267995341482233856	technology	isaiahanthony i wish full house was on netflix
+267995164910428160	technology	perfect day for a netflix day
+267994749791768576	technology	now watching southpark movie on netflix
+267994744121065472	technology	bookboard tries netflixlike model for kids ebooks httptcoq22v2rmi
+267994249407111168	technology	this is my mutha suckin junksbreakingbad netflix jessie walt gus waltjr if u havnt watched breaki httptcopnrc4cu6
+267994051867992064	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267993679715766272	technology	jonoddo lorraineandrew watched the dual spires episode of psyche on netflix its so good
+267993465177124866	technology	i cancelled my cable tv services im going entirely apple tv netflix hulu and itunes season passes when necessary saving 93 a month
+267993354229387264	technology	bookboard tries netflixlike model for kids ebooks httptco0doa9grh tech technology nigelpegg uncategorized fangchang
+267993088306331650	technology	bookboard tries netflixlike model for kids ebooks httptcoyevs906v
+267992929774219265	technology	wife3kidsnodogs amiegallette nintendo wii is a crap system only good for netflix and its horrible for that
+267992440923893762	technology	could be a really smart movehttptcofxszzy7q
+267991688176353280	technology	ukvampire netflixuk i dont think ive seen it on the us netflix either
+267991323074768899	technology	jesse seedathspro wrestling getting mansome latest netflix streaming pro wrestling offerings httptcoga1ktiy8 wrestling
+267991194649387008	technology	this coldness makes me want to stay in my bed all day and watch netflix
+267991133936812032	technology	agentgriswald defeathulu has dragon ball gtswe dont have cable this is our tvhulu netflix downloading and whatnot
+267990718147084288	technology	freshhwoods cause am bored af niggaaa i ned something to dooo while imup earlyyy but dm me your netflix account too lol
+267990536588238848	technology	wiredbusiness marcuswohlsen with consumers still upset over netflixs past choicesthis could really put amazon ahead of the competition
+267990232186617857	technology	jerzy ive just started watching season 1 on netflix and am surprised at how much i like it given the bad movies love this arcee
+267988726494416896	technology	frompage2screen cryptictadpole streaming sites like netflix doesnt have the extra features like audio commentarysdeleted scenes so
+267988383022866432	technology	agentgriswald dude do you do huluswe do hululots of dbz on hulusame price at netflix goodmore recent shows badads
+267986439927652354	technology	netflix vs redboxsi always knew wed get back together netflixss via mymoneydesignssshttptcokil2s45w
+267985793585397760	technology	rt arbesman friends had trouble with their netflix account last nightstech support recommended a fix using a modified contra code httptcopb1vew1f
+267985387203481602	technology	i hope my booksdvds are in the mail todaysnetflix sends me my next film thatsa big winning scratchoff would make for a good day
+267984744724168704	technology	who wants to come back to my crib and watch some netflix with me
+267984508341587969	technology	friends had trouble with their netflix account last nightstech support recommended a fix using a modified contra code httptcopb1vew1f
+267983858027343872	technology	jaded75 janelle1982 anamari1233 unfortunatelysdexter no longer available on netflix
+267983278827515904	technology	etiquette conundrum you get a dvd from netflixsdont like it do u hold it to protect others or send it backshope u forget it sooner
+267982728182509568	technology	rt help us reach 2500 followers for chance to win free 6 mo of netflix follow filmbuffetsrt fbgiveaway rules httptcordeqqqbn
+267981364438110209	technology	rt filmbuffet 6 mo of netflix freewinner named once reach 2500 followers follow filmbuffetsrt rules httptcou2ztu6zy fbgiveaway
+267979303080300544	technology	rt nate2411 i waste way to much of my life on netflix
+267978872123973633	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267977758418821120	technology	hmm rt lukew using math to explain why you should not add featureshttptcoxltzrge2via cpalmieri
+267976768290435073	technology	chinkeyedbabe i never sleep haaa just watching breaking bad on netflix and eating like i have been all night nothing too fun
+267976174108569600	technology	rt laginge666 conefessionnight netflix is my only friendsand im ok with that haha
+267976044760424448	technology	rt arielsays the best little whore house in texas is on netflix
+267975193308319746	technology	rt adamandstevesto rent and return hot gay pornsjust like netflix gay porn dvd httptcookcfq0ok
+267974966409048064	technology	rent and return hot gay pornsjust like netflix gay porn dvd httptcookcfq0ok
+267972997363671040	technology	the top five reasons to love netflix httptcok8mks1oi
+267971713470451712	technology	netflix all day i guess its raining like hell outside
+267968427250053120	technology	suburbansnaps i love the theme song i think its only on netflixyoutube
+267967681389555712	technology	first solar incfslrsnetflix inc nflxsweekly stocks pick november 1219 2012 httptcomneir2ex
+267960000486465537	technology	watchin the movie buried on netflixsso far its intense
+267955663668400129	technology	anissacalma i was like up all night watching the kardshian i swear netflix is my life now
+267954231678476289	technology	anissacalma yessss pleaseeee and youre up this early on netflix if i wasnt working i would do the same thing
+267952584428490753	technology	codelyoko is on netflix my day is made
+267950166097657856	technology	about to watch some more netflix
+267949869098995713	technology	prontoi need to figure out how to get my wifi working so i can have my netflix back pronto
+267948302887174144	technology	rt powlerbare netflix should have achievements
+267947581311684609	technology	jobssnetflix parttime machine operatordriver 64120 httptco9mavw1tk
+267945615831465984	technology	the top five reasons to love netflix httptcok8mks1oi
+267944939076325377	technology	snuggieshot chocolatesnetflix
+267944556295770113	technology	rt ellensuewho zombienausicaa once upon a time right im almost finished with the first season on netflixhow far behind am i lol
+267944325688721408	technology	watched 2 mules for sister sarah on netflixclassic eastwood thank you clint for being a dirty sobsa darn good one all these yrs
+267943716327682048	technology	netflix dvd rentals and how to get the mostsgather httptcoryoletul
+267942613003411456	technology	netflix question how i change my email address how i change my email addressshttptcogx7h59na
+267940697003409408	technology	rt weedhumor netflix needs to create an im so stoned genre for their movies
+267940342073012224	technology	reallesstroud my friend will spent nine hours watching every episode of survivorman available on netflix legendary
+267937436456349696	technology	rt misschang chaach you can also rent the dvds both parts from netflix
+267937270554849280	technology	chaach you can also rent the dvds both parts from netflix
+267935503498752000	technology	damn im bored cant sleepnetflix whats good with you homie
+267934080304312320	technology	ordered a pizza now im looking thru d class horror movies on netflix and im bout to roll up thats my evening on repeat
+267934078815309825	technology	new post top 10 best movies on netflix streaming httptcoryum746u
+267933272959483904	technology	zombienausicaa once upon a time right im almost finished with the first season on netflixhow far behind am i lol
+267932055600508928	technology	bro ken gave me one of his bluerays has netflix on it watched dark shadows the reall dark shadows
+267931857558061056	technology	erkstill haha tv shows on netflix will have you stuck
+267931551914938368	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267931471199731712	technology	sirsquishy3u i barely started watching it tonight on netflix its fucking dope lol
+267930663808815104	technology	i just wanna watch skinsuk but my netflix in my room doesnt work killme
+267930053059420160	technology	rt menshumor dear blockbuster video lol love netflix
+267929996788645888	technology	laying in the bed watching movies on netflix with my lonely ass
+267929288563634176	technology	wile you gone shittttt netflix on ya couch
+267928966910849024	technology	my netflix back working
+267928770105708544	technology	britains financial authorities are investigating hsbc over a tax haven in jersey the largest island in theshttptcokcmpsbuz
+267928010966061056	technology	tpb sad story total recall isnt on netflix i think i know where else i can find it though netflix is a waste of money
+267927380008501248	technology	season 7 of how i met your mother isnt on netflix what is this blasphemy
+267926044911222784	technology	mizztwerksum better throw on sum netflix haha
+267925961016754176	technology	netflix it is
+267925728153194496	technology	bout 2 find some on netflix
+267925597660008449	technology	watching kathygriffin pants off on netflix so funny
+267924480821719040	technology	princeleooo when you said the mentalist was on netflix because it isnt
+267924155649896448	technology	oh hi just watching the conanobrien documentary on netflix at 330 am because were both congested and miserable nothing to see here
+267922139749961728	technology	netflixslate night tv
+267921463535878144	technology	watching return to lonesome dove via netflix
+267921399304314880	technology	watchin the movie buried on netflixsso far its intense
+267920651002707968	technology	haha bernie is actually pretty funny haha netflix
+267920216460242944	technology	i need a sugar mama then she can pay for my netflix
+267920089154719744	technology	i started mad men on netflixsso far all they do is smoke and drinksmy kinda show
+267920036755292160	technology	who has a netflix account i can use i refuse to keep paying for that shit nope not i
+267920016081563648	technology	netflix is a single persons best friend
+267919372692094977	technology	done watched the complete first season of mighty morphin power rangers on netflix milestone season 2 tomorrow
+267918389010391040	technology	rt lisababy06 netflix cures loneliness lol
+267918387693379584	technology	netflix is cooler than before
+267917616553816066	technology	rt lisababy06 netflix cures loneliness lol
+267917390879264768	technology	netflix cures loneliness lol
+267917303725826048	technology	netflix is my 3rd best friend
+267916751713484801	technology	guess ill watch netflix
+267916468191113216	technology	its all about call of dutysnetflix
+267916112052752384	technology	beachdeprived if you have a dvr or tevo and keep an eye out they will play all seasons again or maybe netflix
+267916087704813568	technology	kgede3 hate you i need netflix back in my life
+267915917667733504	technology	up late and home alone watching netflix by myself breakingbad
+267915243349479424	technology	netflix is always running into errors loading the content
+267914734081286144	technology	up watching juice on netflix thuggin
+267914480086835200	technology	hmmm i sure wish we still had netflix though hashtag sad face
+267914256639488000	technology	rt powlerbare netflix should have achievements
+267914124527284226	technology	watchin the movie buried on netflixsso far its intense
+267913708255182848	technology	hxvstxn its called heartbeats on netflix
+267912762284457984	technology	netflix make my nights less boring
+267911115021881344	technology	netflix dvd rentals and how to get the mostsgather httptcoryoletul
+267911092775292928	technology	rt wildtheen watching christmas movies on netflix lovechristmastime cantwait
+267911045736189952	technology	considering i can never sleep netflix gets boring
+267910898092490752	technology	turnin on netflix and layin it down for the night
+267910116421013504	technology	what should i watch on netflix
+267910036964130816	technology	jdotsneed its on season 2 idk if its on netflix
+267909795233800192	technology	back on that netflix 799 a month caved
+267909398716878848	technology	rt thewacokid if netflix had the land before time i wouldnt be mad by any means
+267908820158775297	technology	i can never sleep when i want to including right now looks like ill be zoning out to some netflix until i can
+267908676935888896	technology	netflix chillinthe recently added section been looking the same for a couple months now
+267908220658532352	technology	yo uncleblazer ders808 adamdevine talk to the people at netflix and get the 2nd season on there
+267907965783257088	technology	labtop on netflix
+267907523057692672	technology	arianaessexuk you need to look it up on netflix or something because its just amazing
+267907298452717568	technology	just finished seal team six on netflix it certainly makes me feel patriotic but isnt that what a propaganda film is supposed to do
+267906866800115712	technology	watching tony roberts on netflix crying
+267906072432500736	technology	netflix is being a dumb bitch tonight
+267905227758387200	technology	netflixsleep
+267904725167505408	technology	this girl mom just told her i hope you not gettin sick i cant afford it my mom done told me the same shit lbs nolie netflix
+267903951574269952	technology	i want to go to sleep then act of valor popped up on my netflix sleep can wait
+267903679363948544	technology	hot chocolate and netflix
+267903172838838272	technology	why do i even have netflix when i dislike most of the movies on there needtocancel
+267903140093894656	technology	facin a l on some netflix
+267902170454704128	technology	family guy sonnetflix
+267901386862247936	technology	annndiee i get too emotionally invested in netflix shows greys anatomy is breaking my heart fave
+267901041813618688	technology	rt stuthompson13 limeyotoko i didnt know they had it on netflix oh today is gonna be gooood d
+267900668533149696	technology	i wanna see if its better then netflix doubt it tho
+267900639814774784	technology	rt caitlynnnicole netflix sucks ass right now
+267900503667666944	technology	netflix sucks ass right now
+267900499536257024	technology	rt andrewlavey hello netflix hello bong hello bed good bye world
+267900491860684801	technology	about to turn my netflix ons
+267900401674776576	technology	pontypool is such an interesting new take on the zombie genre watch it on your netflix asshole
+267900386998898688	technology	rt andrewlavey hello netflix hello bong hello bed good bye world
+267900286553702400	technology	hello netflix hello bong hello bed good bye world
+267899715348201472	technology	oh yeah and now my new addiction is the secret circle then after that will be pretty little liars netflix
+267899706204639232	technology	onlysarahshahi hey tell netflix to hurry up and put life on there site loved that show
+267899603683258369	technology	rt powlerbare netflix should have achievements
+267899278381441025	technology	netflix needs to have wayyyy more paul newman movies streaming
+267899124643401728	technology	yeah just finished the sons of anarchy on netflix maybe ill be able to finish my studies now what show to watch next
+267899086592692224	technology	i just ran out of seasons of breaking bad to watch on netflixsmy life is over
+267898805809205248	technology	just watched how marbles are made howitsmade netflix
+267898742114504705	technology	001 american horror story season 1 disc 2 this disc includes episodes halloween part 1 halloween part 2 httptcosnefnqip
+267898740331913217	technology	rt ayoniynizzle watching kevin hart on netflix lol
+267898651886645248	technology	limeyotoko i didnt know they had it on netflix oh today is gonna be gooood d
+267898387863568384	technology	luvlielynette im looking on netflix now but i aint found nothing i want to watch yet
+267898314777837569	technology	this netflix outage is totally ruining this weekends winecheeseandstar trekplease marathon
+267898242338021377	technology	emifz o itunes netflix xbox here you come
+267898189686906880	technology	i wonder if watching carl sagens cosmos on netflix would teach me everything for my astronomy test tomorrow
+267898161689931776	technology	watching kevin hart on netflix lol
+267897944538218497	technology	rt powlerbare netflix should have achievements
+267897808038817792	technology	wellll guess its just netflix for the rest of the night
+267897800027693056	technology	netflix yesssss
+267897587837853696	technology	netflix has some good stuff today
+267897426529091584	technology	lashitskii its not on netflix
+267897141974945792	technology	netflix should have achievements
+267896972474736640	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267896920775741440	technology	rt donnyboyyyy another night of the walking dead cant complain netflix nightowl zombies
+267896620853628928	technology	well sense theres nothing to do im gunna watch netflix and try to sleep i guess
+267896589509595138	technology	just bought netflix goodbye social life
+267895970942042112	technology	is my netflix lagging or am i nicholas cage from next
+267895944673116160	technology	everyone please stop texting paulinegodoy or she will never finish her paper and no netflix either pauly struggles gottadoit
+267895766582956032	technology	trying to find something to watch on netflixtoo many choices
+267895387057168384	technology	another night of the walking dead cant complain netflix nightowl zombies
+267895381369683968	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267895236943044608	technology	netflix before bed yup soa
+267895142688636928	technology	call of duty or netflix
+267895093460099072	technology	netflix i love you so much
+267894945854148609	technology	watching the office on netflix from the ground up far more hilarious in order
+267894896088723456	technology	watched the anvil doc on netflixspretty good
+267894679264190465	technology	shaneumlauts netflix top men seriouslythoughgetonthat
+267894138941341697	technology	the fact that with the lap top i can watch movies from netflix in my room now
+267894030086594560	technology	rt schestra id rather watch netflix and eat junk food than go out
+267893762515148800	technology	my netflix is slowly getting slower as the night gets later and latermaybe i should go to bed
+267893741568815104	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267893322809487360	technology	anyone remember the big green yeah its not on netflix either 90skidsprobz
+267893233126891520	technology	the night i decide to stay up is the night theres nothing worth watching on tv netflix it is
+267893224784400384	technology	when all else fails netflix to the rescue
+267892727008600064	technology	rt tjdublu and for those who have netflix watch restrepo and tell me how hard your life is
+267892128808566784	technology	rt kaylaaaab watch lifted on netflix you will cry your eyes out greatmovie sadmovie
+267892083552034817	technology	watching netflix cause i got stuff to watch and i dont work tomorrow
+267892026488532992	technology	netflix please get homeland on instant please
+267891824830582784	technology	boniitanicolle i wish i had netflix in my room wish i had it period
+267891750717251584	technology	sons of anarchy is on netflix i finally decided it has been in my queue long enough i watched the series pilot i may be hooked soa
+267891608110919680	technology	amjam41 mikelmayorca yeah no netflix and can never find it on tvsmeganoob i actually wanna watch it so bad tho zombies are sick p
+267891465471021056	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267891270121304064	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267891190999961600	technology	celestethebesst where yhu work im jus up watch netflix
+267891146506780672	technology	psych season 6 on netflixs
+267891028395163649	technology	mesvampire diariess thank you netflix
+267890914180100096	technology	i just finished how i met youre mother on netflix 136 episodeswhat do i do now
+267890908635217920	technology	when you dont have any chew to watch late night netflixs itsasadnight
+267890883519729664	technology	ashofpallettown netflix would be a lot better if it had episodes of pokemon they need to get them
+267890790267752448	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267890757195685888	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267890706167787520	technology	alll these low budget ass movies on netflix me and eb gettin weakkkk
+267890337601687552	technology	riesling and netflix
+267890325211717633	technology	rt chooba53 my addiction netflix
+267890232752488448	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267890093140897792	technology	netflix i wish they didnt separate streaming from renting into different plans and that it had newer movies to stream
+267889756216631296	technology	jmac220 yeah i mean who needs friends when u have netflix hah
+267889733164728320	technology	netflix is what keeps me up all night addicting shows
+267889577447002112	technology	rt jessicaraine im addicted to netflix i dont even watch tv or movies that are out i just watch netflix
+267889339567063041	technology	when i get on netflix i realize i then seen every damn movie on that mf forrealat least the interesting ones
+267889107999547392	technology	watch lifted on netflix you will cry your eyes out greatmovie sadmovie
+267889073144868864	technology	i want to watch a netflix movie but i cant because my laptop has a mind of its own
+267889034448211968	technology	rt mirandahardy netflix i love that you have tons of tv shows but for the love of god get better movies
+267889017855553536	technology	richardbegnaud these days we primarily use the ps3 for netflix lols for gaming im almost exclusively pc
+267889009974460416	technology	well shit netflix until my mind let me sleepcause thats whats keeping me up
+267888913035706369	technology	hey netflix why dont you work
+267888697805000706	technology	jmac220 ha right right after i tweeted that i went straight back to netflix haha
+267888486101708801	technology	i am currently in an exclusive relationship with netflix
+267888296972132352	technology	fuck netflix and this sad ass movie im hurt
+267887823833665536	technology	i waste way to much of my life on netflix
+267887778522607616	technology	i shouldnt have started a new series on netflix nosleep
+267887657403686913	technology	ekdikeo was it toolbox cause thats rubbishsso far excluding games netflix i like very little basically this twitter app
+267887409801342978	technology	theres nothing to watch on netflixsblah
+267886351893032960	technology	rt jnastye waddles2916 i just want to watch netflix is that too much to ask for i fully understandi feel your tears
+267886264370470913	technology	waddles2916 i just want to watch netflix is that too much to ask for i fully understandi feel your tears
+267886238395138048	technology	seansmittydrums i keep hearing about this show im gonna have to watch it netflix
+267886171726684161	technology	netflix decided to put season 6 of psychson instant queue i know what im doing for the next few days psychos
+267886057767440384	technology	rt jeremyschneidr netflix is my life
+267886056358150144	technology	rt lovelaurena netflix would be better if they had more disney movies from the 90s
+267885957909450752	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267885716569223168	technology	i now have netflix i will never be bored again ever
+267885639272382464	technology	thiefofhearts no question about it i watched it on netflix its soooooooooo boring i made an nes version httptcoyygfofxf
+267885446611226624	technology	rt torixoxo10 netflix is my best friendsthe reason i cant wake up in the morning
+267885417146228736	technology	romeodelaghetto is it on netflix
+267885249021759488	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267884940522319872	technology	rt sdhanson62 one episode of burn notice on netflix turned into 6 hours of watching it netflix is the reason i am always tired in class
+267884938639077376	technology	fuck yes the original karate kid is on netflix winning
+267884880212402177	technology	once upon a time on netflix well i guess i gots some catching up to do
+267884782799712256	technology	i really need to stop watching wedding shows on netflix
+267884746250539008	technology	what are good shows on netflix
+267884580890112000	technology	netflix is my life
+267884511281418242	technology	rt torixoxo10 netflix is my best friendsthe reason i cant wake up in the morning
+267884406587420672	technology	netflix is my best friendsthe reason i cant wake up in the morning
+267884293240541184	technology	up watching netflix textingstil my eyes close
+267884186206097408	technology	sydneyjacksonn that sucks stop watching so much netflix and come smokee
+267883771808845824	technology	all i want to do is connect to the internet so i can watch netflix stupid wifi from the bar
+267883668788371457	technology	dylanreeve all of netflix streaming it was bookstore syndrome when confronted with the enormity of my queue i panicked and ran
+267883642120990720	technology	clueless is on netflix hell yes nosleep
+267883448860020736	technology	knt go wrng wit netflix
+267883248158392320	technology	ahhhhh i really dont know what id do with out netflix
+267882897313239040	technology	good time to watch netflix movies
+267882681063313408	technology	cotedickerson funny how you leave and netflix works again allyourfault
+267882663707283456	technology	goodnight everyone netflixsbedtimeshttptcomunegabp
+267882510950727680	technology	voy a ver netflix vengo
+267882386170200064	technology	netflix need to get more movies or im cutting this shit off
+267882227919101952	technology	i didnt know spongebob was on netflix
+267881849777422336	technology	netflix until i fall asleep
+267881541064069121	technology	they need to put blow on netflix so i can watch it all the time favoritemovie
+267881321123160066	technology	okay so stupid netflix wont let me properly stream x files so now its in to watching the avengers nostreaminginvolved
+267880860076892161	technology	rt lightthatpiff all i do is watch netflix
+267880788421398528	technology	all i do is watch netflix
+267880704380137472	technology	possibly another night of netflix sleepingproblems
+267880373734748160	technology	netflix makes it impossible for me to shut off my computer and go to bed
+267880165395279872	technology	yay finally added seas two on netflix c httptco6rz7svw6 getglue teenwolf
+267880130456743937	technology	omfgxboxnetflix omfg in xbox im cry is beautiful
+267879775408881665	technology	halliehueyy1 netflix hey youre catchin on
+267879495078379521	technology	perfect night spent watching netflix and cuddling
+267879479513317377	technology	actually ive run out of things to watch that ive heard of so i just watch random ass movies on netflix
+267879436320374784	technology	i want to watch netflix before i go to bed but it wont let me
+267879384327802880	technology	im addicted to netflix i dont even watch tv or movies that are out i just watch netflix
+267879296763318272	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267879272708980736	technology	im watching kevin smiths comic book men on amc for the first time should i go back and watch earlier episodes on netflix
+267879240584810496	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267879197521879040	technology	hot chocolate yumm netflix now until i fall asleep
+267878943242211328	technology	its bizarre how little netflix does to advertise new contentmake a weekly video series with a attractive woman highlighting incoming movies
+267878790124949505	technology	hooked on netflix thanx to my roommate smh
+267878733833183233	technology	just finished watching the first two episodes of walking dead on netflix i will so take advantage of this free month trial
+267878570532147200	technology	you guys stuart little is on netflix and imma go watch it and try not to cry bc harry styles hates me ok
+267878502903193601	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267878403951190016	technology	i could be sleeping or better yet studying but netflix
+267878356563931137	technology	i swear if i dont getsout of the housesoff netflix tomorrow my parents will legit murder me
+267878343804846080	technology	and for those who have netflix watch restrepo and tell me how hard your life is
+267878199592091648	technology	drewbiee02 ok ok or netflix but same thing
+267877883219955712	technology	just up chilling watching netflix
+267877874944585728	technology	rt lovelaurena netflix would be better if they had more disney movies from the 90s
+267877786885165056	technology	reliving my childhood dinosaurs tgif 90s netflix
+267877577404858368	technology	rt biancaagmz a netflix type of night
+267877501332750336	technology	tomorrow im gonna watch hey arnold on netflix for sure oldtimes
+267877486468165632	technology	cingeec3 lmfao dude sign in to mybrothers netflix does it work on yours
+267877407044796416	technology	netflix right now tho
+267877308491259904	technology	rt lovelaurena netflix would be better if they had more disney movies from the 90s
+267877085454925824	technology	netflix suggestions
+267877081705218048	technology	netflix would be better if they had more disney movies from the 90s
+267876985534042112	technology	fuck everyone using jordans netflix my night go nyquil and catching up on the walking dead is fucked thanks you fucks
+267876833566007296	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267876776871612416	technology	netflix needs better tv shows man
+267876743212331009	technology	watching netflix until i fall asleeps
+267876722454700032	technology	dannythefagyo everyone so what are we doing next weekendmesso mom i think netflix released new movies
+267876717090189312	technology	i like the night time just lay back and watch netflix till i pass out
+267876497782632448	technology	rt wtfdari what would i do without netflix
+267876295436804096	technology	what would i do without netflix
+267875796398522369	technology	ok back to netflix will be at lu in the morning til then
+267875772772020224	technology	yup jasmyneh can i get netflix on my phone
+267875758842728448	technology	i love netflix
+267875731772678144	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267875614701256704	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267875569440538624	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267875416444911617	technology	the way nafiza has netflix in her bios ctfu
+267875352381116416	technology	netflix again thanks for all the new followers wed be nothing wo yall
+267875302347243520	technology	rt cuppajoel when you buy netflix they fail to mention that you will be wasting all your time on it
+267875171937955842	technology	timvigil right i havent seen it in so long im looking for it on netflix now
+267875011426148353	technology	rt incr3dipaul netflix is a college students best friend
+267874958074580992	technology	netflix you have every cartoon except rocket powersplease fulfill my nostalgia
+267874850922700800	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267874829045207040	technology	if i could stay in my room watch netflix and stuff my face all week i would
+267874709138460672	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267874602573778944	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267874478334300162	technology	swurveshawty lol i was just watching juice on netflix
+267874445593542656	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267874407983243264	technology	sons of anarchy season 4 is killing mesnetflix is such an enabler
+267874403449188352	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267874329516187648	technology	listen to music while doing homework or watch netflix while doing homework decisions
+267874247270084608	technology	someone needs to bring their favorite scary or funny movie over not feelin netflix right now
+267874206853767168	technology	watching spongebob on netflix
+267874016952479747	technology	now on s3x03 of heroes and loving it thankgod for netflix masioka miloventimiglia
+267873996295507969	technology	rt rodrizzyyalva an amazing dateschinese food and netflix
+267873948480446465	technology	the wonder years on netflix right now is perfection
+267873916096229376	technology	an amazing dateschinese food and netflix
+267873853080997889	technology	futurama on netflix until i ko
+267873788211900417	technology	what up netflix has teen wolf season 2 now
+267873694922190850	technology	about to turn on netflix
+267873498565865472	technology	i miss movie storessnetflix and redbox just doesnt cut it
+267873496921681920	technology	prison break on netflix
+267873372988383232	technology	4everintheabyss oh i watched sleepercell on showtime got my developer buddies hookedsloved that showsching netflix 4 the betrayed
+267873082868383745	technology	one episode of burn notice on netflix turned into 6 hours of watching it netflix is the reason i am always tired in class
+267872895399755776	technology	late night netflix
+267872787958493184	technology	can netflix put up season 2 of workaholics please
+267872559155015680	technology	abbyjae1990 karaneidhardt looky looky what i found on the netflix httptcomvxzk7tz
+267872406595575808	technology	rt billduey if any ladies wanna go for a dinner and moviesi got instant noodles and netflix
+267872278979702784	technology	rt biancaagmz a netflix type of night
+267872106509905920	technology	rt vickyyvee omfg the new season of the vampire diaries is on netflix ik what ill be watching this week
+267871917623607296	technology	if any ladies wanna go for a dinner and moviesi got instant noodles and netflix
+267871875911270400	technology	i gotta find a movie to watch on netflix
+267871702032203776	technology	xthomx netflix twitter i actually dont but you know i am always fishing for retweets
+267871660470837248	technology	its a netflix kind of night
+267871652770107393	technology	now im just drinking soup n watching netflix
+267871513049440257	technology	iammropp saltydogg what cableadapter did you guys use to connect your laptops netflix to your television i want netflix
+267871401145425920	technology	omfg the new season of the vampire diaries is on netflix ik what ill be watching this week
+267871393654394880	technology	camilacabello97 instead of watching netflix im tweeting you trying to get a follow do you see how dedicated i am
+267871287567847424	technology	danecook cracks me up every time i watch him netflix made my night having him on
+267871256177676288	technology	a netflix type of night
+267871199839789056	technology	rt sjmoffatt blakeadele10 youll never guess what ive been watching on netflix im about to finish season 3 of vampire diariessaddicted
+267871182592827392	technology	holy shit reservoir dogs in on netflix streaming yo jackie brown too
+267870729645735936	technology	for those of you jazz enthusiasts check out st louis blues on netflix the life of wc handy let us know what you httptcoreegybap
+267870511906836480	technology	scottiethoele22 thatkidknoxie i watch it on netflixshaha me to bro
+267870365097811968	technology	tyler0743 my favorite movie is a 3 hour long silent film and i freaked out when it came on netflix youre not alone hahaha
+267870271246053376	technology	sldeaton12 is that on netflix
+267870015221538816	technology	watching mirror mirrorthank god i didnt see it in theaters like i plannedcause im pretty much watching it for free on netflix linning
+267869887928598528	technology	rt yoimmia the biggest problem im having tonight is not knowing what to watch on netflix
+267869773629620224	technology	the biggest problem im having tonight is not knowing what to watch on netflix
+267869639718105088	technology	chunkerchunkz nopenetflix you should be watching it wit me but your not lol
+267869637151166466	technology	dualcasting holdin down the fort with that netflix i see
+267869604175564800	technology	mean girls on netflix is the best thing thats happened to me
+267869604104249344	technology	rt tashaaax4 everyones like oh cuddle weather and im like my laptop keeps me warm while i watch netflix
+267869548504571905	technology	why is wild child no longer on netflix
+267869542364094465	technology	rt rileyallgood i wanna have a night when a pretty girl just wants to watch stupid movies on netflix with me
+267869492271517696	technology	i wanna have a night when a pretty girl just wants to watch stupid movies on netflix with me
+267869244161658880	technology	netflix tampoco tiene adventure time
+267869232325341184	technology	netflix needs better movies
+267869117015535616	technology	if you havent seen the documentary hell and back again please go watch it now its on netflix or you can find it on free movie sites
+267869021276340224	technology	cuddling in my bed watching netflix for the rest of the night
+267868944759672832	technology	after a long day at work just a cold drink n netflix
+267868790082134016	technology	dahomienaomi i was watching one on people trying to cross into the us on netflix pretty good
+267868677167280128	technology	rt desjohnson confessionnight netflix never has the movies i want to watch
+267868665913950208	technology	rt meganmseneca who needs a boyfriend when i got netflix notme
+267868647177990144	technology	rt prettytayaxo no lifesyoure welcomesrtswestindiefiya i just finished watching netflix i started at 3 lol can someone say no life
+267868519008456705	technology	who needs a boyfriend when i got netflix notme
+267868459277365248	technology	scrubs netflix marathon rt collegekidprobz gotta love netflix sunday collegekidproblems
+267868391958802433	technology	no lifesyoure welcomesrtswestindiefiya i just finished watching netflix i started at 3 lol can someone say no life
+267868259083239424	technology	xthomx netflix twitter so is bears but are they talking about the sports team the animals or rubensque hirsute gay men
+267868218188771328	technology	rt sspmarqueef who needs friends when you have netflix
+267868007798296577	technology	firstworldproblems rt shantelmata by time i choose a movie on netflix im ready to go to sleep
+267867704063561728	technology	mzaribaby we havent had a netflix night in forever u still use netflix i guess u must have some money to trow away
+267867624619245568	technology	they got spongebob on netflix nightmade
+267867582416187392	technology	ellllllllllle i was toosbut i just finished the 2nd season on netflix and am about to watch the 3rd online idonthavecable
+267867487893323777	technology	just when youre over netflix style wars yes
+267867478317752320	technology	rt chooba53 gonna watch supernatural on netflix to see why awaywithwords loves it so much scared that i might get addicted like i did with doctor who
+267867138138726400	technology	netflix is a college students best friend
+267866899516366848	technology	now ive gotten myself addicted to star trek the next generation i been watching it nonstop episode after episode courtesy of netflix
+267866891589152768	technology	wholeo17 i dont have netflix anymoreshook a broke bitch up
+267866877680816128	technology	i wish all these people would get off my netflix im boutta cancel mine and make a new one
+267866714404950016	technology	foleyologist6 is that the documentary about icc athletics it should be on netflix soon
+267866692057710592	technology	watching season three of breaking bad addicted netflix
+267866496221446144	technology	watchin cakeboss on netflix im addicted to that show lol
+267866438696579072	technology	i finished the breaking bad episodes on netflix today does anyone have any suggestions for going through life postbreakingbad
+267866387266015232	technology	asamantharae if you havent the american scream is on netflix and looks pretty fantastic
+267866016409870336	technology	rt mattredmond22 im not one for meproblems tweets but my life just consists of netflix diet coke destinys child and planning cabarets in my head
+267865784477421568	technology	ive watched the same episode of workaholics on netflix every night for a weeksometimes twice toofunny
+267865594492231680	technology	1 year netflix unlimited streaming subscription 15 this listing is for a 12 month subscription to the netflixshttptcoyzwvrlfk
+267865368201150465	technology	if you wanna see some kinda crazy watch the documentary i think were alone now on netflix
+267864667936915456	technology	still watching my netflix movies
+267864406220754944	technology	yo jamiekennedy im watching hecklers on netflix i had no idea you got bashed on so much i think youre funny man fromdastreetsofmalibu
+267864364210614272	technology	ive already gotten netflix hulu evernote facebook and twitter anything else
+267864331767660545	technology	its just mesnetflix
+267864292093743105	technology	gonna watch supernatural on netflix to see why awaywithwords loves it so much scared that i might get addicted like i did with doctor who
+267864159239147520	technology	why does netflix keep freezing not cool man
+267863659487850496	technology	rt shawnamarie2 they should really update netflix seriously
+267863648125460480	technology	xclusivelee yo dm me your netflix account info i forgot its
+267863444416520192	technology	rt connorwhitehous netflix needs to add some good moviessseeneverything
+267863386711269376	technology	i always netflix how its made so i can ease my way to sleep
+267863114656129024	technology	rt truthordarr netflix cereal sleep
+267862973559734272	technology	rt anndreamorgan my warm bedd twitter and netflix allineed
+267862931583143936	technology	just watched the roast of charlie sheen on netflixsi have decided that katewalsh is absolutely beautiful
+267862930735919104	technology	rt cgunnar92 wow netflix never has what movie im looking for
+267862846988242945	technology	mighty morphin power rangers the movie on netflixsnight made
+267862808601964544	technology	whats good on netflix
+267862782265929729	technology	i wish boy meets world was on netflix
+267862717996613632	technology	my warm bedd twitter and netflix allineed
+267862716511834112	technology	rt cgunnar92 wow netflix never has what movie im looking for
+267862668403171328	technology	rt tiffanyyymae i spend more time looking for a movie on netflix than actually watching it
+267862656264855553	technology	rt schestra id rather watch netflix and eat junk food than go out
+267862554741719040	technology	i spend more time looking for a movie on netflix than actually watching it
+267862404937945088	technology	wow netflix never has what movie im looking for
+267862285937147904	technology	rt desjohnson confessionnight netflix never has the movies i want to watch
+267861912874782720	technology	been watching jem for nearly 2 hours this is what netflix does to me
+267861807018946562	technology	dinkasound netflix has done worse things to me than any drug
+267861784336138240	technology	rt sirsixstrings chillin watching netflix
+267861728363167744	technology	bobbyford51 thats about my night too except w netflix lol
+267861561652170753	technology	rt desjohnson confessionnight netflix never has the movies i want to watch
+267861560251260928	technology	mmaallday11 ive been watching it on netflix finished the first season in like a week lol
+267861413354151936	technology	rt schestra id rather watch netflix and eat junk food than go out
+267861284337377280	technology	confessionnight netflix never has the movies i want to watch
+267861266759032832	technology	i swear netflix is ass
+267861169673474049	technology	chillin watching netflix
+267860997195309056	technology	i see far to many people with netflix in their cars amerika
+267860958637076480	technology	rt menshumor dear blockbuster video lol love netflix
+267860920338874370	technology	jackieloovee yeah it is too bad it isnt on netflix
+267860738561933312	technology	netflix then off to bed
+267860454540460032	technology	carmel chilling about to watch something on netflix
+267860342112133120	technology	rt wednesdayrulez not knowing what to watch on netflix firstworldproblems
+267860222117281792	technology	id rather watch netflix and eat junk food than go out
+267860218518568960	technology	not knowing what to watch on netflix firstworldproblems
+267860142291308545	technology	high as shit watching family guy on netflixlls
+267859813390770177	technology	im so far behind on the walking dead im just going to rewatch season 2 thank you netflix
+267859765672153088	technology	queenofdacourt korybeck66 i have netflix itsallcomingtogether
+267859630733004800	technology	just started a free one month trial of netflix im thinking this is gonna be permanent itprettymuchrocks
+267859625121042435	technology	me and shaferjohnsoniisruccirouch07 d1stef all shook by this movie netflix
+267859454702256128	technology	rt cuppajoel when you buy netflix they fail to mention that you will be wasting all your time on it
+267859441242750977	technology	a night of netflix sounds good to me
+267859393217974272	technology	confessionnight ive been watching the walking dead all day on netflix lazy ass nerd tweet
+267859299143938048	technology	screw netflix itkeepsfreezing
+267859230621589504	technology	netflix my daughter love to watch anime on there
+267859175294513152	technology	joe rogan stand up comedy on netflix this cant be good please stop yelling sir
+267859149797351424	technology	netflix callofduty and no sammiches singlelife
+267859111020998656	technology	skgway both seasons of teen wolf are one netflix now so you have to watch it
+267859083242127360	technology	would it be embarrassing to watch afv on netflix i just love to laugh at other peoples expense
+267859074677342208	technology	my addiction netflix
+267859028036681728	technology	netflix needs to add some good moviessseeneverything
+267858975897309184	technology	cant decide if i should watch superstar on netflix or listen to the nsync christmas album
+267858974148268032	technology	by time i choose a movie on netflix im ready to go to sleep
+267858877805101056	technology	hilitegenesis carsonc5 directv gave me showtime for free when they had that comedy central problem season 1 is on netflix dvd though
+267858869483614208	technology	i dont even think i can sleep ill just watch a documentary on netflix i need a distraction
+267858843655086080	technology	conefessionnight netflix is my only friendsand im ok with that haha
+267858793633812480	technology	atomrobinson netflix and hulu i love it
+267858713946238976	technology	rt amylutz4 dear netflix by the time you load my video the senate might actually pass a budget hurry up tooslow
+267858575530020864	technology	krystheneko ah yeah tv sometimes has its uses i mainly stick to netflix and youtube and thus miss commercials and other things
+267858572593995776	technology	rt cuppajoel when you buy netflix they fail to mention that you will be wasting all your time on it
+267857846299930624	technology	wow that fact that i searched for taylor swift on netflix and 3 concerts come up just made my month dontjudgeme inlove mydreamgirl
+267857634730840064	technology	rt tgass6912 taylorwayne3 probably one of the best on netflix i gotta come to stilly soon missyoutwig
+267857534340182016	technology	store run then imma watch some on netflix
+267857501238743040	technology	confessionnight netflix saves my life daily
+267857318039920640	technology	i think i made worth of my netflix subscription this weekend
+267857294556012546	technology	netflix is my savior
+267856961855434752	technology	just when i was about to finally turn off netflix i found xena warrior princess aueeee
+267856931031498753	technology	rt 32codyyoung32 netflixscould lay in my room all day now
+267856812412387329	technology	to sleep or to watch netflix that is the question
+267856598863601664	technology	how am i supposed to go to sleep when my netflix isnt working notokay
+267856598339301376	technology	to end my weekend i find myself alone in my room watching himym on netflix yes i am that cool
+267856594514096128	technology	rt wednesdayrulez i dont know what to watch on netflix
+267856545679818752	technology	when you buy netflix they fail to mention that you will be wasting all your time on it
+267856500716871680	technology	lexisxoxoslol nope im on netflix
+267856356088901632	technology	i dont know what to watch on netflix
+267856035337887744	technology	i need to make some friends so i dont feel so pathetic sitting home watching football and netflix with my cats
+267855932103467008	technology	scrubs is just a great show netflix
+267855865388883968	technology	anddddd finally got a netflix hookup can today get any better nope
+267855844421562369	technology	decent zombie comedy streaming on netflix now httptcoigbj0eqc getglue deadheads
+267855747432472576	technology	kaitlincrahan yeah but im going to bed i gave up on netflix all night ha
+267855683087659008	technology	rt profstophouse whats dope on netflix
+267855669682659329	technology	thelawson1 its good foreal hit up netflix
+267855271383154688	technology	netflix sounds a lot better than homework right now nomotivation
+267855171445460993	technology	i was gonna watch netflix but thais is using my computer so now im stuck checking and re checking my twitter facebook and instagram
+267855105406152704	technology	movie time what to watch on netflix
+267855072518615040	technology	rt inaliek another netflix night for me come join me if youd like
+267854992076054528	technology	i am thankful 4 netflix movies random classessthe community college knowing i can make my dreams come true seeing familiar faces
+267854764841242624	technology	woo26suhhhhm i dont think i knew ryan gosling was in it hmmm i definitely have to watch that netflix here i comelolsthanks
+267854763696205824	technology	rt yebbasmith lil ole mallorybeard be all in her feelings about her lil netflix hahahaha
+267854707073097728	technology	zakbagans why arent there more seasons of ghostadventures on netflix i need my fix lol
+267854667885735936	technology	netflix web interface is so difficult to navigate and use extremely frustrating
+267854580438675457	technology	lil ole mallorybeard be all in her feelings about her lil netflix hahahaha
+267854498016395265	technology	me and my friend ended up watching open season 2 cause we saw it on netflix and i said that has joel mchale in it
+267854413643776000	technology	rt amylutz4 dear netflix by the time you load my video the senate might actually pass a budget hurry up tooslow
+267854297419640832	technology	rugrats it is for tonight netflix
+267854277681217536	technology	oh what a night netflix it is
+267854172710375424	technology	one reason im in love with netflix i can watch every 30 for 30 episode ive ever missed happytweet
+267854171535978496	technology	grantkrajenka cborsellino23 still trying to think of something good on netflix most of what i watch is on hulu revolution castle etc
+267853933823807488	technology	hmm tired but dont want to go to sleep guildwars2 halo4 netflix movie
+267853865548914688	technology	this expulsion thing is boring im running outa thing to watch on netflix any ideas anyone ineedsomehelp lol
+267853815389224960	technology	seal team 6 raid on bin laden was a very good movie everyone should watch it its on netflix
+267853766919860226	technology	mideg2 girls night this week we can make ramen and microwave maccheese and watch sad netflix movies all night
+267853726411272192	technology	netflix recommendationsnow
+267853605598543873	technology	netflix watching make it or break it
+267853571574358016	technology	i love evan and netflix that is all
+267853525931917313	technology	shoutout to q for giving everyone her netflix so i can watch the walking dead
+267853478762782720	technology	lol i just asked this 3 days ago its notsrt inhaleshae i wonder if bebe kids on netflix
+267853393538715648	technology	pretty much the only thing i did this weekend was watch netflix truth
+267853027350818816	technology	i honestly watch netflix way more than regular tv
+267852971017134082	technology	soyperfectooooo what netflix now bro theyre unreal
+267852930428833793	technology	akidnamedkeon speaking of paid in fullim tryna watch that shit its on netflix
+267852909037907968	technology	ramen and basic cablesrt jaydakiss pizza and netflix
+267852772127436800	technology	like bitch i know youre not sitting there watching netflix without your phone or your ipod reply to me hoe blondethuq
+267852633992212480	technology	abbienicole21 with a very cute dog and netflix
+267852413522817027	technology	sissyrachelle23 try parenthood next on netflix so funny
+267852389258780673	technology	teamcole57 my roommates said it wasnt good netflix get on that swerve swoletomorrow
+267852303493648384	technology	rt 32codyyoung32 netflixscould lay in my room all day now
+267852253883424769	technology	lovethrashate im downdo you have season 1 on dvdnetflix so we can make it happen ahs
+267852233759145984	technology	lizzinmapants httptcoh2z0imjm watch this movie one of the greatest movies ive ever seen its on netflix
+267851789645275136	technology	might regret this later but gonna find me a scary movie on netflix movienight bymyself noschooltomorrow
+267851722033070080	technology	hates this feelingsrt somethinsweett i dont know what to watch netflix
+267851704337317888	technology	dear netflix by the time you load my video the senate might actually pass a budget hurry up tooslow
+267851620929384449	technology	someone please tell me why i didnt get netflix sooner
+267851359871721472	technology	rt kissmecupcakee netflix thanks for being there for me 3
+267851267806740480	technology	rt chelseababy i swear to god if my brother changes the netflix password one more timei will be an only child
+267851178744889344	technology	all this hard work to get netflix
+267851162479386624	technology	watching 8 seconds gotta love netflix saschafierce90
+267850945885511681	technology	keschaberg it keeps showing up on my netflix suggestions any good
+267850935416520706	technology	its annoying when tv shows on netflix have the previously on at the beginning i know what happened i just watched it
+267850911097950208	technology	lorames i have the dvd and netflix
+267850847512322048	technology	rt meganelise21 can i get a grade for my excellent speed in finishing seasons of shows on netflix id have a perfect transcript procrastination thebest
+267850700715864064	technology	netflix thanks for being there for me 3
+267850663617257472	technology	jamescarskadon camillewatts generally netflix instant disappoints me more than it makes me happy
+267850596554518528	technology	1 beds2 parentss1 babys2 catssbbc merlin on netflixsheaven
+267850520721494016	technology	if you havent seen the house of the devil netflix it immediately its a well done tension filled horror film so good
+267850486642778112	technology	can i get a grade for my excellent speed in finishing seasons of shows on netflix id have a perfect transcript procrastination thebest
+267850344594305024	technology	glad you folks agree its house of the devil on netflix btw give it a shot
+267850202231209984	technology	why the fuck is my facebook picture netflix
+267850182031470592	technology	netflix really liked battleship navy and mighty mo kicking alien ass and taking names loved rihanna
+267850007888138241	technology	otreehill best show on netflix
+267850004289449984	technology	shaelyntatum haha perfect time for having netflix
+267849884370087936	technology	rt truthordarr netflix cereal sleep
+267849854552784896	technology	netflix and my bed is the perfect combination
+267849842309599232	technology	rt chellypharrelly yo how tf did netflix just disappear off this shit
+267849707244630016	technology	netflix timesgeeked
+267849691121713152	technology	netflix cereal sleep
+267849608493948928	technology	never thought id be here at twenty years old giddy about the fact that spy kids is available on netflix
+267849557914820608	technology	tonight i watched indie game the movie on netflix interesting documentary if you are into game design
+267849518358339585	technology	kingp23 lemme use your netflix account broo
+267849517435592704	technology	ugh nothing showing on netflix
+267849504965935104	technology	rugrats on netflixslife is complete oldschool childhood
+267849453833179136	technology	rt unlstonerprblms nothing like relaxing and watching some netflix on a sunday night
+267849388540428288	technology	gah im a second away from changing my pw on netflix i step away for 5 minsnow i cant push play cause its in use on 2 many devices
+267849278544809985	technology	let the people know the facts and the country will be safe abraham lincoln patriocracy netflix
+267849261071360001	technology	rt maezilla05 there is nothing more frustrating than being kicked off netflix
+267849161427267585	technology	gotta get netflix again
+267849142397706240	technology	there is nothing more frustrating than being kicked off netflix
+267849107299790848	technology	nothing like relaxing and watching some netflix on a sunday night
+267849068376625152	technology	just workin my way through all the foreign lgbt movies on netflix for some reason nbd
+267848918786772992	technology	yo how tf did netflix just disappear off this shit
+267848829519417344	technology	fuck the movies i just want some to come over cuddle and watch netflix with
+267848631246262272	technology	clarecampster omg i saw it on netflix and read what is was about sounded interesting now im hookeds
+267848545858625536	technology	king of the hill on netflix is dangerous
+267848538053038080	technology	daysofourprice they are on netflix of you could always get em from the libraryswithawill theresaway
+267848503680724993	technology	done with volleyball now its time to cuddle in bed with some netflixsgoodlife
+267848483413827585	technology	rt corywatsonn my gpa is slowly dropping due to netflix
+267848472458317826	technology	netflix rt talkthatish what channel rt yafavhomeboy on tvsrt zaza102294 watching freedom writers 3
+267848361791598592	technology	rt corywatsonn my gpa is slowly dropping due to netflix
+267848290656210944	technology	netflix what to watch anysuggestions o
+267848273933529088	technology	i seriously need to invest in netflix i bitch about finding movies to watch every single night
+267848236172201984	technology	i wish i had enough time on my hands to actually watch netflix
+267848153565392896	technology	rt 32codyyoung32 netflixscould lay in my room all day now
+267848127900446720	technology	didnt mean to take that nap ill be up all night now netflix
+267848033826402304	technology	just finished the office on netflix nowwhat umm what
+267848011575595008	technology	maarrissaamarie netflix has season one and two season three will be on there before too long im sure
+267848004256542720	technology	divadst2 season 6 is on tv now but the rest are on netflix you should definitely watch it because youll become obsessed
+267847948648468480	technology	i need to stop getting highsputting shit in the instant queue of my netflix i dont even fuck with some of these shows
+267847923532963842	technology	doed watching shit on netflix
+267847889076760576	technology	i dont even want to go to sleep tonight so i wont netflix
+267847666057240577	technology	why the fuck is my netflix not working
+267847653331726336	technology	rt brooketurpin because watching netflix on one computer is to mainstream elizamichellehostimber lakes at red bridge httptcoc3o8ojxd
+267847569915392000	technology	its looking like a late netflix night with my dogs
+267847162459729920	technology	sons of anarchy on netflix all daysnight almost finished on season 4
+267847030536286208	technology	dejjyboo my parents deleted out netflix im dying without it can i come over soon
+267846994096168960	technology	boutta go watch western on netflixonly clint eastwood shit tho
+267846952220233728	technology	rt dzeni12 netflix causes insomnia lol ilive41d
+267846871047876608	technology	my gpa is slowly dropping due to netflix
+267846844120453121	technology	because watching netflix on one computer is to mainstream elizamichellehostimber lakes at red bridge httptcoc3o8ojxd
+267846512564920320	technology	rt thewacokid if netflix had the land before time i wouldnt be mad by any means
+267846487067750400	technology	netflix is my bitch for the nightt
+267846416280473600	technology	on netflix watching family guy
+267846261296730112	technology	what should i watch on netflix
+267846014449356800	technology	totally watching small soldiers on netflix
+267845894643257346	technology	netflix before bednow thats the shit
+267845724404858880	technology	finally got netflix gossip girl here i come
+267845639151419393	technology	rt andre20offical its hard deciding on a movie on netflix somanymovies
+267845558453018624	technology	leannekristine do you have netflix
+267845467960926208	technology	i want to play halo but my mom took my xbox to watch netflix lol
+267845413309132800	technology	so since i only have netflix and no cable i havent go to watch any of season 3 of the walking deadssomebodyhookmeup
+267845266391048192	technology	confessionnight netflix
+267845264063205376	technology	giving up with a terrible yet sufficient score on econ and watching netflix thank goodness they drop the lowest score imatrooper
+267845210887827457	technology	this bitch should be on stalkers the show on netflix
+267845110132264960	technology	blaze and watch netflix in bed by myself sounds like the plan
+267845026615279616	technology	i just cried because season 3 isnt even on netflix wth
+267844991525744640	technology	getting lost in the great world of netflix
+267844949674979328	technology	they have the whitest kids u know on netflix 33333333333 lifemade nevergoingtosleep
+267844940904685568	technology	really love that netflix gave me the category absurd british movies youhadmeatabsurd
+267844933640130560	technology	rt emperoramor i live vicariously through the characters on my favorite netflix shows
+267844856196517888	technology	i spend way too much time on netflix this cannot be healthy
+267844590059520001	technology	oh boy just synced netflix with our wiilife is about to get real unproductive alyssalangan
+267844520320856065	technology	before there was netflix to fall asleep to we had nickatnight
+267844358110343169	technology	anamari1233 wouldnt mind getting into a good tv show the killing i on netflix but only season 1
+267844220444880896	technology	confessionnight netflix is my best friend
+267844173409968129	technology	destincole omg i just finished revenge season 1 on netflix
+267844172965363716	technology	hot tea and netflix this is my life
+267844032435212290	technology	lol it was sure a netflix kind of night
+267843828868849665	technology	i wish reddawn was on netflix
+267843799076708353	technology	rt samoanblood darn it i missed the notebook hopefully netflix has it
+267843781733253120	technology	netflix dont fail me now
+267843742227132416	technology	something on netflix perhaps
+267843711227023360	technology	rt coopcoop i love netflix to be quite honest huluplus more though
+267843670710042624	technology	rt samoanblood darn it i missed the notebook hopefully netflix has it
+267843658752073728	technology	rolliboi netflix hommie lol and cupcake was my g
+267843599654342656	technology	netflixscould lay in my room all day now
+267843533518540800	technology	day eleven im thankful for lazy daysand weekends stretches of relaxation junk food and netflix marathons daysofthanksgiving
+267843353360596992	technology	rt atothak gonna go find something on netflix and i should fall asleep by going with the flow
+267843233046994945	technology	its hard deciding on a movie on netflix somanymovies
+267843186439905280	technology	rt inaliek another netflix night for me come join me if youd like
+267842978284986372	technology	i love netflix to be quite honest huluplus more though
+267842869350518786	technology	i just found the entire st tng on netflix
+267842625791479808	technology	jimmihue okay it better be on netflix
+267842602588585984	technology	work netflix wooooorkkkk
+267842591524003841	technology	darn it i missed the notebook hopefully netflix has it
+267842518715088896	technology	i hope oomf is having fun on netflix
+267842484145643520	technology	ah now i want to rewatch the initiative story arc of btvs netflix lets do this
+267842462733713408	technology	another netflix night for me come join me if youd like
+267842339324719104	technology	when your watching scrubs on netflix and you come across an episode you have never seen itsagreatday
+267842336904577024	technology	looking through netflix shows and strange sex comes up and cheyenne says ohhh yeeeeahhh dumb ass lololol
+267842316784508928	technology	been watching the walking dead on netflix now i see what all the hype is about i didnt think id like it
+267842269820891136	technology	bigem6 i dont have netflix lol
+267842254901751808	technology	netflix what to watch help me out
+267842240125206528	technology	epayne09 omg watch it netflix i thought thats where your zombie talk came from lol
+267842206495277056	technology	what movie should i watch on netflix
+267842106154962945	technology	z7graham7z alright man ill get on that netflix
+267842080162852864	technology	whhhhhyyyy wont my xbox keep me signed into netflix
+267842060353171457	technology	whoever has been using my netflix sorry but its gonna be deleted whores get your own netflix
+267841763388030977	technology	totescrazy its on netflix right now and im about to go buy it haha
+267841745524506624	technology	just finished roswell on netflix why is shiriappleby such a great actress makes my heart happysloved her in lifeunexpected also
+267841744446558208	technology	gonna stay up alll night just to watch all seasons of zack and cody on netflix hyoed
+267841641929383936	technology	rt simoneheartsyou just looking for a movie to make me cry on netflix is that too much to ask
+267841537482833921	technology	netflix prince of persia the sands of time
+267841533527601152	technology	winding down watching cold case files on netflix
+267841496106033153	technology	rt kdghostwriter this guy was doing it right goodmoodmike just got reminded that the british show sherlock is on netflix weekend made
+267841483816714240	technology	gonna watch netflix tonight
+267841434357493761	technology	just realized that i wont be able to use netflix this weekstoobusy
+267841339553624066	technology	rt simoneheartsyou just looking for a movie to make me cry on netflix is that too much to ask
+267841325532061697	technology	checking this out on netflix httptcozvpe5nwc getglue machinegunpreacher
+267841139015573504	technology	rt thewacokid if netflix had the land before time i wouldnt be mad by any means
+267840902884651009	technology	rt simoneheartsyou just looking for a movie to make me cry on netflix is that too much to ask
+267840895045488640	technology	insanelyacutie i watched that one last week on netflix it was good tooits like they aint putting no new ones up
+267840890456915968	technology	i swear to god if my brother changes the netflix password one more timei will be an only child
+267840820982464512	technology	just looking for a movie to make me cry on netflix is that too much to ask
+267840797750214657	technology	courtdett netflix is closebut not quite
+267840777818869760	technology	socialmuse get netflix tons of titty movies
+267840770499813376	technology	theres nothing on so imma watch mean girls on netflix
+267840726891655169	technology	reading a book now because netflix and youtube arent loading fast enough
+267840558154776576	technology	raphealherron at home watchin netflix lol
+267840557156544512	technology	gonna go find something on netflix and i should fall asleep by going with the flow
+267840548721811456	technology	they should really update netflix seriously
+267840512566915072	technology	im in the mood to watch a love storyscry to bad i dont have netflix anymore
+267840338847215616	technology	rt kstafff i hate finishing a series on netflix bc then i dont know what to do with my life after
+267840046265139200	technology	we watched dogs decoded on netflix very interesting documentary and now i really want a domesticated sib fox
+267839982075518977	technology	rt thewacokid if netflix had the land before time i wouldnt be mad by any means
+267839944238698496	technology	i wish tangled was still on netflix
+267839821010063361	technology	netflix time
+267839667175563264	technology	queenofpink i need to netflix thembut i dont have netflix firstworldproblems
+267839510539300866	technology	watching the walking dead for the first time on netflix everything little noise has me on edge but i love it lol
+267839464221593601	technology	long week netflix httptcopwecowuv
+267839339579453441	technology	parenthood is addicting scratch that netflix is addictive
+267839243861245952	technology	jordanschaffer2 umm i dont know fucking netflixrental an its on tv all the fucking time
+267839230858887169	technology	im ganna watch jack ass 3 netflix
+267839155571150849	technology	erikalynnuni ugh ive wanted to watch that movie for weeks and its not on netflix
+267839145261531137	technology	when my mom fucks with stuff on the laptop and i end up not being able to watch netflix rattled
+267839107760283648	technology	having netflix in your room
+267839107433132032	technology	finding the walking dead on netflix
+267838969427922944	technology	legenswait for it keep waitingshope your not alergic daryshowimetyourmother marathon netflix
+267838856525647872	technology	mrinovative yea guess so but netflix be on that bs too cuzthey dont be having some movies on there
+267838767329583104	technology	pretty confident im the only person left that hasnt watched the walking dead ever and i have netflix oops
+267838710257704960	technology	stuck at home guess that means netflix for the next six hours
+267838651692621825	technology	retrogamergeek yep i use my wii as much if not more for netflix than i do for gaming my xbox is set up with xbmc as well
+267838649608069121	technology	pretty sure its time for even stevens to go ahead and be on on netflix getwithit
+267838640590315520	technology	shainamarie33 seasons 1 and 2 are on netflix
+267838590497718272	technology	linathelion there is 259 episodes on netflix
+267838494599159809	technology	after 4 usage of the free trail on netflix i finally gave in and decided to get on the monthly plan
+267838459543158786	technology	my brother have me his netflix account so i guess i fine a movie to watch
+267838270958882816	technology	netflix or tvsahhh i dunno
+267838261416824832	technology	jadab hes been watching it all day on netflix
+267838179611127808	technology	they have a gay and lesbian tab on netflix wtf
+267838029153058816	technology	hailsnemeth not on netflix way to bring it up
+267837963130531841	technology	zmsupportteam haha ill look it up on netflix idk if they have it though
+267837708351721473	technology	kubel03 lol they are on netflix but for the beginning of this season you will have to wait till there is a marathon hulu doesnt have it
+267837591917846529	technology	this guy was doing it right goodmoodmike just got reminded that the british show sherlock is on netflix weekend made
+267837538738241536	technology	netflix netflixpicks for veterans day jarhead because you should walk a day in their boots httptcopjkccvcasawesome movie
+267837525937254400	technology	rt aut00 footloose on netflix with my sister cassiechambless
+267837502042284032	technology	reading noimpactman just watched the documentary on netflix
+267837461525327873	technology	new on netflix instantskaraterobo zaborgar 2011shttptcoeonhfbcu
+267837363353436160	technology	rt mirandahall12 kjustice13 netflix is a vicious cycle
+267837275189161985	technology	kjustice13 netflix is a vicious cycle
+267837064425398272	technology	cecim2013 jackielizar dary its all on netflix weve done a season one marathon before all kinds of fun letsgo
+267837060440805376	technology	netflix maaarixo heres a thought youre 19 years old so get a job and pay for it yourself
+267836993432588289	technology	serenity starts in 10 minutes science netflix browncoatsreunite
+267836830609719296	technology	yes netflix i am still watching the show why must you force me to walk all the way to the controller
+267836824318251008	technology	watching walking dead on netflix and i tell angiem268 this show has gross sound effectsshe sayslike stirring macaroni bingo exactly
+267836811861172224	technology	wish they had more seasons of flashpoint on netflix
+267836656722247680	technology	just finished give me the banjo on netflix instant stream fantastic documentary very informative and gets the creative juices flowing
+267836520189272064	technology	blushfordee lol i will but it aint on netflix lolssad story
+267836475436064768	technology	rt vanewanee netflix and junk food
+267836379373895681	technology	dear netflix can you get the goldengirls up on there or something i need a friend and a confidant pronto thanks fb
+267836192177917952	technology	suremayoradamwestt i have netflix too wanna watch urban comedies rt hollywudshuffle ive given up all my friends for netflix
+267836023797587969	technology	blakeadele10 youll never guess what ive been watching on netflix im about to finish season 3 of vampire diariessaddicted
+267836016025542656	technology	netflix needs to change the movies really soon
+267836003048386560	technology	just chillin in blakesmith2 room watching netflix
+267835990738092034	technology	the first wives club netflix i looove you
+267835988192145409	technology	netflix on thatsright now
+267835975810564097	technology	i seriously never know what to watch on netflixits irritates me
+267835844075855872	technology	heater couch netflix good night chillaxin
+267835753218850816	technology	you 19 and momma still gotta pay your netflix
+267835750677106688	technology	liln8thagr8 no stupid netflix
+267835707484147712	technology	sweetvncvnc a good movie on netflix
+267835676140118017	technology	this was me today gosh i need help netflix addicted httptcotyqnyu8m
+267835464919171072	technology	ive given up all my friends for netflix
+267835380110352384	technology	watched jane eyre on netflix tonight what is my life
+267835346035814401	technology	my netflix never works anymore so lame
+267835267283562496	technology	new season of teen wolf on netflix
+267835230394662913	technology	does 7 and netflix mean anything to anyone
+267835216175980545	technology	i wish netflix would stop being dumb
+267835196253024256	technology	i think someone should let me use their netflix account so i could actually watch doctor who i really do
+267835170051219457	technology	105 and csi miami are on netflix well thats just begging me to not do my homework
+267835136618418176	technology	thinking i might try netflix
+267835134902935552	technology	none my girl friends got netflix passwords smh they gotta get their priorities together or im out
+267834936164229120	technology	taylorwayne3 probably one of the best on netflix i gotta come to stilly soon missyoutwig
+267834924466331649	technology	spongebob macscheese and watching army wives since i cant fall asleep fatty tvaddict armywives netflix
+267834909287149568	technology	just started watching psych on netflixsits cleverslike a modern day fletch
+267834900810448896	technology	my netflix is sucking i guess its bedtime
+267834834976641024	technology	ive been playing playstation watching netflix football all day but no twitter but ive been on facebook
+267834794510016513	technology	oh netflix where would i be without you the movie armless are you kidding me hahaha
+267834615471931393	technology	why the fuck is series three of skins not on netflix
+267834505841229824	technology	netflix and junk food
+267834412471836673	technology	im not one for meproblems tweets but my life just consists of netflix diet coke destinys child and planning cabarets in my head
+267834332289323008	technology	on netflix watching 90210 cause i have nothing better to do
+267834092496777217	technology	kjustice13 i shouldve never told you the netflix password you should study
+267833982543093760	technology	i watch a lot off documentary netflix
+267833676992245760	technology	trying to find a good movie on netflix
+267833664010870784	technology	rt thewacokid if netflix had the land before time i wouldnt be mad by any means
+267833457093259265	technology	atrevick i think its on netflix
+267833398171688962	technology	booshoe37 i should do my stats hw too but netflix has decided to claim priority
+267833281620344832	technology	watching clueless gotta love netflix
+267833204277379072	technology	its looking like a netflix cookiessapple juice night
+267833162103668737	technology	sons of anarchy hooked netflix

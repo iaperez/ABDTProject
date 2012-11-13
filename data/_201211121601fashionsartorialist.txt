@@ -1,0 +1,13 @@
+/usr/local/java/jdk1.6.0_37/bin/java -Xms1024m -Xmx1024m -cp :../lib/*.jar:../lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:../lib/twitter4j-2.2.6/twitter4j-async-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-core-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-examples-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-media-support-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-stream-2.2.6.jar:../lib/twitter-text-1.5.0/twitter-text-1.5.0.jar:bin UsersMentionDownload fashion sartorialist
+fashion sartorialist lang:en geocode:39.8,-95.583068847656,2500km
+268109598316187648	fashion	rt gayletweets8 thesartorialists photo httptco7sqyicq5 sartorialist thanks scott great meeting you
+267933851123326976	fashion	shorties messing with the sartorialist vices resident gadfly nimrod kamer went to london to mess with t httptcotks6d4oo
+267745024828129281	fashion	sartorialist snaps cozychic in nyc httptcoo1yukdi8
+266977216712290305	fashion	the sartorialist lunch for 25 httptco1c8vgvma via bof
+266713544177876992	fashion	dannieharvley haha that reminds me i emailed the sartorialist for career advice today lol dunno if he will answer
+266654485546409985	fashion	gambulputty take a look at the blog the sartorialist theres not much writing happening its mostly photography i could do writing tho
+266628802019483648	fashion	yeap just emailed the sartorialist for career advice yes im desperate
+266557532640800768	fashion	rt rachaelreally if i was to start a blog about oklahoma city streetstyle ala the sartorialist featuring both men and women would you readenjoy it
+266557180050804736	fashion	if i was to start a blog about oklahoma city streetstyle ala the sartorialist featuring both men and women would you readenjoy it
+265965370580533248	fashion	rt sartorialist if youre thinking aboutlayering jean jacketsshttptcovaetjeaa
+265776983529639936	fashion	blue power at the sartorialist coolestspicshttptcomdxbotfa

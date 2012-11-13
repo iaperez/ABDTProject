@@ -1,0 +1,1487 @@
+/usr/local/java/jdk1.6.0_37/bin/java -Xms1024m -Xmx1024m -cp :../lib/*.jar:../lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:../lib/twitter4j-2.2.6/twitter4j-async-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-core-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-examples-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-media-support-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-stream-2.2.6.jar:../lib/twitter-text-1.5.0/twitter-text-1.5.0.jar:bin UsersMentionDownload sports basketball
+sports basketball lang:en geocode:39.8,-95.583068847656,2500km
+268141914816122880	sports	tomorrow is dedicated to watching basketball ncaa
+268141913679470593	sports	time to watch my baby play some basketball favors jazznation myboo
+268141866803937280	sports	si no 11 tar heels pass test before tough stretch chapel hill nc ap james michael mcadoo and reggie bull httptcostplplf5
+268141866472591361	sports	yall ready for thunder basketballscountin down til tipoff
+268141865923129344	sports	si boynton no 10 florida overwhelm alabama st gainesville fla ap back on the court for a full 40 minute httptco3jnimn8s
+268141849175261185	sports	probably not going to sleep tonight with the amount of basketball thats going to be on besttimeoftheyear
+268141846201516032	sports	kristin41553501 wanna play basketball at like 7
+268141842414055425	sports	a girl who would pick up a basketball other than a purse got my heart any day
+268141812454129664	sports	rt aberryman32 emzybear1 hope your having fun at basketball
+268141793713979392	sports	rt camp1015 well time to get ready to go back basketball
+268141791725887488	sports	first day of basketballnot to bad but im pretty sure that my toe nails are gonna fall off
+268141754279145473	sports	justwingingit it basketball season everyone needs to watch the duke vs kentucky game tonight iowa central michigan rematch
+268141743499776001	sports	turnon you play basketballsmarryme
+268141732833681408	sports	first basketball game of the season tomorrow and lets not forget ive only had 4 practices
+268141724466028544	sports	toplaughs whenever i get mad i just imagine a trex trying to pick up a basketball mrpurple314
+268141702445936642	sports	i dont mind working late and its even better when its followed by an iowa basketball game time for a cold short walk to carver
+268141682317488128	sports	rt thomaselig theme for the basketball game this friday is senior citizens bonus points if you bring your grandparents to the student section gorams
+268141633428656128	sports	rmac womens basketball release 2shttptcov54ocqn2 httptcowgafnm2k rmacwbb
+268141608770351104	sports	rt devgotthatjuice nbascollege basketball
+268141570778333184	sports	basketball tournamentsour lady queen of peace school httptcoywpuyjzu
+268141564801454080	sports	rt driffill its time to play jazz basketball jazznation utaattor weareutahjazz
+268141558904274944	sports	godawgs basketball yall
+268141557432070144	sports	jazz basketballslets go
+268141555926315008	sports	first basketball game 2 weeks from tomorrow saywhaa pumped
+268141529422512129	sports	one more lifetime movie then basketball wives
+268141511621894144	sports	college basketball season is starting up while college and pro football seasons are in high gear check out our httptcosjcfyzqo
+268141492244197376	sports	mattboone23 szbyrd chuckjames919 you have to be shitty at football for all your pus games to be on in basketball emaw
+268141484786737152	sports	rt shoni1 possibly one of the greatest days tonighttomorrow with 24 hours of college basketballtipoff tonight
+268141484652519424	sports	well to those in jville hayleyatkinsspipercurry do yall even give a flip about unf basketball
+268141462926012416	sports	its time to play jazz basketball jazznation utaattor weareutahjazz
+268141441430204416	sports	rt scottevans38 had to guard unis starting runningback david johnson today in pick up basketball
+268141437349158912	sports	college basketball season is starting up while college and pro football seasons are in high gear check out our httptcoamc3qt3t
+268141427068923904	sports	not gonna lie i love both teams but i gotta rep my chicago bullsschicago bulls 1900 7pm basketball httptcomcle2rko
+268141417438773248	sports	rt devgotthatjuice nbascollege basketball
+268141401848565760	sports	mdmeyer12 ardouglas24 work on baseball bro dont go out for basketball
+268141396815380480	sports	ive been playing basketball all damn day
+268141391991930880	sports	rt jenjoyk new wildcat basketball gear bestdayever thanks carlsonnathan
+268141365391667200	sports	rt ronnirealohhg thanks to my teammates for choosing me to be one of our team captains basketball ladyspartans loveyouguys
+268141351722438656	sports	well time to get ready to go back basketball
+268141339386974208	sports	rt theelyriaeagle love the sound of basketball starting upseven more so loving the sound of coach jeff getting really excited heisawesome
+268141317157183488	sports	does anyone know if the adult basketball league plays tonight at lifetime
+268141306101002240	sports	ready for this memphis tigers game basketball season is finally here letsgo memphistigers oneteamonegoal
+268141298769350656	sports	at schumpert wellness watching my 13 yr old play basketball with friends lets just say he should really focus on his studies lol
+268141297330712576	sports	this has been a great day off gotta get ready for the nau womens basketball tonight gojacks
+268141261993672704	sports	notebook nets 82 magic 74 httptcooskdtk9ysclippers nba basketball
+268141257329606656	sports	rt wescaouette memphistigers basketball is finally here
+268141248253145088	sports	notebook clippers 89 hawks 76 httptcokwekcj9asknicks nba basketball
+268141240741146625	sports	welloff to basketball practicep 12
+268141225654235136	sports	kings cousins suspended for two games httptcoglkmrarcsokcthunder nba basketball
+268141212874207232	sports	basketball tryouts was blah last day tomorrow and cuts
+268141207048314880	sports	wolves budinger out indefinitely with torn left meniscus httptcou7vsvpu8swizards nba basketball
+268141203000807425	sports	good workout today now time to play basketball
+268141191093157888	sports	basketballblack peoplefootballblack people httptcokdv45okr
+268141189453185024	sports	notebook grizzlies 104 heat 86 httptcovtfeti02sgospursgo nba basketball
+268141171451248641	sports	notebook thunder 106 cavaliers 91 httptco5xpvmcqospacers nba basketball
+268141164727775232	sports	sixers pregame nba philadelphia philly meekmill basketball monday red white blue httptcoyw2q3sjm
+268141157761040384	sports	other than that basketball went well
+268141153281507328	sports	notebook lakers 103 kings 90 httptcofblbrkkcstwolvessnba basketball
+268141146440609792	sports	bynums return to practice delayed til december httptco06uotz7psmiamiheat nba basketball
+268141138383343619	sports	james faried named conference players of the week httptcoop0p4isfshawks at nba basketball
+268141135577358337	sports	lakers excited at chance to play for dantoni httptcorximf3e4slakers nba basketball
+268141050340724738	sports	my basketball cheer squad
+268141043340435456	sports	watching the baby bro play some basketball
+268141041964707841	sports	rt mariahbamrick huge so to my sweet brother mikebamrick32 for being the only freshman to make the varsity basketball team love my lil baller goeagles
+268141040823853057	sports	that first basketball practice is a killer shoot
+268141034062614528	sports	yunikosuzuki basketball httptcotejvb33x
+268141027116855296	sports	just shut the fuck up grandma im tired cranky just got done with basketball leavemealone
+268141007093239808	sports	rt jalandanielle chrissysmr jones family hustle basketball wives and teen mom all in one night i just might have a heart attack
+268140981650608128	sports	tired af basketball just raped me pussytweet
+268140977879937024	sports	its gonna be a good basketball cheer seasonslookimflyinganextension thatneverhappens tallgirlprobs httptcobgxntulc
+268140965909368834	sports	rt rhsbluejay getting ready for the basketball game tonight girls blue and white game at 700 hope to see you there retweet to get the word out
+268140959957655552	sports	cant wait to watch hawkeye basketball tonight gohawks
+268140948213600256	sports	it basketball season everyone needs to watch the duke vs kentucky game tonight
+268140945202106369	sports	so to the university of memphis basketball team taking on the north florida crispos or ospreys or what in the heck they called dontmatter
+268140903300988929	sports	littleblkboi32 hehe cute i thought you played basketball
+268140844643667969	sports	rt beccacarr24 shout out to all my basketball girls today good luck madieeeeb kalierobinson1 hopetravaille 13bailey tgchilders
+268140828147474432	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268140818009841666	sports	quickest dinner ive had in a long time with bigstimpin3 all for the basketball team
+268140783197097984	sports	i need to buy me some basketball shoes
+268140777820024834	sports	basketballs bout to be fun this year
+268140758861762561	sports	its going to feel weird watching a memphis tigers basketball game for the 1st time in three years from the stands instead of with the team
+268140737156231169	sports	rt devgotthatjuice nbascollege basketball
+268140688410017792	sports	i cant believe im saying this but im actually really excited for this basketball season
+268140667971203072	sports	busting out the customized basketball jersey for tonights game goblue httptcozyorcrrs
+268140654692036609	sports	ayee myy baee tryyin out for basketball ik he gone make the team
+268140646441811968	sports	midgetking101 caint wait to hear tweets about how much basketball practice sucked sarcasm you cant hear tweets dumbass
+268140621414408194	sports	tyfriend basketball sucks
+268140573620326400	sports	wtf everytime i get in the car i gotta be questioned about basketball shut the hell up talking to me please
+268140573188313088	sports	womens basketballsmo southern st 36 manhattan chrst 16 1sts524
+268140567005900800	sports	just stick to basketball lol
+268140466158051328	sports	rt blakey23 lincolns basketball floor is in such bad shape
+268140465923166208	sports	our basketball season has officially begunsit feels right seeing coach hale berlowitz down on the floor runnin the show herewego
+268140447321440256	sports	rt asugrizzlies rmac mens basketball release 2shttptcov54ocqn2 httptcow0pa2jbn rmacmbb
+268140408742236160	sports	brookland at nettleton boyssgirls basketball tomorrow live on yptstv davidgrim cliftong7 arpreps httptcoqvui4fve
+268140395710513152	sports	rt justinjj32 i hope k state wins the championship in football and ku wins it in basketball representkansas
+268140394729054208	sports	aggie mens basketball hosts saint marys thursday httptcobdrmh8an utahstate
+268140382733344768	sports	took the children to the sixers game tonightsaging the bucks tretp3 basketball nba monday kids bal httptconr7oby8l
+268140363515052033	sports	trevorsgirl07 lol i always get hit with a basketball
+268140325141372928	sports	rt theelyriaeagle love the sound of basketball starting upseven more so loving the sound of coach jeff getting really excited heisawesome
+268140262646247425	sports	footballsbasketball byfar
+268140257852133376	sports	i got a nice post game on the basketball court too bad im only 63
+268140248528216066	sports	letting us out 15 minutes late from basketballnot cool
+268140216760541184	sports	tonights utmasu womens basketball game will be streamed live at httptcoezmjlkss
+268140190500020224	sports	vdotl im sorry but how the fuq are you 2nd in fantasy basketball right now with this lineup lol
+268140180773421056	sports	keep up with ouachita mens basketball tonight against champion baptist tipoff is at 7 pm httptcokhm0bwlx
+268140173999603713	sports	retweet if youve played basketballsfootballsvolleyballsbaseballshockeyssoccerstennissgolfscheerstracksdance
+268140160741416961	sports	headed to the season opener of the memphis tigers basketball team this should be interesting im not a basketball fansbballin
+268140158451335168	sports	abbeylarsen basketball dweeb
+268140120740360194	sports	rt feedinghogs mens basketball young on wooden award preseason list bj young of the mens basketball team httptcoz6rcpji8 via arkrazorbacks
+268140107612168192	sports	rankings dont mean a thing noooothing so schools that are ranked high be quiet any team can play good basketball
+268140103677915137	sports	super sad about not getting to play basketball
+268140089178193920	sports	basketball seasontruckyeah
+268140088972697601	sports	getting ready for the basketball game tonight girls blue and white game at 700 hope to see you there retweet to get the word out
+268140077568376833	sports	rt umtigersnews freshman jayson tatum made unofficial visit to memphis tigers practice onshttptco5lsjgyq8
+268140072874962945	sports	rt bluntassasiaaa all oomf do is talk about basketball
+268140065027395585	sports	that awkward moment when you grandparents drag you to some random thing with a bunch of scrubs after basketballsweirdos
+268140020483891201	sports	start of the basketball season coaching amped letsgo titledefense
+268140004042235904	sports	rt chrispalac03 niggas be wearin basketball shorts underneath their jeans like a game of 21 can happen anywhere
+268139996412801024	sports	hahahahahahaha fuck basketball tryouts weight lifting 247365
+268139988011597825	sports	rt pinkhearted basketball wives and new season of teen mom comes on tonight
+268139979937562624	sports	more broadcast details about acura coaches vs cancer classic last week trutv put out a press release with broa httptcoodznqelf
+268139977727156224	sports	its officially basketball season roadtothewell
+268139976825384960	sports	mr jones is finishing up on the wildcat 919 then the sports guys take over at bramlage for the mens basketball game against lamar
+268139969850273792	sports	dundee pride basketball practice dundeeyouth thedundeelifeswest hills church pic httptcowzymrc2x
+268139969174962176	sports	being in the stroud gym brings back sooo many memories basketball senioryear missit
+268139961411330048	sports	i met two ku basketball players on saturday
+268139935868014592	sports	loganjtaylor muscle strains from running ankle from basketball
+268139922744029184	sports	basketball wives and new season of teen mom comes on tonight
+268139883493748736	sports	mary claires first basketball practice funniest thing ive ever seenshttptcoczmn2fxx
+268139809594294272	sports	nike basketball practice httptco5fwhpowf
+268139796927492096	sports	watching basketball diariessleonardo dicaprio is so fines
+268139787356082177	sports	good luck to my girl mallorykleine and the rest of the basketball team tonight wish i could be there damnyouibbio
+268139784143245313	sports	fuck pulled a muscle in basketball
+268139766980149249	sports	basketball ive missed you
+268139622264107008	sports	i really wish i could play basketball
+268139607336574976	sports	rt maryvillesaints mens basketball trails lipscombbisons 4324 at half lipscomb used 133 run late in first half to build lead
+268139587296182272	sports	niggas be wearin basketball shorts underneath their jeans like a game of 21 can happen anywhere
+268139573035536385	sports	cool concept ck it out rt nickfasulosbn my debut at rushthecourt cbb by the tweets opening weekends httptcopl4jh2lg
+268139571370401792	sports	so the mens basketball team has never lost a home opener game in 36 years with that said support them tonight as they make it 37 years
+268139565590659073	sports	i miss basketball
+268139558208692224	sports	cheap tailgating before basketball 1 pbr nightsdrinking a pabst blue ribbon pbrslondon undergroundshttptcouc7qc8cd
+268139515166744577	sports	tjmcgaha32 you play basketball too
+268139501363281920	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268139493591232512	sports	loraleeee11 we cant play basketball silly were shorties myexcuse
+268139492274229248	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268139463677472768	sports	when jjpierson gets beamed in the head with a basketball funnyshit highaf
+268139418483826688	sports	man the gym is too far now guess no basketball
+268139405359857664	sports	rt bluntassasiaaa all oomf do is talk about basketball
+268139383876628481	sports	rt elliebaumann dear any boy that plays basketballdate me so i can make you glittery signs
+268139383486550016	sports	cant wait to come watch my brother play basketball though ballin
+268139355917410304	sports	basketball not my thing right now
+268139343498063872	sports	mizzou basketball leads the sec in assists after tallying 20 after one game they are tied for 8th in steal with 7 on the year
+268139304625246208	sports	anyone who loves the game of basketball should read dream team by jack mccallum hands down one of the best books ive ever read
+268139271184056322	sports	all oomf do is talk about basketball
+268139268650721280	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268139214678401024	sports	im actually so done with people im bout to just be bout basketballsschool thats it i cant fuck with bitch asses no more bangbang
+268139199989964800	sports	first game tomorrow its finally basketball season badgers
+268139177995034624	sports	so excited to finally be able to play basketball tomorrow seriouslyy makeseverythingbetter
+268139175780417536	sports	today while at basketball practice devingoohard said perry you weird af but thats why u my niigga
+268139172601143297	sports	himynameisaddie are you trying out for basketball
+268139150014820352	sports	mizzou basketball is 2nd in the sec in offensive rebounds with 50 and 11th in defensive rebounds with 40 on the season
+268139084113907712	sports	alexhansonsd hey how do i pay my dues for fantasy basketball
+268139078443225088	sports	xlookitspaige its even worse for basketball
+268139050010046464	sports	03swishnsweets lol tru it just gets old sometimes plus all i watch on there are the basketball highlights
+268139022164054017	sports	screw basketball
+268139009102983168	sports	mizzou basketball is fourth in the sec in fg at 471 and fourth for 3pt at 438
+268138983433859072	sports	cant wait for basketball season to start
+268138971048067072	sports	ready for tigers basketball hoopscity workflow httptcolvmnjufo
+268138787685670912	sports	new basketball shoes
+268138674548523008	sports	usu womens basketball usu has high hopes for new coach faster tempo httptconu93dvcs
+268138672858222592	sports	kstate basketball 2 nights in a row yes please
+268138655380541442	sports	got basketball practice in a few
+268138617057181697	sports	i am not moving sleepingintheagym outtashapeprobz basketball
+268138592616980481	sports	lincolns basketball floor is in such bad shape
+268138583259504640	sports	as of today mizzou basketball has scored the third most points 83 in the secshas allowed the 2nd most tied with kentucky at 69 pts
+268138575709745152	sports	womens basketballsmo southern st 25 manhattan chrst 12 1sts933
+268138567690227712	sports	rt gocreighton creighton mens basketball up to 13th passing ucla and michigan state in this weeks usa today coaches poll httptcot3can0a5
+268138556340465664	sports	the fact that basketball makes it almost impossible for me to talk to my friends and family in norway is depressingidk hatepractice
+268138548245446657	sports	off to the first basketball practice of the season gotta start it of right
+268138516372926464	sports	just saw the girls new practice jerseys and im not gonna lie im a little jealous hasbeen basketball
+268138501659308032	sports	rt emilythomper so happy i dont play basketball
+268138458260856832	sports	rmac mens basketball release 2shttptcov54ocqn2 httptcow0pa2jbn rmacmbb
+268138451147292673	sports	rt caraygrace tigernation follow tigersmedia for the latest coverage on tonights mens basketball season opener
+268138441135493121	sports	rt kimberlyann505 so to camron12 for being a stud as basketball
+268138433862594561	sports	rt kuhoops this place is huge what a spectacular venue for college basketballkubball httptcoytm3aq6z
+268138357857599492	sports	rt iamjwalker its finally here season opener memphis tigers basketball good times ahead gotigersgo dburgcarguy mdmcclenney memphisnick swvann
+268138326517764097	sports	now how am i gone manage basketball and indoor track lhh
+268138240840720386	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268138226278100992	sports	i dont know how to play basketball but everyday i work hard and get better and better
+268138206455812096	sports	finally hawkeye basketball all i can hope is that its better than hawkeye football this year no more embarrassments are needed
+268138170170892289	sports	spaghetti hawkeye basketball and mnf boy time at the bruess
+268138108078399488	sports	so to camron12 for being a stud as basketball
+268138072145797120	sports	so now im not playing basketball this year smh
+268138031511379968	sports	i never applied for no job and i sure wouldnt give uup basketball for a job
+268138022619455488	sports	first basketball practice check excitedfortheseason
+268137975173509120	sports	basketball tryouts
+268137968848490496	sports	only nprnews mike pesca can weave star wars and giotto into a piece on nba statisticssthe moneyball of basketball httptcocxgzy9ju
+268137967158190081	sports	im so glad its basketball season i love watching my little sister play basketball
+268137941828788224	sports	bout to get on these crab legs and tiger basketball
+268137921243127808	sports	rt jeffjames96 basketball wives la comes on tonight
+268137885348286464	sports	rt hannahspotts ahh man its good to be exercising again basketball firstpractice
+268137860492832768	sports	somebody from my basketball team told the coach that i had quit the team and got a job
+268137833770934274	sports	rt hibsssss home opener basketball game gohighlanders ru
+268137785511260161	sports	lets go cyclone basketball cyclonenation
+268137734265249792	sports	rt kirstenburger1 its time for basketball though positivethinking
+268137720088494080	sports	for real need to have capptaindope check my fantasy basketball team on a 02 start need some adjustments coach
+268137707295895552	sports	womens basketballsmo southern st 20 manhattan chrst 12 1sts1125
+268137576613953536	sports	rt wjeffjackson 5th grade basketball might be the funnest to watchi can remember the days
+268137563276070914	sports	oru kevi luper was named southland conference womens basketball player of the week
+268137558133833728	sports	rt therealestshit basketball todaysoh yeah baby
+268137556711989248	sports	rt eshepardjr this ku basketball team has entirely too many ppl on the squadand 3 of them are only there because of who they daddy is
+268137551741730816	sports	well have a great rest of the night i pray my show goes well anyone excited for 24 hours straight of college basketball
+268137471714410496	sports	had basketball practice 2daytired af
+268137471055888384	sports	its like twelve degrees out give up on the basketball shorts already
+268137399316525057	sports	i saw the basketball but that doesnt explain how you made the symbolschrisvench
+268137385047519232	sports	basketball team getting me sick oh no
+268137383671787520	sports	03swishnsweets thats a shame its basketball season it should be mandatorysmh
+268137296715472896	sports	donaldlee he wanted a huge pay check plus complete control of basketball decisions dantoni will actually utilize steve nashs game play
+268137273919434752	sports	good luck with basketball tryouts this week cant wait for another winning season
+268137265455308800	sports	it beginsselevateyourgame basketball 20122013 httptco7r31ogkw
+268137237298950145	sports	ahh man its good to be exercising again basketball firstpractice
+268137235298263040	sports	off to this filming hope i dont miss basketball wives lol
+268137181778964481	sports	rt aggiehoops aggie mens basketball hosts saint marys thursdayhttptcorzlzrisk
+268137163630206976	sports	i already dont see moaky20 enough now she has twoadays for basketball which means i probably wont see her all week sisterwithdraws
+268137139559096320	sports	rt jhoeck usds nicole seekamp nicoleseekamp35 named summit league womens basketball player of the week 19s18 points in 11 start for coyotes
+268137128666484736	sports	uconn enters top 25 after 10month absence the opening weekend of the 201213 college basketball season did lit httptcolexhyd0b
+268137077378527233	sports	rt lyoncollege mens basketball team at semo tonight go scots
+268137072307625984	sports	i miss football but glad basketball is here
+268137061335322624	sports	rt geoffconn larry eustachy is addicted now to diet coke csurams rt denverpost httptcoelyfx9g7
+268137056688033792	sports	rt tawmvp stoked for intramural basketball d
+268137029890617344	sports	marcuswheat81 go out for basketball talented
+268137023070695424	sports	i feel the pressures of my basketball schedule starting to clash with my hwsclass schedule scarrrrry feeling seniorclasses almostdone
+268137014090686465	sports	tu guard james woodard is named conference usa mens basketball freshman of the week
+268136974005702657	sports	24 hours of college basketball looks like its gonna be a long night
+268136965659062273	sports	i guess everyone at truman decided to work out andor play basketball tonight stillgrinding crowded fab
+268136956049895424	sports	rt patoshajeffery freshman jayson tatum made unofficial visit to memphis tigers practice on saturday its never too early to letshttptco5uv0wnh2
+268136954338623488	sports	mens basketball trails lipscombbisons 4324 at half lipscomb used 133 run late in first half to build lead
+268136931811000321	sports	rt pledgerfan 201213 ou mens basketball intro video httptcoduz4ojki
+268136921941811201	sports	rt umtigersnews freshman jayson tatum made unofficial visit to memphis tigers practice onshttptco5lsjgyq8
+268136916195622912	sports	larry eustachy is addicted now to diet coke csurams rt denverpost httptcoelyfx9g7
+268136799841435648	sports	rt rachelauren11 i like getting out of basketball when the sun is still up basketballprobs
+268136796678934528	sports	girls either want the notebook type of love or the lovesbasketball
+268136767243296768	sports	rt rinabrunner im sorry but fuck the texans
+268136766991654912	sports	rt joannachadwick rt if you are thrilled basketball practice starts today favorite if you are still in football mode
+268136629703671808	sports	nonstop college basketball for almost 24 hours straight starting tonight at 9pm looks like i wont be sleeping tonight midnightmadness
+268136623189938177	sports	rt jeffjames96 basketball wives la comes on tonight
+268136556060086272	sports	shout out to all the youngins who started basketball practice todaysbestworst day of the year wish i was getting my butt into shape
+268136544957759488	sports	throughout my 16 yrs ive done basketball volleyball softball soccer track golf gymnastics cheersdance parents raised me right
+268136525190008832	sports	seanmorrison we dont need bastardized basketball games to show support for armed forces
+268136400170385408	sports	gopher basketball game tonight with my dadsalwaysagoodtime
+268136391840505857	sports	just signed up 4 basketball tho they trippinsup here sayiin u have 2 walk 2 partice wht they think this is
+268136387985956865	sports	basketball game tonight good luck guys rhodesrowdys harding
+268136370965450752	sports	much needed talk after basketball with my girrrrrl bfffz mckalalawler loveee you httptcoymws95ey
+268136368272732160	sports	rt ivonneex getting all excited with valerosee over the girls basketball game this wednesday yallzgotthis
+268136350816030720	sports	rt eswaggaa even though i dont play ball i love basketball season
+268136316397559811	sports	rt shoni1 possibly one of the greatest days tonighttomorrow with 24 hours of college basketballtipoff tonight
+268136300777967616	sports	rt thebogonater gosh horizons basketball team this year is such a joke
+268136285644943363	sports	ashleyowens2si am soo excited too but girlfran were watching wildcat basketball hahaha
+268136278934040577	sports	womens college basketballarkansas pine bluffskansas state httptcod3zkq4ri getglue collegebasketball
+268136259615076353	sports	rt seanard51 last first basketball lets go get em ladiesss
+268136221102968832	sports	ready to go pick up this new couch and then hit the court for some intramural basketball wit my guy tawf50 and korievire
+268136209723830272	sports	adidas basketball the return of d rose tv commercialswake up httptcoiagxavox via youtube
+268136182091743232	sports	rt cashkramer pretty depressing to not have basketball practice today or ever again
+268136093629685762	sports	got to help run tryouts for the boys basketball team i felt special
+268136063833358337	sports	espns 24 hrs of college basketball is epic every year id wish soccer would do the same thing but thats pretty much worldwide 365 days
+268136043616796672	sports	rt shamirski free t shirts at the basketball game
+268136040022286336	sports	getting basketball shoess yayy
+268136014327988224	sports	this ku basketball team has entirely too many ppl on the squadand 3 of them are only there because of who they daddy is
+268136012679634944	sports	samreissscontinued plays basketball so that doesnt apply and so nevermind
+268135967490191361	sports	trevorsgirl07 im only playing basketball to stay in shape nothingelsetodo me too
+268135949572128768	sports	106andpark saying you watch basketball and all you do when you when u get there is get them chips and watch spongebob
+268135947579838465	sports	liam my 5yo headed to the tigers game a lot of brown people play basketball and they are good at itbut not a lot of peach people true
+268135901299888128	sports	rt collectiblzulmt vintage dated 1975 all american lover 24 hour service pin not available during football basketball b httptco2u7ccmnl
+268135874707984384	sports	its not basketball season for me its halling wood season p
+268135832819470336	sports	rt hardingcab home opener for bison basketball tonight ladies handled business on saturday now its the guys turn 730 in rhodes
+268135787248369667	sports	rt spongebobnsandy itsrealgoldsshe always can come back knocking and ill let her in confessionnight well watch movies and play basketball
+268135776016011264	sports	rt andyglockner oh sweet the carrier classic will be back next seasonsno one httptcoaaeoftpu
+268135742788759552	sports	good luck to the hawks men basketball team dowork
+268135697339256832	sports	rt itsmeroscoe omggg i wonder if oomf remember that night we played basketballsgot madsthen sat on the side of my houseslmaoo good ole memories
+268135684043309058	sports	the ncaa basketball tournament snubs wichita again httptconimmnden
+268135674283163649	sports	having homework after basketballs
+268135663201832960	sports	rt jalandanielle chrissysmr jones family hustle basketball wives and teen mom all in one night i just might have a heart attack
+268135638157647873	sports	basketball tubbys and relaxationa good day off
+268135604213141504	sports	basketball wives la comes on tonight
+268135575104667648	sports	im trippin i havent looked at my fantasy basketball all week hopefully kobe went off
+268135573791838208	sports	rt andyglockner oh sweet the carrier classic will be back next seasonsno one httptcoaaeoftpu
+268135556788150272	sports	rt robanderson the ncaa mens basketball tournament is returning to omaha creightoncenturylink center omaha to host 2nd3rd round games march 2022 2015
+268135543714480129	sports	i have absolutely no one to go with me to the basketball game at kckcc tomorrow
+268135510860517378	sports	icymi i riffed quickly on boat games and the bastardization of basketball yesterday on my new facebook public page httptcomecnlcj9
+268135502346072064	sports	basketballsanything else
+268135478719545344	sports	rt jalandanielle chrissysmr jones family hustle basketball wives and teen mom all in one night i just might have a heart attack
+268135449527189505	sports	chillin having a good time relaxing needed a break from basketball and running
+268135429511974912	sports	rt therealestshit basketball todaysoh yeah baby
+268135425946836992	sports	rt taylorfrazier22 first day of basketball here we go
+268135419919605760	sports	devv93 ah ic thats good im going to basketball practice talk again sometime
+268135412223053824	sports	why does everyone like the cold i happen to do my worst in the cold thats why me gusta basketball
+268135405579292672	sports	rt afifteen espn espnw pat summit or tara vanderveersbuilt the womens basketball game to what is is today bestcoachever
+268135396934840320	sports	first basketball practice back and it wasnt that bad
+268135393839431680	sports	omggg i wonder if oomf remember that night we played basketballsgot madsthen sat on the side of my houseslmaoo good ole memories
+268135376407912448	sports	rt robanderson the ncaa mens basketball tournament is returning to omaha creightoncenturylink center omaha to host 2nd3rd round games march 2022 2015
+268135372834349056	sports	usu basketball preston medlin named utah state studentathlete of the week httptcooqtm8jpg utahstate
+268135355608350721	sports	thanks to my teammates for choosing me to be one of our team captains basketball ladyspartans loveyouguys
+268135352982716416	sports	rt levidenimflow yall better tu at the basketball game fvsu
+268135320795635713	sports	rt elliebaumann dear any boy that plays basketballdate me so i can make you glittery signs
+268135313824694273	sports	day 1 of basketball cheer complete
+268135303351508992	sports	chrissysmr jones family hustle basketball wives and teen mom all in one night i just might have a heart attack
+268135303280226305	sports	oh sweet the carrier classic will be back next seasonsno one httptcoaaeoftpu
+268135291800391680	sports	basketball boys swag yess
+268135288327503872	sports	free t shirts at the basketball game
+268135284699443200	sports	rt dallasboys23 espncbb shoot im stoked cant wait basketball season is finally back golobos unmerciful basketballneverstops
+268135229905043456	sports	yall better tu at the basketball game fvsu
+268135204076523522	sports	rt trillygsavage schoolsbasketball is my main focus
+268135176075370496	sports	rt cscchialpha tonight starts a few too manysspent at armstrong let the basketball season begin goeagles mensandwomensbball
+268135174636716033	sports	allthewayivy25 basketball man
+268135121994018816	sports	alright first try out of basketball in 25 minutes lets go
+268135114414891009	sports	rt hardingcab home opener for bison basketball tonight ladies handled business on saturday now its the guys turn 730 in rhodes
+268135100900859904	sports	mens basketball young on wooden award preseason list bj young of the mens basketball team httptcoz6rcpji8 via arkrazorbacks
+268135091815985152	sports	everybody going basketball shoe shopping i have to nike id mine to get the color i want and wait for another month to get here
+268135068214628352	sports	elsonphilshave a great call fun time of year for you doing double duty playoff footballsd1 basketball soak it up
+268135066813747200	sports	two womens basketball games on tapsindiana state hosts marshall and bradley at eastern illinoisshttptco9boagiwz mvchoops
+268135034408542208	sports	rt denverpost larry eustachy csu rams basketball coach talks about past addiction problems httptcor2b2wqlx by nuggetsnews
+268135030528802816	sports	celebrating my oldest making the basketball team at his schoolshighland grill httptcouvcqvgvc
+268135016003948544	sports	kmcguire06 there will be beer and basketball in my evening i promise you that
+268135002124996608	sports	on my way back hopefully i get there in time to catch the basketball game lets go scwarriors
+268134977760288768	sports	rt iamjwalker its finally here season opener memphis tigers basketball good times ahead gotigersgo dburgcarguy mdmcclenney memphisnick swvann
+268134971020034049	sports	i am dreading house basketball tomorrow
+268134963130552320	sports	even though i dont play ball i love basketball season
+268134913583226880	sports	my favorite sports soccer basketball football rugby
+268134907073679361	sports	i got 5 for basketball so excited basketball practice starts tomorroe basketball
+268134906440339458	sports	mens basketball vs central baptist at 730 pm in searcy ar httptcoxlhkzlbs httptco04gg3rls httptcovqxffq8p
+268134905198817281	sports	try outs for basketball in a bit wishmeluck
+268134858180669441	sports	basketball practice overswagon off
+268134843706122241	sports	three mens basketball games on the schedule tonight dan mullersbarry hinson open up the 201213 seasonshttptco4ufk0ciq
+268134775221547008	sports	dakotahaight tomorrow nightsi have stuff to do after basketballsi need to go to walmart
+268134702756536320	sports	rt johnb20 holmzy91 danreynolds7 dunno it was close i think was a closer battle than samteather1 basketball match with a pavement
+268134679008399360	sports	rt shoni1 possibly one of the greatest days tonighttomorrow with 24 hours of college basketballtipoff tonight
+268134649627279361	sports	rt kuhoops this place is huge what a spectacular venue for college basketballkubball httptcoytm3aq6z
+268134613950529536	sports	aggie mens basketball hosts saint marys thursdayhttptcorzlzrisk
+268134595449458688	sports	first day of basketball here we go
+268134583868985344	sports	rt elliebaumann dear any boy that plays basketballdate me so i can make you glittery signs
+268134562540965888	sports	have a cleveland basketball legend in your pocket cavsshttptco0no66ppp
+268134524435697664	sports	aggie mens basketball hosts saint marys thursdayhttptcoqlckfqwh httptco6kk8usnn
+268134517280210945	sports	going to the gym to workout and i end up playing basketball for 3 hours ballinsloveit
+268134490344398850	sports	gosh horizons basketball team this year is such a joke
+268134481930620928	sports	hawkeye basketball tonight herewego tsfor3s
+268134443011678208	sports	miaa basketball jamboree schedules games are wednesday at white station and thursday at hamilton
+268134413563465728	sports	24 straight hours of college basketball and no class tomorrow this is gonna be interesting
+268134396278759425	sports	possibly one of the greatest days tonighttomorrow with 24 hours of college basketballtipoff tonight
+268134377530212353	sports	id advise for the basketball boys to leave there bottles with me after practice so i can start washing them all of them seriously stink
+268134375974137856	sports	thank god for no basketball practice today honestly i just dont think that i would have been able to make it through a workout today
+268134372413149185	sports	dakotahaight i have basketball in an hour
+268134360098680832	sports	rt furrtheboys i wouldnt mind playing a little basketball
+268134292348096512	sports	home opener basketball game gohighlanders ru
+268134286966784000	sports	elliebaumann dear any boy that plays basketballdate me so i can make you glittery signs
+268134285846917121	sports	basketball todaysoh yeah baby
+268134284383117314	sports	lets see what iowa basketball has this year
+268134225117589504	sports	dear any boy that plays basketballdate me so i can make you glittery signs
+268134220910718976	sports	rt sammiesaunders amia you not gone be able to play basketball
+268134201973420032	sports	rt denverpost larry eustachy csu rams basketball coach talks about past addiction problems httptcor2b2wqlx by nuggetsnews
+268134169459167232	sports	basketball is here and there is only one source for recruiting coverage and analysissget 30days free atshttptcoq5c9qdw8
+268134168528048128	sports	alexxberea i love basketball wives
+268134148810608640	sports	rt goughash just saw a replay of last years ku vs mu basketball game at afh epic rockchalk
+268134132331204608	sports	a female that play or watch basketball
+268134049065889793	sports	destinywheeler you play basketball
+268133970326216704	sports	man i thought about doin basketball but im koo thou
+268133967302123520	sports	amia you not gone be able to play basketball
+268133958447931392	sports	came to a inclusion that i am not playing basketball this year
+268133944199876608	sports	rt gocreighton creighton mens basketball up to 13th passing ucla and michigan state in this weeks usa today coaches poll httptcot3can0a5
+268133910846783488	sports	lovesbasketball was not all that great lol yall hype that movie up
+268133860599033857	sports	first basketball practice of the season tonight
+268133770874474496	sports	damian lillard and anthony davis are on their own level when it comes to this years rookie crop rotowires rpr httptcohyb8laar
+268133750515322880	sports	i wouldnt mind playing a little basketball
+268133740780331009	sports	baseball playerssbasketball players
+268133737546534913	sports	rt uahctsports the uahchargers mens basketball team will be the first d2 team to ever play in the nit tipoff tonight listen at 930pm on 977fm
+268133731716444160	sports	charlotte bobcats update suns blast bobcats with bevy of brown bombs httptcojambccbq nba basketball
+268133691186880512	sports	san antonio spurs update nba power rankings separating contenders from pretenders in young season httptcohzjesctr nba basketball
+268133663294763011	sports	los angeles lakers update phil jackson reply expected monday httptcoi5wkpxgg nba basketball
+268133658794283008	sports	i swear if i stay sober through my whole basketball season like im planning to i will be so facking proud of myself
+268133650367918080	sports	i love watching little kids sit and play with their toys during a basketball game toocute
+268133618721906688	sports	basketball is life
+268133531400691714	sports	bandana basketball shorts kinda day tomorra duncare
+268133520122200066	sports	the uahchargers mens basketball team will be the first d2 team to ever play in the nit tipoff tonight listen at 930pm on 977fm
+268133514552172544	sports	huge so to my sweet brother mikebamrick32 for being the only freshman to make the varsity basketball team love my lil baller goeagles
+268133503751819264	sports	rt kgynradio aggies open basketball season with 14363 blowoutsby daulton perry goodwell oklasthe opsu mens basketball httptcoikpf6582
+268133355751616513	sports	rt pac12 stanford f chiney ogwumike and colorado f arielle roberson are the pac12 womens basketball pow httptcob2sxef11
+268133342854123520	sports	ready to watch some basketball
+268133335853834240	sports	rt snowcollege snowcollege basketball come support the badgers vs monroe college from new rochelle ny tonights730 pm in the horne activity center
+268133302202941441	sports	lets behonest lebron is a better basketball player than kobe
+268133295395586048	sports	pizza and basketball fauck
+268133276911300610	sports	rt mychaltaylor the girls who obsess over football players during football season basketball players during basketball season etcsno
+268133210280558592	sports	and 24 hours of college basketball starts on espn at midnight tonight
+268133175971172352	sports	oklahoma mens basketball sooners overcome scoring droughts to beatshttptcounle2moa
+268133129171107840	sports	managing guys basketbeall i love watching bascketball and its guys basketball even better
+268133116458188800	sports	could not be more excited for college basketball and ku tonight rockchalkjayhawkkuuuuuuuuuuuuuu 2013ncaachamps
+268133041434656769	sports	rt mercykroh when people expect me to be nice during basketball games ummno gohardorgohome foulhardbaby
+268133037353615361	sports	after basketball i get home and my mom has burritos ready and i dont even want itthatsafirst notevenhungrynow
+268132983767179264	sports	skogs02 leebogealow10 rderickson9 jdesser11 ardouglas24 basketball helps with conditioning which is good for baseball just my opinion
+268132973231108100	sports	basketball is surprisingly interestings
+268132972094431232	sports	jr high basketball tcps at dorsey go eagles
+268132967124185089	sports	cobra middle school girls basketballsbteamsvalley falls beat jhs 245
+268132949331943424	sports	i bet my manager wouldnt yell at me for being on my phone if he knew i was setting my fantasy basketball lineup oh and tweeting
+268132937264947201	sports	first day of basketball 2012 httptcoggiuf8cn
+268132915236446208	sports	sports uconn enters top 25 after 10month absencesthe opening weekend of the 201213 college basketball season di httptcomrodrpgx
+268132881090609154	sports	won basketball game today 447 im captain of the best team ever 3 won basketball game
+268132869002645504	sports	ou sooners basketball oklahoma opens season with big winshttptcocxt0xihx httptcozifqmapk
+268132819165929472	sports	rt calebwethy i cant wait to be at the jv basketball games bearpride
+268132812719259648	sports	people can recover from alcoholism and live productive healthy lives inspiring story from csu rams coach httptcoygi7scdk
+268132763146801152	sports	semo is playing lyon college tonight in basketball lyon college plays victory college yes there is a victory college
+268132664727441408	sports	good luck to all the boys trying out for basketball tonight
+268132663284621312	sports	usc mens basketball took down coppin st friday night to open the 201213 season with a vict httptcoyh4aw4zy usc trojantweets
+268132624122380288	sports	basketball practice trojans 2012 3 24 work ballislife ayyo1tsquans hot springs high school httptcoaxmel9m1
+268132604379803648	sports	i feel like talking basketball right now
+268132596758749184	sports	5th grade basketball might be the funnest to watchi can remember the days
+268132584616230912	sports	memphistigers basketball is finally here
+268132548968861696	sports	basketball practice tonight im pumped
+268132521517129728	sports	rt centurylinkoma the ncaa basketball tournament will make a return trip to omaha in 2015 we will host second and thirdround games on march 20s22 2015
+268132515225665537	sports	rt krnickels im glad caseyfreeman1 is gonna rep my number 3 this year in basketball represent
+268132493482401793	sports	utah jazz instant analysis jazz prove again theres no place like home httptcokpdxnpib
+268132454571839488	sports	rt litademiah and it begins basketball 20122013
+268132437215817728	sports	mbbsreminder that mens basketball at regis tomorrow november 13 has been moved up to a 5pm tipoff go wildcats
+268132419931099137	sports	im glad caseyfreeman1 is gonna rep my number 3 this year in basketball represent
+268132408153493504	sports	rt justinjj32 i hope k state wins the championship in football and ku wins it in basketball representkansas
+268132351924641792	sports	wyo basketball plays my dads alma mater south dakota on wednesday cant wait for that matchup
+268132260950208513	sports	best of luck to the young one mr birtsmrpattybeestonight going big in his last season of high school basketballkeep god firstsgo big
+268132201332346881	sports	sonnyrose405 shout out to my son for making the delcity high school basketball team he made it thats an atchison for you
+268132192000032768	sports	chrizyboo fuck nosno one likes basketball
+268132174283296768	sports	sportssuconn enters top 25 after 10month absencesthe opening weekend of the 201213 college basketball season d httptco4xxkk5tt
+268132173859651584	sports	cant wait to start out iowa state basketball journey with dopeaminasstoked iowastatebasketball
+268132140359774209	sports	zips basketball game today yeah buddy
+268132135695687681	sports	home opener for bison basketball tonight ladies handled business on saturday now its the guys turn 730 in rhodes
+268132123276353536	sports	raises hand rt whatthefaulk whos coming to the ru basketball game
+268132120650731522	sports	got a free tumbler at the ru basketball gameshttptcoxmh0g7ho
+268132120038367232	sports	icymi weekly tv schedule for b1g basketball httptcotyx09h5k ive since updated this w new rankings will post these every monday
+268132117374980096	sports	rt njsloankck basketball tryouts are dumb most of the coaches i know already have set rosters which is dumb make them work for the starting positions
+268132098479636480	sports	just saw a replay of last years ku vs mu basketball game at afh epic rockchalk
+268132033140760576	sports	is goin to die tomorrow basketball
+268132001171787777	sports	rt 51hitz pumped for basketball ready for for jerry to start insulting people nicecatchpussy
+268131992795746306	sports	mexasian23 ill be in lawrence thursday for the basketball game ill drop it at one of the girls places so itll be easier for you to get
+268131978723872768	sports	new wildcat basketball gear bestdayever thanks carlsonnathan
+268131966627491840	sports	michigan law helped me find an alum in the cities to talk to he used to play basketball there neat im girlishly excited to meet him
+268131938940899328	sports	rt jhoeck usds nicole seekamp nicoleseekamp35 named summit league womens basketball player of the week 19s18 points in 11 start for coyotes
+268131934792740864	sports	rt ivonneex getting all excited with valerosee over the girls basketball game this wednesday yallzgotthis
+268131910906167297	sports	really wishes she was doing basketball this year
+268131829742186496	sports	i wanna quit basketball but my parents and my sister dont let me
+268131827426926594	sports	playing some basketball always helps clear my mind
+268131820170797056	sports	dont let her fool ya we all know half the baseball n basketball team ran through that thatfemale
+268131817696149504	sports	i need some basketball shoes like asap
+268131775144919040	sports	i miss volleyball so much i was at basketball practice tryna pass that ball like its a damn volleyball
+268131699186089984	sports	rt squirtbradley whenever people try to talk to me about basketball i pretend like i know what theyre talking about and just laugh and say yeah
+268131669586882561	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268131640532951040	sports	rt denverpost larry eustachy csu rams basketball coach talks about past addiction problems httptcor2b2wqlx by nuggetsnews
+268131638083457024	sports	timberwolves roy adjust to knees basketball mortality first theres the instinct then comes the caution the nba httptcof12lfqrj
+268131576741756928	sports	rt kgynradio aggies open basketball season with 14363 blowoutsby daulton perry goodwell oklasthe opsu mens basketball httptcoikpf6582
+268131555690549251	sports	rt kuhoops this place is huge what a spectacular venue for college basketballkubball httptcoytm3aq6z
+268131520059936768	sports	area girls basketball players face common nemesis acl injuries httptcobuye1d93
+268131494311116800	sports	tcu basketball start right now on foxsw
+268131479203233793	sports	i must say im ready to watch my lil bro kh103 do work this yr sryr basketball
+268131450329645056	sports	basketball wives ti and tiny and keyshia colesdaniel tonight
+268131432982003715	sports	i dont know if im going to do basketball
+268131428636717056	sports	rt denverpost larry eustachy csu rams basketball coach talks about past addiction problems httptcor2b2wqlx by nuggetsnews
+268131415110070272	sports	rt kuhoops this place is huge what a spectacular venue for college basketballkubball httptcoytm3aq6z
+268131344595431424	sports	rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcovoy0upnl gotigersgo
+268131257601372161	sports	i need to get a gym membership at a place with a basketball court again
+268131207353626624	sports	larry eustachy csu rams basketball coach talks about past addiction problems httptcor2b2wqlx by nuggetsnews
+268131190488322050	sports	rt antionecprme basketball season this is easily the best time of the year
+268131109248827392	sports	soo pumped for my basketball game in 2 hours
+268131085295157248	sports	rt mshsljohn monday is a big day the first day of practice for mshsl boys hockey girls basketball gymnastics alpine and nordic skiing letsdothis
+268131071042920448	sports	freshman jayson tatum made unofficial visit to memphis tigers practice on saturday its never too early to letshttptco5uv0wnh2
+268131067821715457	sports	rt mauchsami jr high basketball is like playing with a bunch of 2 year olds whattajoke
+268131063694495744	sports	still number one in this fantasy basketball league soaking it in this wont last
+268130992894644225	sports	getting all excited with valerosee over the girls basketball game this wednesday yallzgotthis
+268130941581524992	sports	good luck to the girls basketball team
+268130927476084736	sports	best of luck to the galena girls who open their basketball season tonight
+268130829102874624	sports	ready for hawkeye basketball httptcorojneil1
+268130813554589696	sports	shockingssighimemphistigers memphis tigers guard geron johnson suspended for three games httptcons0lcimf
+268130731237179393	sports	females aged 1019 years sustained sports and recreationrelated tbis most often while playing soccer or basketball or while bicycling
+268130717064642561	sports	good luck to all of our multisport vballers at basketball tryouts today be great ladycoltsbball
+268130661540429824	sports	rt zuzubair14 basketball tryouts were fun and short
+268130628493512705	sports	basketball season this is easily the best time of the year
+268130590920953857	sports	when people expect me to be nice during basketball games ummno gohardorgohome foulhardbaby
+268130588035280896	sports	you motherfuckers will be playing basketball in pelican bay when i get through with you
+268130573367795712	sports	seats at the basketball game httptcoaugmhhro
+268130475715985409	sports	rt memgrizz rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcocppdvkdn gotigersgo
+268130449417707521	sports	going to the basketball game tomorrow to see my bf
+268130413506080769	sports	i dont like that theres a basketball game goin right now football
+268130357373698048	sports	night basketball cold
+268130352776744962	sports	frankrezzano haha same just started basketball
+268130314814099456	sports	rt tweetthereal some girls really do have aspirations of becoming a basketball wife though
+268130306266128384	sports	its cold outside and im going to play basketball
+268130284153737217	sports	eating pizza at pagliais and than to cha for some hawkeye basketball woohoo
+268130262964121602	sports	rt tweetthereal some girls really do have aspirations of becoming a basketball wife though
+268130246614740992	sports	rt lindslevv whos ready for basketball practive no
+268130228533080064	sports	24 hours of college basketball would be awesome to watch if i actually had cablesbs
+268130222556184578	sports	rt christineldg midnight madness espn 24 hours of college basketball unmlobos so many amazing things in one tweet cant wait
+268130215245516801	sports	im addicted to cute girlssbasketballscosmic brownies
+268130215224553472	sports	rt cotteyangela the cottey comets basketball team will have their home opener tomorrow tuesday november 13 at 6 pm in the httptcos6g7kzac
+268130147113250816	sports	rt memgrizz rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcocppdvkdn gotigersgo
+268130126787665920	sports	jonescc ha i hope youre enjoying life after basketball
+268130118805889024	sports	monday night basketball letsgo tjcavaliers
+268130060865769474	sports	i cant wait to be at the jv basketball games bearpride
+268130041144152064	sports	rt centurylinkoma the ncaa basketball tournament will make a return trip to omaha in 2015 we will host second and thirdround games on march 20s22 2015
+268129990141423617	sports	rt beautifulz back from basketball practice
+268129987352227840	sports	disagree kevin love durant or kobe 12thman here sir rt earlthomas jharden probably the best scorer in basketballrockets
+268129979345285120	sports	ppl really get in their feelings when it comes to this basketball shit like they getting paid for it but why tho
+268129977042620416	sports	rt centurylinkoma the ncaa basketball tournament will make a return trip to omaha in 2015 we will host second and thirdround games on march 20s22 2015
+268129958424100864	sports	my new basketball shoes are so comfortable hyperdunks
+268129949305671680	sports	why do i always get sucked in to old college basketball games on espn classic i mean really i love college hoopsold new whatever
+268129946440982529	sports	i spose ill go to the basketball game tonight only for flex cam though
+268129885296410624	sports	but just cause im gonna be a basketball wife dont mean ima live off that niggas money i will have my own
+268129860990418944	sports	im going to carver for the basketball game anyone else going go hawks
+268129836147552256	sports	rt jimmiekaska audio uwecblugolds report with womens basketball coach tonja englund week 1 httptcom9g7t378
+268129832590774272	sports	rt kcacsports live video of the tabornewman mens basketball game tonight is available herehttptcoeaz6f4mbslisten to callison1410 call the game
+268129831131168768	sports	the girls who obsess over football players during football season basketball players during basketball season etcsno
+268129826731331585	sports	rt imonlyaprincess tweetthereal some girls really do have aspirations of becoming a basketball wife thoughsmesshrugs
+268129824873279488	sports	ou sooners basketball oklahoma opens season with big win httptcomhilughv
+268129818711822336	sports	been drinking a lot of this to get ready for tonight intramural basketballs waldorf college httptcob8r57ymd
+268129816857944065	sports	headin to nsu with to watch some basketballsif i dont die from hefoneal137 driving first readytobethere
+268129811782836224	sports	first day of basketball practice outofshape
+268129805772410880	sports	i was a tomboy so if they wanted to play basketball i was all for itsbut dont come to me with that liking crap i would faints
+268129805738840065	sports	rt sexiiboi79jones i wanna play basketball with u httptco7pqdpavz
+268129780728217600	sports	rt iamjwalker its finally here season opener memphis tigers basketball good times ahead gotigersgo dburgcarguy mdmcclenney memphisnick swvann
+268129765020553217	sports	free gophers basketball tix for tonight section 224 row 1 seats 1415 behind gophs 2nd half basketball
+268129761824485376	sports	rt kaylieacollins watching savcol00 play basketball gogirls
+268129685274259457	sports	just got out of basketball
+268129675199512576	sports	godsgift3snext year louisville basketball will be just as good
+268129674385817601	sports	whenever people try to talk to me about basketball i pretend like i know what theyre talking about and just laugh and say yeah
+268129649207414784	sports	tweetthereal some girls really do have aspirations of becoming a basketball wife thoughsmesshrugs
+268129637454979074	sports	my family is already planning on making customized shirts for me basketball is big so they want to wear and represent my number and team
+268129627703218177	sports	back from basketball practice
+268129583411372032	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268129582069211136	sports	rt christineldg midnight madness espn 24 hours of college basketball unmlobos so many amazing things in one tweet cant wait
+268129575287009280	sports	rt kyleanordsiek5 first basketball game trojannation
+268129551882809345	sports	junior high basketball game
+268129495586844672	sports	rt midgetking101 caint wait to hear tweets about how much basketball practice sucked sarcasm
+268129461172596736	sports	realderekgood look at this roster httptcogomwudjs everyone else besides varejao a nonthreat offensively is legit terrible
+268129399851872256	sports	rt shayleeraenay ericadriskill and i smashing gfaulkner116 in basketballswinning
+268129382994956288	sports	leebogealow10 rderickson9 jdesser11 ardouglas24 jwpeezy4 my point is that the basketball needs the people out and ur good adam haha
+268129343534940160	sports	imsuccessfulme haha i miss u too how is basketball going
+268129320369786880	sports	doing concessions for a basketball game
+268129314980118528	sports	when charliehorsesasks if is shes good at basketball and starts laughing hahahaha messedup
+268129281459240961	sports	rt christineldg midnight madness espn 24 hours of college basketball unmlobos so many amazing things in one tweet cant wait
+268129265332154368	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268129256842883074	sports	first basketball game trojannation
+268129235208654850	sports	ericadriskill and i smashing gfaulkner116 in basketballswinning
+268129224844509184	sports	caint wait to hear tweets about how much basketball practice sucked sarcasm
+268129197241802752	sports	i cant believe someone took my basketball at the ac sadtweet
+268129189184552960	sports	rt lindslevv whos ready for basketball practive no
+268129185288040448	sports	rt brittneylayber5 shoutout to all the basketball girls wish i was playing with you all this season goodluck superfan
+268129121966637056	sports	rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcoouboaxrm gotigersgo
+268129111254388737	sports	i lowkey hate watching womens basketballthey are sooooo clumsy to meeverytime i turn around somebody on the floor
+268129107777298432	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268129102551212033	sports	roadtorio rtzachishere maybe if kansas and missouri leave the union we can both play basketball against eachother again in the olympics
+268129097857773568	sports	macy smells like my basketball shoes needsabath
+268129082682777600	sports	guess ill go to the basketball game
+268129027208916992	sports	whos ready for basketball practive no
+268128976805974016	sports	not a big fan of these adidas basketball shoes pretty sure i sprained my toe nikealltheway
+268128906899505153	sports	rt thebesthazel your basic af if you wanna be a basketball wife
+268128871474425856	sports	rt cdenecke1 i cant wait to cheerlead at at this girls basketball game shitnobodysays
+268128847730470913	sports	realliampayne do you like basketball
+268128847302643713	sports	realliampayne do u like basketball liamsx i have practice tonight yay d
+268128828839321600	sports	skcbensa thenumber65 maybe if kansas and missouri leave the union we can both play basketball against eachother again in the olympics
+268128815706935297	sports	rt thomaselig theme for the basketball game this friday is senior citizens bonus points if you bring your grandparents to the student section gorams
+268128812963856384	sports	rt thebesthazel your basic af if you wanna be a basketball wife
+268128803707052032	sports	rt peabodymemphis were ready for memphis tigers basketball gotigersgo httptcojdgfntuf
+268128773243817985	sports	what happened to twoadays i miss basketball callmecrazy
+268128684584620034	sports	judy trying out for basketball this year httptcop0hsujti
+268128678637088768	sports	no basketball game for this girl tonights but good luck gophers
+268128665747988480	sports	rt sexiiboi79jones i wanna play basketball with u httptco7pqdpavz
+268128652825341952	sports	next up basketballsstephen shooting httptcorpgvulov
+268128630234832897	sports	uconn enters top 25 after 10month absence the opening weekend of the 201213 college basketball season did lit httptcozntalqyw
+268128610290921472	sports	basketball season is my favorite time of the year by far
+268128569530675200	sports	its finally here season opener memphis tigers basketball good times ahead gotigersgo dburgcarguy mdmcclenney memphisnick swvann
+268128534860533761	sports	broadcast info for the acura coaches vs cancer classic games in brooklyn on friday and saturday httptcobyekhpon byuhoops
+268128511213060096	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268128475993497600	sports	so my fantasy basketball team is in 1st place without me even understanding how it got there ill take it
+268128465927172098	sports	we face lincoln tomorrow for basketball
+268128443726716929	sports	rt 22ball4ever i got four basketball games this saturdaysand my team is not near ready fuuuuuuck
+268128435233243136	sports	well giving this basketball thing a shot
+268128421765320706	sports	leebogealow10 rderickson9 jdesser11 ardouglas24 jwpeezy4 had aau basketball throughout the whole summer different situation
+268128410528776192	sports	your basic af if you wanna be a basketball wife
+268128391205634048	sports	rt struby15 basketball tryouts tonight are going to be the death of me
+268128388844249088	sports	whats the university of memphis twitter account or the basketball account
+268128363841982465	sports	rt sexiiboi79jones i wanna play basketball with u httptco7pqdpavz
+268128342274879488	sports	good luck to everyone trying out for basketball jfhsoftball kendallmarie14 roo2015 tatyanalegette cassidyhenry everyoneelse
+268128240382656512	sports	rt mbjmemphis memphis has been selected to host the 2014 south regional for the ncaa division i mens basketball tournament httptcovnevbslz
+268128224561725440	sports	some girls really do have aspirations of becoming a basketball wife though
+268128099407888384	sports	i love some ncaa basketball
+268128077190684673	sports	realliampayne i hurt my hip at basketball today come rub it
+268128067988381696	sports	audio uwecblugolds report with womens basketball coach tonja englund week 1 httptcom9g7t378
+268128013835726848	sports	listen to the home opener of the umsl tritons womens basketball team tonight at 700 pm as they take on httptcoxtavpmtt
+268127981610885120	sports	i wanna play basketball
+268127944629690368	sports	audio uwecblugolds report with mens basketball coach matt siverling week 1 httptcoqgqv4yaq
+268127796038103042	sports	rt memgrizz rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcocppdvkdn gotigersgo
+268127758427762688	sports	rt footlongcarndog cant wait to get my college basketball fill tonight 24hourhoops
+268127696817643521	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268127695001513984	sports	basketball basketball basketball
+268127658217451521	sports	rt umtigersnews freshman jayson tatum made unofficial visit to memphis tigers practice onshttptco5lsjgyq8
+268127651716268032	sports	girls basketball game tonight get to see my favorite player 3
+268127637375942658	sports	duuude sersly we needa start basketball im dyinnng
+268127462444105728	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268127438893109249	sports	i wish feliciaroppe was playing basketball lol
+268127422753406976	sports	buy a rally towel for your next big basketball event they are customizable and sure to be a hitshttptcobxj8t1nz
+268127311033925633	sports	who going to the basketball game tho
+268127305472282625	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268127296634888192	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268127234538233856	sports	basketball messed my feet up
+268127208076353536	sports	utahjazz basketball is on your airwaves pre game coverage starts now w myself and scottyg1280 lockedonsports takes over for 500 tip
+268127190456086528	sports	aw yeah basketball season octagonofdoom ksu httptcoxqokqohp
+268127184147865601	sports	sugarfreesweety friends were asking with basketball going on wouldnt it be funny if i was mistaken for a celeb and got a verified acct
+268127137750474752	sports	rt pics from the boys basketball game today for chance to win a free tshirt from the swagg shop timberwolves
+268127119215849473	sports	basketball game tonight
+268127071090388992	sports	going to try and work on two group projects tonight at hale while also watching the kstate basketball game and mnf on espn3 good idea
+268127005130776576	sports	just wanna play basketball thatsit
+268127000722567168	sports	dschilke17 since im taking a night off of bowling do i watch kc chiefs or michigan basketball suchahardchoice you arnt bowlingi am
+268126978316595201	sports	icylubesy u have such long basketball practices fuuuuuu wah imissyou
+268126977418985472	sports	mentionto mentionto the best basketball player in your school daniielrivas
+268126973560242176	sports	rt seancallahan funny stuff from tom osborne in a trivia contest at sundays mens basketball game httptco6gn9ui8g huskers
+268126882887786496	sports	gameday emaw kstate basketballslamarstheir limpwristed throwing style
+268126863434579968	sports	i need a dry erase calendar for basketball season
+268126858070085633	sports	rt kyleveazey the ncaa mens tournament south regional in 2014 will be played at fedexforum httptcoy80smt2k
+268126845499760640	sports	rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcovoy0upnl gotigersgo
+268126843121577984	sports	rt memgrizz rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcocppdvkdn gotigersgo
+268126840642736129	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268126824553394176	sports	rt doctorjay sheps basketball is gonna be cold this year watch out
+268126813841137664	sports	shout out to my son for making the delcity high school basketball team
+268126764633563139	sports	strongfife who knew that 8th grade girls basketball games could be so exciting httptcoahwuzsth
+268126709700767745	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268126705225433089	sports	yay i might be able to go out for basketball if i wrist is feeling better
+268126673889804288	sports	rt haleybrodnick officially no lfe basketball
+268126559620186112	sports	201213 ou mens basketball intro video httptcoduz4ojki
+268126506784538625	sports	haha what if during basketball practice one direction showed upsjuliacollinz
+268126490674208769	sports	tdeal12 nah man basketball has changed you
+268126446940209153	sports	roshonatane is ashi actually on the varsity basketball teamsreal fucking talk hahah
+268126440480972800	sports	tryna get pumped music basketball
+268126396889571328	sports	redskin basketball time
+268126349724631041	sports	since im taking a night off of bowling do i watch kc chiefs or michigan basketball suchahardchoice
+268126324432982017	sports	wish my girlfriend wasnt at basketball practice so i had someone to talk too
+268126299988561920	sports	rt dararoseee tuned into the centenary vs tcu basketball game gogents
+268126286701002752	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268126259891032064	sports	i miss basketball with the fellas today and it didnt even rain for too long smh
+268126245483585536	sports	i love being grounded from basketballspleasegofall
+268126241658376194	sports	basketball tryouts tonight nervous
+268126236713287680	sports	had to guard unis starting runningback david johnson today in pick up basketball
+268126233609506819	sports	i hate that i cant make decisions basketball in collegesyes or no
+268126157797457920	sports	memphis has been selected to host the 2014 south regional for the ncaa division i mens basketball tournament httptcovnevbslz
+268126126788997120	sports	rt carlyheinnn so excited for millard north basketball games thebest
+268126124524060673	sports	sheps basketball is gonna be cold this year watch out
+268126112104734721	sports	tuned into the centenary vs tcu basketball game gogents
+268126051887116290	sports	were ready for memphis tigers basketball gotigersgo httptcojdgfntuf
+268126030575841280	sports	w basketball hawkins named acc player of the week maryland terrapins official sitessen httptco5vzs8vm1 terps terpnation
+268125998439096320	sports	that feeling when tryouts r in a hour and basketball is the only thing on your mind
+268125996950114304	sports	love being a basketball managersboys myboy 23 gameface thisfriday basketballseason 3
+268125946974990336	sports	athletics mens basketball mens basketball routes morningside httptcowzpfikdb
+268125835746234368	sports	charles wants to lose in basketball lol
+268125834030772224	sports	rt stopitniam aw liam and danielle playing basketball together httptcovdcxtj6nlmaooooooo
+268125821527531520	sports	freshman jayson tatum made unofficial visit to memphis tigers practice onshttptco5lsjgyq8
+268125807682142210	sports	whelp heres basketball season pumped
+268125713561960448	sports	at dis 8th grade basketball game lil dude play like josline lol
+268125712370790400	sports	rt rohanrreddy basketball season finally fuckin here lobos mwc
+268125678426288128	sports	wtf i am such a wimp bc i have a headache and my parents wont let me practice basketball
+268125661204471809	sports	coach nightcollege basketballnyla milleson show at 6 pmsjock 987 fmdrury coaches show at 7 pmsjock httptco9g4tzorv
+268125643722588160	sports	rt murgee the thing i love about living in a basketball town such as memphis is not being able to watch any games at home wout cable
+268125635866656771	sports	rt dtweets2 basketball at 6sfinally
+268125626081357824	sports	rt kammyanell at basketball practice til 7
+268125610331762690	sports	rt news9sport ou took care of business in the season opener downing louisianamonroe 8551 httptcow6iucojh
+268125581911158784	sports	the basketball bible playsofwisdom httptcoyivn4px9
+268125576815050752	sports	tiger basketball it begins tonight
+268125563611394049	sports	rt jonathanshank allanjlewis i wish they did an interview with the selection committee like they do for basketball haha
+268125496947138563	sports	jr high basketball is like playing with a bunch of 2 year olds whattajoke
+268125447022325761	sports	allanjlewis i wish they did an interview with the selection committee like they do for basketball haha
+268125439367729152	sports	college basketball on all night
+268125423634890752	sports	rt nasianprsawsan first basketball game smiless94 imabouttotweet ashantilovely httptcowjta7x6x
+268125410913570816	sports	eventhough my main focus is on basketball these next 5 months ill find out who my real friends are also just dont wanna be dissapointed
+268125403749687297	sports	why basketball practice theres never a good day i officially am done talking about it
+268125400603951104	sports	rt imkellllen melissatdoe needs to quit staring during basketball
+268125390512455680	sports	rt breanna2515 i miss basketball at north pole
+268125389216423936	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268125359373955072	sports	rt bjrains pujols continues to bring smiles in st louis story and video from the pujols family foundation basketball game httptco5w05qh3j
+268125336598900738	sports	rt cdenecke1 i cant wait to cheerlead at at this girls basketball game shitnobodysays
+268125326658375680	sports	rt imkellllen getting in shape is my least favorite part of basketball
+268125279682187264	sports	rt kcrgsports todays guest on oniowalive is former iowa basketball player duez henderson tune in at 630 pm on 92 to watch the show
+268125261420179456	sports	rip to my friend logan gillsso many memories from playing basketball when we were kids you will be missed alwaysafriend rip
+268125260447092736	sports	i like getting out of basketball when the sun is still up basketballprobs
+268125243867033600	sports	at basketball practice til 7
+268125210174185473	sports	i got four basketball games this saturdaysand my team is not near ready fuuuuuuck
+268125178842730496	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268125106356772865	sports	ok if you are a ninth grade girl and you go to elk ridge middle school and you can dribble a ball come to basketball tryouts
+268125092226162688	sports	right when im getting use to not having to work around montanas football games and practice schedulessbasketball season starts
+268125062161395712	sports	time to cheer for my basketball billies
+268125034592231424	sports	im only jealous of one persons basketball skills and he doesnt even play for a teamthat would be jamesonmcfadden yup i admitted it
+268125014371483648	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268125013553586176	sports	rt afifteen espn espnw pat summit or tara vanderveersbuilt the womens basketball game to what is is today bestcoachever
+268124975062450176	sports	good luck to everyone at basketball practice today
+268124933446569984	sports	didyouknow genieofthelamp had a one night stand with kieth biggers from the basketball team
+268124920624590848	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268124909719388160	sports	carthage boys basketball preview httptcoo0vghyad
+268124905596387328	sports	congrats to the 5 people that made the basketball team
+268124905533476865	sports	vivs basketball game
+268124899816656896	sports	on my way to basketball in 5
+268124894951256066	sports	marieehood no idea basketball goes till 830 ugh
+268124887967756288	sports	whats going on tonight peeps anyone wanna stay up and watch college basketball with me message me
+268124864114749440	sports	melissatdoe needs to quit staring during basketball
+268124862789337088	sports	illini basketball austin colbert commits to illinoisshttptcoknbegqec
+268124857684860928	sports	michigan state drops in basketball polls after loss to connecticut one voter still has spartans at no 10shttptcoknbegqec
+268124854157467649	sports	rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcovoy0upnl gotigersgo
+268124818711388160	sports	rt seanard51 last first basketball lets go get em ladiesss
+268124781554044928	sports	forsyth boys basketball preview httptcoqvemskfx
+268124775048679424	sports	the only things that matter is my girlfriend family friends school and basketball
+268124760511217665	sports	im glad i aint playing basketball this year timetorelax
+268124754727276544	sports	chrissy n mr jones and basketball wives la both r boring afsidk how yall sit up n watch it
+268124727556583424	sports	first basketball game smiless94 imabouttotweet ashantilovely httptcowjta7x6x
+268124708086616064	sports	i wanna watch some basketball
+268124701203759104	sports	glad to finally have basketball practice beentoolong
+268124643934740480	sports	rt memgrizz rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcocppdvkdn gotigersgo
+268124633591603200	sports	think im going to apply at rickes since im not doing basketball im in need of a job brokegirl
+268124621692362753	sports	rt mgrit13 basketball season startingsfirst 2 weeks of practice bittersweet
+268124609331740672	sports	rt krystaltran i would love to go to lobo glow and the basketball game tonightbut its at midnight
+268124596744617984	sports	well my nhra drag racing is over for the year thank god college and pro basketball started
+268124558106693632	sports	marieehood thats how i feel about basketball practice
+268124504725798912	sports	didyouknow mydaddyskeeper and tone from the basketball was messing around
+268124501907238914	sports	going to a much needed tigers basketball game gotigersgo longday
+268124483041243136	sports	i will be doing the playbyplay for ouachita mens basketball tonight 7 go to httptcoetootdji to listen to the game online
+268124461486723072	sports	basketball is no freaking joke godhelpme
+268124450560548864	sports	playing justin bieber at the basketball game
+268124363486806017	sports	totheathletes my reaction when coach tells us to get on the line httptcollv89bjm back in the good ol basketball days truth
+268124345518395392	sports	damn job or basketball
+268124310185578498	sports	basketball season startingsfirst 2 weeks of practice bittersweet
+268124301717295105	sports	basketball season good gradessa wonderful boyfriendsds3thumbsup
+268124277285462016	sports	darrengilesband greendale needs a win the best compliment our sports program gets is that our basketball team is really gay
+268124263087755265	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268124226811228160	sports	swartzkelsey jgalvan1 leickaboss no they decided to get out and play basketball instead of video game
+268124212630274049	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268124188705959936	sports	rt imkellllen getting in shape is my least favorite part of basketball
+268124150042873856	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268124064621686784	sports	rt gocreighton creighton mens basketball up to 13th passing ucla and michigan state in this weeks usa today coaches poll httptcot3can0a5
+268123967905222656	sports	rt atuathletics are you ready for basketball season the golden suns begin their 36th season by hosting cbu on tuesday httptcoof3usgqj
+268123946308730881	sports	i believe tonight will be the first home iowa state basketball game in the last 4 or 5 years i will not be attending notcool
+268123942013775874	sports	mens basketball team at semo tonight go scots
+268123936737329152	sports	rt cheerriipie if you dont play football or basketball and you dont wrestle we cant talk sorrynotsorry
+268123856554840065	sports	rt gocreighton creighton mens basketball up to 13th passing ucla and michigan state in this weeks usa today coaches poll httptcot3can0a5
+268123832093659138	sports	basketball and dance love kindle edition newly tagged sportssssssss basketball and dance love kindl httptcomigh6wi7
+268123831451930624	sports	missouri mens basketball moves up in rankings the missouri mens basketball team has moved up in this weeks httptcojspoaycj
+268123820601245697	sports	photo marykatesolivier sarkozy cuddle at basketball game marykate olsen cozied up to boyfriend olivier sar httptcoq6ldxj7u
+268123794000977920	sports	basketball team finna be looking gooooooodslol
+268123768017272833	sports	rt imkellllen getting in shape is my least favorite part of basketball
+268123740674617346	sports	rt lulions mens basketball take on westminstershttptcom6990acb
+268123739533746176	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268123736975228929	sports	ready to play lsn basketball httptcohxtaa0to
+268123700602208257	sports	rt dancer1601 congrats to the basketball team first gamefirst win
+268123660265611265	sports	the thing i love about living in a basketball town such as memphis is not being able to watch any games at home wout cable
+268123658558509057	sports	basketball tryouts were fun and short
+268123645572960256	sports	arnibarney noah om doing my basketball scrimage give me good luck
+268123625138311168	sports	kryssaisobe going to watch mens basketball
+268123563888893952	sports	im tired as shit almost basketball timeugh
+268123479189094400	sports	getting ready for basketball basketball never stops
+268123418782740480	sports	nothing like going to a basketball game before gates are open just to get free pizza
+268123394107662337	sports	at least theres basketball on tv tonight
+268123366702080002	sports	i need a fucking basketball
+268123322397642752	sports	rt memgrizz rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcocppdvkdn gotigersgo
+268123285101871105	sports	wearing my dance tights to basketball because i dont have time to change afterwards lookingood
+268123275694063616	sports	gonna go to cousins race on saturday since i got cut from basketball
+268123274112815106	sports	glad to say basketball if officially back
+268123260951093248	sports	rt memgrizz rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcocppdvkdn gotigersgo
+268123167128707072	sports	are you ready for basketball season the golden suns begin their 36th season by hosting cbu on tuesday httptcoof3usgqj
+268123166482780161	sports	newman jet basketball season startingswomen won first game at rockhurst satsmen play tabor here tonightsgo jets
+268123155447566336	sports	getting in shape is my least favorite part of basketball
+268123149877518336	sports	basketball and dance love kindle edition newly tagged basketballsssssss basketball and dance love k httptcoi9blhw5k
+268123143779020801	sports	mens basketball take on westminstershttptcom6990acb
+268123125089193984	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268123108177752065	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268123107032698880	sports	rt memgrizz rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcocppdvkdn gotigersgo
+268123089936719872	sports	i got a good chance for making west freshman basketball team got scrimmages tomorrow after school
+268123088531623936	sports	basketball youre going to kick my ass
+268123087332065280	sports	ill stick to basketball football or skateboarding
+268123052758405123	sports	basketball kicked me in the butt today horrible sucked
+268122966599024640	sports	maddies basketball game
+268122964355080192	sports	rt memgrizz rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcocppdvkdn gotigersgo
+268122955685453824	sports	good luck to everyone trying out for basketball
+268122908914765824	sports	rt snowcollege snowcollege basketball come support the badgers vs monroe college from new rochelle ny tonights730 pm in the horne activity center
+268122865591795712	sports	january 3rd sethvonbehren says hes gonna touch the rim of a regulation basketball hoop everyone remember this seeingisbelieving
+268122864257994752	sports	yyjspecial olympics basketball team needs a whiteboard for practices anyone have one they can donate yyj
+268122862932590593	sports	rderickson9 jdesser11 ardouglas24 cause going out for basketball is going to make him lose his baseball skills look at jwpeezy4
+268122813293006848	sports	basketball bash tonightshttptcovxgtaq0j
+268122794921959427	sports	rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcovoy0upnl gotigersgo
+268122775221329921	sports	photo marykatesolivier sarkozy cuddle at basketball game marykate olsen cozied up to boyfriend olivier sar httptcoruoscswt
+268122774827069440	sports	win 4 free tickets to tuesdayssfhsu basketball games courtesy eagle communicationsswatch eagle local news httptcousv67nv3
+268122755751354368	sports	goodluck to lwhs boys basketball team tonight i love you guys make me proud
+268122742845485056	sports	httptcoczenbpli baylor still no 1 in ap womens basketball poll baylor is again the unanimous no 1 choice httptco5dqvgmsn
+268122661631176704	sports	nba basketballspbts power rankings knicks on topshttptcod2bfkshk
+268122652181417985	sports	isabellaisjesus made captain for basketball cheersteams about to fine fresh fab fiercesmy daughter is awesome
+268122633822945281	sports	lol chris will think its funny when i dont bring his practice jersey to basketball tonight cfresh
+268122627451797505	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268122624335433728	sports	im mad im going to miss the basketball game tonight but i have to work sighs
+268122604693495809	sports	i miss basketball at north pole
+268122598548848640	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268122594350342144	sports	wow really basketball wives la producers are in the final stages of negotiating to get a new castmateskarrine superead steffans
+268122582916689920	sports	headed to support my auntsher basketball team
+268122566034612224	sports	httptcogjghzuds if you are looking for football baseball hockey or basketball jerseys you can text that number or also just text me
+268122545079857152	sports	rt rchilders big game tonight lets sweep 2 in a row bmsboysbball codye1317 pldespain gohard bearcats wintheday basketball
+268122531435798528	sports	rt njsloankck basketball tryouts are dumb most of the coaches i know already have set rosters which is dumb make them work for the starting positions
+268122512167157760	sports	rt marleydrake basketball today sofun
+268122472115732480	sports	beilmant kdog57 chadhn kevins going out for basketball
+268122456420655104	sports	wish i could goto the brennan and warren basketball game but i cant i have freaking tumbling practice
+268122453799211008	sports	back from support raising mtg now to get ready for some basketball practice now where are my spalding coaches shorts tc
+268122441157599232	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268122421888970752	sports	rt koryjill we cute we cute basketball loveher loganpaigeburge httptcozkppqibl
+268122421016555520	sports	oomf scared to gimmie that rematch in basketball
+268122393623539713	sports	rt snowcollege snowcollege basketball come support the badgers vs monroe college from new rochelle ny tonights730 pm in the horne activity center
+268122377236406273	sports	tomorrows the big day basketball yeahbuddy
+268122356579459072	sports	taylerward come to basketball goshhhh im gonna be alone
+268122298693869569	sports	i want a boy whos smart tall close with his family knows jesus and plays basketball toomuchtoaskfor
+268122285234348034	sports	i wish katiebabeyy was out of basketball now
+268122280377323520	sports	rt 3rosescott lmaooooooooo rt eclecticmontez christ rt ebengregory reports superhead joining the cast of basketball wives la httptcodnplorvk
+268122225541005312	sports	throwing a basketball at miss ridgers face
+268122177793044480	sports	fingers crossed that our hawkeye basketball season goes better than the football season did
+268122099376328704	sports	rt jonahlehmann80 for the first time in my entire life i wont be lacing up the kicks for basketball season missit sadtweet
+268122095484018688	sports	jk he is better than me at basketball ihateyoulittleboy
+268122076660002816	sports	basketball at the gym anybody cody newallstar startingcenter
+268122054979620864	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268122034356224000	sports	basketball tryouts tonight are going to be the death of me
+268122021718794240	sports	lmaooooooooo rt eclecticmontez christ rt ebengregory reports superhead joining the cast of basketball wives la httptcodnplorvk
+268122017063120897	sports	rt ustinparsons jairme23 umm screw basketball
+268121994858487808	sports	mjh basketball pictures are in and im sorting fast and furiouss if anyone wants to come get them this evening httptcowedrcogn
+268121992866181120	sports	new jazz eventsnov 12 2012sonlineknocklive utah jazz vs toronto raptors live stream online httptcozxnwdzbf
+268121966987325441	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268121956145057793	sports	first basketball game today kinda nervous
+268121911811272704	sports	rt ijusthadlex its true katy is so funny and a basketball star whoa
+268121893851242496	sports	basketball practice at 8 tonight what is coach thinkin lol
+268121805829574656	sports	rt memgrizz rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcocppdvkdn gotigersgo
+268121788918157312	sports	crowd at lnc watching basketball practice buddy hield is loving it hitting three pointers as he fades off the court sooners
+268121698535100416	sports	o ya i cant hangout 2mrrow cuz my sis has a basketball game srry guys game sister hopeshewinsalyssacandelasjake9980 godsbane1337
+268121671389560832	sports	im just gonna stop talking to all thse others and just focus on basketball
+268121663219060736	sports	blakeopenshaw makes me not wanna play or watch basketball
+268121656986304512	sports	its true katy is so funny and a basketball star whoa
+268121619061415936	sports	byu vs georgia state preview byu mens basketball will host georgia state on tuesday nov 13 at 7 pm mst i httptco4vxndrkr
+268121562769670144	sports	the halstead middle school girls basketball coach is so nice still remembers me from last yearsbestcoachfromdifferentschool
+268121410126360576	sports	rt memgrizz rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcocppdvkdn gotigersgo
+268121403327401985	sports	cptnjack5 im sayin you should become a fan of a real basketball team
+268121386566967296	sports	is basketball at 5 or 530 today
+268121377997983744	sports	rt ryan33stephens im not gonna lie i hate girls basketball itssoboring
+268121345638924288	sports	ive never played basketball beforeso like seriously shut up
+268121330900148226	sports	rt njsloankck basketball tryouts are dumb most of the coaches i know already have set rosters which is dumb make them work for the starting positions
+268121285786222592	sports	basketball games
+268121259953516545	sports	nets economy basketball goals httptcodogot3jg basketball goals amp nets economy nonwhip
+268121204664193024	sports	rt memgrizz rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcocppdvkdn gotigersgo
+268121180710506497	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268121165501968385	sports	basketball today sofun
+268121117191991296	sports	im not playing basketball
+268121072115802112	sports	basketball start times for saturday nov 17 have been moved up 1 hour wbb at 1 pm and mbb at 3 pm doanetsn
+268120948044075010	sports	carliedee we could never ever play basketballmirandaraye5smanagerforlife weak
+268120930230865920	sports	shoutout to all the basketball girls wish i was playing with you all this season goodluck superfan
+268120895611080705	sports	watching lars play basketball makes me tiredgogenerals minidrose
+268120883644735489	sports	rt memgrizz rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcocppdvkdn gotigersgo
+268120854796333056	sports	rt memgrizz rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcocppdvkdn gotigersgo
+268120809963409408	sports	oohyeahray it is there games get live and we kick ass at basketball
+268120803617431553	sports	rt thomaselig theme for the basketball game this friday is senior citizens bonus points if you bring your grandparents to the student section gorams
+268120745245290497	sports	alright work hurry the fuck up and get over with ive got an iowa basketball game to attend gohawks
+268120736592449536	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268120733773877248	sports	cant wait to get my college basketball fill tonight 24hourhoops
+268120722570887168	sports	dont feel like going to basketball tonight
+268120693089128448	sports	awfulannouncing bob knight will call kentuckyduke w dan shulman and dick vitale tomorrow nightshttptcov1eldrhg ack
+268120679973535744	sports	good luck to everyon trying out for basketball
+268120667956846592	sports	be the youth basketball coach you can beshave more fun along the wayshttptco2f6lzjlp
+268120654262452224	sports	big game tonight lets sweep 2 in a row bmsboysbball codye1317 pldespain gohard bearcats wintheday basketball
+268120603209371648	sports	irememberwhen i played my first organized basketball game for middle schoolsbustin 3s and shxd
+268120599149293569	sports	johnson named mens basketball player of the weekhttptcok06pc7jf httptcojberhwot
+268120582913146880	sports	rt fedexforum university of memphis to host 2014 ncaa mens basketball south regional httptcocppdvkdn gotigersgo
+268120565351579648	sports	sweetsadies12 i live in st louis mo playing basketball and goin to school im coming back to jackson on my christmas break
+268120536247332865	sports	just left basketball practicesready to go homestake a shower
+268120531654549505	sports	bvillekingkish i dont care about college basketball until march madness comes around
+268120494958600192	sports	one hour until my official junior basketball season starts timeflys bringiton
+268120472212877312	sports	gonna get to see my sjs basketballsbabies friday
+268120412670525441	sports	rt ryanmcginnis23 pumped for basketball season to be here finally cantwait golobos
+268120338204864512	sports	rt 7venom oh hey basketball practice screwme
+268120296509280257	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268120286266814465	sports	photo marykatesolivier sarkozy cuddle at basketball game marykate olsen cozied up to boyfriend olivier sar httptcodl0jizjn
+268120214938456064	sports	i cant wait till church ball starts praisejesus basketball churchball baller
+268120127168471040	sports	derrick first game tomorrowsbasketball firsthomegame 23
+268120124521848836	sports	for the first time in my entire life i wont be lacing up the kicks for basketball season missit sadtweet
+268120119740346368	sports	i would love to go to lobo glow and the basketball game tonightbut its at midnight
+268120117534142465	sports	rt thomaselig theme for the basketball game this friday is senior citizens bonus points if you bring your grandparents to the student section gorams
+268120112282882048	sports	university of memphis to host 2014 ncaa mens basketball south regional httptcovoy0upnl gotigersgo
+268120106234687490	sports	rt potternationn i miss playing on a basketball team
+268120044066709504	sports	midnight madness espn 24 hours of college basketball unmlobos so many amazing things in one tweet cant wait
+268120039528464384	sports	orrrrr someone can teach me how to play the basketball one cus i usually just press buttons til something happen shrugs
+268120003956580352	sports	im not gonna lie i hate girls basketball itssoboring
+268119996411019264	sports	basketball game starts at 7 be there i will
+268119974160265216	sports	uconn enters top 25 after 10month absence the opening weekend of the 201213 college basketball season did lit httptcoha0setlx
+268119944238088192	sports	rt swagonskinny lebron will retire as one of the greatest to ever play the game of basketball
+268119891528261632	sports	they was arguing about basketball in class today lol
+268119878161035264	sports	81bake hey dont mind missing me at basketball fucker
+268119867394232321	sports	im trying to go play ball tonight school better not take to long rec basketball monday tired
+268119850470219778	sports	college basketball marathon kickingoff tonightsnothing better
+268119790248411137	sports	realliampayne when im sad i imagine a trex trying to pick up a basketball
+268119782472175617	sports	tierrra watching basketball
+268119719511478273	sports	stoked for intramural basketball d
+268119702394527744	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268119695436181504	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268119667510476801	sports	basketball practice here i come
+268119599688605697	sports	rt megaugustine16 basketball practice is only 2 hours away soready
+268119588091338752	sports	why would bigtennetwork want to hide 1 ourindiana and tomcrean basketball team by airing tonights game online only fail
+268119552792084481	sports	rt tatesporrer15 dont forget to come out and support the boys basketball team at taco johns tonight from 58 fiesta
+268119540691525634	sports	rt aliyahlyn32 i found atleast 3 pairs of basketball shoes in cfrankamp23 s car the other night basketballproblems
+268119534626541569	sports	rt njsloankck basketball tryouts are dumb most of the coaches i know already have set rosters which is dumb make them work for the starting positions
+268119532932042752	sports	pumped for basketball season to be here finally cantwait golobos
+268119532541984768	sports	elisablaire theres a basketball game tonight
+268119486308184064	sports	basketball try outs nervous
+268119473490362368	sports	rt njsloankck basketball tryouts are dumb most of the coaches i know already have set rosters which is dumb make them work for the starting positions
+268119446147710976	sports	kameron05 you to have fun at the basketball tryouts play hard i know youll make it
+268119444444807170	sports	for the next 2 years basketball is all im gonna have on my mind time to buckle down and focus
+268119334851850240	sports	tiff looks like a basketball player
+268119320129830912	sports	rt rmacsports 201213 rmac mens basketball week 2 release httptconbzswzp8 rmacmbb
+268119313154719744	sports	uconn enters top 25 after 10month absence the opening weekend of the 201213 college basketball season did lit httptcofqbrpgso
+268119309249830912	sports	jusblazeee lol he was probably like this girl done lost her mind theres a girl on our basketball team that reminds me of you tho
+268119289880514561	sports	allsmilesryles ummm basketball season has already started
+268119285765910528	sports	jeroddenning me too i cant stand basketball haha
+268119272453177344	sports	hawkeye basketball tonight yeah fran
+268119265989783554	sports	rt hansenjerod basketball questionmark
+268119188038615040	sports	the new show on 913 fm will in fact be airing today originally slated was hillcat basketball but changes httptcoenmgabvx
+268119183710113792	sports	jairme23 umm screw basketball
+268119181726191617	sports	college basketball marathon starts midnight tonight 24 hrs straight
+268119136058617856	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268119111157039104	sports	thats mjs only comp noexcuses basketballjordanlegendhalloffamebullschampionphotooftheday picof httptcohaykx2yy
+268119097726881793	sports	basketball practiceslamdunk
+268119049794375680	sports	uconn enters top 25 after 10month absence the opening weekend of the 201213 college basketballshttptco1jbtxii8sbasketball
+268119048838062082	sports	st johns harrison to begin season on bench st johns will begin its 201213 season with its be httptco7v1p4dfpsbasketball
+268119045428105217	sports	goodbye tennis season hello college basketball season
+268119025479974912	sports	uconn enters top 25 after 10month absence httptcovzng00zb
+268119025224146944	sports	rt megaugustine16 basketball practice is only 2 hours away soready
+268118985571188736	sports	basketball tryouts this week
+268118954344591360	sports	fuck no i am not doing basketball to much training and running
+268118949873459200	sports	thatsyobadd omw to my sis 1st basketball qame where
+268118938477543424	sports	hawkeye basketball or bullceltssdecisions decisions
+268118936116146176	sports	rt 7venom oh hey basketball practice screwme
+268118933180145664	sports	rt njsloankck basketball tryouts are dumb most of the coaches i know already have set rosters which is dumb make them work for the starting positions
+268118927706578944	sports	last first basketball lets go get em ladiesss
+268118924774735872	sports	snappin a few photos of wasecas first girls basketball practiceswaseca high school httptcorvn3ameq
+268118853152829441	sports	brijackson96 congrats to ellariche on womens basketball b1g player of the week gogophers thank you
+268118844768399361	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268118821649399808	sports	basketball go lesher
+268118801046982656	sports	not really in the mood to do homework or go to basketball tired
+268118784592707584	sports	go4coop so to ellariche for the b1g womens basketball player of the week honors thankss
+268118776862621697	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268118758881628161	sports	here we go basketball is here
+268118739789156352	sports	my dad just went to the highschool and gave random kids tickets to an iowa basketball game lol
+268118739302621184	sports	miaa basketball jamboree schedules games are wednesday at white station and thursday at hamilton httptcos9povtfd
+268118731270541312	sports	9 girls came to tryout for basketball today smh highlandprobs
+268118726367383552	sports	everybody go to the basketball game tomorrow at harmon at 4
+268118697921634304	sports	hate how it gets dark at 5 cuts into basketball time
+268118697279885312	sports	rt letmelivecq i watch college basketball but i dont prefer a team im not just gonna hop on the tar heels or blue devils like everyone else
+268118653730451457	sports	uconn enters top 25 after 10month absence httptcowjao0uaa
+268118642640711680	sports	happy birthday russwest44 my fav basketball player
+268118634445037571	sports	new list added to the website this week the top 44 basketball coaches of the aba httptcos3n6lliu
+268118552593178624	sports	bae in basketball practice
+268118537091039234	sports	i liked a youtube video httptcoknyq6i6a mens basketball vs fordham
+268118536252178432	sports	rt memphisnews news fedexforum to host south regional of 2014 ncaa mens basketball tournament httptcoqmmpriik
+268118506699108352	sports	defensive pressure against temple lifts husker womens basketball to victory unl b1gshttptcoqfnj3s1u
+268118495504510976	sports	woahhhhh jackyjasper karrine superhead steffans is coming to basketball wives la how ratchet is dat
+268118469197832194	sports	basketball tryouts
+268118466878394368	sports	rt tessagray20 basketball comes before anyseverything except godsfamily
+268118411786215425	sports	ncaa basketball all night i can dig dat
+268118380198899712	sports	rt acewebb2005 i love that it is basketball season
+268118360175308801	sports	rt wbcsports come on out and support our lady eagles basketball team tonight at 6 pm against the pioneers from crowleys ridge show your wbc pride
+268118337530245122	sports	kvrska7 snyders marley anderson marleydee11 signed with uco to play basketball today okpreps not till wednesday lol
+268118303841603584	sports	basketball comes before anyseverything except godsfamily
+268118296711282688	sports	good luck scc basketball boys7th8thgrade winn
+268118258098511872	sports	rt bigbootyynaee bounce that ass like a basketball
+268118246211866625	sports	looking at old basketball pictures sexyasfuck memories missit aboyd11
+268118204415614977	sports	rt gocreighton the ncaa mens basketball tournament is returning to omaha creightoncenturylink center omaha to host 2nd3rd round games march 2022 2015
+268118190226296834	sports	every second that goes by the more and more i get excited basketball
+268118182345187328	sports	kennedyhoffman1 and courtnikng have fun at basketball tryouts do your best i know youll make it
+268118179648258048	sports	love the sound of basketball starting upseven more so loving the sound of coach jeff getting really excited heisawesome
+268118150493642752	sports	emzybear1 hope your having fun at basketball
+268118141643665408	sports	rt njsloankck basketball tryouts are dumb most of the coaches i know already have set rosters which is dumb make them work for the starting positions
+268118109037150210	sports	im so proud of my baby he made bixby basketball team yaysnorestfortheweary
+268118029064368128	sports	wish i didnt have night class so i could go to the gopher basketballsgame
+268118009586020352	sports	the basketball game is about to be hella crazy csc my outfit is craaazy
+268117962555281408	sports	oh hey basketball practice screwme
+268117903956664320	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268117895379288064	sports	basketball tryouts are dumb most of the coaches i know already have set rosters which is dumb make them work for the starting positions
+268117887296880640	sports	201213 jennies basketball media guide now online httptcoavwm3agc
+268117867105505280	sports	bounce that ass like a basketball
+268117857794158594	sports	wish we had a damn basketball team
+268117845936857088	sports	driving my dear dear friend ariana to basketball practice
+268117817696612352	sports	rt memphissports miaa basketball jamboree schedulessthe commercial appeal httptcosmnfilvx
+268117781097099268	sports	little girls basketball ihopetheygetbetter
+268117756174553088	sports	uconn enters top 25 after 10month absence httptco0jkq4uaa
+268117738592030720	sports	well ive decided i am going to do basketball
+268117557825908736	sports	basketball then shower
+268117541606547456	sports	goin to watch brody play basketball stud
+268117530193833984	sports	kkari21 3 more weeks and im cleared for basketballspumped
+268117529208180736	sports	thud making a comeback to basketballsid rather listen to his rap cd
+268117432290394112	sports	i watch college basketball but i dont prefer a team im not just gonna hop on the tar heels or blue devils like everyone else
+268117393375629312	sports	big shoutout to rachelnicole07 whos attending her first ever memphis basketball game tonight
+268117369581359104	sports	just played basketball and worked out so far what a good day it has been
+268117355811463168	sports	rt reisgarrett 7th grade b team girls basketball holy fuck
+268117349821984769	sports	good luck smallhotcoco at basketball tryoutssyougotthis killit
+268117347280240640	sports	basketball is such a silly sport
+268117329915822080	sports	i hate basketball im not good at it and i have absolutely no interest in it at all
+268117318549266432	sports	i was born in west philadelphia and also raised there i spent most of my days playing basketball in the play ground
+268117284122415104	sports	rt jmattison21 open gym tonight only come if you can actually play basketball
+268117260944699394	sports	rt cashkramer pretty depressing to not have basketball practice today or ever again
+268117250177916928	sports	top unchanged in first regularseason ap pollsthe opening weekend of the 201213 college basketball season did lit httptcoxeaop1wl
+268117167235534848	sports	its basketball season and i cant get the fact that im not playing basketball
+268117153172041728	sports	i love love loveeeee our new basketball gear
+268117152408674304	sports	that basketball game we had
+268117078152736768	sports	rt thomaselig theme for the basketball game this friday is senior citizens bonus points if you bring your grandparents to the student section gorams
+268117075220905984	sports	i was doing so well when basketball started then i got tiredswhoooops
+268117068195450881	sports	byu vs georgia state previewsbyu mens basketball will host georgia state on tuesday nov 13 at 7 pm mst in t httptcorcykhgkx
+268117059362254850	sports	rt potternationn i miss playing on a basketball team
+268117049631449089	sports	rt luhveez i never played basketball like tha way i played today
+268117043612635136	sports	rt zachpope13 basketball season officially begins today bestdayoftheyear
+268117037434421248	sports	basketball practice was good
+268116948414517248	sports	well deserved congrats to james tughc james woodard named the cusa mens basketball freshman of the week
+268116924330819584	sports	who wants to watch the college basketball marathon with me
+268116914855895040	sports	just okayed to start playing basketball again tornpcl pumped
+268116900423270401	sports	troy hudson coming back to basketball wat hardcorenostalgia
+268116844416733184	sports	glad i got that nap in before basketball practice
+268116834727886849	sports	omg the drama teen is in spectacles basketballqueen32 httptcohbrhuwmh
+268116775831478273	sports	getting ready for some badger basketball
+268116752238522368	sports	my basketball jersey smells like shit
+268116741664673792	sports	im ready for basketball wives to come on
+268116739789840385	sports	rt haybale212 going to basketball practice lol justkidding
+268116735645868032	sports	fieldhouse with the boyfriend im gonna school him in basketballgameon
+268116729652203520	sports	basketball seasonsbreaking out seasonssooooo grosssss
+268116604062138368	sports	guys varsity basketball game tonight against warrens ahhh yes
+268116590573260800	sports	i never played basketball like tha way i played today
+268116512106229760	sports	our interview with pkkinahan is now online talking byu football and some basketball as well link here httptcow7gixyge
+268116504187383808	sports	just got out of basketball practice
+268116503323353088	sports	about to get all my anger out at basketball practicehope we scrimaging today lol
+268116460252037120	sports	first basketball practice notready wheredidvolleyballgo
+268116393927528448	sports	rt swagonskinny lebron will retire as one of the greatest to ever play the game of basketball
+268116391792635904	sports	rt sbubearcats sbu mens basketball to travel to drury for annual bank of bolivar cat fight on tuesday httptcozjjjxrib
+268116360578621443	sports	rt sbubearcats sbu womens basketball opens up 201213 season at drury httptcord5n7wej
+268116340370440193	sports	201213 rmac mens basketball week 2 release httptconbzswzp8 rmacmbb
+268116338877280257	sports	open gym tonight only come if you can actually play basketball
+268116328173428736	sports	dlathan20 nawww lol thats all you you going for basketball
+268116260640940032	sports	she used reverse psychology on me during basketball season
+268116204718280706	sports	rt cheerriipie if you dont play football or basketball and you dont wrestle we cant talk sorrynotsorry
+268116189350342657	sports	sbu mens basketball to travel to drury for annual bank of bolivar cat fight on tuesday httptcozjjjxrib
+268116108299624448	sports	i choose whit133 and savannahgard to go to the next basketball game with me lets make that happen
+268116032839905280	sports	franimal planet iowacentral michigan preview date november 12 2012time 730 pm ctlocation carverhawkeyeshttptcokmuffwze
+268116016368857088	sports	rt centurylinkoma the ncaa basketball tournament will make a return trip to omaha in 2015 we will host second and thirdround games on march 20s22 2015
+268115980356558849	sports	just arrived to watch my niece jasmine start her school basketball career at summit middle school cont httptcokz5q5iis
+268115928024227841	sports	at this kirby jr hiqh basketball qame mayne i miss basketball
+268115889025589248	sports	rt thomaselig theme for the basketball game this friday is senior citizens bonus points if you bring your grandparents to the student section gorams
+268115887041675265	sports	about to watch the little bro play some basketball
+268115812701839360	sports	basketball gamesriverside middle school httptcon4rv7kul
+268115795480035328	sports	dont forget to come out and support the boys basketball team at taco johns tonight from 58 fiesta
+268115666173849600	sports	theme for the basketball game this friday is senior citizens bonus points if you bring your grandparents to the student section gorams
+268115621533851649	sports	rt baileydreher not sure what i think of basketball shorts yet so used to soccer
+268115594430271488	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268115570300420096	sports	rt raylynnwoods bison basketball gets started tonight at the rhodes 730 pm expecting a huge crowd retweet if you are a rhodes rowdy hubisons
+268115548137734144	sports	things the same at top of ap mens basketball poll with uconn only newcomerswashington post httptco1cxjjzel
+268115545012961283	sports	michigan basketball power ranking wolverines potential preseason nits bleacher report httptcow5dbjugu
+268115484166209536	sports	24 straight hours of college basketball yes please
+268115442663567361	sports	rt gnarlyme basketball shorts with a chub and then the teacher calling you up to the board
+268115263642296320	sports	rt knealecazar confessionnight i like playing basketball but its just overrated
+268115230717001728	sports	rt supniah wish i can do basketball but the running man
+268115216359882752	sports	uconn enters top 25 after 10month absence httptco8iya0x7j via espn
+268115196386635776	sports	texting one of the top guards in psal basketball this kid is really humble tiny has a great player lincoln trying to knockoff boys n girls
+268115145589411840	sports	rt sierrasmiles12 cant believe there is a midnight basketball game tonight stoked tipoff unm lobos
+268115136810733568	sports	today someone said basketball isnt the most important thing in the world whatpuzzled
+268115105227616256	sports	anyone going to the basketball game tonight
+268115083111067649	sports	anyone wanna volunteer coach a 12u basketball team at the ymca once a week and on weekends let me know asap
+268115066048638976	sports	rt chadmyers3 brettballard3 the best coaches in college footballscollege basketball coach about 80 miles apart in kansas both named bill strange
+268115040492724224	sports	first day of basketball today thisistheyear
+268115025569402880	sports	after basketball practice is over everyone is going to be tweeting about how out of shape they are haha
+268115003360559104	sports	need to buy new basketball shoes cuz im getting blisters all over my feet from the ones now wow
+268114983861243905	sports	memphis tigers guard geron johnson suspended for three gamessmemphis tigers junior guard geron johnson has be httptcomihpc87m
+268114935719002113	sports	i be wanting to choke the shit out of laja when he starts tweeting about basketball lol
+268114901707407360	sports	rt potternationn i miss playing on a basketball team
+268114884359753728	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268114816026148864	sports	best name ever rt bhgp new bhgp franimal planet iowacentral michigan preview httptcopxm9sifl
+268114795432136705	sports	sbu womens basketball opens up 201213 season at drury httptcord5n7wej
+268114769070923776	sports	photo at pco basketball practice where i have the opportunity to help coachthese guys are going to be httptco1vj2pkru
+268114767837790208	sports	basketball game today going to support my sissy kiazah hope they do good
+268114767531630593	sports	nickhiggs23 best of luck to everyone trying out for a winter sport today you playing basketball
+268114737538162689	sports	wichita not selected for ncaa basketball tournament wichita state intrust bank arenaswichita were dealt a bl httptcoxuqlrx1l
+268114710744936448	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268114696840835073	sports	if you dont play football or basketball and you dont wrestle we cant talk sorrynotsorry
+268114692449398785	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268114632667967488	sports	nba basketballspbt dantoni better longterm pick than jackson while phil jackson may have been the popula httptcosz3iiema
+268114597330956288	sports	legs are freezing but im determined to shot until i reach 500 basketball
+268114590003511296	sports	first day of basketball weallgetourgifts
+268114585922445312	sports	basketball practicee supportin myy boyss
+268114582151757825	sports	if the chiefs only had a basketball team then i could be like all ku fans and say waituntilbballseason
+268114572710379520	sports	gonna go play some basketball with tino and alan shouldbefun
+268114551835332608	sports	rt centurylinkoma the ncaa basketball tournament will make a return trip to omaha in 2015 we will host second and thirdround games on march 20s22 2015
+268114541764833280	sports	rt potternationn i miss playing on a basketball team
+268114469077536768	sports	i wish all basketball boys a great season goodluck
+268114448567369729	sports	24 hours of college basketball start tonight 1100 pm with the main events kentucky vs duketomorrow night
+268114428698951681	sports	rt therealmlinc82 too excited for basketball
+268114422197780480	sports	rt memphissports miaa basketball jamboree schedulessthe commercial appeal httptcosmnfilvx
+268114354359128064	sports	rt raylynnwoods bison basketball gets started tonight at the rhodes 730 pm expecting a huge crowd retweet if you are a rhodes rowdy hubisons
+268114305357078528	sports	rt tamatoledonews south tama girls basketball team will scrimmage pella tonight at the grinnell jamboree the game begins at 615 pmsstcsports
+268114295584350208	sports	rt notserpb hockey players should stay on ice and not play basketball
+268114279104933889	sports	iced caramel mocha instead of basketball practice ill take it
+268114252118777856	sports	another basketball game lets go gohawks httptcoon6aavao
+268114240999677953	sports	rt zachpope13 basketball season officially begins today bestdayoftheyear
+268114213451468800	sports	a chick will smash a basketball teamssay i did it kuz yolo smh lifeiscrazy
+268114211002011648	sports	today i mix my favorite thing basketball with my least favorite tryouts wish me luck this will be fun
+268114187232899074	sports	rt memphissports miaa basketball jamboree schedulessthe commercial appeal httptcosmnfilvx
+268114183638360065	sports	sayin good bye to the soccer field and hello to the gym sophomore basketball season cant wait
+268114173232312320	sports	hoopsandchrist is a great organization for youth interested in christ while improving their basketball skills
+268114147240181761	sports	rt aliyahlyn32 i found atleast 3 pairs of basketball shoes in cfrankamp23 s car the other night basketballproblems
+268114122628005888	sports	totally gonna watch the 24 straight hours of college basketball tomorrow
+268114093616033792	sports	icceibrahim abdismith basketball
+268114083558084608	sports	rt lowaspossible call me crazy buttt ima go out on a limb and say that iowa basketball will be dancing in march
+268114051400351744	sports	gabshtenuta06 wish i wouldve tried out for basketball damn we couldve went together cuh lmaoo
+268113965614256130	sports	basketball
+268113963370311680	sports	rt bjnewgz12 basketball nuff said
+268113903442071555	sports	basketball game tonight slutty drunkenness yesssssss i feel the bad decisions a mile away onlythingido hosofchadrad
+268113876585959424	sports	i miss playing on a basketball team
+268113834324148225	sports	ughhh so nervous for basketball tryouts
+268113797003214850	sports	i love that it is basketball season
+268113754594619397	sports	finally collegebasketball season is here no duke but wvu tonight
+268113750769426433	sports	rt gocreighton creighton mens basketball up to 13th passing ucla and michigan state in this weeks usa today coaches poll httptcot3can0a5
+268113749104291841	sports	savmarley haha its this movie about this basketball playerha ill tell you more later
+268113745593643008	sports	rt bjnewgz12 basketball nuff said
+268113663024582656	sports	video arkansas razorback basketball vs sam houston state theshttptcoaolh9van
+268113592195354624	sports	basketball nuff said
+268113541154893824	sports	rt supniah goodluck to you ladies and gents trying out for basketball today
+268113518946025472	sports	congrats to those ksate fans and their 1 poll ranking to fellow ku fans remember that this is how they must feel every basketball season
+268113493742465024	sports	hockey players should stay on ice and not play basketball
+268113484535971841	sports	miaa basketball jamboree schedulessthe commercial appeal httptcosmnfilvx
+268113447240208384	sports	great news omahachamber any basketball fans out there good news for omaha httptcoc34nwyza
+268113428768509953	sports	bison basketball gets started tonight at the rhodes 730 pm expecting a huge crowd retweet if you are a rhodes rowdy hubisons
+268113416319823872	sports	wichita will not host the 20142015 ncaa mens basketball championship preliminary rounds why leaders are disappointed not surprised at 9
+268113405993443328	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268113385932083202	sports	i cannot wait til i get to see kyler and stefan play basketballsfamily
+268113321536942080	sports	and so begins the next chapter of tiger basketball tonight gotigers
+268113312124895233	sports	pretty depressing to not have basketball practice today or ever again
+268113310128435200	sports	good luck at basketball tryouts love you guys andiesody tatumsmithh willardmarissa devenwallace
+268113295343505408	sports	neosho panthers mens basketball takes on ottawa jv at 700 pm today in chanute kssshotime
+268113284656406529	sports	sex is like basketball after school
+268113283398123520	sports	wish i can do basketball but the running man
+268113282689282048	sports	rt seancallahan funny stuff from tom osborne in a trivia contest at sundays mens basketball game httptco6gn9ui8g huskers
+268113275542179840	sports	aww my lady patriots started basketball practice today missthem and of course my wittle bkoch97 3
+268113193107349505	sports	100 in jmmzh make plans now jacksonville awarded ncaa mens basketball regional tournament for 2015 httptco813ahlsc
+268113180365058048	sports	goodluck to you ladies and gents trying out for basketball today
+268113164078571520	sports	rt allcapsbro who rides a motorcycle in basketball shorts
+268113158537891842	sports	rt raybans just kidding i could never play basketball
+268113152347078656	sports	to go to the basketball game or not to go to the basketball game hmmmm
+268113045597851648	sports	my boyfriend is a studsbasketball
+268113034948530176	sports	cold weatherssnowsbasketball season
+268112979021660160	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268112973103525890	sports	i love college basketball i swear it never gets boring to watch
+268112964580671488	sports	rt imswaveynshit forget girls parties staying out late with the bros and all that other unnecessary stuff right now its all basketballsschool
+268112941268746241	sports	rt alishaneely cant wait for the first basketball gamesexcited
+268112923556212737	sports	7th grade b team girls basketball holy fuck
+268112913544380417	sports	intramural basketball starts tonight fearthebeards
+268112899455733760	sports	forget girls parties staying out late with the bros and all that other unnecessary stuff right now its all basketballsschool
+268112870338854913	sports	marty0904sits basketball season
+268112865347633152	sports	watching savcol00 play basketball gogirls
+268112858154409986	sports	samanthagood1 hey thats my movie loveit jealous i wish i was there basketball practicelittle mermaid
+268112838541864961	sports	shelbswens33 does that mean no basketball this year or just enjoying your break between vb and bb
+268112828249042944	sports	i needs to be more competitive in basketball
+268112810242895872	sports	rt memphissports the miaa basketball jamborees will be wednesday at white station and thursday at hamilton they begin at 3 pm both days
+268112745235374081	sports	rt alishaneely cant wait for the first basketball gamesexcited
+268112712444293120	sports	ahammsportsgeek what was basketball sellout something like 15500
+268112655154302976	sports	yall me and wewantmouse to crack up prettymicheeour junior year mainly at basketball practice lmfao
+268112643380891648	sports	just kidding i could never play basketball
+268112571607945216	sports	having co workers with zero basketball iq
+268112547134177281	sports	basketball season is underway coaching basketbalisthebest
+268112514619932672	sports	arkansas razorback basketball vs sam houston state the hogs be httptcodrawm50j
+268112467278839808	sports	ii still see tomf as havinn that loveesbasketball relationships likee it just feels soo legitsshrugs
+268112374354034688	sports	rt alishaneely cant wait for the first basketball gamesexcited
+268112357581025280	sports	tinakworm cole and i are going to the basketball game want to hang out before
+268112350425526272	sports	24 hours of college basketball tomorrow one of my favorite days of the year
+268112322780864512	sports	i wonder if our basketball team will be any good this year doubtit
+268112292921634816	sports	neomemphis sports miaa basketball jamboree schedules games are wednesday at white station and httptco6byllxpz memphis sports
+268112282679128064	sports	in 2014 well see the ncaa mens basketball tournament be played in madison square garden ncaab
+268112211292082177	sports	i have nothing to do until logz gets out of basketball practice 730hurryup
+268112189708181505	sports	my show is on tonight basketball wives la
+268112130857897986	sports	jstreibel22 rt eyeoncbb icymi illinois coach john groce struck again this time w top100 big man austin colbert httptcogpuujtjz
+268112061123416069	sports	most amazing high school basketball play httptcoh8jbyf8f
+268112027589959680	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268111929833295874	sports	everyone be sure to get out to the home game against shiloh tomorrow its finally basketball season guardtheyard
+268111912670224384	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268111911630012417	sports	all i wanna do is cuddle with my boyfriend tonightbut no he starts basketballsbjnewgz12
+268111911600652289	sports	rt alishaneely cant wait for the first basketball gamesexcited
+268111869556969472	sports	rt coachsheaseals good luck to tucoachmoss and the tulsa womens basketball team as they host ualr tonight at the reynolds center 705pslets get it
+268111850141515776	sports	kansas cityssat 0126 515p umkc kangaroos vs mavericks swinney recreation none httptcowgud9ptv
+268111774191063040	sports	rt sadieredeagle1 im not even lying im not a big college mens basketball fan but at least i dont bandwagon lol
+268111696747433984	sports	first day of basketball leggo
+268111644557717504	sports	college basketball by the tweets opening weekend httptcoe6t5nzr4 via rtc
+268111630242562049	sports	iowa state vs alabama am in basketball tonights7 whoarethey
+268111595614392320	sports	gonna be chillin in johnnys tonight before tip off of the mens basketball game yay
+268111594242850817	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268111531886129153	sports	fans get out to the beach house grill tonight from 67 for the coors light csu basketball coaches radio show httptcoxskgpjel
+268111511547953152	sports	basketball tryoutsslets gooooo
+268111472876482560	sports	cant wait for the first basketball gamesexcited
+268111463447658496	sports	rt anna3smith hmmmm wish we had basketball earlier
+268111456912953344	sports	going to the fsu basketball game with my bro noupsetthistime
+268111447983284224	sports	emilaaaaaa thats exactly right ku basketball baby
+268111445940645888	sports	girlfriend is playing basketball this year i couldnt be prouder
+268111427909337090	sports	wish me luck at basketball tryouts guys
+268111394971471873	sports	rt serioushops mrshoelace what new basketball shoes would you recommend
+268111335248760832	sports	im really not liking a certain basketball coach
+268111278239793152	sports	duggy04 im not trying to watch the bobcats and pistons play basketball
+268111269096210432	sports	yoga or basketball
+268111223298596866	sports	mrshoelace what new basketball shoes would you recommend
+268111219255296000	sports	i need to get back in the gymsand get ready for basketball seasons
+268111192675999744	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268111129211977729	sports	i need someone to go to the next home swosu basketball games with me
+268111008722214912	sports	fillthebill tonight at 7 the mens basketball team takes on champion baptist
+268110952040390656	sports	podcast with john gasaway of basketball prospectus why ku could win the title and why jeff withey is underrated httptcovhoruiak
+268110946424213505	sports	basketball girls cant take a complimenttodayme you look nice todaygirl youre full of shtmesmybad allimueller15
+268110881160822784	sports	jpgaming you have basketball did you make the team o
+268110869592932353	sports	basketball was fun but now im really tired
+268110853574889472	sports	rt memphissports the miaa basketball jamborees will be wednesday at white station and thursday at hamilton they begin at 3 pm both days
+268110796809199616	sports	basketball was hard today sweaty lotsofrunning
+268110765393846272	sports	cant believe there is a midnight basketball game tonight stoked tipoff unm lobos
+268110621680214016	sports	out here watchin the bulldog basketball team practice
+268110604273872896	sports	rtjusticeeeee anybody tryna come play us in basketball leggo lu sore losers
+268110569125584897	sports	basketball practice here we go
+268110553006874624	sports	rt likemike03 dez wells is gonna be the best player in ncaa basketball
+268110471939362817	sports	playing basketball with candy rappers and a trashcan nbabound
+268110404012609536	sports	kysportsradio judging by the amount they play it during the ncaa tourney that must mean he doesnt watch college basketball
+268110391815585795	sports	gnakos1 haha no i have basketball tryouts and we find out what team we make
+268110366221946880	sports	rt wbcsports come on out and support our lady eagles basketball team tonight at 6 pm against the pioneers from crowleys ridge show your wbc pride
+268110359871758336	sports	first day of basketball tryouts has gone well hoping the coach likes me
+268110349234999297	sports	come on out and support our lady eagles basketball team tonight at 6 pm against the pioneers from crowleys ridge show your wbc pride
+268110342536699904	sports	hannahruth2014 i have a basketball game
+268110312891375616	sports	read up on byubasketballs upcoming game with georgia state httptcoxfpdrtsi and httptcopmppyubs
+268110261741817856	sports	bad days never exist during basketball season makesmydayeryyyday
+268110241634340864	sports	basketball though
+268110231689654272	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268110186516992000	sports	wish i wouldnt have messed up my hip cant go to basketball tryouts depressingtweet
+268110177562157056	sports	tmorehead5 praying our basketball season is better than football
+268110148453662720	sports	who trining to play basketball thats over 5 11
+268110134046236673	sports	tu james woodard named cusa basketball freshman of the week after scoring 28 pts in sundays seasonopening 11054 win over lsushreveport
+268110092845580288	sports	fuck basketball this year
+268110049845579776	sports	the fact basketball starts tonight finally eventhoughisuck
+268110012403044352	sports	rt seancallahan funny stuff from tom osborne in a trivia contest at sundays mens basketball game httptco6gn9ui8g huskers
+268110003238477824	sports	basketball and workout today
+268109987304312833	sports	rt maroonmadness you going to the mens basketball game on saturday getmad
+268109958267166720	sports	basketball at 6sfinally
+268109924750462978	sports	loooove the soundtrack to love and basketball wannabeyourman illgo
+268109858363035648	sports	when the girls crb basketball team only has 8 players thats a coonrapidsproblem
+268109855531859970	sports	rt kellyhinestw verdigris native rotnei clarke no 21 mt yahooforde the most intriguing players in college basketball this season httptcohosfclu1
+268109849236217858	sports	ncaa basketball tournament returning to omaha in 2015sos httptcoceztiw30
+268109840642084865	sports	top unchanged in first regularseason ap poll the opening weekend of the 201213 college basketba httptcoz2vnhzfzsbasketball
+268109834531008512	sports	cmu basketball season passes are now available to the public the first game starts nov 23rd reserve your pass httptcout7qzprk
+268109816046682113	sports	maybe if i just drop to the floor and start sobbing at basketball theyll let me go seriouslyconsideringit hatebasketball
+268109794823520257	sports	top unchanged in first regularseason ap poll httptcopucciofa
+268109741304188929	sports	laura from basketball wives la
+268109724837347328	sports	knowing mizzou wont be playing kansas this year in the regular season blows especially when mizzou has such an awesome basketball team
+268109702490120192	sports	stl umsl slu siuesgamma eta chapter of phi beta sigma fraternity inc charity basketball cont httptcod7tid6c9
+268109669132812289	sports	rt gocreighton creighton mens basketball up to 13th passing ucla and michigan state in this weeks usa today coaches poll httptcot3can0a5
+268109636647927808	sports	tmagic402 findingcoral snapchat me after basketball den amiga
+268109613587640322	sports	thebballlife ikr its basketball season favorite time if the year basketballlife
+268109523695325184	sports	l1lpanda wish me luck for tryouts tonightrt lil bro got basketball tryouts
+268109518616023040	sports	going to basketball practice tomorrow
+268109513763196928	sports	rt ashtonluper loved seeing the bball players help lead the student section during football season now fball leading during basketball shsfamily
+268109477717364736	sports	going to basketball practice lol justkidding
+268109385774022656	sports	i found atleast 3 pairs of basketball shoes in cfrankamp23 s car the other night basketballproblems
+268109365209350144	sports	day 3 complete basketball getem
+268109364936720384	sports	jlopie1 ya he needs to hurry cause of that and i have a basketball game to get too he needs to set me up to record h50
+268109333202628610	sports	rt centurylinkoma the ncaa basketball tournament will make a return trip to omaha in 2015 we will host second and thirdround games on march 20s22 2015
+268109318547714048	sports	rt ericbouchard6 basketball is my favorite sport
+268109275300261889	sports	rt coachsheaseals good luck to tucoachmoss and the tulsa womens basketball team as they host ualr tonight at the reynolds center 705pslets get it
+268109263770095616	sports	first basketball practice tonight
+268109260284641282	sports	rt piercemobley15 just because you wear nike dont mean you play basketball
+268109244333715459	sports	rt tigerknuckles i got a fevasand the only solution is some tiger basketball
+268109204903055362	sports	rt nextlevelrecrut a certain hs legends first words to the kid who walks in latekiss ur girlfriend tomorrow or basketball goodbye today
+268109200230588416	sports	rt memphissports the high school basketball season for some tssaa schools will begin tuesday with hall of champions games
+268109157884915712	sports	my first open gym if basketballexhausted lynnzeebrady good practice
+268109155926171648	sports	ryanholmgren sethdavishoops which is why seth davis is a widely known big school fluffer whose basketball opinion is not respected
+268109140210098176	sports	rt seancallahan funny stuff from tom osborne in a trivia contest at sundays mens basketball game httptcoeetc7o3c huskers
+268109109822377984	sports	rt samovabee looking at the girls homeschool basketball rankings and realizing little rock flames isnt on it at least were good at volleyball
+268109103119859713	sports	rt jordiibratch14 im feeling some basketball tonight mysport
+268109086258769920	sports	rt themaurcel kaityhinch is such a stud basketball player
+268109036510126080	sports	24 hours of college basketball im glad my team is playing at a normal time kubball httptcobs7uodfv
+268109024191447040	sports	good luck to tucoachmoss and the tulsa womens basketball team as they host ualr tonight at the reynolds center 705pslets get it
+268109015198867456	sports	rt sadieredeagle1 im not even lying im not a big college mens basketball fan but at least i dont bandwagon lol
+268108986526613504	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268108979421466625	sports	rt kshsaa first day of practice for basketball wrestling and boys swimming and diving begins today
+268108946882060290	sports	anybody want some lady raiders spirit wear school pride basketball helpme buysome yo
+268108928821374977	sports	rt emilythomper so happy i dont play basketball
+268108921460363264	sports	rt rodsrock2 fuck basketball
+268108909657612289	sports	that my sis is 2 at douglass middle school basketball team
+268108868024954881	sports	basketball season officially begins today bestdayoftheyear
+268108848026497024	sports	basketball game tonight or study easydecision hawkeyebasketball
+268108787276197889	sports	rt memphissports the miaa basketball jamborees will be wednesday at white station and thursday at hamilton they begin at 3 pm both days
+268108775876079616	sports	check out pics from fridays mens basketball season opener between lu and msumoorheadshttptcomwasclakmiaamb
+268108772965228545	sports	rt kuhoops this place is huge what a spectacular venue for college basketballkubball httptcoytm3aq6z
+268108749221285890	sports	basketball is approaching people
+268108722260291586	sports	i can drive from fort smith to little rock in less time than it takes to get through a college basketball practice weird
+268108686004719616	sports	rt memphissports the high school basketball season for some tssaa schools will begin tuesday with hall of champions games
+268108661837139968	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268108642346217473	sports	rt memphissports the miaa basketball jamborees will be wednesday at white station and thursday at hamilton they begin at 3 pm both days
+268108597639139329	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268108585706332160	sports	latest in college basketball recruiting for early signing period latest in college basketball recruiting for ea httptconykeafxe
+268108583340765185	sports	rt thebiglead tiki barber will play on your flag football or basketball or kickball team for 1950 httptcovxkpozyc
+268108534414180352	sports	getting mentions jenkeitel42 jkalin10s httptcoxqanbvic
+268108529062268928	sports	dez wells is gonna be the best player in ncaa basketball
+268108515074256896	sports	south tama girls basketball team will scrimmage pella tonight at the grinnell jamboree the game begins at 615 pmsstcsports
+268108513652400128	sports	basketball game tonight
+268108512029188096	sports	rt therealjdubb7 goodluck to all the basketball players at rv cherish the moment seniors it flies by noregrets and goodluck this year jaydubbbbbbb love u
+268108491158339584	sports	would much rather be at basketball practice than this student teacher meeting
+268108485911269376	sports	basketball at kia ora tonight pudge5 therealdrevon harvboytellem4 kingb33 brockmankolten
+268108432417103873	sports	basketball practice is only 2 hours away soready
+268108428558340096	sports	basketball time
+268108346811359233	sports	thissrt staceywells1 looking forward to 24 hrs of basketball w a big win over duke to end it myfavoritetimeofyear
+268108325932122112	sports	rt newcastleeagle tyne met college basketball development centre presents men and women open eveningsmens nighttuesday 27th httptcojqe33hch
+268108292679684096	sports	the high school basketball season for some tssaa schools will begin tuesday with hall of champions games
+268108274161811456	sports	rt memphissports the miaa basketball jamborees will be wednesday at white station and thursday at hamilton they begin at 3 pm both days
+268108250120069120	sports	watching note to self basketball lovee
+268108239135186944	sports	answer to q9 re mavrewards accts also eligible to rt pt 2 unobaseballunovolleyballunogolfunobasketballunomaha
+268108186333085696	sports	who trying too go too the west high vs east high girls basketball game with me saturday
+268108160173240321	sports	rt memphissports the miaa basketball jamborees will be wednesday at white station and thursday at hamilton they begin at 3 pm both days
+268108139373662208	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268108085464285185	sports	goodluck to all the basketball players at rv cherish the moment seniors it flies by noregrets and goodluck this year jaydubbbbbbb love u
+268108021048160257	sports	the miaa basketball jamborees will be wednesday at white station and thursday at hamilton they begin at 3 pm both days
+268107997459402752	sports	seeing these guys all sweaty and playing basketball
+268107970934632449	sports	rt tesskuennen theres a man at caseys wearing basketball shorts over sweatpants keepitclassymaynard
+268107960616644608	sports	rt chiefsoutsiders huge college basketball preview show with great guests coachbankhead and ex mizzou guard jarrett sutton httpstcotp62oldr
+268107958041317376	sports	rt kuhoops this place is huge what a spectacular venue for college basketballkubball httptcoytm3aq6z
+268107867595358208	sports	basketball tryouts tonight too bad no one will make it because the team is already set toopolitical
+268107863765966848	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268107860297277441	sports	feel like playin basketball
+268107736963764224	sports	this would be my 10th year playing basketball
+268107690310512641	sports	rt ericbouchard6 basketball is my favorite sport
+268107620064313345	sports	found my basketball bag today forgot your ribbon was clipped to it i should send it back memories alexandracalvin
+268107589588484096	sports	rt memphisnews news fedexforum to host south regional of 2014 ncaa mens basketball tournament httptcoqmmpriik
+268107465248354304	sports	rt chiefsoutsiders huge college basketball preview show with great guests coachbankhead and ex mizzou guard jarrett sutton httpstcotp62oldr
+268107464946376704	sports	hello surgery goodbye basketball
+268107437431746560	sports	a certain hs legends first words to the kid who walks in latekiss ur girlfriend tomorrow or basketball goodbye today
+268107361326100480	sports	tonight starts a few too manysspent at armstrong let the basketball season begin goeagles mensandwomensbball
+268107291851649025	sports	amyjmaphet getting at me for tweeting about kstate football and then she tweets about ku basketball hyopcrite
+268107267218477056	sports	back 2 businessi need some basketball players for a charity event hit me up
+268107256804044802	sports	good luck to the bc basketball teams tonight
+268107241327054848	sports	rt jcolbear03 9 hrs and 16 mins until college basketball starts no sleep for me tonight
+268107226818949120	sports	first day of basketball starts in 2 hours ready
+268107196192133120	sports	catch up on last nights dexter then off to basketball practice
+268107136737882112	sports	im wearing an arkansas tech basketball shirt while i work out maybe i wont get shot bearcountry oops
+268107128428953600	sports	black ballswhite basketball blackpowaaa
+268107126507986944	sports	rt seancallahan funny stuff from tom osborne in a trivia contest at sundays mens basketball game httptco6gn9ui8g huskers
+268107118035472384	sports	basketball time
+268107054785376256	sports	brentheemskerk i think you meant go hawks in regards to tonights basketball game
+268107050997936128	sports	first day of basketball here we goooo errikasmith lindseyunruh cassidyennsss
+268107016193572865	sports	first basketball practice today nervous
+268106996581023745	sports	lexxaroy when does basketball startstomorrow
+268106990511861760	sports	i am referring to basketball
+268106968487559168	sports	early signing period faq httptcoehq8yizz rosterbound
+268106966608523264	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268106924703223808	sports	loved seeing the bball players help lead the student section during football season now fball leading during basketball shsfamily
+268106883938783232	sports	good luck to the girls basketball players and coaches this season gospartans httptcoel2mkie0
+268106831770025984	sports	rt cambosuong12 i wanna play with the 8th graders soooooo bad basketball
+268106811658346496	sports	haminn quaintance posts 23 pts fg 1119 15 rebs and 6 asts ev 35 as skallagrimur falls short to grindavik 8693shttptcopu9ktufy
+268106797804560386	sports	rt therealto coming up in about an hour ill be joining gunthergraham on 1320kfan to talk usu football and basketball aggielife utahstate
+268106721069776896	sports	excited for this 2 hour stress relief basketball practice teamfu
+268106659799379968	sports	basketball is my favorite sport
+268106623581577216	sports	first practice of the basketball season so excited
+268106601544687616	sports	rt piercemobley15 just because you wear nike dont mean you play basketball
+268106596889001985	sports	rt calliequinnn98 mens basketball
+268106593772658688	sports	nikefirezach yes they are on id now get to designing httptcoavsakyhu
+268106592648589312	sports	rt gocreighton creighton mens basketball up to 13th passing ucla and michigan state in this weeks usa today coaches poll httptcot3can0a5
+268106581860827136	sports	rt jampeterson basketball is here yet this season i feel a little bit different bout it volleyball
+268106441934635009	sports	my boy could kick your ass in basketball
+268106426067587072	sports	the ncaa basketball tournament will make a return trip to omaha in 2015 we will host second and thirdround games on march 20s22 2015
+268106343150407680	sports	huge college basketball preview show with great guests coachbankhead and ex mizzou guard jarrett sutton httpstcotp62oldr
+268106327425953793	sports	rt gocreighton creighton mens basketball up to 13th passing ucla and michigan state in this weeks usa today coaches poll httptcot3can0a5
+268106311038799872	sports	at least i have basketball
+268106282056163328	sports	the love 4 basketball
+268106279136944128	sports	rt seancallahan funny stuff from tom osborne in a trivia contest at sundays mens basketball game httptco6gn9ui8g huskers
+268106234526302208	sports	franfraschilla i heard ur calling the rider 6 am game if u need any info im a senior at rider and i know alot about college basketball
+268106207502430208	sports	jojoembiid rock chalk baby how would you like to play in basketball heaven night in and night out youre a beast that belongs in phog
+268106113856200705	sports	rush the court college basketball by the tweets opening weekend nick fasulo is an rtc correspondent who write httptcof4hmik4b
+268106084886138880	sports	wichita not selected for ncaa basketball tournament wichita state intrust bank arenaswichita were dealt a bl httptcoaoil6k6x
+268106060806647808	sports	basketball shorts under the jeans haha
+268106033837252608	sports	everybody is nervous about basketball tryoutssif i was doing it i know ill be too
+268106005198548992	sports	rt diaa31 i wanna play an acutal game of basketball cant wait anymoreeee
+268105947212288001	sports	rt cassieaiono24 good luck to my bestest friend whitegirl42 at basketball tryouts for srms although she probably doesnt need it
+268105941097017344	sports	fuck basketball
+268105933572419584	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268105889054072832	sports	i mean suck at basketball
+268105843134853120	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268105832657461249	sports	bradgoostrey are you doing basketball
+268105796636794881	sports	rt djconrad1511 today we start our dream all over again allin basketball
+268105790085267456	sports	basketball practice at 530 pm im gunna die sotired
+268105762864242689	sports	good luck to my bestest friend whitegirl42 at basketball tryouts for srms although she probably doesnt need it
+268105714474549248	sports	hmmmm wish we had basketball earlier
+268105714390683649	sports	nataliehardyy beautiful day for a basketball game yeahhhhhh get pumped girlyeah natty yeah
+268105687169642496	sports	anybody know if the wellness center gonna be jumpin or not basketball
+268105620459249667	sports	rt kuhoops this place is huge what a spectacular venue for college basketballkubball httptcoytm3aq6z
+268105601903644673	sports	rt diaa31 i wanna play an acutal game of basketball cant wait anymoreeee
+268105528633352192	sports	i made sure i only have one class on tuesdays and thursdays so i can watch some high school basketball games
+268105512950853632	sports	rt meganwds11 good luck at basketball tryouts everyone
+268105504180555778	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268105461654515712	sports	good luck to my love amandajean30 on her last first high school basketball practice loveyagirl
+268105453014220801	sports	game preview kansas 10 and 14th ranked michigan state 01 square off httptcoeo77yuv3
+268105423511515136	sports	doane moves basketball tipoffs of dordt games saturday to 1 pm women and 3 pm men to accommodate vb doanebb doanetsn
+268105415873683456	sports	cold atbasketball
+268105411691950082	sports	good luck to all my basketball studs at try outs todayscarlsjune jstringer52 bhunta bhut43
+268105399922741249	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268105394491105281	sports	superhead gone be on basketball wives who married that mank
+268105359670009856	sports	zaayzaay you got like 140 likes on that one in the basketball shirt i get about 6 likes on all of my picturess haha mspopular
+268105333728231424	sports	ashnicoleaustin i actually want to quit basketball same
+268105300115075072	sports	new jazz eventsnov 12 2012 watchsgame free utah jazz vs toronto raptors live stream online nbashttptcoleljxx16
+268105273477050368	sports	rt luxurybot i miss the days when i played basketball and soccer
+268105253075968000	sports	funny stuff from tom osborne in a trivia contest at sundays mens basketball game httptco6gn9ui8g huskers
+268105241474498560	sports	rt zachhibbs hope agswag05 has fun at basketball practice today
+268105210050772992	sports	rt cassieaiono24 good luck to those trying out for srms basketball today
+268105205407707136	sports	wheelchair basketball mens mens hoodie canada sports wheelchair httptcow9tk2stf canada sports wheelchair basketball mens hoodie
+268105197706964992	sports	atlanta hawks update clippers bring down hawks 8976 httptcovkpc8s45 nba basketball
+268105140274356224	sports	oh yeah i didnt know you played basketball
+268105132405817344	sports	mizzou2sec jayhawkerz1 m1ked1xonjr classless ku whose fans only come out of hibernation 6 months each year for basketball season miz
+268105059928260608	sports	i really wanna go do something but i dont have a car and jakes at basketball so i really dont know what to do
+268105050600112128	sports	votes to be ranked httptcolyx8qzen httptcokhukd0qi gobuffs rolltad
+268105021026078721	sports	not sure what i think of basketball shorts yet so used to soccer
+268104994983641088	sports	crap im hungry basketball practice i hate you
+268104962322599936	sports	kaityhinch is such a stud basketball player
+268104958526758912	sports	all this talk about basketball make me wish it was march madness already
+268104957390094336	sports	who wouldve thought me not doing basketball this year would bother me soo much gahhh ijustcantstandthecoach regret
+268104954982592512	sports	rt justlikeice12 basketball season bestseason 2hours
+268104953376145410	sports	good luck to those trying out for srms basketball today
+268104854252171264	sports	rt calliequinnn98 mens basketball
+268104846836649984	sports	rt leehillerlondon great seats to see the la lakers at staplescenter got tickets lakernation httptcodlcds33l
+268104833091903491	sports	basketball doesnt start until 415 yayuh
+268104831829426177	sports	james woodard named the cusa mens basketball freshmen of the week 28pts in his tu debut congrats brightfuture
+268104825701539842	sports	basketball practice at 6 thats gone clear my head
+268104811944243201	sports	the best basketball signatures to never be played in httptcoj3clpadm
+268104791274692609	sports	good luck to all the high school students starting basketball today enjoy every second even when it sucks
+268104783238406145	sports	rt bjrains pujols continues to bring smiles in st louis story and video from the pujols family foundation basketball game httptco5w05qh3j
+268104745573576704	sports	rt justlikeice12 basketball season bestseason 2hours
+268104664589938688	sports	missed basketball practice this morning oops
+268104608310763520	sports	basketball season bestseason 2hours
+268104588211666944	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268104583425949697	sports	kelihoskins yes me too and ive got a great basketball target for maximus to kick at im all sweaty by the time hes changed or dressed
+268104536240041985	sports	ryanlochte katiesleb please its her sweet 16 and shes going out to play some high school basketball
+268104458909646848	sports	rt umslathletics charlie woods named glvc mens basketball player of the weekhttptcoyff8b1jd
+268104450470707200	sports	good luck to my little brother dannyjingle9 with freshman basketball tryouts have fun ubuntu
+268104420666003457	sports	rt diaa31 i wanna play an acutal game of basketball cant wait anymoreeee
+268104409442037760	sports	rt dailyneb husker mens basketball starts off the season with a win against southern unl b1gshttptcoawyi9pr9
+268104396322250752	sports	go out for basketball or no icantdecide
+268104367759060992	sports	rt chelseapolo33 my life is finally here basketball season bouttime
+268104327426613248	sports	jacobnewton10 go to basketball practice
+268104310452273152	sports	rt piercemobley15 just because you wear nike dont mean you play basketball
+268104300381736960	sports	if anyone wants to go to the basketball game tonight and doesnt have a ticket i need mine scanned and you can have it for free letmeknow
+268104298590789632	sports	hope agswag05 has fun at basketball practice today
+268104285684903936	sports	basketball ends at 715 and the voice starts at 7 fml whattodo
+268104274066698240	sports	rt akiiana confessionnight im obsessed with the game of basketball
+268104265053122560	sports	i wanna play an acutal game of basketball cant wait anymoreeee
+268104236900945920	sports	basketball starts today fuckisuck owell whocares
+268104231507075072	sports	great seats to see the la lakers at staplescenter got tickets lakernation httptcodlcds33l
+268104178411401217	sports	basketball wives tistiny chrissysmr jones nfl football they did some nasty shit tonight
+268104169032929280	sports	utah basketballstay in the loop is out httptcojesrp7rnstop stories today via saltlakemetro utahhustle desnewssports
+268104156223524865	sports	people who wear running shorts for basketball
+268104118407675905	sports	i wish people actually played basketball at the eldo y
+268104095586459649	sports	rt verifiedhonour umarjauro support saeedubamin umarjauro mentionto mentionto the best basketball player in your schooldole neai sai bman
+268104094886006784	sports	new rules on sportsmanship httptcovdivcmiv
+268104042666946560	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268104036199321600	sports	time to lace up last year of high school basketball is here leggo bignorthchamps
+268103930297319424	sports	rt kuhoops this place is huge what a spectacular venue for college basketballkubball httptcoytm3aq6z
+268103856855056385	sports	rt kuhoops this place is huge what a spectacular venue for college basketballkubball httptcoytm3aq6z
+268103855479324673	sports	espncareers basketball bouncing ideas back and forth off of a multitude of people
+268103835724177410	sports	good luck to all my basketball girls at tryouts today putinwork
+268103828405108736	sports	rt emilythomper so happy i dont play basketball
+268103790127898624	sports	rt caranojohn i need rileyaustin11 to go out for basketball bballbuddies4life
+268103773782700033	sports	mikaladavis2 girlsi been at jadessbasketball
+268103773094834177	sports	rt haleybrodnick officially no lfe basketball
+268103758859350017	sports	basketball is the onli way i got to make it owt the struggle
+268103755176767489	sports	i wanna know whose cheering for basketball
+268103741637525504	sports	first day of basketball practice httptcoy0sgcww0
+268103663313092609	sports	joshreasoner soccer basketball football tennis
+268103661991890944	sports	itslaaabitch you coming to the basketball game on thursday
+268103643360808962	sports	so happy i dont play basketball
+268103640055689216	sports	i need a basketball
+268103576784625665	sports	basketball hoop lakers lakergangslakernation andrew andrewski sesamestreet elmo pj hooping earl httptcou7cwujlb
+268103572502245377	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268103531762962433	sports	brightbill6 i said jokes not tell me a good basketball program
+268103519368785920	sports	ready for my unofficial start of college basketball best day of the sports year 24hour tipoff tonight
+268103517535891456	sports	rt molester21 basketball at 6 am tired
+268103419481444352	sports	biggest gripe i have with missouri girls they dont know basketball exept for mizzou vs ku if i find a laker fan
+268103414167244800	sports	316ict ncaa overlooks wichita for 201415 mens basketball tournament sites the two closest c httptcoplkrat6f wichita kansas
+268103408882442240	sports	husker mens basketball starts off the season with a win against southern unl b1gshttptcoawyi9pr9
+268103403840892928	sports	memphis memphis will host 2014 south regional mens basketball tournament httptcomegdbwfl
+268103373876760576	sports	the mens basketball team takes on lamar at 7 pm at bramlage coliseum gocats
+268103343119937536	sports	our basketball team always think theyre swaggin until game day
+268103322043568128	sports	rt mindbiowingfact 2 chainz played college basketball graduated with a 40 gpa in 3 years at a 4 year school never judge a book by its cover
+268103289676103681	sports	tommiemedia st thomas womens and mens basketball teams look to taylor young and tommy hannon to lead httptcomhkpoha2 the king
+268103285129486336	sports	rt dallasboys23 espncbb shoot im stoked cant wait basketball season is finally back golobos unmerciful basketballneverstops

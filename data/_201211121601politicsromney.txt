@@ -1,0 +1,1088 @@
+/usr/local/java/jdk1.6.0_37/bin/java -Xms1024m -Xmx1024m -cp :../lib/*.jar:../lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:../lib/twitter4j-2.2.6/twitter4j-async-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-core-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-examples-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-media-support-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-stream-2.2.6.jar:../lib/twitter-text-1.5.0/twitter-text-1.5.0.jar:bin UsersMentionDownload politics romney
+politics romney lang:en geocode:39.8,-95.583068847656,2500km
+268141733945163776	politics	10903 davidjwhite858 cigarvolante kybelle1957 cspanwj gop rnc romneygopand conservatism lost so get over it
+268141703163166721	politics	rt stevebo22 alert media will unexpectedly show romney with big lead to keep conservatives home thinking we have it in the bag dont fall for this rt
+268141602818637825	politics	see how nobody talking about the election and who the president is it would be the same way if romney won
+268141600985731073	politics	rt imsure voterfraud odd romney got zero votes in 59 precincts in philly and 9 precincts in ohio httptcobfgspltx via theblaze
+268141575991861248	politics	wow wall street is betting on mitt romney to win the election httptcolrzhbozl wallstreet mittromney
+268141564214247424	politics	tea party favorite nikki haley governor of south carolina endorses mitt romney 16 december 2011 httptco1sqgwrju mitt2012 teaparty
+268141488842629122	politics	rt brandonrush turns out romney had the wrong target had he gone after elmo instead of big bird he might have won
+268141387051069440	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268141386908450817	politics	orca was no fail whale says romneys digital director httptcot5k7vnhp
+268141380063330305	politics	rt goright susie76 mittromney joshromney mattromney craigromney fight for us a little bit longer please it is so obvious that there is fraud
+268141355505680385	politics	people unliking romney on facebookscnn httptcoslph0plh
+268141349738520579	politics	people unliking romney on facebookscnn httptcobxvhlcwa
+268141338464251904	politics	arbirator wickedplayer494 naw but wicked i belive arb tweeted why would anyone vote for romney a month ago sooooooo
+268141297750130688	politics	traffic reporter directs mitt romney supporters to canadaswatch jeff brucculeri provides directions from tuls httptco5jhnm5rx
+268141111728537602	politics	rt goright susie76 mittromney joshromney mattromney craigromney fight for us a little bit longer please it is so obvious that there is fraud
+268141098516484097	politics	hilarious tulsa traffic reporter has advice for romney supporters httptcosighqvbh redstates canada lgbt gaymarriagesobamacare
+268141002450165760	politics	ksdknews mitt romneys website sells campaign gear after election httptcompookauu brutal
+268140904873857025	politics	rt kristiia rt community organizer massively kicks ceo bigwigs ass haymakers obama was always out of romneys league httptco2xv1ovfb obama p2
+268140824422920192	politics	rt sfcblessed lurabyss media wants us to accept none of these people voted for romney in philly httptcojlkbmm2k foxnewspolitics foxnews
+268140812108451840	politics	huffpost hillsmichael steele for chairman a guy who got the romney campaign logo tattooed on his face isshttptco0gasdwwa
+268140735449165824	politics	obama flipped on same sex marriage free pass 2 illegals lied about romneypandered 2 coalition fake war on women lied 2 seniors cnn
+268140696874139648	politics	seems like theres a good drinking game in there rtnewscut watch mitt romneys facebook likes decrease in real time httptcoheqsxgeq
+268140660438224899	politics	rt prolifestuff romney should have attacked obamas radical abortion record httptcoeonarrsp
+268140608005230592	politics	man who tattooed romney logo onto forehead speaks out httptco2yiqf7fy
+268140302072688642	politics	rt brenyoung is it odd or fraud if we let this go unchallenged then we deserve everything that is going to happenhttptcos6txbzea
+268140203745619969	politics	rt joshvoorhees lets try that again grover norquist tries to explain romneys loss with his poopyhead theory really httptcoim90uukk
+268140186255364096	politics	rt craigbowden2020 breaking newsvoter fraud59 pennsylvania districts give not 1 vote to romney fraud recount warshttptcoskosdews philly usa
+268140020752334850	politics	neither does mitt romneystucson citizen httptcowtuvozv5
+268140019863150593	politics	mitt romney gets zero votes in dozens of voting divisions in philadelphiasyork daily record httptcoptesidco
+268140016788725761	politics	pollbuster when the popular vote calc is done it may show that romney received are you ready for its47 that is hilarious
+268140015832424448	politics	rt craigbowden2020 breaking newsvoter fraud59 pennsylvania districts give not 1 vote to romney fraud recount warshttptcoskosdews philly usa
+268139992595984385	politics	rt tomfrancois 59 districts in philadelphia didnt record one single vote for romney now thats magic not one person with one brain cell anywhere
+268139922546900993	politics	barackobama 0svotes for romney in philly i dont think so i know for a fact of several voted for romneysyour regime is almost over
+268139894776418305	politics	rt imsure voterfraud odd romney got zero votes in 59 precincts in philly and 9 precincts in ohio httptcobfgspltx via theblaze
+268139784675938304	politics	breaking newsvoter fraud59 pennsylvania districts give not 1 vote to romney fraud recount warshttptcoskosdews philly usa
+268139738693763072	politics	rt toddstarnes mitt romney gets 0 votes in 59 philly voting wardssand no one is doing a thing about it httptcovcunxhkd voterfraud
+268139706745769984	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268139654438612992	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268139575250124800	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268139565016035329	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268139533525204992	politics	pa officials plan no probe despite extraordinary totals for obama in phillysromney had zero votes in some areasshttptcoxgzecim6
+268139433570742274	politics	rt newscut watch mitt romneys facebook likes decrease in real time httptco8up7kgkg
+268139411907174400	politics	he got a 10 square inch romney tattoo on his face raised 15k to do it says hes disappointed by the result of httptco1vf3ocwh
+268139303589257216	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268139298920996864	politics	rt flyoverjoel i just got an email from linkedin suggesting i follow mitt romney and its always uncomfortable when unemployed people reach out to me
+268139232525164544	politics	conservative media caught in the blame game some republicans say romneys loss is partly the fault of conservative media that kept o
+268139231313022976	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268139202804334593	politics	mitt romney talked about the 47 the same way hitler saw talked about the jews
+268139124953858048	politics	rt joshvoorhees lets try that again grover norquist tries to explain romneys loss with his poopyhead theory really httptcoim90uukk
+268139114380017664	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268139104414347264	politics	rt superdriver318 anndromney mittromney the romneys wouldve made a first family other americans couldve looked up to not be embarrassed of or by
+268139048512651265	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268139018372399104	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268139008339632128	politics	conservative media caught in the blame game some republicans say romneys loss is partly the fault of conse httptco7ulsikc8 npr
+268138996180320256	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268138965889069056	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268138943063683072	politics	romneycentral m romney needs to have the voting machinessoftware confinscated voter fraud everywhere
+268138934905737216	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268138894510407680	politics	email to romney mitt our president in 2016 please mitt do no go awayi know we have anothershttptcopta66xeo gop tcot tlot
+268138832854151169	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268138812486598657	politics	rt sarahpalinlinks via breitbart 59 philadelphia voting divisions zero romney votes httptcoxoyngky1 sarahpalinusa
+268138807629598720	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268138768601608192	politics	texas is approaching 35k signatures 49 mil people voted for romney please sign for your freedom httpstcox2ebxif6
+268138748611534848	politics	gnorquistromney painted as poopy headskevin robillardkatie glueckshttptcohlnpz6to httptcokagq2ryh via politico
+268138731595239424	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268138719352061953	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268138702700687360	politics	ratchet2english just seen mitt romney at the unemployment office loool
+268138659239301122	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268138630315401216	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268138629405216769	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268138628406968320	politics	rt tomfrancois 59 districts in philadelphia didnt record one single vote for romney now thats magic not one person with one brain cell anywhere
+268138607364169728	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268138513172672513	politics	rt brenyoung is it odd or fraud if we let this go unchallenged then we deserve everything that is going to happenhttptcos6txbzea
+268138497687318528	politics	people unliking romney on facebook httptco4ueivl8x
+268138490024321024	politics	elon musk on romney calling tesla a loser he was right about the object of that sentence but got the subject wrong
+268138409518837760	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268138403466448896	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268138400035508224	politics	rt toddstarnes mitt romney gets 0 votes in 59 philly voting wardssand no one is doing a thing about it httptcohdl0pxmg voterfraud
+268138384776642561	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268138307265908736	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268138289612075008	politics	rt brenyoung is it odd or fraud if we let this go unchallenged then we deserve everything that is going to happenhttptcos6txbzea
+268138259811549184	politics	rt kellyrek gop racesronpaul did not resort 2 telling lies about his fellow contenders his focus was on ideasswhereas romney was the opposite
+268138234838646784	politics	rt dittowatch breakingsthereval romney merchandise is on sale for 60 off
+268138186453180416	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268138169327824897	politics	is it odd or fraud if we let this go unchallenged then we deserve everything that is going to happenhttptcos6txbzea
+268138136935223296	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268138122267721728	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268138093180243969	politics	subzerofun faintlyamused yep i take some every day and romney still isnt president worksgreat
+268138090432983040	politics	rt dittowatch breakingsthereval romney merchandise is on sale for 60 off
+268138046954823680	politics	mfz being hella dramatic tryna petition for they states to leave the us at least we was just finna move if romney won nt make a new country
+268138005519282176	politics	funny fuck romney httptcomxwxaciq
+268138005389271040	politics	orca was no fail whale says romneys digital director httptco3yknomql
+268137957540642817	politics	foodstamps future was on line politicalwire this is amazing mitt romney got zero votes in many urban precincts httptcoavmb84zs
+268137955141505025	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268137877630758912	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268137802946990081	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268137800929525761	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268137789126758401	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268137711616020480	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268137682910183424	politics	pourmecoffee foxnews and the wall street journal gave romney millions worth of campaign coverage all for free
+268137656100208640	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268137623158153216	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268137621648191490	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268137596008427522	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268137582787952640	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268137566136578048	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268137554593841152	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268137457768333312	politics	businessinsider obama was always out of romneys league httptcoeyx1zviv good article
+268137452814876672	politics	rt pourmecoffee romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268137365812428800	politics	sore looser romney cancels campaign credit cards after concession speech leaves staff stranded httptco1ryq90dp httptcobuwrt9g4
+268137344174002178	politics	romney what about where the rational evidence for my winning disappeared fox news that is when we carried you my child
+268137303745118209	politics	rt mfktoday military absentee ballotsswould have swung election for romneysthe duffel blog httptcoboepo2bq mine not countedthey lied to me
+268137216604241920	politics	rt nobamachat fact its impossible romney didnt get 1 single vote in 59 philly districts and 9 cleveland districts it is impossible electionfraud
+268137201542516736	politics	conservative media caught in the blame game some republicans say romneys loss is partly the fault of conservat httptcoegzj4wpj
+268137105492963328	politics	crazy woman in az drove over her husband cuz he didnt vote httptcoc7q6cmsusromney lost by one vote p2 gop tcot teaparty
+268137062773956609	politics	rt mfktoday military absentee ballotsswould have swung election for romneysthe duffel blog httptcoboepo2bq mine not countedthey lied to me
+268136923153969152	politics	rt tomfrancois 59 districts in philadelphia didnt record one single vote for romney now thats magic not one person with one brain cell anywhere
+268136899271606272	politics	how a giant it screwup might have cost romney the election httptcocodukudz daringfireball gruber
+268136801259122688	politics	rt nobamachat fact its impossible romney didnt get 1 single vote in 59 philly districts and 9 cleveland districts it is impossible electionfraud
+268136769504038912	politics	maybe we should buy it all up and resell w the 47percent logo stamped on it rt kellabeck surprised romney merch isnt 47 off thereval
+268136723668672513	politics	cnnpolitics people unliking romney on facebook httptcojkkwgfnv ahaha
+268136716609662977	politics	rt mfktoday military absentee ballotsswould have swung election for romneysthe duffel blog httptcoboepo2bq mine not countedthey lied to me
+268136625530359808	politics	rt azmoderate those saying the voters were ignorant keep in mind that the most educated states went for obamasthe least educated ones went for romney
+268136587206983682	politics	jazz mustache llcsis michelle malkin a covert surrogate for romney campaign teaparty tcot tlot ocra httptcozctfohy1
+268136556395642880	politics	tcot romney ran on ended tax loopholes on the top without raising the ratethat is what you voted for
+268136541933690880	politics	mitt romney cuts off campaign workers credit cards leaves workers stranded httptcoiilg8rdu via examinercom
+268136413080453120	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268136374757126144	politics	tell me more about this mitt romney chap
+268136362581061632	politics	rt egyptiansmoke so to the guy who got a mitt romney tattoo on his facesyou look like shitsdo you feel like itshttptcol6ovwbgb
+268136286685122561	politics	krmullins1964 or romney or ryan quite frankly
+268136283510013952	politics	no stop mt laurabrod pretty disappointing when u think that just a few states determine whos elected president httptcorkvxwnsx
+268136219400097792	politics	cscox01 mccainblogette 3 million less voted for romney 10 million less voted for obama
+268136116752900097	politics	man with romney face tattoo disappointed with election resultssthe sideshowsyahoo news httptcoyyxsl1yl via yahoonews
+268136055742550017	politics	rt community organizer massively kicks ceo bigwigs ass haymakers obama was always out of romneys league httptco2xv1ovfb obama p2
+268135851345731584	politics	eric hartsburg tattoos mitt romney logo onto forehead speaks out aftershttptcopaq9oyby romney
+268135812145741824	politics	man with romney face tattoo disappointed httptcodhcxesgc
+268135714468798464	politics	i liked a youtube video from baracksdubs httptcoffouamp7 barack obama and mitt romney singing party in the usa by miley
+268135656591609856	politics	never mind social media this was the obama campaigns real secret weapon httptcojccghysysromney
+268135626812039168	politics	a job for mitt romneysbbc chairman says network needs radical overhaul httptcoayvkvdk7
+268135595887431680	politics	drhug gallop reported romney 5s6 points ahead in the last week whats up with that
+268135551780155392	politics	so to the guy who got a mitt romney tattoo on his facesyou look like shitsdo you feel like itshttptcol6ovwbgb
+268135442241695744	politics	the real war on women has been waged by the obama administrations failure on the economysmitt romney in delaware httptcocylefxht
+268135429625237506	politics	danielpetty religiongal probably just as well video mitt romneys mormonism meltdown on iowa radio station
+268135384716824577	politics	just saw a romney and ryan sign by a couple trash bags lol rip
+268135378236628992	politics	if obama wins if romney winsits up to me its my choice great post from karla httptcoqimeevy0
+268135360347914240	politics	interesting election return layout for missouri red romney blue obama httptcoaffswkg9
+268135241716232193	politics	politicalwire when popular vote calc is done romney may end up with are you ready for it 47sthat is hilarious
+268135224448270337	politics	i liked a youtube video from baracksdubs httptcot6a8pxav barack obama and mitt romney singing hot and cold by katy perry
+268135151794520064	politics	rt azmoderate those saying the voters were ignorant keep in mind that the most educated states went for obamasthe least educated ones went for romney
+268135078905905152	politics	latest ars tech orca was no fail whale says romneys digital director campaign says orca basicall httptcoksxpp4ti tech news
+268135073000325121	politics	rt tomfrancois 59 districts in philadelphia didnt record one single vote for romney now thats magic not one person with one brain cell anywhere
+268135022979076097	politics	rt sexxandweed vote obamasfuck romney vote obamasfuck romney vote obamasfuck romney vote obamasfuck romney vote obamasfuck romney
+268135006235398144	politics	freedomcrusades massive voter fraud now under investigation some counties had zero romney votes and 140 registered dems we will see
+268134999885234176	politics	rt tomfrancois 59 districts in philadelphia didnt record one single vote for romney now thats magic not one person with one brain cell anywhere
+268134946361724928	politics	mitts facebook friends are dropping like fliesshttptcodqwqod0osnobody likes a loser
+268134757680943104	politics	rt patronaura if mitt romney was president wed blame everything on him damn why is it so cold outside it wasnt this cold when obama was president
+268134740970860545	politics	10903 cigarvolante davidjwhite858 kybelle1957 cspanwj gop rnc romney hate the teaparty he never mention it once
+268134709966540800	politics	rt mrjamiemelton fact not one vote cast for romney in 59 philadelphia voting districts election tcot romney obama
+268134688353288192	politics	rt dcchubbie wait wait wait is romney talking about taking away disney channel nigga fuck you mittromney just take bet not disney nigga
+268134609903038466	politics	breakingsthereval romney merchandise is on sale for 60 off
+268134607642300416	politics	theres a show called wheres big foot a show called where are the ufos but they need a show called wheres mitt romney lol
+268134591670398976	politics	to leave the us had romney won remember the us had multiple years of the bush presidency fathersson
+268134579121057792	politics	rt vfwvet rt thedailyedge boehner the only hope 4 republicans in 2016 is if we force the romneyryan tax plan on america 4 the nxt 4 years ff
+268134565950935040	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268134519272505344	politics	politicalbill sharethis simple answer romney was a lousy candidate disdain for 12 the population women and minorities
+268134492936499201	politics	conservative media caught in the blame game some republicans say romneys loss is partly the fault of conservative media that kept o
+268134492647063552	politics	rt azmoderate those saying the voters were ignorant keep in mind that the most educated states went for obamasthe least educated ones went for romney
+268134471608446976	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268134414612066307	politics	man with romney face tattoo disappointed with election resultsshttptcoxrtrnr3j
+268134394366160896	politics	those saying the voters were ignorant keep in mind that the most educated states went for obamasthe least educated ones went for romney
+268134337436856320	politics	rt tomfrancois 59 districts in philadelphia didnt record one single vote for romney now thats magic not one person with one brain cell anywhere
+268134270709669888	politics	how did romney manage to get 18 million fewer votes than mccain amazed
+268134252498010112	politics	rt tomfrancois 59 districts in philadelphia didnt record one single vote for romney now thats magic not one person with one brain cell anywhere
+268134186387394560	politics	59 districts in philadelphia didnt record one single vote for romney now thats magic not one person with one brain cell anywhere
+268134182952243200	politics	rt religiongal heres what mormon mitt romney is not going to dos run for lds president or apostle httptcoxa94uitx
+268134090136510464	politics	orca was no fail whale says romneys digital director httptcobsjcotzy technologylab
+268134042124292097	politics	xomyra nahh he ready come in class talkin bout some obama2012si wish he would bring romney up hell get whore he already know lls
+268133960289222658	politics	10903 cigarvolante davidjwhite858 kybelle1957 cspanwj gop rnc if you did romney would be in the wh the gop would control the senate
+268133887887167491	politics	mitt romney losing likes on facebook in realtime httptconygplo3s via flowingdata
+268133767393202177	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268133659435991040	politics	mittromney was so cheap the orca programming was housed in a commodore 64shttptco44eaf196
+268133583909175296	politics	werachanel barack obama and mitt romney singing hot and cold by katy perry httptcodwfazljq this is the best omp
+268133572521644032	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268133523347607552	politics	eric hartsburg tattoos mitt romney logo onto forehead speaks out aftershttptcovskuprhr
+268133439180533762	politics	there was 49 mil american patriots who thought romney was a better choice than obama can we get half as many to sign httpstcox2ebxif6
+268133431601422336	politics	johngalttx nebraska doctor to close is practice if obama is reelected romneyryan 2012 stands forrefuse romneyrefute ryan 2012
+268133385334030337	politics	people unliking romney on facebook
+268133340119437313	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268133152101388288	politics	rt sfcblessed lurabyss media wants us to accept none of these people voted for romney in philly httptcojlkbmm2k foxnewspolitics foxnews
+268133149307961345	politics	10903 cigarvolante davidjwhite858 kybelle1957 cspanwj gop rnc romney lose but the teaparty lost more
+268133093666336770	politics	thanks to all the usu college republicans who volunteered their time at the romney victory center in logan httptcovfegufpk
+268133080924028928	politics	someone who is black do a documentary on the philly precincts with zero romney voterssculture
+268133074653548546	politics	rt 418829 nxthompson national vote total finalized hilariously mitt romney got 47 percent self prophesied 47percent next time he think twice
+268133008094162945	politics	grover i know you are but what am i norquist says bo called romney a poopy head proving the far right has a play ground bully mentality
+268132985025478656	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268132846105939969	politics	winners have a thousand fathers losers are an orphan httptcoxnubbupy right looneyonfoxsgobama
+268132836207374336	politics	people unliking romney on facebookscnnshttptcocnqk09x7
+268132719651848192	politics	rt chism53pam mittromney pleasesdemand a vote recount everyone is reporting voter fraud american needs ugod bless yousmrs romney for all that you do
+268132518551764992	politics	brithume we have rich guy poor guy syndrome romney could have won message no tax increase on rich and bush was bad never countered that
+268132495181090816	politics	rt pierresr7 when mitt romney lose he gonna do the denzel training day speech when he said im putting cases on all u bitches
+268132454680903680	politics	that awkward moment when your boyfriend compares you to mitt romneyssmrtle
+268132429183733761	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268132366483091456	politics	rt gopblackchick neither romney nor rnc was innovative wvoter outreach or fundraising this is road to wh leave no voter ignored httptco1t0e5w84
+268132358094462976	politics	ms was talkin about mitt romney in math today ee
+268132355519164416	politics	orca was no fail whale says romneys digital directorssssconservative bloggers have arrived at the ange httptcontmdggsy
+268132318621859840	politics	people 39unliking39 romney on facebook httptcojcjmgzl4
+268132317598449664	politics	nxthompson national vote total finalized hilariously mitt romney got 47 percent self prophesied 47percent next time he think twice
+268132316814118912	politics	well this is awkward httptcol1ck9pdf
+268132289425338368	politics	10903 cigarvolante davidjwhite858 kybelle1957 cspanwj gop rnc romney lost fox news lied lol
+268132073276059650	politics	people unliking romney on facebookscnnssunheraldcompeople 39unliking39 romney on facebookcnnthe formershttptcoh6crc45w
+268132069371158528	politics	rt sfcblessed lurabyss media wants us to accept none of these people voted for romney in philly httptcojlkbmm2k foxnewspolitics foxnews
+268132047116189696	politics	rt talented chiefdolphin talented mitt romney goes down in the history books as most roasted nigga ever behind lebrons hairlinelmao weak
+268131986521088000	politics	gopblackchick gosh are you throwing romney under the bus
+268131981815058433	politics	romney is president httptcofxanwojn
+268131968296841216	politics	only 30 of white people voted for romney boom obama
+268131938001362944	politics	rt gopblackchick neither romney nor rnc was innovative wvoter outreach or fundraising this is road to wh leave no voter ignored httptco1t0e5w84
+268131930573266944	politics	httptcoswuqsczt lame article and very paritsan romney lost because he was humble
+268131787908206592	politics	meet orca romneys 21stcentury turnout program that wasnt httptcodtb9sjso via politico
+268131761928679425	politics	rt sfcblessed lurabyss media wants us to accept none of these people voted for romney in philly httptcojlkbmm2k foxnewspolitics foxnews
+268131747487698944	politics	people unliking romney on facebook httptco1q1tbrz0 krdo
+268131618332504065	politics	chiefdolphin talented mitt romney goes down in the history books as most roasted nigga ever behind lebrons hairlinelmao weak
+268131613072838656	politics	rt menshumor youre probably naked under all those clothes you slut
+268131611650965504	politics	mitt romneys facebook page is losing fans by the minute httptcoebciecp6
+268131604348674048	politics	why the supreme court planned reception for romney not obama httptcoa3ou8fmw via wsj
+268131565941432320	politics	rt mfktoday military absentee ballotsswould have swung election for romneysthe duffel blog httptcoboepo2bq mine not countedthey lied to me
+268131509007949824	politics	rt kellyrek we conservatives have a coreswhereas mitt romney lacked one
+268131443740397568	politics	rt talented mitt romney goes down in the history books as most roasted nigga ever
+268131409028345856	politics	mitt romney aka thurston howell iiismeanwhile back on the island
+268131111522152448	politics	rt talented mitt romney goes down in the history books as most roasted nigga ever
+268131057143001089	politics	az woman vastly overestimates importance of husbands romney vote and runs him over for not voting httptcofquhmx5u
+268131037018746880	politics	rt thebaxterbean reality check applebees ceo donated enough money to the romney campaign to pay applebees employees health insurance for 10 years
+268130946459512832	politics	the guy that got the romney logo tattooed on his face should go ahead and get etard across his forehead
+268130909184733185	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268130903241420800	politics	thanks for the ht newscutswatch mitt romneys facebook likes decrease in real time httptcoq6yf0wdj
+268130873369583616	politics	mitt romney goes down in the history books as most roasted nigga ever
+268130813776891905	politics	rt eyeonromney gop loses 380 million on ads httptcoliebofok gop2012
+268130756688228353	politics	rt natedrapeau0 theres still romney commercials on pandora because everyone knows it was a mistake
+268130741127368705	politics	grover norquist obama won by calling romney a poopy head httptconiuhg7c0
+268130715881832448	politics	rt newscut watch mitt romneys facebook likes decrease in real time httptcofzounytd
+268130706893459459	politics	rt sfcblessed lurabyss media wants us to accept none of these people voted for romney in philly httptcojlkbmm2k foxnewspolitics foxnews
+268130528669089792	politics	top lines veterans day petraeus snl norquist and mitt romney poopy headshttptcorg2njjvq httptcotanrjhoq
+268130511489224704	politics	people unliking romney on facebook httptcoipq2iub1
+268130470422790144	politics	rt bestleftsaidops a former bush speechwriter ponders a 3rd romney run for the presidency httptcobmi0qsm6
+268130465049899008	politics	last night on bbc world service the suggestion that perhaps mitt romney should applysturmoil spreads at bbc httptcojtsbeyck
+268130462696886272	politics	rt chuckgrassley c how obama continually interrupted romney just now
+268130448364953600	politics	rt chuckgrassley obama restraining fr so much interruption of romney
+268130416962195456	politics	rt chuckgrassley notice how rude obama is interrupting many times romneyss romney should not be so polite
+268130162846101504	politics	not really memeorandum romney political director the ground game worked fine trinko httptcov3nikvjr httptco6hjsr2dv
+268130159360606209	politics	rt macmiller ill be so pissed if romney is president for real
+268130148266672128	politics	rt nymag snl bids farewell to the campaign season with one last shot at romney httptcoy3jctkjhsnbcsnl
+268130135193034753	politics	insiders explain how mitt romneys campaign completely fell apart ons yahoo news blog httptcocbf3sgfj
+268130134261903360	politics	top lines veterans day petraeus snl norquist and mitt romney poopy headshttptcovqjlwcxw httptcouklykgya
+268130074094612480	politics	good news from the election yet another cousin from my moms side joined my team and voted for romney
+268129735891099650	politics	ok also on 600 news kctv5 romneys secret sisterthe fuck oh shes not mormon i want to kill everything right nowshumansociety fuckoff
+268129670602584064	politics	insiders explain how mitt romneys campaign completely fell apart on election daysyahoo finance httptcorv4qmn1r via yahoofinance
+268129533713072131	politics	dumbass man with romney face tattoo disappointed with election resultssthe sideshowsyahoo news httptcobjnvevns via yahoonews
+268129274555420672	politics	rt nobamachat fact its impossible romney didnt get 1 single vote in 59 philly districts and 9 cleveland districts it is impossible electionfraud
+268129266917593088	politics	mitt romney dont pay no tak
+268129258356998145	politics	rt mormonupdate whats next for romney become a mormon apostle oversee an lds mission httptcoxaf5d78h
+268129235607121920	politics	rt nobamachat fact its impossible romney didnt get 1 single vote in 59 philly districts and 9 cleveland districts it is impossible electionfraud
+268129128681725952	politics	now i want you to stand up in front of the whole class and say im an idiot maybe an endorsement from riteaid httptco7za6qcq3
+268129046611779584	politics	robertaholland mittromney i am sure gov romney is aware of the discrepancies and probably w greater granularity i defer to his judgement
+268128966378934273	politics	short sighted expecting mass excitementssupport of romney outhouse ratcrazy expecting mass excitementssupport of dissolution of usa
+268128949173882882	politics	i just made romney noodles obama self
+268128909361553408	politics	romniac now you see the key why romney lost msm in the tank for o and too many americans are morons they take what they are fed
+268128878411776001	politics	twitter name i hate romney hahaha im dying
+268128832811311105	politics	elmo might be off sesame street hes talk of sexual misconduct w15yr old boy maybe romney was right to cut this one
+268128826066866176	politics	rt nobamachat fact its impossible romney didnt get 1 single vote in 59 philly districts and 9 cleveland districts it is impossible electionfraud
+268128773063442432	politics	okay grover for the sake of argument lets say that obama did call romney a poopy head the point is that a majority of us voters agreed
+268128711214239744	politics	rt prolifestuff romney should have attacked obamas radical abortion record httptcoeonarrsp
+268128672924454912	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268128664691027969	politics	rt nobamachat fact its impossible romney didnt get 1 single vote in 59 philly districts and 9 cleveland districts it is impossible electionfraud
+268128555760754689	politics	man with romney face tattoo has no regrets httptcomlimoyji
+268128493643112448	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268128462651400193	politics	adulf hitler louis benny goodman james bond creed bratton santa clause conan daniel tosh mitt romney grandpa pete sleepover
+268128318463827969	politics	rt gopblackchick oh how the mighty have fallen those who were so empowered inside romney campaign suddenly look well clueless
+268128285811154944	politics	romneys website still sells campaign gear sorry no discount click on mitt romneys campaign website and you httptconpyap5mh
+268128277053468673	politics	romneys website still sells campaign gear sorry no discount click on mitt romneys campaign website and you httptcocjetkyp1
+268128273484107777	politics	rt gopblackchick oh how the mighty have fallen those who were so empowered inside romney campaign suddenly look well clueless
+268128255574429700	politics	in 59 philadelphia voting divisions mitt romney got zero votes httptcouqkxzeoo
+268128147554332672	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268128131574009858	politics	oh how the mighty have fallen those who were so empowered inside romney campaign suddenly look well clueless
+268128016725581826	politics	rt hamptonwriter gop in nh got my romney stickers today kinda says it all make a call or email to local gop dead air on other end
+268127974031765505	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268127922408280064	politics	brithume gop pollstersuperpac along with fox sold hope about romney winsraising billions from poor conservatives ponzi rove teaparty
+268127824626462720	politics	rt politicallogic just so i am clear secession is a good idea because obama was reelected and romney was the last hope for the union
+268127532967137280	politics	romney should have attacked obamas radical abortion record httptcoeonarrsp
+268127471684165633	politics	rt countryvoices if romney win we all gon be slaveswhere im from we call it jobs
+268127460019798016	politics	top lines veterans day petraeus snl norquist and mitt romney poopy headshttptcoxhiwwnrh nbcnewsco httptcok7lsnajw
+268127459185147906	politics	people unliking romney on facebookscnn brisbane timespeople unliking romney on facebookcnncnnsnobody httptcob8v5ifos
+268127351450251264	politics	rt wilramsey this elmo story could have been huge for the romney campaign
+268127335612575745	politics	pakistan people unliking romney on facebookscnn sunheraldcompeople unliking romney on face httptcob8v5ifos socialmedia
+268127333179850754	politics	pakistan people unliking romney on facebookscnn sunheraldcompeople unliking romney on facebookcnnthe fo httptcob8v5ifos
+268127232789196800	politics	news will obama make wall street pay for its support of romney httptcolicywmzu httptcootgrnsal tcot
+268127027142488064	politics	rt ohhenry7 a don draper view romneys uglyass logo looked like an errant glob of tripleprotection aquafres httptco6acwospf
+268126945475194881	politics	odd romney got zero votes in 59 precincts in philly and 9 precincts in ohio httptcom2wopt9c via theblaze
+268126934054092800	politics	scarylawyerguy in fairness to the president romney is a poopy head cc grovernorquist love it
+268126919806038017	politics	rt potogold1 gregzemaitis proof of huge fraud ballot stuffing in fl oh and pa romney probably won
+268126908678545408	politics	nana pulls up and i see a romney sticker on her dash board my response oh do you want me to throw that piece of trash away for you obama
+268126895898513409	politics	so thats why mitt romney wanted to cut funding of sesame street
+268126813568503808	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268126755695505409	politics	the romney campaigns orca system failure squandered their most valuable resource peopleswas symptomatic of a bigghttptcooxb37174
+268126715887370241	politics	even mr etchasketch couldnt go that far rt hool36 all romney needed to do was pretend to reverse sensata decision to close plant
+268126710489284610	politics	wow man with romney face tattoo disappointed with election resultssthe sideshowsyahoo news httptcogixttgnt via yahoonews
+268126700758507520	politics	with videocavuto romneys loss doesnt make him a loserscommon sensesyour world with cavuto httptco2z6wjcoy via teamcavuto
+268126668676272129	politics	people unliking romney on facebook nobody likes a loser httptcos9kxjzao trending news
+268126597138247682	politics	maddow hardballchris edshow rt jbouie watch people unlike mitt romneys facebook page in real time httptcogpulfvsm
+268126519413596161	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268126459099484160	politics	rt countryvoices if romney win we all gon be slaveswhere im from we call it jobs
+268126448634716160	politics	christiejudas rt aprilthorn2 christie calls obama to congratulate him emails romney httptcodbcdxhgg
+268126431744237568	politics	conflictofinterest rt hool36 all romney needed to do was pretend to reverse sensata decision to close plant he wouldve killed obama
+268126355051397122	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268126140139462656	politics	rt derekahunter if only you knew a journalist mt mckaycoppins like to know statistical probability of romney receiving 019605 votes in section of philly
+268126122254942208	politics	rt newscut watch mitt romneys facebook likes decrease in real time httptco8up7kgkg
+268126105976856576	politics	rt newscut watch mitt romneys facebook likes decrease in real time httptco8up7kgkg
+268126088222343170	politics	drudgereport man with romney face tattoo has no regrets httptcoh5k2tdve besides that romney lost and he has a stupid r on his face
+268126077359104000	politics	dickmorristweet the landslide for romney right
+268126076260200448	politics	people unliking romney on facebookscnn httptcowzaojygu socialmedia
+268125943011356673	politics	cramblet32 rural areas where people who voted for romney live my teacherserie
+268125882508537856	politics	rt americaluvsmitt in the 2012 election mitt romney received a larger share of the evangelical christian vote than any previous president httptco05rzekfm
+268125867593572352	politics	rt newscut watch mitt romneys facebook likes decrease in real time httptco8up7kgkg
+268125858986864640	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268125811117281281	politics	rt newscut watch mitt romneys facebook likes decrease in real time httptco8up7kgkg
+268125810450382848	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268125794126155776	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268125789826985984	politics	gabbyhoffmanswe should follow melissajoanhart and givesher support hannity talks about her support of romneysresponsestonight
+268125786853220353	politics	latest newssfacebook friends abandon romney news httptcoix36v3ja
+268125751356817408	politics	watch mitt romneys facebook likes decrease in real time httptco8up7kgkg
+268125736290881536	politics	forr3st hookahlukah pick between obama or romney thought on how to rebuild the economy
+268125639977095168	politics	idea4 msmsphotoshoptweet a graphic alleging zero romney votes then show poll results disproving pix and voterfraud story covered tcot
+268125622067425281	politics	rt thebaxterbean reality check applebees ceo donated enough money to the romney campaign to pay applebees employees health insurance for 10 years
+268125599476879360	politics	flashsmr spotted in texas buying home calls gov perry and offers 2 spot on the ticketsromneyperry for pres and vp of texas 2013
+268125588466827264	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268125566568394752	politics	eric hartsburg tattoos mitt romney logo onto forehead speaks out after election ha ha pinche pendejo httptcooel9f7tj
+268125554304245761	politics	rt nobamachat theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268125542119768066	politics	rt imsure voterfraud odd romney got zero votes in 59 precincts in philly and 9 precincts in ohio httptcobfgspltx via theblaze
+268125435894845440	politics	so cool rt jbouie who likes mittswatch people unlike mitt romneys facebook page in real time httptcogpulfvsm
+268125383600263169	politics	this elmo story could have been huge for the romney campaign
+268125312196440065	politics	man with romney face tattoo has no regrets httptcokxu5jndb
+268125307318452224	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268125225361747968	politics	rt americaluvsmitt in the 2012 election mitt romney received a larger share of the evangelical christian vote than any previous president httptco05rzekfm
+268124972541673473	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268124969521782785	politics	just so i am clear secession is a good idea because obama was reelected and romney was the last hope for the union
+268124959837155328	politics	rt dittowatch they palin etc couldnt believe romney didnt respond to its jane mayer on building own coffin bain buildthestage ad hardball
+268124887044988928	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268124864790016000	politics	rt countryvoices if romney win we all gon be slaveswhere im from we call it jobs
+268124846460923906	politics	mwj1231 i wonder how long reince s bio will tout chairman republican national committeewill they give palin or romney the position
+268124757738807296	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268124721206411265	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268124650763059201	politics	rt dittowatch breaking those are the kind of people who are invisible to mitt romney thats why they lost ohios joy of thereidreport hardball
+268124577119477760	politics	grovernorquist moreso than mitt romney you are the biggest loser in this election
+268124567569051648	politics	rt flyoverjoel i just got an email from linkedin suggesting i follow mitt romney and its always uncomfortable when unemployed people reach out to me
+268124537709789184	politics	rt cmd1969 mission impossible phily gives romney zero votes httptcoenl2oaxq
+268124536002723840	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268124510811734016	politics	rt new0rleanslady this glennbeck pbolyard just so everyone knows im a poll worker in ohioi watched voting machine change votes frm romney 2 obama y
+268124501697499136	politics	mittromney see bev harris at httptcoqdwy5fzw they didnt bother counting before announcing winnernow they have to fudge out votes
+268124488367996928	politics	obama obama ya dig romney im goin in
+268124463814565888	politics	profile defenders facebook friends abandon romney nobody likes a losersssbest reputation co
+268124390468759553	politics	amazing sketchy or just pathetic or all of the abovefixaaron romney earned zero votes in some urban precincts httptconcauktqa
+268124368687755265	politics	rural areas where people who voted for romney live my teacher
+268124363751034881	politics	facebook friends abandon romney nobody likes a loserss httptcopeaz0em2
+268124353894432768	politics	rt joecrunkiii elmo was giving his big bird to an underage boy romney was doing the right thing trying to cut back funding to pbs
+268124333010976768	politics	rt dasred julieweathers gregwhoward makes you wonder if romney was threatened or something so he is keeping silent or was romney part of the plan
+268124287330824192	politics	rt potogold1 gregzemaitis proof of huge fraud ballot stuffing in fl oh and pa romney probably won
+268124271950303233	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268124212173103104	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268124180040523776	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268124179235209216	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268124159048032256	politics	rt potogold1 gregzemaitis proof of huge fraud ballot stuffing in fl oh and pa romney probably won
+268124138542096386	politics	mission impossible phily gives romney zero votes httptcoenl2oaxq
+268124137296392192	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268124072351789056	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268124032036110336	politics	mitt romney you can go back to firing people that provide you services closing down us plants and off shoring american jobs
+268124023538454529	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268124022934499328	politics	disappearing romney website tracks governors declining facebook likes httptco4ukhbrck
+268123971734626304	politics	emilycjames first thing that came to mind when i read that article romney wasnt elected fine httptcovyhaviwg
+268123960229634049	politics	lol i saw this on fb the other day and i have to share it i cooked romney noodles obama self
+268123899894566912	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268123896081965059	politics	facebook friends abandon romney nobody likes a loserss httptcoakit5etb
+268123889454948352	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268123873428508672	politics	rt potogold1 gregzemaitis proof of huge fraud ballot stuffing in fl oh and pa romney probably won
+268123862900822017	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268123858740076544	politics	rt flyoverjoel i just got an email from linkedin suggesting i follow mitt romney and its always uncomfortable when unemployed people reach out to me
+268123846429794306	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268123841862189057	politics	one of themis gonna have a fit ijssrt queenli new mom names twins after both obama and romney httptcoqnfq82ns via circleofmoms
+268123805287849984	politics	rt vcortesusmc from what i see romney won the peoples vote but lost the electoral votes
+268123800300818434	politics	rt pourmecoffee final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268123695002841088	politics	bradheitmann it was going to be mitt romney butcitycreek wecare
+268123693027307520	politics	whaaaat mitt romneys secret sister this is what happens when you eat in front of the tv without cable insideedition
+268123684651294720	politics	final unskewing sandy had little measurable effect on opinion and national polls were biased towards romney httptcoozkxdotx
+268123631375228928	politics	lmao rt huffingtonpost watch romneys facebook fans abandon him in real timeshttptcoyt9p5fkb
+268123619543101440	politics	elmo was giving his big bird to an underage boy romney was doing the right thing trying to cut back funding to pbs
+268123618070896640	politics	gregrrich romneys family may own some voting machines but the bilderbergs decide who winsseverybody obeys romney is a team player
+268123603118202882	politics	i wouldve got away with it too if it werent for those meddling kids and women and minorities via upworthy httptcod26qn3ja
+268123584499699712	politics	in the 2012 election mitt romney received a larger share of the evangelical christian vote than any previous president httptco05rzekfm
+268123582717100032	politics	new mom names twins after both obama and romney httptcoqnfq82ns via circleofmoms
+268123559090614273	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268123544439906305	politics	rt countryvoices if romney win we all gon be slaveswhere im from we call it jobs
+268123487116349440	politics	rt vcortesusmc from what i see romney won the peoples vote but lost the electoral votes
+268123483182092289	politics	women for mitt romney is like mudbloods for voldemort both parties are screwed by who they like either way
+268123470787907584	politics	i just got an email from linkedin suggesting i follow mitt romney and its always uncomfortable when unemployed people reach out to me
+268123363208208385	politics	romney been bumpin drake songs all week
+268123355729780736	politics	mittromney wakeup1442 the voting machines are designed to be rigged the only question is that the powers that be control who wins
+268123258723921920	politics	bush v gore was a close electionspbo and mitt romney was not a close electionsthis should clear things up for folks schieffer
+268123250675023874	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268123242538074112	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268123157053984769	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268123109746438144	politics	breaking those are the kind of people who are invisible to mitt romney thats why they lost ohios joy of thereidreport hardball
+268123079782330371	politics	rt countryvoices if romney win we all gon be slaveswhere im from we call it jobs
+268123046416613376	politics	surprisingly the guy who got a romney tattoo on his face regrets his decision httptcoeuwj7hee whitepawnews
+268123003785723904	politics	alls i know is i voted ron paul rt benny215 fraud in 59 philadelphia voting divisions mitt romney got zero cont httptcoqbxzrnnx
+268122974513672194	politics	the repubs delusion that romney would win is only surpassed by the dems delusion that the economy will do well under obama
+268122941596762112	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268122889230893056	politics	mitt romney loses 50k facebook friends after election loss you know what they say you can always lean on real httptconrw850dp
+268122859434565634	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268122783802867712	politics	facebook friends abandon romney httptcomxwmrl07
+268122757152243712	politics	early focus on bain capital put romney on defensive early on apparently that whole job creator hype was neutralized
+268122709018423296	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268122705763651585	politics	rt countryvoices if romney win we all gon be slaveswhere im from we call it jobs
+268122691792433153	politics	neilcavuto thank you for your closing statement 2day on yoursshow about mitt romneysthe election nightsall the bs after elect awsome
+268122683387027458	politics	okthis has got to go with my earlier tweet about humans becoming less intelligenti rest my caseshttptcofhomdc23
+268122682967592960	politics	rt chrisryanphd how voters lit a fire under obamas ass dowd nails it httptcoxe9xkh7h
+268122633181204481	politics	insiders explain how mitt romneys campaign completely fell apart on election day httptcoby72xu1u p2
+268122609244319744	politics	rt countryvoices if romney win we all gon be slaveswhere im from we call it jobs
+268122543737692160	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268122516491497473	politics	hampton roads va wtkrsnorquist obama campaign portrayed romney as a poopyheadsmore obama newsshttptcowykc6tl5
+268122497822638080	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268122494634967041	politics	they palin etc couldnt believe romney didnt respond to its jane mayer on building own coffin bain buildthestage ad hardball
+268122488117030912	politics	i have 20 facebook friends who like mitt romney
+268122453602095104	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268122446069129217	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268122434455093249	politics	whatever side youre on what a terrible ideasso maybe that romney tattoo wasnt such a good idea httptcotu2dyrfd politico
+268122312618938368	politics	lol im still laughing at the fact that my friend doesnt know who mitt romney is xdher is he white o me facepalm
+268122245476528129	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268122176702517250	politics	friendlessor headed that way romney losing facebook friends at the rate of over 800 per hour socialmedia marketing
+268122110977777665	politics	rt smileyt22 fox lied too joe scarborough everybody lied to republican donors httptcobsgx9gpe via cspanwj tcot p2 gop rnc
+268122077180080129	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268122023467835392	politics	people unliking romney on facebookscnn httptcojs24w5g1
+268121968115597312	politics	the mike earnest plant closing ad was devastating against romney remarkable that the romney campaign had no response similar to newt ad
+268121774099673090	politics	rt new0rleanslady this glennbeck pbolyard just so everyone knows im a poll worker in ohioi watched voting machine change votes frm romney 2 obama y
+268121772891729920	politics	rt new0rleanslady this glennbeck pbolyard just so everyone knows im a poll worker in ohioi watched voting machine change votes frm romney 2 obama y
+268121726737596418	politics	wsj romney suffered from too little spending not too much httptcoqon0ni7n via newsmaxmedia
+268121696068849665	politics	mitt romney got zero votes in 59 voting divisions in philadelphia audioshttptcov2gtbsvl httptco1jfbndkv
+268121658668249088	politics	mittromney you should done as electallenwest romneys oakland county blues httptcolu0rvuoc via politico
+268121614523195393	politics	told my dad i was oting for mitt romney he got madshttptco0rq7jxu3
+268121611696230400	politics	not irt godndguns imsure theblaze ez way 2 check anyone know romney voters in these precincts please reply vote2012 voterfraud
+268121598773563393	politics	mitt romney zero votes in 59 philadelphia districts is that even possible httptco4s0eqi3m
+268121518331019265	politics	i wonder if this elmo thing can technically count as a point for romney riddle me that pbs
+268121498856873984	politics	mitt romney losing likes on facebook in realtime httptcosxzdrey0
+268121465864454144	politics	rt repubgrlprobs romney campaign files federal suit to ensure all military ballots count in wisconsin httptcow5w2zywk
+268121375401721856	politics	watch romneys facebook fans abandon him in real timeshttptcoehvoqy7y
+268121331151818752	politics	hust like mitt romney mia love says the election loss absolutely surprised her lds utgop utpol tcot whitehorseprophecy darkhorse
+268121215594549249	politics	19605 to zip patheticrt dawnriseth this is not possibles59 philadelphia voting divisions zero romney votes httptcoxh6gnqfu
+268121121486938113	politics	republicans shift stance ontaxing wealthy glenn hubbard who advised mitt romney is latest prominent conserva httptcobknefbjp
+268121120618713088	politics	republicans shift stance ontaxing wealthy glenn hubbard who advised mitt romney is latest prominent conserva httptcoyl3sqw11
+268121119767273472	politics	republicans shift stance ontaxing wealthy glenn hubbard who advised mitt romney is latest prominent conserva httptcoja9krxu3
+268121091548016640	politics	rt vonzion karlrove we are tired of you spouting numberspercentage the only number we want 2 know are thesof votes stolen from romney last tuesday
+268121077589352448	politics	rt sfcblessed lurabyss media wants us to accept none of these people voted for romney in philly httptcojlkbmm2k foxnewspolitics foxnews
+268121062749913088	politics	rt catalinapby1 jamesgarrett42 perhaps romney won the election
+268121009171861505	politics	rt vcortesusmc from what i see romney won the peoples vote but lost the electoral votes
+268121006512680960	politics	president barack obama defeated republican mitt romney in a hardfought race in which the economy was the dominant httptcoolsqyrey
+268120960413102080	politics	22 im beginning to believe that there is no way 25 million fewer people voted for romney than did mccain or the obama turnout numbers
+268120869098881025	politics	post romney loss white woman in south asks what is america becoming answer equal less traditional towards a new beginning
+268120831132057600	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268120827030028289	politics	genie2 and as i expected you are blind to lies of the left yes saying romney wanted to put africanamericans back in chains is a lie
+268120729097228288	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268120712588427264	politics	rt new0rleanslady this glennbeck pbolyard just so everyone knows im a poll worker in ohioi watched voting machine change votes frm romney 2 obama y
+268120683798749184	politics	odd romney got zero votes in 59 precincts in philly 9 in ohio httptco9kt8v7zd
+268120651183820800	politics	rt chuckgrassley c how obama continually interrupted romney just now
+268120610117406720	politics	ross77 dailykos the takeaway even in romneys own party is no core
+268120568027553792	politics	rt fragmentally heres why the voter fraud issue is dead no one cares do i think romney won not really were to blame for that but to dismiss the fraud
+268120236597850112	politics	huffingtonpost bs why dont you give the man a breaksdo you see the 48 that voted for romney running to obamasno you do not
+268120236035805185	politics	karlrove we are tired of you spouting numberspercentage the only number we want 2 know are thesof votes stolen from romney last tuesday
+268120209863372800	politics	varney i was completely wrong about the election thought romney would win by 3 points
+268120082092273664	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268120056339251200	politics	i can make romney dance to it too omfg i cant this is my favorite app now
+268120049171177473	politics	19605 to zip voterfraud rt quickertweet romney received 0 votes in 59 divisions of philly httptcoqg72idga
+268120045618622466	politics	gop in nh got my romney stickers today kinda says it all make a call or email to local gop dead air on other end
+268120024126984192	politics	rt nandee218 best line ive heard today came from norquist romney is a poopy headspot calling the kettle black
+268120013620264960	politics	rt lwest16 lwest16 karlrove look at this shit i think this is where karl started saying nono romney 70 lielieliefraudfraudfraud
+268119931567108096	politics	rt jaclynlibrtaryn eric hartsburg tattoos mitt romney logo onto forehead speaks out after election httptcoclcd8vaq thingsimgonnaregret
+268119836821970944	politics	rt new0rleanslady this glennbeck pbolyard just so everyone knows im a poll worker in ohioi watched voting machine change votes frm romney 2 obama y
+268119806618779648	politics	5 unhinged rightwing reactions to romneys defeatsalternet httptcoplcubtgr
+268119693422899200	politics	rt goright susie76 mittromney joshromney mattromney craigromney fight for us a little bit longer please it is so obvious that there is fraud
+268119684845559808	politics	romney thank you and up yoursshttptcogpjpfepg
+268119534207135744	politics	heres why the voter fraud issue is dead no one cares do i think romney won not really were to blame for that but to dismiss the fraud
+268119466326515712	politics	rt lnternetgrandma mit romney seems like the type of guy that wears crocs with socks
+268119452246216704	politics	the ten females who cost mitt romney the presidencysalternet httptcoihfqfev9
+268119412924624896	politics	the awkward moment when mitt romney is going home to a state that didnt even vote for him
+268119410940719105	politics	rt truth247 chickorie grover norquist obama won bc he called romney poopy head httptcoblrtargr if gop werent terrorists theyd b hilarious
+268119363759005696	politics	from what i see romney won the peoples vote but lost the electoral votes
+268119361762512896	politics	lucianmichael we found that out when that lady in kenya had twins named obama and romney
+268119266132389889	politics	actually grover norquist romney is a shithead and your a dumbfck p2p2bfftcottlotgopteapartyowsdemocratsrepublicans vets rwnj
+268119200579588096	politics	rt truth247 chickorie grover norquist obama won bc he called romney poopy head httptcoblrtargr if gop werent terrorists theyd b hilarious
+268119130245320704	politics	i agree with this authorsteam romney stupid or evils httptcoaoktajzl via sharethis
+268119114738982912	politics	and that president obama was in fact miles ahead of romney
+268119074574303233	politics	rt nobamachat theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268119026524356608	politics	and that romney and president obama were neck n neck and in a tight race i disagreed and said on twitter that the polls were wrong
+268118950376783873	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268118885981626368	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268118800333934592	politics	why romney lost httptcoojb91jbq tcot teaparty prolife
+268118612345245698	politics	i hired a woman oncesmitt romney worldrenownedfeminist via youcanchoosefreedom my hero via httptco8vvfhify
+268118566891556866	politics	wouldnt be this cold if romney were president fact
+268118526290690048	politics	odd romney got zero votes in 59 precincts in philly and 9 precincts in ohio httptcol9zo61jl via theblaze
+268118518380257280	politics	supreme court no invitation for president obamashad mitt romney won last weeks election chief justice john robe httptco9afinjt2
+268118422259376129	politics	rt nobamachat fact its impossible romney didnt get 1 single vote in 59 philly districts and 9 cleveland districts it is impossible electionfraud
+268118274460491776	politics	mitt goes down watch mitt romney lose facebook likes by the droves in real time httptco9wcsnzv7
+268118259709116416	politics	chickorie grover norquist obama won bc he called romney poopy head httptcoblrtargr if gop werent terrorists theyd b hilarious
+268118231565340672	politics	romneys friends fade on facebook httptco4rthsudq via msnbcarticles
+268118166255833088	politics	clear eyes full hearts you lost lol romney
+268117982461448192	politics	they need to stop with this elmo shit romney mustve said this lie lol
+268117892137103360	politics	turns out romney had the wrong target had he gone after elmo instead of big bird he might have won
+268117856372264961	politics	president barack obama defeated republican mitt romney in a hardfought race in which the economy was the dominant issue rep lee terry
+268117728106278913	politics	amen neil cavuto maybe the mitt romney you knew maybe the mitt romney many in the media wanted you to httptcoljsta0u0
+268117619889037312	politics	neither romney nor rnc was innovative wvoter outreach or fundraising this is road to wh leave no voter ignored httptco1t0e5w84
+268117579044888578	politics	election reform is needed when you run possible felons like romney maketaxreturnsmandatory p2p2bfftcottlotgopteapartyowsrwnj
+268117572388519936	politics	rt nobamachat theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268117543573676034	politics	we needed a recount for the fraud 333000 votes in 4 swing states would have given romney the presidency httptcouruxnbxi via breitbar
+268117533285031937	politics	rt nobamachat theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268117483498651649	politics	thinkprogress romneys legacy a fiscal cliff dealbloombergof course romneys idea was to limit the tax breaks to httptcoz5bqiwsd
+268117478494851073	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268117433011822593	politics	oh ppp you so crazyhttptcomnua8s0j
+268117418633736193	politics	y winnin the independent vote cn actually b a bad thin httptcop1blgb6s commitment election johnkerry romney
+268117415462838272	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268117381765812225	politics	rt nobamachat theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268117354884505600	politics	rt patronaura if mitt romney was president wed blame everything on him damn why is it so cold outside it wasnt this cold when obama was president
+268117213616144385	politics	cavuto romneys loss doesnt make him a loserscommon sensesyour world with cavuto httptco2z6wjcoy via teamcavuto
+268117065666269186	politics	romney political director our ground game was fine httptcogydh1eey
+268116996426694657	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268116845012336641	politics	romney is president httptcodksji9yx
+268116829761859584	politics	rt snkscoyote in 59 philadelphia voting wards mitt romney got zero votes httptcodnuy1cd3
+268116757909237760	politics	lurabyss media wants us to accept none of these people voted for romney in philly httptcojlkbmm2k foxnewspolitics foxnews
+268116643647995906	politics	rt nobamachat theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268116640854581248	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268116567420702720	politics	i wonder if romney and obama laugh at snls skits of them
+268116510764064769	politics	gingrich dumbfounded by obamas extraordinary victory over romney httptcokwlkypea
+268116486420320257	politics	mitt romney 2012 at least i didnt eat my dog like obama httptco3pkmnuwi mitt didnt really say this obamadogrecipes
+268116416417378305	politics	rt nobamachat theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268116405067608064	politics	cfishyyy omg thats crazy wouldnt have happened if romney was elected
+268116384121249793	politics	this glennbeck pbolyard just so everyone knows im a poll worker in ohioi watched voting machine change votes frm romney 2 obama y
+268116337358958592	politics	ariannahuff glamourmagsthere damn well better not be any women in that group who raised familiesafter demonizing ann romney
+268116175412674560	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268116142642569216	politics	true glory in 59 philadelphia voting divisions mitt romney got zero votes httptcox8cvomei
+268116142374125568	politics	httptco32rpv0sy incredible real time graph for people unlocking mitt romney on facebook
+268116048547569664	politics	i mean she did post about how today sucks i was like well if it makes you feel any better mitt romney lost imadick oop
+268115998404653056	politics	rt iowapeg watch mitt romneys facebook likes decrease in real time httptcozldfzftb
+268115996424953856	politics	in 59 philadelphia voting divisions mitt romney got zero votes httptco130ofnyp
+268115973574365185	politics	vote fraud expert romney votes not counted in key stateshttptcozrtdmzax
+268115956046364672	politics	7 romneyryan stickers on your minivan seems excessive to me
+268115846902194179	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268115736990478336	politics	rt nobamachat fact its impossible romney didnt get 1 single vote in 59 philly districts and 9 cleveland districts it is impossible electionfraud
+268115731781136384	politics	fuckingfuck i wrote a dickhole comment about mitt romney loosing on one of his fans statussaccidentally pressed enter instead of send
+268115730241843201	politics	rt chuckgrassley c how obama continually interrupted romney just now
+268115706829234176	politics	voting machine swaps romney for obamahttptcofv6l7ai7
+268115614407737344	politics	httptco2pic3tvc tracks romneys decreasing facebook fan base aed
+268115554257235970	politics	rt samthiessen what is all this garbage about the womens vote romney won 56 of white women this is all about race httptcokfqatcqq ingrahamangle
+268115538574721026	politics	gop obama now that the election is over 50 ways obama and romney were the same httptcofdiclhjo
+268115519830368259	politics	nunzia213 mittromney gopsit makes you wonder why romney gave up so quicklysperhaps the new world order thought he was too honest
+268115436829282304	politics	thinkprogress watch grover norquist explain that obama only won reelection because he called romney a poopy head httptcopta7ywyt
+268115436598595584	politics	rt thedailyedge boehner the only hope 4 republicans in 2016 is if we force the romneyryan tax plan on america 4 the nxt 4 years ff
+268115366973145088	politics	i think this whole elmo thing is a plot paid for by mitt romneysdonald trump see what obama did he made elmo have sex with kids fugop
+268115347914227712	politics	plane crash destroys afghanistan us military ballots most of which are for mitt romneyhttptcocielg4xk
+268115324308697088	politics	mdrache and romney didnt target any particular demographic
+268115322186371072	politics	susie76 mittromney joshromney mattromney craigromney fight for us a little bit longer please it is so obvious that there is fraud
+268115282210463744	politics	rt permittoill lol breaking news obama won florida he already reelected no1curr florida jk suck it romney loool
+268115268419600384	politics	rt nobamachat theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268115245640335360	politics	huh httptcoo8fu2qio
+268115044074655744	politics	pizza hut guy after seeing my romney ryan signya i didnt expect him to win since obama let 6 million illegals vote in cali hahaha
+268115023451258881	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268115016828456960	politics	coconono kogalgal the romney mixed with the marge simpson becomes the bride of frankenstein
+268114959156781056	politics	obama and romneys views on marijuana httptcopiiffsxh
+268114885903282176	politics	shameful gop the hispanics i know were scared of the republican party httptcoyi7bygi1 immigrationreform facethefacts
+268114849261826049	politics	corporal punishment in schools map same as romney states map from davidpakmanshow httptconp79s83h via youtube
+268114826306416640	politics	ishep131 alexboeding obama beat romney just in case you forgot gloating rockthegloat
+268114588007018496	politics	armandomoreno91 i wonder if 20000 people from texas voted for romney
+268114579916201984	politics	coconono kogalgal she should get the romney
+268114542746279936	politics	ah ah lolrtokayafrica did all the romney shirts make it to africa yet httptcok7neib6x
+268114476337868802	politics	man with romney face tattoo disappointed httptcokv1rhp0g
+268114320053919745	politics	time for me to go as my blood pressure is starting to go up with romney doing nothing along with the progressives screwing us
+268114276491874305	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268114258338914305	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268114188281446401	politics	rt ashamias austinfall mittromney god please give romney the strength to fight back
+268114075190431744	politics	shared a link httptco8jqyuz1m
+268114075123343361	politics	saying that i would shove it into liberals faces if romney ended up winning is an understatement
+268114058912346112	politics	drudgereport man with romney face tattoo has no regrets httptco5y2zp6z1si thought the woman w the drake forehead tat was bad
+268113943489290241	politics	gop lost the race for lack of credibility bushs bailoutsobama never let anyone forget second romney had no credibility on obamacare
+268113917526568961	politics	govmikehuckabee stopscriticizing romney hes a fabulous man we will never have another awesome candidate like that again for a long time
+268113857271189504	politics	dbmivfr dont blame me i voted for romneysso bring onsbinderscliffs20dollarssequestrationbig bird roast im in my bunker
+268113789700939776	politics	the little mosque episode grave concerns is full of jokes about womens lib and binders 4 full years before the romney gaffe its surreal
+268113686923730944	politics	corporal punishment in schools map same as romney states map httptcofpsrogxu via youtube what is the crap
+268113520523096065	politics	rt chuckgrassley c how obama continually interrupted romney just now
+268113514852392960	politics	recap saturday night live spoofs mitt romneys milk addictionshttptcobm9qcnhf httptcoehv0bzre
+268113502923788289	politics	in 59 philadelphia voting wards mitt romney got zero votes httptcodnuy1cd3
+268113481855811584	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268113409483087872	politics	no i dont auntuncle live in parma heightssthey voted 4 mittrt kristinaxx do you guys actually believe this httptcoemrfr6v6
+268113317871112193	politics	romney logo lasts a lifetime httptcomxzge3ix
+268113303866322945	politics	hoffvir does dbmivfr stand for dont blame me i voted for romney cool perhaps the dummies that gave us 20dollars tag will like it
+268113269913448448	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268113209951674370	politics	rt 100proofpolitic if you voted against poopy head romneyshate grovernorquists tax pledge then youll love this video httptcohfjbawemspoopyhead
+268113097334591488	politics	rt nobamachat fact its impossible romney didnt get 1 single vote in 59 philly districts and 9 cleveland districts it is impossible electionfraud
+268113073695506433	politics	12between allenwest magically finding votes that werent counted and news of the 59 philly precincts that recorder 0 romney votes
+268113070809821184	politics	odd romney got zero votes in 59 precincts in philly and 9 precincts in ohio httptcogplranwy via theblaze
+268112977427853312	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268112964685545472	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268112933245050881	politics	rt palinspired ofa says its an official hash tag dbmivfr rt benshapiro dont blame me i voted for romney
+268112931647004672	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268112917533188097	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268112871018332160	politics	was i dreaming did mitt romney really lose the election httptco0oinfsai
+268112822280519681	politics	odd romney got zero votes in 59 precincts in philly and 9 precincts in ohio httptcokz61um4v via theblaze
+268112810481942528	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268112798238797824	politics	oh my bad they tied white boy upi aint that mad he did have a romney poster n his yard
+268112780366860289	politics	drudgereport man with romney face tattoo has no regrets httptcosc0rbcb2face tattoo or not i bet he has lots of regrets
+268112761798680576	politics	ofa says its an official hash tag dbmivfr rt benshapiro dont blame me i voted for romney
+268112679560937473	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268112678327824385	politics	rt denverchannel rt ianbirrell man who tattooed romneyryan logo on face agrees to tattoo word loser on forehead httptcotuuupxja politico
+268112668819349506	politics	rt nobamachat fact its impossible romney didnt get 1 single vote in 59 philly districts and 9 cleveland districts it is impossible electionfraud
+268112648627957760	politics	grover norquist obama won because he called romney a poopy heads is this for real jackass httptcomcteh8nv
+268112616818343936	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268112582634790912	politics	in 59 philadelphia voting divisions mitt romney got zero votes httptcowh0ldyfc
+268112573067567104	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268112540628840449	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268112537923493889	politics	rt nobamachat fact its impossible romney didnt get 1 single vote in 59 philly districts and 9 cleveland districts it is impossible electionfraud
+268112532252790784	politics	best line ive heard today came from norquist romney is a poopy headspot calling the kettle black
+268112529509724161	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268112423322521600	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268112420340383744	politics	this isnt surprising hes not exactly stephen hawking drudgereport man with romney face tattoo has no regrets httptcoz0v0zil9
+268112419686080512	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268112370344275968	politics	jpodhoretz mt sjw71747si voted for romney and i live in a county where obama got 100 of the vote voterfraud
+268112363679543296	politics	icymi hurricane sandy obama makes it christie takes itsromney fakes it httptcoevo6bbsz
+268112320822128640	politics	erikabtvsmany rightwingers block me bc i criticize romney many leftists block me bc i criticize obamacareslolspoliticsofamy
+268112304988639232	politics	rt boogaicom 3500 fewer votes thn romney in st lucie tcot tlot teaparty odd st lucie registerd voters dem 74281sreps55755
+268112248139038720	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268112226504810497	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268112208687403008	politics	rt nobamachat fact its impossible romney didnt get 1 single vote in 59 philly districts and 9 cleveland districts it is impossible electionfraud
+268112202173661185	politics	ha rt toddqm rt ckebaseball romney advisor concedes fl to obamasromney couldnt cont httptcodvvimhqo
+268112150692757504	politics	it was our election to lose and we lose something fishy took place tcot election romney
+268112142530658304	politics	rt drudgereport man with romney face tattoo has no regrets httptcosed7riw7
+268112119545860096	politics	email to romney recount and reverify mr romney please go after what is rightfully yours an httptcoefqt1lnq gop tcot tlot
+268112084372451328	politics	man with romney face tattoo has no regrets httptcosed7riw7
+268111992445874178	politics	inside team romneys whale of an it meltdown httptcotwp8dzcs
+268111983155490817	politics	teamcavuto bless you for standing up for mitt romney america was robbed of the service of an excellent statesman
+268111969834369024	politics	tedbearly paolo i understand the sentiment as romney would have lead our country into hell i appreciate you i bless you keep standing
+268111945280917504	politics	republicans are claiming that if the whitehouse revealed the petraeus affair b4 d electionromney may have won the answer is demographics
+268111897897889792	politics	impossible voter fraud in 59 philadelphia voting divisions mitt romney got zero votes httptcoxrqsx83q
+268111846744154113	politics	rt dloesch it wasnt anyones fault but those damn social cons or romney or the rnc or the nrsc or coulter or christie or or or
+268111751134998529	politics	ratchet2english i just made romney noodles obama self
+268111704351731714	politics	rick igou live 910 pm est with anna lovell weeknightssits your talk showshttptcox9rmrisbsobama and romney would love it
+268111633493155840	politics	the romney candidacy in retrospectsnew york times blog politicothe romney candidacy in retrospectnew york t httptcodgdabp8z
+268111522834812928	politics	rt consumerrumor it must be awkward to go on interviews if you are woman with the last name binder gopfail bindersfullofwomen romney we wont miss you
+268111253665374208	politics	rt sspitman teamcavuto excellent piece on romney class act treated like trash disgustingpress msmirrelevant leadershipfail
+268111247952719873	politics	seanhannityswhy did 50 some precincts in philly have 0 votes for romneyshades of saddam hussein
+268111142080114689	politics	rt cyseltss military absentee ballots delivered one day latesssswould have swung election for romney httptcol8rwgxjm
+268111066410663936	politics	romney did not lose us the presidential race uninformed people did
+268111043610435584	politics	tech man with romney face tattoo disappointed httptcowsk7msla
+268111033024008194	politics	teamcavuto excellent piece on romney class act treated like trash disgustingpress msmirrelevant leadershipfail
+268111028674494465	politics	man with romney face tattoo disappointed eric hartsburg was confident that mitt romney would win the election httptcobsdcc5x4
+268110996424511488	politics	why romney never knew what hit him httptcousvwsmwy via slate
+268110983204044800	politics	kesgardner that really should have been the priority this last election the minute primaries gave us moderate romney for prez candidate
+268110892053454852	politics	rt nobamachat fact its impossible romney didnt get 1 single vote in 59 philly districts and 9 cleveland districts it is impossible electionfraud
+268110856745803777	politics	newsninja2012 they were waiting for the miracle on romney street but it did not appear
+268110795257294849	politics	rt officialkat hey mitt romney you know women can vote now right
+268110781038604288	politics	rt dasred julieweathers gregwhoward makes you wonder if romney was threatened or something so he is keeping silent or was romney part of the plan
+268110729545146368	politics	rt imsure voterfraud odd romney got zero votes in 59 precincts in philly and 9 precincts in ohio httptcobfgspltx via theblaze
+268110600473833473	politics	big mistake by romney during the convention was for him not to mention the militarysdems seized on this albeit wrussian warships tcot
+268110599198740480	politics	rt officialkat hey mitt romney you know women can vote now right
+268110595130277888	politics	theres still romney commercials on pandora because everyone knows it was a mistake
+268110568060231680	politics	joelpollak romney and the magical gop chased after democrats switching their vote they forced romney didnt work at all
+268110478557990914	politics	if you blame romney for crap still you are dumb
+268110392771887105	politics	julieweathers gregwhoward makes you wonder if romney was threatened or something so he is keeping silent or was romney part of the plan
+268110391903674368	politics	a statistical reason romney lost a sure thing election httptcojxkekq5j p2
+268110337650343936	politics	it must be awkward to go on interviews if you are woman with the last name binder gopfail bindersfullofwomen romney we wont miss you
+268110263310508033	politics	whats next for romney maybe suggests religiongal he can help mormon ward members find jobs httptco7vrkwntt
+268110062030045186	politics	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268109901350449152	politics	romney aint shit he only wanted to snatch seseme street cause elmo gayrt divawhispers elmo cont httptco4gdf2la0
+268109884522909696	politics	rt nobamachat fact its impossible romney didnt get 1 single vote in 59 philly districts and 9 cleveland districts it is impossible electionfraud
+268109869482127360	politics	eric hartsburg tattoos mitt romney logo onto forehead speaks out after election httptcoclcd8vaq thingsimgonnaregret
+268109866055397376	politics	teamcavutosromney didnt u endose him
+268109842907021312	politics	rt intelwar romney doomed himself by corrupt tactics vs ron paul httptcogbsfarfnsgop lost election demonstrating utter corruption
+268109722194964480	politics	rt crooksandliars norquist obama won because voters thought romney was a poopyhead httptcoibh6wphs
+268109667044032512	politics	rt biggovt 59 philadelphia voting divisions zero romney votes if you were told that in 59 different voting divisions of a httptcooh5rhr7c
+268109664649105408	politics	emilytheslayer better to imagine romney and obama doing a duet
+268109649608310785	politics	rt americaluvsmitt probachmann superpac turns proromney does big ad buy in iowa 12282011 httptcoctiydgln mitt2012 endorsemitt tcot gop teaparty
+268109634680791040	politics	its insane rt engelundgeister mach1broker why isnt romney asking whats his story
+268109598379102209	politics	meanstruesfunny watch mitt romneys facebook likes decrease in real time httptcoawzirqct
+268109555928535041	politics	rt smileyt22 fox lied too joe scarborough everybody lied to republican donors httptcobsgx9gpe via cspanwj tcot p2 gop rnc
+268109553940434945	politics	rt bradduren domination is one thingno votes at all is anothersin 59 philadelphia voting divisions mitt romney got zero votes httptcobvwzvvde
+268109545442787328	politics	rt nobamachat fact its impossible romney didnt get 1 single vote in 59 philly districts and 9 cleveland districts it is impossible electionfraud
+268109258070061056	politics	question of the day was mitt romneys campaign delusional or incompetent httptcoshzm3aol tcot tlot
+268109237320822784	politics	odd romney got zero votes in 59 precincts in philly and 9 precincts in ohio httptcor9rjkpjq via theblaze
+268109178986442752	politics	republicans have a diversity problem 6 out of 10 white voters chose romney while blacks 93 asians 73 and latinos 71 voted obama
+268109154965659648	politics	rt nobamachat fact its impossible romney didnt get 1 single vote in 59 philly districts and 9 cleveland districts it is impossible electionfraud
+268109088129445888	politics	rt thebaxterbean reality check applebees ceo donated enough money to the romney campaign to pay applebees employees health insurance for 10 years
+268109020294959104	politics	man with romney face tattoo disappointed httptcormysbro8
+268108999797395456	politics	heres what mormon mitt romney is not going to dos run for lds president or apostle it doesnt work that way httptconthq4teh
+268108977374642177	politics	man with romney face tattoo disappointed eric hartsburg was confident that mitt romney would win the election httptcoxezutktg
+268108965303427072	politics	prowrestler figures rt wentrogue whoa that actually happened httptcod1sxd0p4 a romneyryan face tattoo
+268108964145807360	politics	man with romney face tattoo disappointed eric hartsburg was confident that mitt romney would win the election httptcohbrdpupg
+268108949943885825	politics	you tattooed the romney campaign logo on your face are you fucking serious
+268108883313164289	politics	1 thescottfinley trust me romney getting no votes in some philly precincts is not voter fraud
+268108853994999809	politics	rustymk2 rt rippdemup indiana man stuck with romney face tattoo httptcocpp9cbqe this is not a good look
+268108586301927424	politics	rt americaluvsmitt after three years of obama we are hopelessschangelessswe need mitt romney to bring america back chris christie httptcomkjuf3kj
+268108505960034304	politics	rt sarahpalinlinks via breitbart 59 philadelphia voting divisions zero romney votes httptcoxoyngky1 sarahpalinusa
+268108432354201600	politics	rt laurencehill no one likes mitt anymore realtime visualization of facebook users unliking mitt romney httptcocvwefepl
+268108422300459008	politics	rt americaluvsmitt after three years of obama we are hopelessschangelessswe need mitt romney to bring america back chris christie httptcomkjuf3kj
+268108399546351616	politics	rt 100proofpolitic if you voted against poopy head romneyshate grovernorquists tax pledge then youll love this video httptcohfjbawemspoopyhead
+268108391736565760	politics	rt aaronrs rt bdomenech rt presjpolk basically the romney campaign was like the salt lake olympics and needed a mitt romney to come clean house
+268108388976693248	politics	odd romney got zero votes in 59 precincts in philly and 9 precincts in ohio httptcoo7za9ykc via theblaze
+268108259938934784	politics	cant get much better than that pawinning rt byrontau obama beat romney 19605 to 0 in 59 philadelphia districts httptcoodatf6n0
+268108211935137793	politics	romney tax plansexposing the obama middleclass tax fallacy teaparty tcot tlot ocra httptcofarpnbx6
+268108194600083457	politics	rt kimanh for any undecided voters first of all lol please watch cnn special on romney and obama revealed and you will have much more clarity
+268108181983592448	politics	obama proposing romneys tax plan would cause the conservative death star to explode
+268108112702103554	politics	rt realtonyrocha facebook facebook friends abandon mitt romney httptcovdx05wmv
+268108080829583360	politics	michaelurie talks partners life in la and the role for mitt romney cbspartners httptcongqhanmd
+268107847420747777	politics	go to romneys facebook page and hit refresh you can watch the like numbers fall its awesome cont httptcosir9tg2f
+268107753929723904	politics	rt patronaura if mitt romney was president wed blame everything on him damn why is it so cold outside it wasnt this cold when obama was president
+268107681007534083	politics	141 of the vote in st lucie florida went to obama and not one person voted for romney what are the odds
+268107638330499073	politics	if you voted against poopy head romneyshate grovernorquists tax pledge then youll love this video httptcohfjbawemspoopyhead
+268107625042956288	politics	huh romney campaigns political director says ground strategy worked finestwitchy httptcoukiiwbxx
+268107549046366208	politics	interesting watching oath taker refer to romney and poopy head in same sentence lol eating paste again norquist
+268107536954179584	politics	no one likes mitt anymore realtime visualization of facebook users unliking mitt romney httptcocvwefepl
+268107480012304384	politics	elections are over why are there still commercials for romney
+268107462601760768	politics	rt americaluvsmitt economists underwhelmed by obama policies pick mitt romney over his republican rivals httptcogovyi5uq endorsemitt mitt2012 teaparty
+268107459086934018	politics	rt teenquotes obama and romney should play beer pong to see who gets to be president
+268107434512506880	politics	did romneyryan screw up most of their campaign yea pretty much httptcodqb5eonx via adage advertising
+268107392749797376	politics	mechfed kybelle1957 cspanwj gop rnc dccc suck it up fool romney lost fox lied lol
+268107354418081795	politics	spx flat in very quiet veterans day tradingsall eyes focused on cliff talk in dc romney plan of itemded limits gaining traction
+268107319701807104	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268107306963705856	politics	rt chuckgrassley notice how rude obama is interrupting many times romneyss romney should not be so polite
+268107270309679105	politics	rt chuckgrassley c how obama continually interrupted romney just now
+268107199107198978	politics	sassygatorgal ewerickson talkmaster seanhannity how did u feel when mitt romney lost
+268107180778086400	politics	after obama vs romney battle of the bookssa little late but still relevant httptcoyaaxoosx
+268107083801583617	politics	mustabeennate jasdawg know about this and it would probably be brought to the supreme courts and you know romney would try to argue
+268107032463290368	politics	after three years of obama we are hopelessschangelessswe need mitt romney to bring america back chris christie httptcomkjuf3kj
+268106989077405696	politics	mikesmith076 yahoonews loved the snl clip of romney tossing rove over his baconyand drinkingmilk jason sidarkisspdoes a good romney
+268106963336974336	politics	uncovered mitt romneys presidential transition website httptco92tqlkpt via theweek
+268106957850832896	politics	one week later watch romneys facebook likes decrease in real time his supporters are shaking the etchasketch httptcompbjeun3
+268106949609005056	politics	eric hartsburg tattoos mitt romney logo onto forehead speaks out after election httptcod2gf4mbi via huffpostmoney idiotfiles
+268106857401446400	politics	if mitt romney was president wed blame everything on him damn why is it so cold outside it wasnt this cold when obama was president
+268106851646861313	politics	rt nobamachat fact its impossible romney didnt get 1 single vote in 59 philly districts and 9 cleveland districts it is impossible electionfraud
+268106796768559104	politics	sassygatorgal oh obama voters hows that hopeschange working out for yashttptcofwji0nz2 romney would have made it 0 total
+268106747061891072	politics	rt shakeitdontstir this boy next to me had a romneyryan sticker on his computer wonder how he feels now
+268106745556123648	politics	daveanthony he hopes his romney tattoo will open doors in the entertainment business maybe hell get a job as a speed bump
+268106717525585921	politics	rt smileyt22 they will never learnsnorquistsobama won on the basis that romney was a poopyhead video httptcoobfic85j cspanwj tcot p2
+268106656070651904	politics	moron rt rippdemup indiana man stuck with romney face tattoo httptcoxf5z5rmk
+268106634256076802	politics	well this is unfortunatesindiana man stuck with romney tattoo onhisface httptco4etmwisy
+268106609165742080	politics	this boy next to me had a romneyryan sticker on his computer wonder how he feels now
+268106607316062208	politics	these bad lip reading mitt romney videos are tripping me out gracynwalker
+268106581638537216	politics	come on not elmo i guess romney knew all along
+268106482728435712	politics	these niggas friends with romney
+268106472007794689	politics	rt derekahunter luckily fraud doesnt happen or this would be weird mt drudgereport in 59 philly wards romney did not get single vote httptcomnmtohlc
+268106438444974080	politics	rt shoq lolol rt boneknightmare dont hold me romney is toasthttptcod3i5zycs
+268106339534917632	politics	mitt romney for president
+268106316495613953	politics	laura ingraham after romney loss i feel like chief psychologist for conservatives video httptcoioqhnzta via huffpostmedia
+268106263345364992	politics	odd romney got zero votes in 59 precincts in philly and 9 precincts in ohio httptcod25puncq
+268106260560355328	politics	romney earned zero votes in some urban precincts dozens of urban voting locations in several states returned ze httptcol29xoa1i
+268106215702265856	politics	fact its impossible romney didnt get 1 single vote in 59 philly districts and 9 cleveland districts it is impossible electionfraud
+268106143287619584	politics	rt smak303 watch why shitt romney lost on youtube httpstco2dba7wbs
+268106143270850560	politics	rt smak303 watch why shitt romney lost on youtube httpstco2dba7wbs
+268106142884954112	politics	rt smak303 watch why shitt romney lost on youtube httpstco2dba7wbs
+268106095883595776	politics	doubleofive hes not quite as crazy as romney but hes close
+268106036194455554	politics	watch mitt romneys facebook likes decrease in real time httptcocnxysqya socialmedia
+268105994645688321	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268105976320753664	politics	rt americaluvsmitt economists underwhelmed by obama policies pick mitt romney over his republican rivals httptcogovyi5uq endorsemitt mitt2012 teaparty
+268105973074370560	politics	watch mitt romneys facebook likes decrease in real time httptcocnxysqya
+268105950580310016	politics	big romney donors crying poor mouth over employee health insurance is an insult to every working american americangreed
+268105933815701504	politics	why romney lostsfred thompsonsnational review online httptcoqt0piyom via
+268105891415478274	politics	rt smak303 watch why shitt romney lost on youtube httpstco2dba7wbs
+268105886726238209	politics	rt smak303 watch why shitt romney lost on youtube httpstco2dba7wbs
+268105877712695297	politics	rt smak303 watch why shitt romney lost on youtube httpstco2dba7wbs
+268105868715884544	politics	after the election how mitt romney can now save us from the fiscal cliff httptcoq25sbtbj
+268105863611437056	politics	rt smak303 watch why shitt romney lost on youtube httpstco2dba7wbs
+268105856594354178	politics	rt smak303 watch why shitt romney lost on youtube httpstco2dba7wbs
+268105856581767169	politics	rt smak303 watch why shitt romney lost on youtube httpstco2dba7wbs
+268105854132318209	politics	rt smak303 watch why shitt romney lost on youtube httpstco2dba7wbs
+268105790462779392	politics	rt smak303 watch why shitt romney lost on youtube httpstco2dba7wbs
+268105789338693632	politics	rt smak303 watch why shitt romney lost on youtube httpstco2dba7wbs
+268105758602821633	politics	odd romney got zero votes in 59 precincts in philly and 9 precincts in ohio httptcoi4ouldqt via theblaze
+268105751048880129	politics	rt smak303 watch why shitt romney lost on youtube httpstco2dba7wbs
+268105738017185792	politics	ouch but trueshttptcoz7dk28mm
+268105736645660673	politics	rt smak303 watch why shitt romney lost on youtube httpstco2dba7wbs
+268105700343959553	politics	rt smak303 watch why shitt romney lost on youtube httpstco2dba7wbs
+268105659071987713	politics	rt smak303 watch why shitt romney lost on youtube httpstco2dba7wbs
+268105645423751168	politics	watch why shitt romney lost on youtube httpstco2dba7wbs
+268105544206798850	politics	not a single vote for romney in philly statistical improbability httptcoqq6th9mu
+268105461373489155	politics	sounds good to me mt obsoletedogma romneys deduction capset at 50kwould be good policysa way off fiscal cliff httptcotpd1q09p
+268105409439625216	politics	the romney candidacy in retrospectsnew york times blog httptcodxhgio8g
+268105408533626881	politics	facebook cliff website shows real time decline of mitt romney facebook fanssnews one httptcoxppoopgc
+268105354506825729	politics	rt nobamachat theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268105175724617728	politics	rt ywn for some orthodox jews romney was too proisrael in last weeks election gop contender mitt romney may have c httptcollwehu6r
+268105161442992130	politics	look we all know dems are stupidsso at least a few would make a stupid mistake and vote romney accidentally not one vote electionfraud
+268105078760669186	politics	333000 votes in 4 swing states would have given romney the presidency httptcoenatxnhe via breitbartnews
+268105052219113473	politics	grover norquist asid that obama won because he called romney a poopy head httptco5sqwph6y via huffpostpol
+268104984099434496	politics	roku cheer up mitt ads mock mitt romney tell him election loss leavess huffington post httptcocgtguvow
+268104983185092608	politics	how mitt romney can save us from the fiscal cliffsthe atlantic httptcoocwxa0gi
+268104981851275264	politics	333000 votes in 4 swing states would have given romney the presidency httptcoq1iuuuo6 via breitbartnews
+268104963228569601	politics	meet the press panel blames romney loss on limbaugh and loons and wackos of conservative baseshttptco8er5wndv httptcoxj6udwlg
+268104903568793601	politics	obama romney tie in new hampshire village of dixville notchsnew york daily news httptcowvcxek4v dixvillenotch
+268104896534941696	politics	steve schmidtsloser gt meet the press panel blames romney loss on limbaugh and loons and wackos of cont httptco0hmjkqam
+268104780851838976	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268104768533196800	politics	indiana man stuck with romney face tattoo httptcouje2btqh
+268104752150216704	politics	rt rmoney in 59 philadelphia voting divisions mitt romney got zero votes httptcoplab8qdy
+268104653948981248	politics	newt gingrich dumbfounded by obamas extraordinary victory over mitt romney httptcocwkcdsqv via huffpostpol
+268104586613641216	politics	rt allofasutton81 foxnews voice of sesame streets elmo accused of sex with minor httptcouw4kf4kosyall should have voted for mitt romney
+268104584168349696	politics	iamr3ggi3 if mitt romney would have won this years election i would have volunteered as tribute for the hunger gameslmao just got real
+268104487204446210	politics	norquist says obama portrayed romney as a poopyheadsabc newsshttptcolbv4s0ou really poopyhead
+268104434360406016	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268104392769679360	politics	romney lost deal with it httptcovkedzjrs
+268104375040368640	politics	rt politicsoffear coriewhalen in their world romneysakin was going to win big and they never saw defeat coming they live in a bubble
+268104145905545216	politics	hes not wrongbut imcomplete rt rippdemup norquist obama won because voters thought romney was a poopyhead httptcog2arfdil p2
+268104106504237058	politics	kybelle1957 cspanwj gop rnc dccc you think palin and romney shuld run in 2016 lol
+268103974094241792	politics	hell these fools wont even accept romney as the default leader of the gop but we are supposed cont httptcoiafe3kgb
+268103965198147584	politics	romney did worse with mormons than bush did that is a legitimate rape lol
+268103726349303810	politics	uh oh voterfraud in 59 philadelphia voting divisions mitt romney got zero votes httptco9rqxsgmd
+268103725531398144	politics	bigbirdromney instead vote romney and let him be responsiblesexample made the crafty move to get you all talking and you still dont get
+268103637052567553	politics	rt nobamachat theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268103619990142977	politics	rt crazycarmita romney you already won a loving father grandfather and husband and most of all you won the american heart the real american heart gold
+268103556794576897	politics	i went tos711 and they didnt have any romney cups obama is already destroying our democracy
+268103377202851841	politics	dead pig dressed in a romney tshirt left at gop campaign office httptcohgklar8h
+268103193983082496	politics	rt evidencetrumps republicans go away until you can behave yourselves mitt romney election obama httptcoif1kaphc
+268103153742913536	politics	rt nobamachat theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268103098856263680	politics	newtgingrich todayshow had it been they listened to you in the primaries romney wouldnt have been the nominee
+268103041310408704	politics	rt sarahpalinlinks via breitbart 59 philadelphia voting divisions zero romney votes httptcoxoyngky1 sarahpalinusa
+268102964462366721	politics	rt nobamachat theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268102918455037952	politics	economists underwhelmed by obama policies pick mitt romney over his republican rivals httptcogovyi5uq endorsemitt mitt2012 teaparty
+268102877262790656	politics	the ten females who cost mitt romney the presidency httptcodv6tlywf
+268102837484007424	politics	rt jklmcclure i wish romney would have won too but when we lose we cant just pull out of the union thats not how losing works people
+268102673469943808	politics	rt nobamachat theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268102645330345985	politics	rt markhalperin murphymike if romney really does win mccain statesinncflva ohco all of ne i would betcha he will win other states as well
+268102634337087488	politics	kybelle1957 cspanwj gop rnc dccc oh did fox hurt ur feelings by lying to u that romney was going to win by a landslide lol
+268102480544534529	politics	coriewhalen in their world romneysakin was going to win big and they never saw defeat coming they live in a bubble
+268102411514691584	politics	rt jklmcclure i wish romney would have won too but when we lose we cant just pull out of the union thats not how losing works people
+268102337204195331	politics	tariqnasheed rt thegrio indiana man must live with romney tattoo for the rest of his life httptcoduwuvcif
+268102325078462465	politics	i wish romney would have won too but when we lose we cant just pull out of the union thats not how losing works people
+268102309576310785	politics	maybe that romney face tattoo wasnt such a good idea via digg httptcoz04enaei
+268102294481027072	politics	rt nobamachat theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268102226260684801	politics	fred thompson on why romney lost tcot tlot toldyouso httptcolkuhxsz8
+268102222557114369	politics	more info on romneys zero vote in 59 wards in philidelphia httptcod9oexkzd
+268102215544221696	politics	obama received 99 of the votes in 100 precincts in a county in ohio there romney received 0 votes in 16 precincts
+268102198716669954	politics	rt crooksandliars norquist obama won because voters thought romney was a poopyhead httptcoibh6wphs
+268102152575135745	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268102130710228992	politics	stevenertelt soldiers cheated electronic devices not working no voter id way oversof reg voters no romney votes in many pa precincts
+268102017552113665	politics	rt nobamachat theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268101814241603584	politics	rt nobamachat theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268101811393687553	politics	adenovir is that how romney did it allegedly
+268101807803359232	politics	rt iamr3ggi3 if mitt romney would have won this years election i would have volunteered as tribute for the hunger games
+268101751687766016	politics	rt nobamachat theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268101671857577987	politics	rt nobamachat theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268101652828016641	politics	rt nobamachat theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268101625225281536	politics	rt crooksandliars norquist romney was a poopyhead httptcocb4b2a6gswhere does the right get all these intellectual giants
+268101581545811970	politics	mitt ann romney thank supporters gleeful libs spew venom httptcoexa83u28 via twitchyteam
+268101560050016257	politics	hey face it its over grover norquist you lost grover says obama portrayed romney as a poopyhead httptcok0hijub2 via abc
+268101463224504322	politics	if mitt romney would have won this years election i would have volunteered as tribute for the hunger games
+268101441242165248	politics	rt wakeup1442 government didnt care to dissipate sandy or redirect back out to sea they could have done that but destruction is part of the program
+268101435265277952	politics	in 59 philadelphia voting divisions mitt romney got zero votes httptcogbdcmhaw
+268101425287032832	politics	theres something wrong just wrong about romney not getting 1 single vote in several ohio precincts its beyond the realm electionfraud
+268101358140411905	politics	slimfast965 lazlothebuzz romney is probably relieved that he doesnt have to move to a smaller house for 4 years thetruth
+268101143564013568	politics	serpounce rt uselephants report romney got no votes in 59 philadelphia voting districts httptcopdvspteq
+268101117609664512	politics	huh romney campaigns political director says ground strategy worked fine httptcoqqtkdjxj rwnjalert
+268101087897206784	politics	twitchyteamscome on if the strategyshad worked then romney would be president
+268101075628867584	politics	rt chrisryanphd how voters lit a fire under obamas ass dowd nails it httptcoxe9xkh7h
+268101067408019456	politics	huh romney campaigns political director says ground strategy worked finehttptcoo5e3qe5cstcot
+268101044557459458	politics	anncoulter well you thought romney was going to win miss smarty pants so that actually makes you with lower iq
+268101010269024257	politics	chrisjbreisch come on chrissmorris corrected himselfshe said that romney would only win 10343
+268100993974165508	politics	why romney lost by david frum httptcowm4kdzjg via amazon
+268100970033082368	politics	check out hinckley institute director kirk jowers on ksl sunday edition romneys career the mormon moment and httptcopuhe5ijj
+268100927154700288	politics	rt pundette 19605 to 0 as in zero votes for romney httptcohdxwpd2n yes that strains credulity a bit
+268100885324898304	politics	rt tomfrancois that skinny little oreo racist muslim gay boy obama couldnt win against romney without getting his butt lickers to cheat big time for him
+268100840118693888	politics	no more friends for youromneys friends fade on facebook httptcookk5obfk via msnbcarticles
+268100813652643843	politics	thinkprogress in areas where there are virtually no republican voters romney didnt get any votes httptcoe991atnwvirtually no ok
+268100755918045185	politics	cspanwj who in here believes that in 59 precincts in philadelphia that mitt romney did not get a single vote 19601 to 0 votes
+268100590373048320	politics	davidfrum discussing why romney lost with wolf blitzer on situation room at 510 pm etstill romney is the topic of discussion
+268100534693683200	politics	rt crooksandliars norquist obama won because voters thought romney was a poopyhead httptcoibh6wphs
+268100533695430656	politics	in 59 philadelphia voting divisions mitt romney got zero votes httptcoplab8qdy
+268100497016242176	politics	rt debv219 grover norquist has it all wrong obama didnt build the romney is poopy head thing gingrich santorum perry paul and cain did tcot
+268100490380849152	politics	mitt romney is a decent manswho ran an indecent campaign httptcokz8fmg23 via newspin
+268100479316275200	politics	mt bmoc98blatantfraud in 59 philadelphia voting divisions mitt romney got zero votes httptcoc9qigxjdscorruption democrats
+268100474035658752	politics	republicans shift stance ontaxing wealthy glenn hubbard who advised mitt romney is latest prominent conserva httptcoexkyqfe4
+268100411335008259	politics	rt sarahpalinlinks via breitbart 59 philadelphia voting divisions zero romney votes httptcoxoyngky1 sarahpalinusa
+268100397741256704	politics	rt thebaxterbean reality check applebees ceo donated enough money to the romney campaign to pay applebees employees health insurance for 10 years
+268100270817423360	politics	rt crooksandliars norquist obama won because voters thought romney was a poopyhead httptcoibh6wphs
+268100264593063938	politics	rt crooksandliars norquist obama won because voters thought romney was a poopyhead httptcoibh6wphs
+268100261187305472	politics	just had a heated discussion throughout my department about soccer got more people involved than obamaromney day before election success
+268100228215877632	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268100213271580672	politics	robert samuelson believes as other gop poopyheads that america is a welfare state no surprise romney called 47 americans moochers
+268100142832435200	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268100137073655809	politics	rt sarahpalinlinks via breitbart 59 philadelphia voting divisions zero romney votes httptcoxoyngky1 sarahpalinusa
+268100118752931842	politics	norquist obama won because voters thought romney was a poopyhead httptcoibh6wphs
+268099955116367873	politics	rt eaglefeather43 the suggestion by some that president obama should appoint willard mitt romney to any american post should be rejected out of hand
+268099916226756608	politics	probachmann superpac turns proromney does big ad buy in iowa 12282011 httptcoctiydgln mitt2012 endorsemitt tcot gop teaparty
+268099835587067904	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268099813415993345	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268099792863916032	politics	norquist obama won because voters thought romney was a poopyhead httptcoltlfeous p2
+268099735922028549	politics	rt americaluvsmitt governor nikki haley of south carolina endorsing mitt romney in tv adshttptco04jyzi43 mitt2012 tcot gop teaparty tiot
+268099692481613825	politics	grover norquist has it all wrong obama didnt build the romney is poopy head thing gingrich santorum perry paul and cain did tcot
+268099535329456128	politics	rt thegrio indiana man must live with romney tattoo for the rest of his life httptcole5haovg
+268099419575050240	politics	drudgereport update in 59 philly wards romney did not get single vote httptcouq2kwx9hswhat are the odds
+268099304600772608	politics	this rt luvadaone in my humble opinion there is no way romney got 0 votes in 59 voting stations in philly
+268099292542152704	politics	romney was right rt wsjspeakeasy elmo puppeteer kevin clash accused of affair with minor httptcouqrmxe56
+268099286858887169	politics	in 59 voting divisions in philadelphia mitt romney received not 1 vote zero zilchsthat stinks like bohttptcodndqsxp0 tcot
+268099241543618560	politics	crumpledtees in 59 philly wards romney did not get single votes2012 electionsfox nation httptcomo0hcfzj kimguilfoyle
+268099186942164992	politics	romney has more money than oboma could ever dream of
+268099172106903552	politics	rt gullydakid vh1pnut fuck is this the mitt romney teams httptcof6cyr2kv lmfao thats a joke i would make
+268099156466356224	politics	rt americaluvsmitt mitt romney chose the moral high ground by picking paul ryan for vp two men of integrity one ticketshttptco5qfdgzod tcot
+268099135830376449	politics	l o fucking l rt themiawarren a kenyan mother named her twins barack obamasmitt romney httptcow4z8xzqg
+268099129257885697	politics	indiana man stuck with romney tattoo httptcop6zbumansvia thegrio
+268098905370144772	politics	watch mitt romneys facebook likes decrease in real time httptcoucerufxr
+268098884964868097	politics	vh1pnut fuck is this the mitt romney teams httptcof6cyr2kv lmfao thats a joke i would make
+268098854459695104	politics	pxls2prnt no stopping whats coming now i was hoping a romney presidency would give us a season or two of peace but it was not to be
+268098797450690560	politics	seriously these people seem like they had no actual reason for supporting romney httptcoq8xy7kby it was just better than obama
+268098771026591745	politics	report mitt romney got zero votes in some sections of philadelphia httptco0ejichnn
+268098701636022273	politics	report mitt romney got 8216zero8217 votes in some sections of philadelphia httptcowu2ez5mu
+268098695575248897	politics	why romney lostsfred thompsonsnational review online httptcol2xtm8wa
+268098660645093376	politics	yeah how do you control orchestrated voterfraud rt susangrice huh romney campaigns political director says gro httptco4rrisakr
+268098643045801985	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268098567930007554	politics	talk2rusty romneyrushrovehannitypriebus gopsakin httptcox19a3fjx
+268098528507723778	politics	romney ads just now playing on pandora did pandora win it for obama little late elder romney
+268098456311185408	politics	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268098400833130496	politics	racist or corrupt or fullretard in 59 philadelphia voting divisions mitt romney got zero votes httptcojbu6uary tcot tlot nra
+268098396714319873	politics	domination is one thingno votes at all is anothersin 59 philadelphia voting divisions mitt romney got zero votes httptcobvwzvvde
+268098389617549312	politics	rt lipstickpundit1 drmartyfox please continue to retweet i conducted polling in fl throughout our counties ind weresbreaking for romney 401bho 1
+268098322420625408	politics	rt sarahpalinlinks via breitbart 59 philadelphia voting divisions zero romney votes httptcoxoyngky1 sarahpalinusa
+268098174554632192	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268098129654607872	politics	fox lied too joe scarborough everybody lied to republican donors httptcobsgx9gpe via cspanwj tcot p2 gop rnc
+268098072180060161	politics	odd romney got zero votes in 59 precincts in philly and 9 precincts in ohio httptco8lw1m9dq via theblaze
+268098042287243264	politics	reading this now frum here on 1127 rt davidfrum discussing why romney lost with wolf blitzer on situation room at 510 pm et
+268097983415975936	politics	malarkey slightly on topic i was surprised to see meatloaf appearing for romney this electiontho agreedgreat album
+268097840952246273	politics	trolololol watch romneys facebook likes decline into realtime oblivion one dislike at a time httptcok78h2f2y
+268097800439488512	politics	mrdrawingguy why romney lost the youth vote
+268097767174459393	politics	via breitbart 59 philadelphia voting divisions zero romney votes httptcoxoyngky1 sarahpalinusa
+268097758504828929	politics	rt reverendsue mt mittromney if obamacare was really hurting business then why do only gop businesses have to fire people httptcouec2mmig aca
+268097754021122051	politics	white house consulting romney on how to talk to smart people
+268097635045474306	politics	todays geography lesson river in egypt mt twitchyteamromney campaigns pol dir says ground strategy worked fine httptco59wd6y2i
+268097581979164675	politics	mitt romneys8 million americans still have no power obama 8 million and one
+268097467931824128	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268097425430941696	politics	rt kimanne123 the ten females who cost mitt romney the presidencysalternet httptcoljeybdkx
+268097306312704000	politics	rt ksdknews mitt romneys website sells campaign gear after election httptcoiz3ppl4d
+268097232564260865	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268097223198400513	politics	rt trscoop mitt romney got zero votes in 59 philadelphia voting divisions httptcopyt7dqct
+268097208711270400	politics	grover norquist mitt romney painted as poopy headskevin 709 the only poopy head in my opinion is grover norquist
+268097156148252673	politics	breaking romney got zero votes in 59 philadelphia voting divisions zeroshttptcovcr0suyx httptco4raodxry
+268097134702759936	politics	if the romney campaign was an etchasketch obamas is an ipadsdonaldtrump is a truckload of dead rats in a tampon factorysscience
+268097102498910208	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268097011331502080	politics	oh my lord crazy romneysupporting coworkers in the breakroom still saying obama lost the popular vote o
+268096996521410560	politics	who gets the blame for the romney loss the tea party has a theory viaskenrudin httptco0rincj6q
+268096993690259456	politics	rt laloalcaraz mitt romney celebrates his endorsement by the log cabin republicans httptco00gplo0l
+268096923943190529	politics	we have some loonies in this country romney lost move on dems didnt want bush twice but we dealt with it
+268096820167733250	politics	per tradition the losing presidential candidate is losing likes heres a website that shows it in real time httptco8fej00w8 romney
+268096806846603264	politics	fredthompson why romney lost ask lou dobbs where were paul supporterssnowhere to be found comeuppance cheaters lose elections
+268096778275008513	politics	rt americaluvsmitt mitt romney chose the moral high ground by picking paul ryan for vp two men of integrity one ticketshttptco5qfdgzod tcot
+268096769114636288	politics	romney is presidentshttptcoyypghx1m httptcokx8i1u2w
+268096767520821248	politics	suspected romney taxreturn hacker appeals for legal funds httptcoduqxe2fa tcot
+268096762491830273	politics	rt good2bright in philly 59 election divisions mitt romney got zero votes httptcoly743ggo via sharethis
+268096743315472384	politics	losing rt twitchyteam huh romney campaigns political director says ground strategy worked fine httptcogp5zpvsi
+268096742032015362	politics	rt macmiller ill be so pissed if romney is president for real
+268096733530169345	politics	rt hollywoodedu u ask any black ass nigga who they voted for they proudly yell obama ask ascracker they get offended cuz they voted for romney racist ass
+268096618925027330	politics	mitt romney style on youtube is fuckingshilarious
+268096463240835072	politics	rt bornamerica the speed of light is almost as fast as a romney concession
+268096352964190208	politics	kstreb03 i am american enough to know not to vote for romney
+268096343992569857	politics	obama and romney apia voter sheets tell you exactly what each candidate thinks about us httptcok4q7ygby 18mr
+268096340704260096	politics	via twitchy huh romney campaigns political director says ground strategy worked fine httptcochuf1tv1 sarahpalinusa
+268096307980271617	politics	grover norquist obama won because he called romney a poopy head httptcom4imqefc via huffingtonpost
+268096262723756033	politics	jarettwyse in some ohio precincts romney got 4 votes for every 514 obama got that screams election fraud oh wellseveryone
+268096190837559296	politics	just because you white people are madd that mitt romney is not in office doesnt mean you gotta take it out on african americans smfh
+268096167357849600	politics	congressman ryan youre correctim calling you and romney liars httptcoqseghsur connecttheleft dems gop liar p2 tcot tlot
+268096164828688384	politics	romney myths the misses and impossible mathematics httptco2m8a7gah connecttheleft p2 taxreturn tcot tlot
+268096092464353280	politics	kyle phillips on obama vs romney httptcocdduq2jn
+268095893218148353	politics	the romney candidacy in retrospect was romney really the best the republicans could do httptcoet8t9wqy
+268095821252292608	politics	u ask any black ass nigga who they voted for they proudly yell obama ask ascracker they get offended cuz they voted for romney racist ass
+268095776608096256	politics	what is the root of all evilsmitt romney httptcouowbyywj
+268095772736761856	politics	twitchyteam also more than 99 of the vote in more than 100 precincts in cuyahoga co oh went to obamasmany where romney got 0 votes
+268095701853011968	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268095588753620993	politics	abcnews grovernorquist says obama portrayed romney as a poopyhead httptcoa4ytmh42 this is your tax policy goto guy gop tcot
+268095522814959616	politics	fuckaromney lol you can meet my llama httptcoqgc1qu7m
+268095492758589442	politics	ok people who voted for romney you can come out now its ok we will not make fun of you
+268095366958821377	politics	just exactly who doesnt know what mitt meant when he said binders full of women httptcoj27h2yi9 someone help me with my confusion
+268095327863705600	politics	roommates boyfriend brought over a stuffed romney but hes now located in the puke bucket under the bathroom sink
+268095300151947264	politics	romney won zero votes in 9 cleveland precints 59 philadelphia precinctsshttptcoguve5xwn httptcolqomc3ir
+268095262172520448	politics	rt ashlanrogers so its been almost a week since obama was named president again and im still mad about it and i still want to leave the country romney
+268095184561127424	politics	duncantrussell this is the greatest pissed romney thing ive seensand ive seen a lot truly epic vampires httptco2g34teg1
+268095118265962497	politics	eric hartsburg tattoos mitt romney logo onto forehead speaks out after election httptco92klwplg sucks to be you dude
+268095079909060608	politics	jennyjohnsonhi5 romney went after the wrong puppet
+268095072648691713	politics	romneys friends fade on facebook httptcoajogvnfk via msnbcarticles
+268095018550579200	politics	how mitt romney can save us from the fiscal cliff a 50000 deduction cap would raise taxes on the rich as much httptcoruu0tkff
+268094958311976960	politics	odd romney got zero votes in 59 precincts in philly and 9 precincts in ohio httptcoq757ocsc via theblaze
+268094863159996417	politics	even in conservative mormon utah obama got a goodsof votes i have a hard time believing romney got 0 votes in some counties voterfraud
+268094779353604096	politics	rt cressman for mormons mitt romneys loss was still a win for their faith httptcozufkdq2a mormonsandmedia
+268094701490536449	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268094545433067522	politics	rt imsure voterfraud odd romney got zero votes in 59 precincts in philly and 9 precincts in ohio httptcobfgspltx via theblaze
+268094522607681536	politics	romney aide delusionalsdaily kos top romney aide says obama strategy didnt work because of super pacs httptcogvrfythw
+268094504236625920	politics	rt thebaxterbean reality check applebees ceo donated enough money to the romney campaign to pay applebees employees health insurance for 10 years
+268094444203544577	politics	rt cressman for mormons mitt romneys loss was still a win for their faith httptcozijtlm0m mormonsandmedia
+268094430609805312	politics	rt pappenjazz 59 dists inaround phili shows 0 romney votesswingstate s dont ring truebo dems not involved in voterfraudr they gop tparty cong
+268094423366258688	politics	rt ususervice remember to come to stuffabus tonight at 7 pm meet at romney stadium and dress warm getinvolved
+268094228637315072	politics	i was asked if i voted for obama according to nonlocality yes and i voted for romney as well
+268094200216686592	politics	rt soulful1 romney facebook page losing near 1k likeshour httpstcokdhhl12bs while potus httpstcoeiuty7jw continues to growsnow vote2014
+268094168360947713	politics	rt dloesch it wasnt anyones fault but those damn social cons or romney or the rnc or the nrsc or coulter or christie or or or
+268094130289274882	politics	republicans have been asking themselves what went wrong following mitt romneys large electoral co httptcoadj6bil9 romney news
+268094104330727424	politics	romney is president httptcomxe5mc7w
+268093979399172096	politics	liarsguy with romney face tattoo no regrets httptcohl2cpwww
+268093948600397824	politics	59 dists inaround phili shows 0 romney votesswingstate s dont ring truebo dems not involved in voterfraudr they gop tparty cong
+268093926508994560	politics	rt gottalaff video grover norquist pres obama was elected on the basis that mitt romneyshttptcoepefcwn7 p2 du1 njp p2b
+268093835891048451	politics	rt good2bright in philly 59 election divisions mitt romney got zero votes httptcoly743ggo via sharethis
+268093751363264512	politics	rt good2bright in philly 59 election divisions mitt romney got zero votes httptcoly743ggo via sharethis
+268093656072851456	politics	governor mitt romney sends thank you note to supporters click to readsgretawire blog httptcokggejcra
+268093655145906176	politics	february 2012 campaign donations for mitt romneysglencoe news httptcoe0jcqh2p
+268093573294067714	politics	whatif romney became president
+268093556810473472	politics	in 59 philadelphia voting divisions mitt romney got zero votes httptcofbqg7vcp
+268093513667866624	politics	why rand was right to endorse romney httptcosag0belm via youtube
+268093482365771777	politics	rt cressman for mormons mitt romneys loss was still a win for their faith httptcozijtlm0m mormonsandmedia
+268093425381933056	politics	just had a lecture from my mom about how romney as president wouldve been better for their businesses that was fun not bitingmytongue
+268093395048747009	politics	reasonoverfaith yeah fl was right there on the razors edge according to the model we had romney just barely taking it with 5005
+268093336575938560	politics	yoo unu go pan romneys fb page znslook at the amt of likessrefresh the page n look again dead loool
+268093280384856068	politics	zero romney votes in parts of phillys seems only skin color matters for many black voterssthats fd up httptco2gibbzzl
+268093227012333569	politics	rt eveandstyle grover norquist obama won because he called romney a poopy head httptcogl3lmnmd via huffpostpol
+268093197891272705	politics	interesting did you unlike romney httptcotd5etpcm
+268093153918197761	politics	we ran an article from one of our contributors lionel rainey iii on why he thought romney would win we thought httptco5a4erdgx
+268092970560012288	politics	eliezerferguson of course it doesnt matter lol even if romney wouldve won we wouldve been fucked anyway both support it
+268092895452618752	politics	rt 100proofpolitic if you hate grovernorquists tax pledgesvoted against poopyhead romney then youll love this videoshttptcohfjbawems winning
+268092807036678144	politics	rt intrepidokie guitartom47 if just one person who voted romney comes forward it would prove fraudswhy has no one anybodysvoters locally
+268092773788422144	politics	rt chaz1944 the national memosmitt romney is gone but the gop is still fighting for his tax breaks httptcoag7hs3qa
+268092683187265536	politics	maybe that romney face tattoo wasnt such a good idea with the election over supporters of mitt romney have to httptco7fivukmb
+268092678204444672	politics	mitt romney chose the moral high ground by picking paul ryan for vp two men of integrity one ticketshttptco5qfdgzod tcot
+268092598990802944	politics	romney adviser says chris christie undermined gopsspat dollard httptcor9hnrjqw via newspin
+268092576819724288	politics	was mitt romneys campaign delusional or incompetent httptcoleachdkdspoliticspr motherjones yesyes
+268092530111950848	politics	deans news post republicans shift stance ontaxing wealthy glenn hubbard who advised mitt romney isshttptcooqgx7i0h finance
+268092530074198016	politics	rt intrepidokie guitartom47 if just one person who voted romney comes forward it would prove fraudswhy has no one anybodysvoters locally
+268092526769086464	politics	republicans shift stance ontaxing wealthy glenn hubbard who advised mitt romney is latest prominent conserva httptcox9otb74d
+268092523887620096	politics	rt cressman for mormons mitt romneys loss was still a win for their faith httptcozijtlm0m mormonsandmedia
+268092391947386880	politics	guitarhero1965 some1 said d machines were changing romney votes 2 obama liberals cheat every opportunity they getsr freeloaders 2
+268092245247406081	politics	jamesalll i say romney has already added to it by simply sayingnothing much less doing anything
+268092215102935041	politics	forget the transcriptssreleasethereturns dem party should be making huge issue of romneys belief hes entitled to special rules
+268092211785252865	politics	rt guitartom47 breaking romney got zero votes in 59 philadelphia voting divisions zeroshttptco70fpn1no httptcofhqnqqzb via sharethis
+268092188896935936	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268092169481490432	politics	rt intrepidokie guitartom47 if just one person who voted romney comes forward it would prove fraudswhy has no one anybodysvoters locally
+268092103396061186	politics	rt stavangi1 report mitt romney got 8216zero8217 votes in some sections of philadelphia httptcog4kmxyf1
+268092009582055424	politics	the ten females who cost mitt romney the presidencysalternet httptcogpexycql
+268091845677039616	politics	rt isabelleelise in 59 philadelphia voting divisions mitt romney got zero votes httptcohlwqodsx
+268091779675455488	politics	in philly 59 election divisions mitt romney got zero votes httptcoly743ggo via sharethis
+268091720997158913	politics	rt gayla415 military absentee ballots delivered one day late would have swung election for romneyscowboybyte httptco15jjned5 via sharethis
+268091701351038976	politics	report mitt romney got 8216zero8217 votes in some sections of philadelphia httptcog4kmxyf1
+268091672708120576	politics	so its been almost a week since obama was named president again and im still mad about it and i still want to leave the country romney
+268091622615560194	politics	rt yaeltabouhalkah sorry gop sandy didnt cost romney the election rt samwangphd did national opinion move in closing weeks httptcow2azsbhx
+268091582211842048	politics	in 59 philadelphia voting divisions mitt romney got zero votes httptcohlwqodsx
+268091321619718145	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268091321179308032	politics	election news romney tax extension poll results romney tax extension do it again vote your vo httptcox55q1bhw theelectiontv
+268091266665951235	politics	odd romney got zero votes in 59 precincts in philly and 9 precincts in ohio httptco5wwwlave via theblaze
+268091169823678464	politics	i just made romney noodles obama self
+268091140912316416	politics	rt mikedayherriman can we get 100 of the vote in 59 voting divisions yes we can forward mao tcot httptcoo3ug0u2f
+268091088936525824	politics	ann romney wouldnt last a day in whiskeydays shoes and thats real
+268091038734905344	politics	rt intrepidokie guitartom47 if just one person who voted romney comes forward it would prove fraudswhy has no one anybodysvoters locally
+268091026235863041	politics	seanhannity i personally know 2 people in philly who voted for mittromney so how did barackobama win with no votes for romney
+268091019730513920	politics	rt beeftweets someone please lock mitt romney in a room with montel williams film it and put it in theaters for me to watch 16 times
+268091006170312704	politics	rt guitartom47 breaking romney got zero votes in 59 philadelphia voting divisions zeroshttptco70fpn1no httptcofhqnqqzb via sharethis
+268090991091806209	politics	can we get 100 of the vote in 59 voting divisions yes we can forward mao tcot httptcoo3ug0u2f
+268090954563596289	politics	shorting the ron paul supporters was the beginning of the end for romney and the gopshttptcoottfmrjr
+268090948238594049	politics	man who tattooed romney logo onto forehead speaks out httptcojb5eaomu
+268090924171657217	politics	in 59 philadelphia voting divisions mitt romney got zero votesshttptcoviasrxo6
+268090885089157120	politics	59 philadelphia voting divisions zero romney votes httptcobzqwdops via breitbartnews teaparty tcot
+268090884736831488	politics	rt azmoderate 10 women who cost romney the presidency httptcoyy7vp47v via salon
+268090876679561216	politics	rt trscoop mitt romney got zero votes in 59 philadelphia voting divisions httptcopyt7dqct
+268090613080150017	politics	were not stupid 59 voting divisions 0 romney votes httptcoge16lbmm
+268090602023948288	politics	i just made romney noodles obama self
+268090528661393408	politics	insiders explain how mitt romneys campaign completely fell apart on election day as conservatives search f httptcowrgecfis
+268090528132915200	politics	kurteichenwald so much for the romney slogan believe in america
+268090443047260160	politics	bettercoachesthanmikebrown mitt romney
+268090294451453953	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268090283034558464	politics	breaking romney got zero votes in 59 philadelphia voting divisions zeroshttptcojstfhrmd httptcojoxjbfpj via sharethis
+268090045385277442	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268089990825783296	politics	i just made romney noodles obama self
+268089910647455744	politics	libs think romney acted jerky with a dog whereas obama was fond of dog jerky httptco3pkmnuwi dogsvsdemocrats obamadogrecipes
+268089881689980929	politics	just heard that in 59 voting divisions in philadelphia mitt romney got 0 votes thats 0 out of 19 605 votesswow hardonyamitt
+268089835191947264	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268089794297487360	politics	jeanniemcbride i held my nose to vote for romney i will not do that for jeb bush
+268089690001903616	politics	romney won zero votes in 9 cleveland precints 59 philadelphia precinctsshttptcoe0txh5uu httptcoewdasejk
+268089671475683328	politics	sorry gop sandy didnt cost romney the election rt samwangphd did national opinion move in closing weeks httptcow2azsbhx
+268089652626460674	politics	mitt romney is a decent manswho ran an indecent campaignshuffington post newslocker httptcohzsjcmgl
+268089621550862336	politics	rt mrjamiemelton romney losing is like being stranded on a remote island with a rescue helicopter flying overhead for the last time without seeing you
+268089603104313344	politics	grover norquist obama won because he called romney a poopy head httptcogl3lmnmd via huffpostpol
+268089391770107904	politics	wow tea party claims loss because ticket too moderate maybe need to change mascot from elephant to ostrich httptcol3sebzgr
+268089372648300545	politics	weird political news of the day norquist obama won by casting romney as poopy head httptcoxce1yg8b
+268089150866075648	politics	rt mrjamiemelton romney losing is like being stranded on a remote island with a rescue helicopter flying overhead for the last time without seeing you
+268089082113060864	politics	rt drudgereport update in 59 philly wards romney did not get single vote httptcoksbrvmgj
+268088997887229952	politics	mitt romney promotes and supports individual httptcocr6kpaql
+268088943176724480	politics	rt conniejeanriggs gop2012 weneedmitt r we so desensitized w fraud we just dont care curious that romney wouldnt receive one vote
+268088903314075649	politics	grover norquist obama won by calling romney a poopy head httptcomekzcvlh thinkprogress grovernorquist obama romney p2
+268088885496651776	politics	reachjewishsi just wish they would have astonished obama and voted for romney they know nothing about business if the voted barry

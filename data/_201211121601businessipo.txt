@@ -1,0 +1,647 @@
+/usr/local/java/jdk1.6.0_37/bin/java -Xms1024m -Xmx1024m -cp :../lib/*.jar:../lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:../lib/twitter4j-2.2.6/twitter4j-async-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-core-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-examples-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-media-support-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-stream-2.2.6.jar:../lib/twitter-text-1.5.0/twitter-text-1.5.0.jar:bin UsersMentionDownload business ipo
+business ipo lang:en geocode:39.8,-95.583068847656,2500km
+268142957188743170	business	only 3 million rt arstechnica groupon stock plunges has lost 90 percent of value since ipo httptcoryehlmfx by cfarivar
+268139260408905728	business	ruckus wireless ipo plans defy rough market with wifi growth aapl investors business daily httptcouzvitvac
+268135722337329152	business	journey from startup to ipo httptcor11byh3v
+268131998835556353	business	mariabartiromo jack dorsey an ipo is not an exit planscnet httptcoltfykhjx
+268131026428121088	business	jack dorsey an ipo is not an exit plan via cnet httptcokmn0cklw
+268128450458574848	business	kfitz777 thanks mansafter the ipo or lottery ticket hits ill expect a check in the accountsand tell jeffnine who did the design
+268125320043958272	business	neither square nor twitter will rush to ipo good httptcozubiipdv startups
+268123024794992641	business	groupon stock plunges has lost 90 percent of value since iposars technica httptco0pjm1y7i
+268121938914856961	business	jack dorsey an ipo is not an exit plan the twitter cofounder and square ceo tells cnbc twitter will go public httptcoz1kydjgn
+268121938478628864	business	jack dorsey an ipo is not an exit plan the twitter cofounder and square ceo tells cnbc twitter will go public httptco1jasj7qq
+268118590094446592	business	mariabartiromo next digital health ipo practice fusion castlight or zocdocsgigaom httptcogqwgtijt
+268117181487804416	business	utair mulls foreign ipo to raise up to 350m utair russias thirdbiggest airline is considering raising 100 httptco54fsprn5
+268116271420297218	business	utair mulls foreign ipo to raise up to 350m utair russias thirdbiggest airline is considering raising 100 httptcombiomwzn
+268116215875117056	business	utair mulls foreign ipo to raise up to 350m utair russias thirdbiggest airline is considering raising 100 httptcooxmfnl5o
+268113681416585216	business	best groupon deal ever groupon stock plunges has lost 90 percent of value since iposars technica httptcodcmt6j25
+268108919858159617	business	survey says practice fusion castlight or zocdoc could be next digital health ipo two san francisco digital hea httptcobg3gwpxb
+268108849389654016	business	survey says practice fusion castlight or zocdoc could be next digital health ipo two san francisco digital hea httptcoi3f44qy5
+268102700632248320	business	journey from startup to ipo httptcokl5ueozy
+268100577110675457	business	freelance advicesjourney from startup to ipo softwaremaker exacttarget went public earlier thi httptcoupilq5lp freelancing
+268095822195990528	business	rt robertocharvel its done mx has its second reit in fibrahotel which raised us291mn in an ipo last week httptcoswvkpfwm
+268094915068702720	business	groupon stock is now trading at a lifetime low of 276 down from the ipo price of 20 a year ago httptcoguyl4c2f
+268092130428325888	business	discover secret penny stock trading strategy formula to turn 1000 into 1 million httptco9wtaoaj4 trades purchase ipo all
+268090079283650562	business	journey from startup to ipo httptcodvvwoswk
+268088955726082048	business	groupon redefines secret sauce metric 2 days before ipo
+268088057973071873	business	rt robertocharvel its done mx has its second reit in fibrahotel which raised us291mn in an ipo last week httptcoswvkpfwm
+268086340283953152	business	midnight917 down like 50 since ipo oh ohhhh i see
+268085461430448128	business	its done mx has its second reit in fibrahotel which raised us291mn in an ipo last week httptcoswvkpfwm
+268084908965109760	business	journey from startup to ipo softwaremaker exacttarget went public earlier this year and now boastsshttptcovh9dodpf inc uco
+268084893857247232	business	journey from startup to ipo softwaremaker exacttarget went public earlier this year and now boasts a market c httptcotd2r4kdq
+268084879663710208	business	journey from startup to ipo softwaremaker exacttarget went public earlier this year and now boasts a market c httptcoat2csa3b
+268084873653272576	business	journey from startup to ipo softwaremaker exacttarget went public earlier this year and now boasts a market c httptco2ogerxo1
+268082449962106880	business	journey from startup to ipo softwaremaker exacttarget went public earlier this year and now boasts a market c httptcovz9xrw4m
+268082444484354048	business	journey from startup to ipo softwaremaker exacttarget went public earlier this year and now boasts a market c httptcowcg8dvm2
+268081532210642946	business	next digital health ipo practice fusion castlight or zocdoc httptco3beilhd3 startups
+268079335729143808	business	ipossfantasy draft day financetyfootball
+268078112326168576	business	groupon stock plunges has lost 90 percent of value since ipo httptco3kjulsxismillion
+268077431120859136	business	rt iondigital linkedin avoiding the social media slumpsfor nowshttptconr4iklnw httptcog1vibgfe socialmedia
+268076475398373376	business	ing files to sell minneapolis units in ipo httptcotzqtkk5j
+268074990618947584	business	rt chicagosean groupon trading at 110th of its alltime high just one year ago happy anniversary ipo investors wow grpn
+268073694939729920	business	latest ars tech groupon stock plunges has lost 90 percent of value since ipo you know things areshttptcogf6iwnx3 tech news
+268070640580444161	business	linkedin avoiding the social media slumpsfor nowshttptconr4iklnw httptcog1vibgfe socialmedia
+268070561412943873	business	rt chicagosean groupon trading at 110th of its alltime high just one year ago happy anniversary ipo investors wow grpn
+268070271125168129	business	desperation and datalogix facebook six months after its ipo httptcormf8cwnc cultd
+268069978580844545	business	groupon trading at 110th of its alltime high just one year ago happy anniversary ipo investors wow grpn
+268069271932923904	business	got siri on your iphone or other ios device heres a ton of examples of what you can say mobile apple ipad ipohttptconkr3fkg3
+268067878669000704	business	dang i thought this was going nowhere groupon stock plunges has lost 90 percent of value since ipo httptcoocnm7afi
+268067073735921664	business	linkedin avoiding the social media slumpsfor nowshttptcojrwzyejk httptcod9sygmlx
+268067071185793024	business	linkedin avoiding the social media slumpsfor nowshttptcoy9cxspxn httptcorz1y7wkg
+268065513224167425	business	groupon redefines secret sauce metric 2 days before ipo
+268062941977395200	business	groupon stock plunges has lost 90 percent of value since ipo httptcolamnobwc ministryofinnovation
+268062682207375360	business	my shit so dope i need a investment bank to help sell these verbal ipos
+268060874818846720	business	multiple muppet mashing leaves groupon shareholders holding the bag after 89 off ipo coupon httptcozwctywdw
+268041798390272000	business	mariabartiromo sizing up grubhubs ipo prospectsscrains chicago business blog httptconbnbv40u
+268040380065402880	business	jennabryson of coursesmaybe ill get in on the ipo
+268029105784627201	business	insurer ing us files for iposing us inc a unit of dutch financial services group ing groep nv filed to raise u httptcoioha5gcb
+268020087028588546	business	news ing plans 100m ipo of us investment business httptcotf7ewtzx insurance
+268019349300854784	business	hong kong ipo pipelinesnov 12 hong kong nov 12 reuterssthe following are some of the major companies httptcobpcknnei
+268017427701436416	business	groupon cost 90yr to short at ipo wall street nailed it grpn httptcogo5clv5u
+268013729696854016	business	groupon loses nearly 90 since ipo groupon took it on the chin friday after reporting earnings and revenue that httptcopmpgq6sr
+268010310756085760	business	penny stocks pmea alertshot ipostyle solar energy play looks awesome httptcohmctxxqbsdoes itsshttptcogac2tleq
+268009563880566784	business	everytime i hear a ceo say we are waiting for a stronger ipo market i translate it as we are waiting for investors to overpay for our stock
+267998039929663489	business	mariabartiromo cambodia bourse sees end to ipo droughtswall street journal httptconbhhpaxz
+267996215411634177	business	insurer ing us files for ipo httptcogegabias
+267990148854202370	business	ipobound marketing biz hubspot grabs 35m for aggressive growth httptcor5ddnc7g
+267944618405027840	business	groupon redefines secret sauce metric 2 days before ipo
+267936737202958337	business	mariabartiromo ruckus wireless ipo to test choppy marketsstotal telecom httptcouwpsp40b
+267896015280017409	business	rt wsjbusiness nyse gains ground on nasdaq in ipo race httptcoz1crgxcq
+267891650779549696	business	russian phone giant megafon aims to raise 2bn on london market ipo follows similar cashraising move by spain httptcojsszwnog
+267890023553191936	business	mariabartiromo picc ipo to value insurer around 208 billionswall street journal httptcoojr6bugh
+267880735975800834	business	discover secret penny stock trading strategy formula to turn 1000 into 1 million httptco9wtaoaj4 trades purchase ipo all
+267871906299011073	business	nyse gains ground on nasdaq in ipo race httptcoik35vtpb
+267863563018838016	business	wsj nyse gains ground on nasdaq in ipo race httptcoyszk0ejo paid
+267841960881049600	business	nyse gains ground on nasdaq in ipo race technology listings have long been the domain of the nasdaq stock marke httptco4rnypxyg
+267841953096425473	business	nyse gains ground on nasdaq in ipo race technology listings have long been the domain of the nasdaq stock marke httptcogxiuwtyv
+267830518358368256	business	mariabartiromo update 1ananda development launches 213 mln ipo caps thai boom yearsreuters httptcotn10xl7l
+267815435922202625	business	mariabartiromo thailands ananda development launches up to 213 mln ipotermssreuters httptcotakc7g2u
+267808654600830976	business	rt obamagames banks move in after shaky start to facebook iposhttptco5ifxglmtsthey recommend sell all shares of facebook tcot news p2 bank
+267808218661670912	business	banks move in after shaky start to facebook iposhttptco5ifxglmtsthey recommend sell all shares of facebook tcot news p2 bank
+267799300992540673	business	mariabartiromo nyse gaining ground on nasdaq in ipo raceswall street journal httptcoyoka9yl7
+267796584266358784	business	groupon redefines secret sauce metric 2 days before ipo
+267786101807271937	business	those of you at rfdc2012 should go to my ipo panel wednesday to count the number of times i say um
+267773700143734784	business	long before the ipo shutterstocks formative decision httptconknzlpif via inc
+267761349357076481	business	groupon redefines secret sauce metric 2 days before ipo
+267729741983907842	business	discover secret penny stock trading strategy formula to turn 1000 into 1 million httptco9wtaoaj4 trades purchase ipo all
+267729282527268864	business	bonds licence to thrill aids mgm ipo hopesshttptcofomioods
+267725417430020098	business	onedirection emavoteonedirection httptcofx4yg5mf onedirection emavoteonedirection httptcofx4yg5mf ipojk
+267725043323252736	business	mariabartiromo broker bearish on local ipo market sentimentshong kong standard httptcorg3r4lze
+267692467065847808	business	jerzey lovesthat again httptco5kwywn3t europe japan entrepreneur businessweek investorsbusinessdaily ipo merger aquisition
+267690240699936768	business	lifesciencesmkt ap says 777 million shares httptco2swrqdj1 but edgar has 421 million httptcojgnypvja either way it is massive
+267674058525646848	business	analysis hudsons bay faces tough sell as it prepares for ipo httptcoz2bybtsj
+267662360293036033	business	megafon is said to resume marketing for 3 billion ipo this week megafon which plans to complete the ipo befor httptcobyaejxv2
+267660626577465344	business	interesting stats do options retain rt allthingsd in a postfacebook ipo world secondmarket evolves by lizgannes httptcommeixb6f
+267649444772724736	business	mariabartiromo russias megafon gets nod for 2 billion ipo sourcesschicago tribune httptcoeo7ejifq
+267642777515462657	business	in a postfacebook ipo world secondmarket evolves away from internet companies httptcofb0t1am9stech it fb geek
+267641637310717953	business	analysis hudsons bay faces tough sell as it prepares for ipo if hudsons bay co wants to provide some measure httptcodkjeo6vn
+267638013469786112	business	rt cwunewcastle sharp rise in royal mail profits expected httptcoytomyfvk
+267634346385620993	business	mariabartiromo megafon is said to resume marketing for 3 billion ipo this weeksbusinessweek httptcowjagnps5
+267632389612777472	business	analysis hudsons bay faces tough sell as it prepares for ipo httptco4dtsfreu
+267629821067161603	business	sharp rise in royal mail profits expected httptcoytomyfvk
+267624327283888128	business	j3micuti3 iposo bcos i nor call u u nor fit evn call 2 knw wats upbitchhhh
+267618292678660096	business	business rt analysis hudsons bay faces tough sell as it prepares for ipo torontonew york reuterssif hud httptcochhtvnqa
+267616748944117760	business	analysis hudsons bay faces tough sell as it prepares for ipo httptcoyd13k7oq
+267616688579682304	business	analysis hudsons bay faces tough sell as it prepares for ipo httptcoyjt0dpyr news breaking
+267593539620306944	business	groupon redefines secret sauce metric 2 days before ipo
+267565383878336512	business	swy httptcoqeic72u8 competitor sugarcrm weighs ipo for 2013smore crm httptcoqeic72u8 news httptcoasgrthxescrm
+267518349313966080	business	discover secret penny stock trading strategy formula to turn 1000 into 1 million httptco9wtaoaj4 trades purchase ipo all
+267515579840200704	business	groupon redefines secret sauce metric 2 days before ipo
+267506586904322048	business	grpn news groupon shares hit on revenue miss down 85 percent since iposstocknews httptco8rqtuibh usinternetstocks
+267482867297300482	business	shuffle on my ipo in the car is also the voice of god
+267471674943868929	business	russias megafon gets nod for 2 billion ipo sources httptco5pukamq9 via reuters
+267452918448418816	business	mariabartiromo senate likely to okay ipo bill 2012sthe nation httptcojagf0zhk
+267435426934034432	business	cfo ball leads marketo to unprecedented growth path to ipo httptcoeqjhu65b via svbizjournal
+267419420106825729	business	russias megafon gets nod for 2 billion ipossources httptco2lszu4vd
+267398810110660608	business	russias megafon gets nod for 2 billion ipo sources russias no2 mobile phone company megafonsis likely t httptcoak43xxbv
+267392991096872960	business	groupon redefines secret sauce metric 2 days before ipo
+267392833512669185	business	ipo rt atombst zekishsly me me mestill d sameyesterday2daydont know abt forever
+267387506943729664	business	update 1russias megafon gets nod for 2 bln ipossources httptcokc7z5n5c
+267387075576352768	business	orcl news workday stock keeps climbing following big ipo debut wday orcl kmb httptcolov1ty7x climbing debut following
+267385372701511681	business	kevmath congrats to tom brady winner of the boylepoker ipoall pro qb gorgeous model wife guy cant do anything wrong
+267380268262895616	business	rt daveostlund woah groupon grpn down 30syesterday closess276 ipo a year ago was 2000 living socialscrowdcut mpls deals are horrid fork
+267377720353226753	business	mariabartiromo update 1russias megafon gets nod for 2 bln ipossourcessreuters httptcojbw7ixlv
+267377436721827840	business	russias megafon gets nod for 2 billion ipo sources httptcoewqjkpr7
+267376038324097024	business	update 1russias megafon gets nod for 2 bln ipossourcesshttptcoa5bm8tbz forex fx
+267374062240690178	business	google partner babylon seeks 115 million from nasdaq iposbabylon ltd the israeli translation software pr httptcodmiwb5x3
+267372379058094082	business	russias megafon gets nod for 2 billion ipo sources moscow reuterssrussias no2 mobile phone company me httptcotd6ey0lo
+267372378374414337	business	russias megafon gets nod for 2 billion ipo sources moscow reuterssrussias no2 mobile phone company me httptcokxregf3i
+267372377669763073	business	russias megafon gets nod for 2 billion ipo sources moscow reuterssrussias no2 mobile phone company me httptcoxhz5rwb2
+267372322195922944	business	russias megafon gets nod for 2 billion ipo sources moscow reuterssrussias no2 mobile phone company me httptcoahe8ra8p
+267371898738987008	business	russias megafon gets nod for 2 billion ipo sources httptcoj0o4phft news breaking
+267367390680072192	business	yuhnke commentary newest apple ipod touch is best ipod touch yet but itssphoenixsremember when the ipo httptcojvq7jqja
+267367352688062464	business	discover secret penny stock trading strategy formula to turn 1000 into 1 million httptco9wtaoaj4 trades purchase ipo all
+267362559852695553	business	mariabartiromo russias megafon gets nod for 2 billion london ipo sourcesschicago tribune httptcodrt22sp7
+267362113754910721	business	russias megafon gets nod for 2 billion london ipo sources httptcobza0cvww
+267361775425581056	business	russias megafon gets nod for 2 billion london ipo sources httptcoe3nrb1xp
+267356258162585600	business	russias megafon gets nod for 2 billion london ipo sources moscow reuterssrussias no2 mobile phone comp httptcokfd47xln
+267355243866640384	business	russias megafon gets nod for 2 billion london ipo sources httptcomdwq3d6p
+267353377887895552	business	business rt russias megafon gets nod for 2 billion london ipo sources moscow reuterssrussias no2 mobi httptco2rpujdmv
+267351965271461888	business	founder lists lessons learned from a failed ipo httptcoa6hz7pfj
+267349733784317952	business	russias megafon gets nod for 2 billion london ipo sources httptcoommss5ro
+267348447890395136	business	biz business russias megafon gets nod for 2 billion london ipo sources reuters shar httptcojlfuy6dd httptcoevgyh13i
+267347541425807360	business	russias megafon gets nod for 2 billion london ipo sources moscow reuterssrussias no2 mobile phone comp httptco9hdmzoaf
+267347518638157824	business	russias megafon gets nod for 2 billion london ipo sources moscow reuterssrussias no2 mobile phone comp httptco6af25joe
+267347400035819521	business	russias megafon gets nod for 2 billion london ipo sources moscow reuterssrussias no2 mobile phone comp httptcox5cwugla
+267347296499408896	business	russias megafon gets nod for 2 billion london ipo sources moscow reuterssrussias no2 mobile phone comp httptco6xydlk4r
+267347295316611072	business	russias megafon gets nod for 2 billion london ipo sources moscow reuterssrussias no2 mobile phone comp httptcoqlhbgurz
+267347294989459456	business	russias megafon gets nod for 2 billion london ipo sources moscow reuterssrussias no2 mobile phone comp httptcoblraxcmw
+267347293974437888	business	russias megafon gets nod for 2 billion london ipo sources moscow reuterssrussias no2 mobile phone comp httptconznf1gbn
+267337795016740865	business	rt daveostlund woah groupon grpn down 30syesterday closess276 ipo a year ago was 2000 living socialscrowdcut mpls deals are horrid fork
+267337546076418048	business	woah groupon grpn down 30syesterday closess276 ipo a year ago was 2000 living socialscrowdcut mpls deals are horrid fork
+267337186687471616	business	fatcattb thats wassup when did u move back out this way im coo just living life a day at a time we should go do sushi with ipo sumtime
+267327373198897152	business	polarcap ive been accumulating gsvcsdont love the model but in the 6s and lower i smell a twitter ipo double
+267305846986399744	business	groupon redefines secret sauce metric 2 days before ipo
+267283457661616129	business	twitter please ipo when us 99ers can buy at a reasonable price and valuation
+267274762064130049	business	grouponsbefore today had lost 80 percent of its value since the ipo grpn
+267247255071903744	business	groupon redefines secret sauce metric 2 days before ipo
+267242263724322816	business	mariabartiromo facebooks ipo was a disaster rubbish you foolssregister httptcogyojh19p
+267241624499789824	business	facebooks ipo was a disaster rubbish you fools httptcocb5rk4db
+267241228758839296	business	facebooks ipo was a disaster rubbish you fools well not for facebook anyway woe woe and thrice woe unto t httptcozkmwyapq
+267173579559419904	business	fb news facebook ipo after six monthssstocknews httptco39smxlck usinternetstocks
+267162789909524480	business	vc confidence up despite tech ipo busts httptcopetfibds
+267155959430905856	business	discover secret penny stock trading strategy formula to turn 1000 into 1 million httptco9wtaoaj4 trades purchase ipo all
+267143057189769216	business	ing plans 100m ipo of us investment business httptcoucebrxwa
+267135169150984192	business	eod tally ipo 3 new s1 filings 13 amended s1a filing 3 withdrawn rw filings as of 6pm etshttptcoxlb5pvv4
+267127488218546176	business	cof ing plans 100m ipo of us investment businesssmore cof capital one financial news httptcofzvqtxc1s100m
+267111492640440320	business	groupon redefines secret sauce metric 2 days before ipo
+267106315988520960	business	vc confidence up despite tech ipo busts httptcoq1yp1rkq
+267102532969574400	business	rt bworldonlinecom finance sec approves philippine business bank8217s ipo application httptcokrzix0pt
+267097344091230209	business	rt rsacbibit havin the luck of the irish today free manis and pedis and a ipo
+267096097808318464	business	ing seeks ipo for us insurance arm move by oncedominant dutch bank one of the final step httptcosfkeis7s httptcoxcg2xzed
+267089094117560320	business	groupon redefines secret sauce metric 2 days before ipo
+267085221491531776	business	hahaha just found my broken mp3 player but it still works actually havent used this since i got my ipo httptcotui0sa8b
+267082920622161920	business	gilt ceo kevin ryan steps down ahead of ipo gilts instant success meant that their plan was widely copied a httptco6qczcpef
+267074605095718912	business	mariabartiromo gilt ceo said to lead search for his replacement ahead of iposbusinessweek httptcomby1egwz
+267065421469974529	business	smc global securities ipossmc global securities files drhp to sebi httptcop79h9dlt
+267060016496918529	business	gilt ceo kevin ryan steps down ahead of ipossssssss when gilt groupe started back in 2007 it was a brilliant idea thanks
+267059985798791168	business	gilt ceo kevin ryan steps down ahead of ipossssssss when gilt groupe started back in 2007 it was a b httptcozdr0j0sm
+267047191229640704	business	otterbox defender series hybrid case for ipod touch 4g blackred otterbox defender series hybrid case for ipo httptcokblkvkih
+267047175165452288	business	mps call upon ukipo to become champion of rights httptcoqc0b64f3
+267040597049753600	business	ipo s1aseloqua inc filed s1a on fri 09 nov 2012 183042 edt httptco87okquq3
+267040596047323136	business	ipo s1asabtech holdings inc filed s1a on fri 09 nov 2012 182523 edt httptcovwzufeym
+267034099691180032	business	business briefsssales of video gamesfell 25 percent in october ing ipo google blocked in china httptcorzsb9cf7 news
+267034095048089600	business	business briefsssales of video gamesfell 25 percent in october ing ipo google blocked in china httptco3rwwop3i news
+267032235180453888	business	ipo s1aswishbone pet products inc filed s1a on fri 09 nov 2012 182147 edt httptcooz8sx3pt
+267032234123460608	business	ipo s1assilvercrest asset management group inc filed s1a on fri 09 nov 2012 182112 edt httptcoxgu2j1jw
+267032233196539904	business	ipo s1asbright horizons family solutions inc filed s1a on fri 09 nov 2012 181812 edt httptco11rcmasz
+267032230780616705	business	ipo s1asservicenow inc filed s1a on fri 09 nov 2012 180428 edt httptco59qpyjxc
+267030883725373440	business	grubhub not confirming reports of an ipo httptcoahhfkbyf
+267027767835652096	business	grubhub not confirming reports of an ipo online food delivery service grubhub wouldnt confirm or deny reportsshttptconogdjhnb
+267025067358158850	business	news summary ing plans ipo for insurance business httptcojdf9vegq
+267023605513220096	business	ipo s1asinspiremd inc filed s1a on fri 09 nov 2012 172658 edt httptcoygelf7qg
+267016219020894208	business	news summary ing plans ipo for insurance business big sale dutch bank ing groep nv will hold an initial publi httptcohfkt7vas
+267015367329714177	business	ipo s1seworld usa holdinginc filed s1 on fri 09 nov 2012 170629 edt httptcoaa43ady7
+267015366230806528	business	ipo rwsfour star holdings inc filed rw on fri 09 nov 2012 164225 edt httptcokufs1ddi
+267013961680031744	business	news summary ing plans ipo for insurance business httptcodvni99dg business biznews businesstechnology
+267013346308534273	business	groupon redefines secret sauce metric 2 days before ipo
+267013290167762947	business	grpn ipo started off at around 20 peaked at 27 and now under 3 per sharewaiting to see which route facebook stock prices take
+267012695763607554	business	kc star business business briefsssales of video gamesfell 25 percent in october ing ipo google blocked in china httptcohnqijenp
+267012594915766272	business	business briefsssales of video gamesfell 25 percent in october ing ipo google blocked in china us retailshttptcofhwvoqfu
+267011185285689344	business	news ing plans 100m ipo of us business httptco9gikorqw benefitsselling
+267006354890321921	business	biz business ing plans 100m ipo of us investment business cbs news share with frien httptcobhkwbjfk httptcoevgyh13i
+267004967397769216	business	discover secret penny stock trading strategy formula to turn 1000 into 1 million httptco9wtaoaj4 trades purchase ipo all
+267002794454683648	business	rt gokatalistik now would be a very good time to rethink your digital marketing strategy if youve been dependent on groupon httptcocfd4yxce
+267002398315278336	business	rt rsacbibit havin the luck of the irish today free manis and pedis and a ipo
+267000676436021248	business	little more on my bio i was the 99th richest person in the world until that zucchini kid went ipo on facelift
+266999468925255680	business	ing plans 100m ipo of us investment businessshttptcoeych7nyk ksl
+266998325042114560	business	ipo s1asamperico corp filed s1a on fri 09 nov 2012 160907 edt httptcooylwbvda
+266995527692976128	business	more startups let employees sell shares on secondmarket amid ipouncertainty httptcobjeiru64
+266994908957663233	business	now would be a very good time to rethink your digital marketing strategy if youve been dependent on groupon httptcocfd4yxce
+266992296057241600	business	havin the luck of the irish today free manis and pedis and a ipo
+266991589480607744	business	press releaselearning from a failed ipo httptcotdrw41gy
+266991589270900736	business	press releaselearning from a failed ipo httptcovsebktmy
+266991588754980864	business	press releaselearning from a failed ipo httptcowgllfhwj
+266989674214612992	business	ing plans 100m ipo of us investment business httptco3p4xqzv6
+266986881701531648	business	learning from a failed ipo shortly after the companys ipo the stock tanked marketing costs were threateningshttptcogt2phkoo
+266986880996884480	business	learning from a failed ipo shortly after the companys ipo the stock tanked marketing costs were threateningshttptcog5unjj90
+266986880199954433	business	learning from a failed ipo shortly after the companys ipo the stock tanked marketing costs were threateningshttptcod8w87tbi
+266986700599853057	business	more startups let employees sell shares on secondmarket amid ipo uncertainty httptcoloeyupux
+266985873185329152	business	ing plans 100m ipo of us investment business httptco7hxjlqxw business biznews businesstechnology
+266984787569418241	business	after tech ipo flameouts secondmarket shifts focus httptcouelmfuka
+266984560988913664	business	mariabartiromo lehigh gas partners lp closes overallotment option in connection with ipo ofs reuters httptco2uwfshzh
+266984358953492480	business	ing plans 100 million ipo of us investment business the company said in a public filing friday that it expec httptcozfzsnycp
+266983714213474304	business	lehigh gas partners lp closes overallotment option in connection with ipo ofs reuters lehigh gas partners httptcokvjqvhbc
+266983155423137792	business	business rt ing plans 100m ipo of us investment business dutch bank ing is preparing an initial public offeri httptcoahon2bhr
+266981744627048448	business	ipo rwsnumed plus inc filed rw on fri 09 nov 2012 145246 edt httptcoajqlu5rn
+266981743557484545	business	ipo s1ascanfield medical supply inc filed s1a on fri 09 nov 2012 145209 edt httptco1zzdtega
+266979020573405185	business	lehigh gas partners lp closes overallotment option in connection with ipo of common units representing limitedshttptcohbfa41o0
+266977638348898305	business	more startups let employees sell shares on secondmarket amid ipo uncertainty httptco8p3t2u5x startups
+266974575710060544	business	in a postfacebook ipo world secondmarket evolves away from internet companies among many internet httptcomrv6nrbm internet
+266973745489539072	business	in a postfacebook ipo world secondmarket evolves away from internet companies secondmarket has done 418 mill httptcofsporj5m
+266972540012990464	business	mariabartiromo ing announces registration statement for ing us iposreuters httptconmliicd4
+266970528395444224	business	ing us files for iposfiled under investing bankinging us inc is filing for an initial public offering httptcoiaencyrx
+266968480123854849	business	shares of annies organics have doubled since their march ipo what if business stops hoppingshttptcoqwnokppp via barronsonline
+266966339422388224	business	ipo biu student last outing keh adaibaaa last outing of the semester i promise
+266965593578696704	business	ipo s1asstevia corp filed s1a on fri 09 nov 2012 133755 edt httptcovkrmllyc
+266965199939051520	business	groupon redefines secret sauce metric 2 days before ipo
+266959601856024576	business	gilt reportedly looking for ipofriendly ceo to replace kevin ryanshttptco6wq9gxhi via betabeat
+266958782284836864	business	ing us files for ipo httptcoxxzk9bv6
+266956888493682688	business	ipo s1sing us inc filed s1 on fri 09 nov 2012 131244 edt httptcojuh6xgyh
+266944975902736386	business	gilt reportedly looking for ipofriendly ceo to replace kevin ryan mr ryan photo invoke mediaweeks after n httptco5vlrafi1
+266944405401919488	business	grpnsa good example of what happens if you try to squeeze money from a startup with an ipo when it is not really readysnow 90 off
+266936653673791489	business	good article on groupons q3 numbers httptcofr7t4vaw
+266930155136643075	business	ipo rwswishbone pet products inc filed rw on fri 09 nov 2012 111002 edt httptcodvdtoi0b
+266926153216950272	business	mariabartiromo online food delivery company grubhub prepares for ipo sourcessreuters httptcohovyhnuk
+266917870229921794	business	with hints of an ipo mobile analytics startup flurry raises 25ms httptcogsp1xxle
+266911981775233025	business	wowgroupon has lost 80 of its value since its ipo httptcotcpqp3nr
+266910752298921985	business	mariabartiromo crisil assigns average grade to pc jewellers iposrapaport httptcoucx3l5yr
+266903737111547904	business	rt marketwatch groupon is down more than 80 from its ipo price a year agos httptcolb4vzdlc grpnsno wonder
+266893766776995840	business	mariabartiromo alon usa partners ipo 10m units to price 1921smarketwatch httptcojqjpyd8e
+266890721976532992	business	theanalyst what do you think about scm just ipod yesterday
+266882054229209089	business	alon usa partners ipo 10m units to price 1921smarketwatch alon usa partners ipo 10m units to price 1921 httptcop36yt0vk
+266881200621244416	business	mariabartiromo umeme ipo oversubscribedsindependentsumeme ipo oversubscribedindependentthe umeme initial public httptcocjn6pxu8
+266878345902432256	business	ipo s1asalon usa partners lp filed s1a on fri 09 nov 2012 071009 edt httptcop6gblkyc
+266878345063567360	business	ipo s1asaudeo oncology inc filed s1a on thu 08 nov 2012 225325 edt httptcoqfek0icr
+266874743515381760	business	vc confidence up despite tech ipo busts httptcogjebbhk5
+266865457246662656	business	groupon redefines secret sauce metric 2 days before ipo
+266840886707625984	business	online games developer zynga inc on friday filed paperwork for a 1 billion ipos the latest test of investors appetite for social media
+266834458928377856	business	mariabartiromo qips very active bhartiinfratel ipo crucial jm finshttptco4hagwudl httptcock9abtss
+266826351443595264	business	carlyle hopes third time the charm for japanese ipo httptcoev5c7mqo
+266799309499011072	business	sec approves p424billion ipo of philippine business bank
+266793574497153024	business	discover secret penny stock trading strategy formula to turn 1000 into 1 million httptco9wtaoaj4 trades purchase ipo all
+266789131223449600	business	mariabartiromo malaysia ipo spree set to continue in 2013 bursa sayssbusinessweek httptco0d55txkn
+266780471235584001	business	all about preipo tagged on httptcoajjgcyjpspreipo
+266764086824534016	business	eod tally ipo 2 new s1 filings 6 amended s1a filing 1 withdrawn rw filings as of 6pm etshttptcodr5iafsm
+266757785893601280	business	seattle wa timesbusiness seattles atossa genetics completes pintsize ipo
+266757270325571584	business	seattles atossa genetics completes pintsize ipo httptcor4nwkqva business biznews businesstechnology
+266751961498537984	business	vc confidence up despite tech ipo busts httptcoa2inhikv
+266743577772687360	business	mariabartiromo update 1skoreas cj hellovision slips on debut in weak ipo marketsreuters httptcoznqka2hw
+266727569100001280	business	seattle wa timesbusiness seattles atossa genetics completes 4 million ipo
+266724953934663681	business	seattles atossa genetics completes 4 million ipo httptcoz8vjtohy business biznews businesstechnology
+266722427810234370	business	gilts flash hunt new chief for ipo httptcolkpuuzav
+266711203991138304	business	cafepress stock dives after big loss down 74 since ipo if you thought facebook inc was the worstperformingshttptcoandjqsmj
+266705185248780289	business	gilts flash hunt new chief for ipo online luxury retailer gilt groupe inc quietly launched a search for a ne httptcon9f1dmoh
+266702921268334593	business	mariabartiromo ipo village announces new crowdfunding market forecast data indicatess httptcovjp1if2c httptcourm4e43t
+266699764492562432	business	gilts flash hunt new chief for ipo online luxury retailer giltgroupe inc quietly launched a search httptco5rxvrydc internet
+266698889652994048	business	gilts flash hunt new chief for ipo httptco63atboq6 tech technology commerce giltgroupe onlineretailers voices kevinryan
+266686849169362944	business	rt kitdigital priceline acquires kayak for 18 billion five months after ipostech news and analysis httptcofq3c2jwk
+266684346776317952	business	kayak kyak ipo at 26share on july 19 less than 4 months later gets taken over at 40 by priceline pcln
+266684144212406272	business	jerzey lovesthat again httptco5kwywn3t popmusic europe japan entrepreneur businessweek investorsbusinessdaily ipo merger
+266682456428646402	business	mariabartiromo seattles atossa genetics completes pintsized iposthe seattle times httptconmjax2bn
+266681499053588480	business	car charger kit cablesusb car adapter for iphone itouch ipo at suddenvalues direct bad request svsouthmetro
+266675725627715584	business	groupon redefines secret sauce metric 2 days before ipo
+266675232327217153	business	priceline acquires kayak for 18 billion five months afteripo httptcof8zpocin
+266673225432453121	business	artisan again seeks to go public after previously withdrawing its ipo paperwork in december artisa httptcoeprlqdtw yahoo uco
+266671783556550656	business	ipo s1asgogo inc filed s1a on thu 08 nov 2012 182053 edt httptcous419ilx
+266671782264721410	business	ipo s1asgraybar electric co inc filed s1a on thu 08 nov 2012 181850 edt httptconuxrhde9
+266669722928574465	business	seattles atossa genetics completes pintsized ipo httptcoljkvymjn business biznews businesstechnology
+266668869521903616	business	vc confidence up despite tech ipo busts httptcojlhntiig
+266663906406170625	business	ipo s1snexus enterprise solutions inc filed s1 on thu 08 nov 2012 174935 edt httptcoas4xy0px
+266659906801782785	business	chinas gaming community yy launches us ipo roadshow looks to raise 97 million httptcojjxzbmwy
+266658075677704192	business	groupons stock is now trading at 385 a share down a staggering 80 from the 20 ipo price a year ago httptcooyz1tsko
+266656081315508225	business	ipo rwsarotech corp filed rw on thu 08 nov 2012 171641 edt httptcoqmgmcsmw
+266656080405352448	business	ipo s1aspivotal group inc filed s1a on thu 08 nov 2012 170253 edt httptcoimd64hrc
+266655095951859712	business	priceline acquires kayak for 18 billion five months after ipo httptcocu7yciqo search
+266654092561100800	business	groupon shares slide 13 after hours in wake of quarterly losssclassicspump and dump ipo only winners insiderssmaxkeiser he told u
+266653969500237826	business	groupon shares slide 13 after hours in wake of quarterly losssclassicspump and dump ipo only winners insiderssbanksters giabo occupy
+266649248454553600	business	herbgreenberg although he gets credit for ipoing it when he dids he got a lot of money for his companys disaster for shareholders
+266646979688427521	business	investors seek quicker sec disclosure on iposshttptcogcs9z3ov forex fx
+266646035076616193	business	trading like fb ipo rt hcpg aapl in complete overshoot now
+266642582367522817	business	discover secret penny stock trading strategy formula to turn 1000 into 1 million httptco9wtaoaj4 trades purchase ipo all
+266640358769819650	business	asking for peek into sec talks with ipo firms the groupon and facebook initial public offerings prompted advoca httptcojdpt4bcb
+266640238204567552	business	ipo s1asgilax corp filed s1a on thu 08 nov 2012 155731 edt httptcopsk9ilho
+266636347471720448	business	asking for peek into sec talks with ipo firms the groupon and facebook initial public httptcosgmxue93
+266625924781445120	business	mcp looks like death 1218 was ipo low now 872on expanding volume yucks
+266623745018429442	business	groupon redefines secret sauce metric 2 days before ipo
+266623340905652224	business	groupon redefines secret sauce metric 2 days before ipo
+266611015033159680	business	groupon is firing some employees today its stock is trading at an all time low of 385 down 80 from the ipo pricehttptcoigagla6e
+266605402748235777	business	safc check out this news on this new ipohttptcojotxuhkj
+266602028040613890	business	musclepharmpres why do u think that musclepharm stock is so low why didnt yall do a normal ipo or did you love the company though
+266592380059267073	business	mariabartiromo chinas yy expects 90 million ipo for social platformsforbes httptcoq6pv2aae
+266588824765874176	business	ofs capital corporation to ring the nasdaq stock market opening bell insofs capital corporation tickerof httptcofyxtg3rb
+266588816406638592	business	ofs capital corporation to ring the nasdaq stock market opening bell insofs capital corporation tickerof httptcofba7fiuq
+266586758148407296	business	new rapid7 ceo ipo still planned bostonbased security software firm rapid7 had a change in leadership in rece httptcoe9yxmqoo
+266585036172697600	business	forbestech chinas yy expects 90 million ipo for social platform httptconta0jkmt
+266585035086389248	business	forbestech chinas yy expects 90 million ipo for social platform httptcol5xog9jt
+266581699750686720	business	daddyliu summary of ipo stars and dogs httptcoc6twd01r
+266578745366822912	business	mariabartiromo atossa genetics prices ipo at 5shr midpoint of proposed rangesistockanalyst httptcol7ne9xyd
+266559465287974914	business	safcthis is one of my new ipos playerstake a long lookhttptcoth55lb8x
+266542996781137921	business	pimping wallstreet safc is looking sexy playersradar this new ipo httptcoigvyzawy
+266542926014849024	business	ipod get a 4thgen ipod touch 8gb for 129scnet get a 4thgen ipod touch 8gb for 129cnetthe 4thgen ipo httptcocdes2wwy
+266541588220624896	business	groupon redefines secret sauce metric 2 days before ipo
+266531653357273089	business	groupon redefines secret sauce metric 2 days before ipo
+266518555686752257	business	mariabartiromo update 1megafon posts record profit ahead of iposreuters httptcowg4d966t
+266517206580486144	business	groupon redefines secret sauce metric 2 days before ipo
+266510522596356096	business	rt robertocharvel last month santander raised us4bn in its mx ipo today they raised a us1bn in debtsinvestors seen to be loving mx httptcodernq8fs
+266506045508157440	business	ipo s1ascvr refining lp filed s1a on thu 08 nov 2012 071021 edt httptcowx3rr6hu
+266506044585414656	business	ipo s1asprivileged world travel club inc filed s1a on wed 07 nov 2012 204258 edt httptco31ehbwyy
+266506041955598336	business	ipo s1asmeganet corp filed s1a on wed 07 nov 2012 200127 edt httptcozk7svptv
+266506040844107776	business	ipo rwsavt inc filed rw on wed 07 nov 2012 194136 edt httptcoov5jw74l
+266501147358027776	business	mariabartiromo polands alior bank plans to raise 215 million in iposfox business httptcosivzsb24
+266482569355337728	business	fox news polands alior bank plans to raise 215 million in ipo httptco81emqrhu
+266481786945695744	business	groupon redefines secret sauce metric 2 days before ipo
+266479450751893505	business	chinese social media company yy inc sets terms for 90 million iposwall street journalshttptcorvp5voqm
+266471692984012800	business	mariabartiromo airasia x likely to price 250 million malaysia ipo at myr120myr140 apieces fox business httptco2nvslhia
+266464235641511936	business	groupon redefines secret sauce metric 2 days before ipo
+266454779700580352	business	formula one ipo unlikely before 2014secclestone abu dhabi reuterssformula one is unlikely to float on the httptco61psp1fz
+266452114220404736	business	httptcovisj9bca review equity crowdfunding nasdaq ipos at preipo share prices today when the world is fast becoming a global
+266441887383179264	business	groupon redefines secret sauce metric 2 days before ipo
+266431187168423936	business	discover secret penny stock trading strategy formula to turn 1000 into 1 million httptco9wtaoaj4 trades purchase ipo all
+266429482850729985	business	lightening debt load archstone shedding at least 17b in assets to prepare for iposhttptco8g0fsy6f
+266415416010735616	business	chinese social media company yy inc sets terms for 90 million ipo httptcogztly1qc
+266410416136142848	business	chinese social media company yy inc sets terms for 90 million ipo httptcojextylly
+266404484354277376	business	breaking december 15th ipo of fivethirtyeight scheduled
+266396005182869504	business	eod tally ipo 2 new s1 filings 7 amended s1a filing 0 withdrawn rw filings as of 6pm etshttptcoemugmf4n
+266386913555005440	business	with 400 million registered users chinas yy chat client looks to raise 18 billion in us ipo httptco8uot7rs3
+266383533566738433	business	with 400 million registered users chinas yy chat client looks to raise 18 billion in us ipo httptco2zx7btwf
+266383331975917568	business	with 400 million registered users chinas yy chat client looks to raise 18 billion in us ipo httptcogieibaev
+266383331283841024	business	with 400 million registered users chinas yy chat client looks to raise 18 billion in us ipo chinese socialshttptco3hmlaeow
+266383303064551424	business	with 400 million registered users chinas yy chat client looks to raise 18 billion in us ipo chinese socialshttptco6xbre3ow
+266366157131493377	business	mariabartiromo preqin ipo activity on the uptick with pe vcsaicio httptco18pxdhlp
+266351994648793088	business	rt usalivestrong temeculav raylivosi you would be astonished at the ipo offerings they get
+266351290714566656	business	watch our frozen yogurt factory in action httptcodpm3mjlh
+266351058035564545	business	temeculav raylivosi you would be astonished at the ipo offerings they get
+266350304331710464	business	chinese social media company yy inc sets terms for 90 million iposwall street journal httptcoocz654mk
+266349995043733505	business	chinese social media company yy inc sets terms for 90 million iposwall street journal httptco8gvejait
+266349956170924032	business	mariabartiromo contango midcap income to be australias thirdlargest 2012 iposwall street journal blog httptconlhmmjjo
+266343630590050304	business	doug martin is more of an ipoid say vhc is more of a lesean mccoy jimcramer
+266342206703554561	business	chinese social media company yy inc sets terms for 90 million iposwall street journal httptcoh6htz9ni
+266342122192502784	business	chinese social media company yy inc sets terms for 90 million iposwall street journal chinese social mediashttptcocehofhg5
+266339845008408576	business	chinese social media company yy inc sets terms for 90 million iposwall street journalshttptcorvp5voqm
+266339769418670080	business	pakistan chinese social media company yy inc sets terms for 90 million iposwall street journal httptcotqizuhzz socialmedia
+266339765828345856	business	pakistan chinese social media company yy inc sets terms for 90 million iposwall street journal chinese soc httptcotqizuhzz
+266338542018502657	business	chinese social media company yy inc sets terms for 90 million iposwall street journal httptcovtdufhbu socialmedia
+266338536444272641	business	bdc fund offers ipo investors a way to jump the queue httptcori0fo5sh
+266338418798239744	business	chinese social media company yy inc sets terms for 90 million iposwall street journal chinese social mediashttptco7igbquhj
+266320077928951808	business	mariabartiromo online chinese entertainment company yy sets terms for 18 billion iposnasdaq httptcojp4r82ad
+266311749555343360	business	coty plans to offer stock in june 2013 this ipo offering will be bigger than facebook
+266311337255251969	business	coty said to delay ipo to 2013 httptco8ygmgxutsvia bloombergnews
+266306108786888704	business	mariabartiromo jobs act obscures ipo pipelineswall street journal blog httptcod84xwfvj
+266298624768614400	business	jobs act obscures ipo pipelineswall street journal blog jobs act obscures ipo pipelinewall street journalshttptcoxo5tt0qf
+266293599250038784	business	ipo s1assavvy business support inc filed s1a on wed 07 nov 2012 171646 edt httptcoqnwyd6jz
+266291728552718337	business	mariabartiromo new ipo music director kicks off 201213 seasonssouthtownstar httptcotks0ghql
+266285693381267456	business	ipo s1as808 renewable energy corp filed s1a on wed 07 nov 2012 162831 edt httptco8leb7twi
+266280191834333184	business	discover secret penny stock trading strategy formula to turn 1000 into 1 million httptco9wtaoaj4 trades purchase ipo all
+266279470292414465	business	ill be preaching a sermon inspired by youth by daughter as we continue our series finding god on your ipo httptcoqzbftpfw
+266278137535549440	business	mariabartiromo ipo preview stellus capitalsseeking alpha httptcogaxrk36a
+266271431208357888	business	ipo preview ofs capital httptco4gcxctrq finance
+266271429954256896	business	ipo preview ofs capital by ipodesktop based in rolling meadows il ofs capital ofs scheduled a 101 millio httptcokiapzm2t
+266247735529836544	business	mariabartiromo why evernote ceo phil libin isnt planning on going public anytime soonsbusiness insider httptcolo3d0wsl
+266246086690234368	business	ipo s1asradius health inc filed s1a on wed 07 nov 2012 135748 edt httptcohukdftcz
+266246085817798656	business	ipo s1asradius health inc filed s1a on wed 07 nov 2012 135748 edt httptcobvqd1yeu
+266246084802797568	business	ipo s1asflow tech solutions inc filed s1a on wed 07 nov 2012 134653 edt httptcofamtjcui
+266236882927636480	business	sold the balance of hclp shares on the break of 20 that i had from day 1 of ipo at 18
+266234625712603139	business	babylon seeks 115 million from nasdaq ipo httptcov8ypoz2i via sharethis
+266233957652242432	business	archstone sees 177 billion of asset sales by 2014sbusinessweek via bw httptcokkflj96v cre
+266231935267909633	business	since the ipo maverick has questioned fb stock valuation and it has shed by 50 so far compared to its peak at 45 httptcoewtrnwy6
+266231134248136704	business	since the ipo maverick has questioned grpn stock valuation and it has shed by 85 so far compared to its peak at 27 httptco91kkngiy
+266229897918308352	business	mariabartiromo more sun less trade summer slump for ipo activity in gcc countriessalbawaba httptcoa1u3dx3n
+266229166888845313	business	regulus therapeutics in an ipo for 809 millioncurrent partnering httptcouge0v9wv
+266224127927517184	business	this is idioticsmorgan stanley tries to halt facebook ipo lawsuit httptcokwtuqvx9
+266216346008817664	business	mariabartiromo telefonica considers latin american ipo to cut debtsreuters httptcohifxotsq
+266201286716821505	business	evernote infomgmtexec love your product and strategy dont waver evernote ceo phil libin in no rush forsiposwsj httptcohmiinwjy
+266192317529079808	business	iluv speaker dock for apple ipod and iphone for 29s2 sh walmart offers the iluv speaker dock for apple ipo httptcos3terc2v
+266187561062506496	business	archstone sees 177 billion of asset sales by 2014 httptcoe2qtgyoescre
+266187480640929792	business	archstone sees 177 billion of asset sales by 2014 httptco3jmzxczd cre
+266187245818613760	business	gulf ipos up in 2012 despite q3 slowdown pwc report says ipo activity up 148 so far this year prospects highshttptcotdgt43ea
+266186871917391872	business	rt goldstockbull royal canadian mint buying 3 million ounces of silversresource investing news httptcoiy5l30xd
+266185873484283904	business	mariabartiromo morgan stanley tries to halt facebook ipo lawsuitshuffington post httptcohktborhg
+266185765585817601	business	mariabartiromotv morgan stanley tries to halt facebook ipo lawsuitshuffington post httptcotl6mivt3
+266185095931629568	business	morgan stanley tries to halt facebook ipo lawsuitshuffington post economic timesmorgan stanley tries to haltshttptco0rmyvj4p
+266183843520860161	business	morgan stanley doesnt want to own up to botched facebook ipo httptcoler2ogbu
+266183353835868160	business	santanders mexican unit shares rise in us debut financesbusiness httptcopy1zecrc
+266181321804636161	business	powerof facebookrss morgan stanley tries to halt facebook ipo lawsuitshuffington post economic timesmorgan s httptcozugxfbzh
+266180410751479808	business	rt huffingtonpost morgan stanley doesnt want to own up to botched facebook ipo httptcojrsstisd fb
+266159662859182080	business	goldman partnrs shares a measley 22 mn amongst themselves from their 1999 ipo httptcomyzdphmx europe firm ipo price
+266140515672670208	business	ipo s1aspbf energy inc filed s1a on wed 07 nov 2012 071604 edt httptcocqxaxlti
+266140514749935616	business	ipo s1aspbf energy inc filed s1a on wed 07 nov 2012 071604 edt httptcofyp0nkoi
+266140513290301440	business	ipo s1asalon usa partners lp filed s1a on tue 06 nov 2012 220435 edt httptcoyktedlto
+266140511901999104	business	ipo s1assilvercrest asset management group inc filed s1a on tue 06 nov 2012 211812 edt httptcotrgwq6cr
+266140510543024128	business	ipo s1sgold ridge resources inc filed s1 on tue 06 nov 2012 193135 edt httptcoxcbrjygw
+266138832397819905	business	mariabartiromo umeme happy with ipo but parliament probe still loomsshttptconawxakzx httptcoikkkqf0f
+266093754430140416	business	should be hearing about the empire state realty trust ipo soon
+266068799919362048	business	discover secret penny stock trading strategy formula to turn 1000 into 1 million httptco9wtaoaj4 trades purchase ipo all
+266064425667141633	business	mariabartiromo update 1cemex raises up to 11 billion in units colombian iposreuters httptcogibdgwuj
+266053377719418881	business	iphonesandipads morgan stanley tries to stop facebook investor arbitrationscnet facebooks ipo was highly httptcoixcjg7ht
+266047034618937344	business	oposremmmy ipo rt rotimiret bcos i have a long thingsremmmy baby why u on a long thing
+266046357083676672	business	kickstarter no equity crowdfunding or ipo for us httptcoccqn5sdh crowdfunding
+266044069426384897	business	morgan stanley tries to stop facebook investor arbitrationscnet facebooks ipo was highly anticipated by httptconckqxnte
+266043823145250816	business	a sad woman lost her entire life savings in the facebook ipo and now wants her money backsgizmodo a lot of httptcob0ny7fqp
+266030461896257536	business	a sad woman lost her entire life savings in the facebook ipo and now wants her money backsssa lot of average httptcokdzdsgku
+266028541622222848	business	morgan stanley tries to stop facebook investor arbitration facebooks ipo was httptcodrtixhpx iphone apple
+266023557069406209	business	cnet morgan stanley tries to stop facebook investor arbitration facebooks ipo was highly anticipated httptco8wubkhey cnet mobile
+266018778561781760	business	mariabartiromo archstone sees 177 billion of asset sales as it plans iposbusinessweek httptconskdlc5q
+266017882092228608	business	news a sad woman lost her entire life savings in the facebook ipo and now wants her money back httptco8hv3masd
+266012245887176705	business	solarcitys ipo the risks httptco0n3jvnna
+266008569420333058	business	gizmodo a sad woman lost her entire life savings in the facebook ipo and now wants her money back httptcop5ehsn71
+266004417822748672	business	a sad woman lost her entire life savings in the facebook ipo and now wants her httptcoujmirenc iphone apple
+266003866896703488	business	mariabartiromo senate panel approves ipo billsthe news international httptcofpkyppkf
+266003526214356993	business	a sad woman lost her entire life savings in the facebook ipo and now wants her money backshttptcom4mvjejo via gizmodo
+265999563620511744	business	a sad woman lost her entire life savings in the facebook ipo and now wants her money backsssa lot of average httptco0ww1r2js
+265999456984518656	business	a sad woman lost her entire life savings in the facebook ipo and now wants her money back httptcoxoclcbxo fb
+265999115261976576	business	a sad woman lost her entire life savings in the facebook ipo and now wants her money backsssa lot of average httptcoew2u1f3v
+265998832721084416	business	usa eeuu cuba a sad woman lost her entire life savings in the facebook ipo and now wants her money back httptcobomxtors
+265998780833353729	business	gizmodo a sad woman lost her entire life savings in the facebook ipo and now wants her money back httptcofzplhqqf technology mobile
+265998762072223745	business	a sad woman lost her entire life savings in the facebook ipo and now wants her money backsssa lot of average httptcofqfynijf
+265998690051846145	business	rt robertocharvel last month santander raised us4bn in its mx ipo today they raised a us1bn in debtsinvestors seen to be loving mx httptcodernq8fs
+265994877756665857	business	last month santander raised us4bn in its mx ipo today they raised a us1bn in debtsinvestors seen to be loving mx httptcodernq8fs
+265990290400231424	business	headline usatoday investors prep for facebook earnings httptcogvimrwjm
+265989379758125057	business	groupon redefines secret sauce metric 2 days before ipo
+265986360345759745	business	eod tally ipo 2 new s1 filings 4 amended s1a filing 1 withdrawn rw filings as of 6pm etshttptcoxun1r3vm
+265982794847629313	business	there actually is a widow who says she lost her life savings in the facebook ipo fb when people talk about wall street taking adva
+265979089414926336	business	love your product and your strategy dont waver phil evernote ceo phil libin in no rush for an iposwsj httptcohmiinwjy wsj
+265978967431995394	business	new shout post ipo internet profits opportunitysipo internet profits opportunity from michael chene categories e httptco80sr1nhx
+265977882621407233	business	morgan stanley on finra arbitration claim over facebook ipo not our client httptcomsn3vmbh
+265971977372717057	business	facebook ditchthemix morgan stanley on finra arbitration claim over facebook ipo not our client httptcouegmwwfu
+265967573034754049	business	morgan stanley on finra arbitration claim over facebook ipo not our client check it out httptcogxuok7no
+265958146709782529	business	evernote ceo no rush to iposboss talk evernote ceo phil libin says his startup which makes a popular productiv httptcovktudtmu
+265956108663918594	business	morgan stanley on finra arbitration claim over facebook ipo not our client httptcopvmq9zle facebook
+265955806732746752	business	morgan stanley on finra arbitration claim over facebook ipo not our client httptcoy9xobjd5 socialmedia
+265955799526948866	business	morgan stanley on finra arbitration claim over facebook ipo not our client httptcov8pzsvfk
+265955765192380416	business	morgan stanley on finra arbitration claim over facebook ipo not our clientsallfacebook httptcoshiw1wjz
+265955739829428224	business	morgan stanley on finra arbitration claim over facebook ipo not our client investor uma swaminathan of east br httptco0lgvm2za
+265954042595901440	business	evernote ceo no rush to ipo boss talk evernote ceo phil libin says his startup which makes a popular produc httptcocgyzymzp
+265954038258991106	business	evernote ceo no rush to ipo boss talk evernote ceo phil libin says his startup which makes a popular produc httptcomzjoul95
+265954030033981440	business	evernote ceo no rush to ipo httptcowklmurmi
+265952056651685888	business	opensource crm player sugarcrm talks up ipo read more httptco36o2j3rl
+265950424350208002	business	ipo rwspraxis mutual funds filed rw on tue 06 nov 2012 182754 edt httptconw4bj0nr
+265942069653143552	business	is the company that makes trojans ipo i am buying stock if california votes to make porn stars wear condoms
+265938023861075969	business	tot news seadrill partners ipo moves higher in nyse trading debut httptcoideminhv debut higher moves
+265933050775490560	business	royal canadian mint buying 3 million ounces of silver silver investing news httptconeeisfuq
+265931191495057409	business	babylon files registration statement for proposed ipo httptcovxwhgli2 business video
+265927482866278400	business	rt goldstockbull royal canadian mint buying 3 million ounces of silversresource investing news httptcoiy5l30xd
+265927237201694720	business	royal canadian mint buying 3 million ounces of silversresource investing news httptcoiy5l30xd
+265927027641700352	business	ipo s1asnorthfield bancorp inc filed s1a on tue 06 nov 2012 170406 edt httptcomsogjzbt
+265927026731528192	business	ipo s1senanta pharmaceuticals inc filed s1 on tue 06 nov 2012 165243 edt httptcoapclw9r2
+265922878153842688	business	eyeing an ipo marketing software giant hubspot raises 35m for international growth ma andmore httptcobwr4rnru via techcrunch
+265917801972236289	business	discover secret penny stock trading strategy formula to turn 1000 into 1 million httptco9wtaoaj4 trades purchase ipo all
+265911331801161728	business	ipo s1stransbiotec inc filed s1 on tue 06 nov 2012 160101 edt httptcobtbjhr3o
+265897531186229248	business	mariabartiromo groupon ipo a first anniversary to forgetshttptcoxxn2hgqz httptcowt039s6i
+265890485669871616	business	groupon is worth 18 of its market cap a year ago that should be enough to wipe the grin off any ceos face httptcoaqalycn9
+265885257457352705	business	mariabartiromo facebook ipo forced sec to relocate filings to the cloudsnextgov httptco9ubpz2jw
+265879534883184640	business	evernote ceo no rush to ipo boss talk evernote ceo phil libin says his startup which makes a popular producti httptcoif8laml8
+265879133303742465	business	western gas equity partners files for 362m ipo western gas equity partners lp has filed to raise up to 36225 httptcoup73yjkj
+265877250681995264	business	groupon redefines secret sauce metric 2 days before ipo
+265872701506351105	business	evernote ceo no rush to ipo boss talk evernote ceo phil libin says his startup which makes a popular producti httptcotsbq6qmg
+265867444646731776	business	mariabartiromo evernote ceo in no rush for an iposwall street journal httptcobl96o2yo
+265865745257357312	business	facebook ipo forced sec to relocate filings to the cloud regulators website could not handle public int httptcoygn552fk cissp
+265863809619603456	business	evernote ceo no rush to ipo boss talk evernote ceo phil libin says his startup which makes a popular producti httptcoxvbbomvs
+265862888068108288	business	google partner babylon seeks 115 million from nasdaq iposbusinessweek httptcopneo2ibd
+265861192612978690	business	evernote ceo no rush to ipo boss talk evernote ceo phil libin says his startup which makes a popular producti httptco1o4hojp5
+265859242899148800	business	evernote ceo no rush to iposhttptcojdlt2rru
+265838881017040898	business	mariabartiromo google partner babylon seeks 115 million from nasdaq iposbusinessweek httptcorlc6msjt
+265836691250630656	business	google partner babylon seeks 115 million from nasdaq iposbusinessweek httptcorhkkkumj
+265833808237056000	business	google partner babylon seeks 115 million from nasdaq iposbusinessweek google partner babylon seeks 115 mill httptcojtcmg3yl
+265831484416462848	business	ipo s1asalon usa partners lp filed s1a on tue 06 nov 2012 070809 edt httptcogpupwo07
+265831483351130112	business	ipo s1asusa compression partners lp filed s1a on mon 05 nov 2012 221021 edt httptcok5sfyfac
+265831482394824706	business	ipo s1asusa compression partners lp filed s1a on mon 05 nov 2012 220923 edt httptcoij4nsqrp
+265823416412692481	business	mariabartiromo kickstarter no equity crowdfunding or ipo for usshttptcovjp1if2c httptcokj2o2ubq
+265822041331089409	business	jack phang investment airasia xscan it be flying higher after ipo httptcowqiwyvx7
+265818701549432833	business	groupon redefines secret sauce metric 2 days before ipo
+265814348910456832	business	groupon redefines secret sauce metric 2 days before ipo
+265807752578883584	business	royal canadian mint buying 3 million ounces of silverssilver investing news httptcol8tv4qaz
+265807752444669952	business	royal canadian mint buying 3 million ounces of silverssilver investing news httptcotmov2pwe
+265806681408163840	business	mariabartiromo mapletree plans 15 billion ipo for china assetsswall street journal httptcoostduw8f
+265804244051963904	business	ceo of kickstarter we dont ever want to ipo or sell this company i love them even more nowsvia johnsonwhitney
+265802784660664320	business	kickstarter no equity crowdfunding or ipo for us httptcofbsfvinf
+265797139131686912	business	too cool 10 giant things less valuable than facebookhttptcocnqfjoyb visit uss httptcoxpu59eeg
+265796834201591808	business	preipo investments the dos and dontsshttptcotnjrsxv2
+265780416697475072	business	auch rt how to spot a bad ipo httptcottmgf4xx via pandodaily
+265747125504192512	business	mariabartiromo liaoning huishan appoints bankers for iposwall street journal httptcovcoev5po
+265744782473703424	business	httptco74zncctu liaoning huishan appoints ipo bankers httptcoesu2ngyo httptcoxnmumtls
+265721286079152128	business	sophybabe316 iamkido ma boo boo iz missing meshahaha ipo no exam today
+265711379787427840	business	dallah healthcare holding company ipospreliminary prospectus nov12 this is a pdf report httptcof3p4bf7z zewyatopmrkt
+265708360421212160	business	should you invest in facebook when it comes to an initial public offering ipo of the ubiquitous facebook th httptcoxwzhsp0q
+265706410086637568	business	discover secret penny stock trading strategy formula to turn 1000 into 1 million httptco9wtaoaj4 trades purchase ipo all
+265705968103456768	business	rt jorgecamilstarr kickstarter is not in it to cash out kickstarter ceo no ipo for us and no equity crowdfunding either httptcov1y75obl
+265703684535615488	business	looking forward to naturalgrocers first fullyear earnings report since its ipo earlier this year httptcotbomczdv 60 stores to date
+265698464426516480	business	rt jorgecamilstarr kickstarter is not in it to cash out kickstarter ceo no ipo for us and no equity crowdfunding either httptcov1y75obl
+265697200284262400	business	rt jorgecamilstarr kickstarter is not in it to cash out kickstarter ceo no ipo for us and no equity crowdfunding either httptcov1y75obl
+265693745410875392	business	rt jorgecamilstarr kickstarter is not in it to cash out kickstarter ceo no ipo for us and no equity crowdfunding either httptcov1y75obl
+265693238013353984	business	kickstarter is not in it to cash out kickstarter ceo no ipo for us and no equity crowdfunding either httptcov1y75obl
+265690532909563904	business	eod tally ipo 4 new s1 filings 12 amended s1a filing 4 withdrawn rw filings as of 6pm etshttptcohemjxshp
+265687862014525440	business	fresh on the heels of an ipo shutterstock launches an iphone app shutterstock has just had an incredibly succe httptcopitjviaq
+265666964951822336	business	facebook for authors facebook its so shiny okay perhaps less so after that ipo debacle but when youve go httptcosih5kxb7
+265666620049985536	business	ackman fund looking at 4 billion ipo ftsreuterssactivist shareholder william ackmans pershing square httptcobiiizvgy
+265641319714656256	business	happy anniversary groupon or how to spot a bad ipo httptco3rlfgcnm
+265615960604561408	business	mariabartiromo sugarcrm ceo hints at ipo for 2013szdnetssugarcrm ceo hints at ipo for 2013zdnetsugarcrm could b httptcovogmt956
+265606140468015104	business	november 5 surprise obama will be the president and the chairman of the board romney is the new ceo the ipo is 98 nyseuswh
+265605715564052481	business	ny da looking into price gouging finally someones going to do something about the fb ipo
+265605532977606656	business	november 5 surprise obama will be the president and the chairman of the board romney is the new ceo the ipo is 98
+265605238512308224	business	november 5 surprise obama will be the chairman of the board romney is the new ceo the ipo is 98
+265604493335482368	business	november 5 surprise obama is the principal stakeholder romney is the historic and most valuable partner the ipo is 98
+265603498811486208	business	november 5 surprise the copresidents merger of obama 5147 romney is historic the ipo is 98
+265602234979594241	business	western gas equity partners files for ipo of up to 3623 mln httptcogkbxvqwz
+265597432925138944	business	restoration hardware nails ipo at 24 a sharesrbergeronmredsretail icsc restorationhardware httptcoa1s7lfla
+265595295860133889	business	mariabartiromo ilfcs courpron sees ipo next year if markets improvesbusinessweek httptcorgv8iveu
+265585617453322241	business	rt bioworld rgls sitting pretty with 509m from ipo 250m from private placement with partner azn 5m from sale of convertible note to biib
+265585283985207296	business	ipo s1asalpha network alliance ventures inc filed s1a on mon 05 nov 2012 182803 edt httptcocarcl5qc
+265585282903052288	business	ipo s1asessential innovations technology corp filed s1a on mon 05 nov 2012 182744 edt httptcoysvfdfmt
+265585282043232256	business	ipo s1asmyos corp filed s1a on mon 05 nov 2012 182734 edt httptcomb2q9lds
+265585281128861696	business	ipo s1sneogenomics inc filed s1 on mon 05 nov 2012 182254 edt httptcohazjrcs8
+265585280122224640	business	ipo s1swestern gas equity partners lp filed s1 on mon 05 nov 2012 180823 edt httptcop9gk5o2m
+265578293821054977	business	kickstarter ceo no ipo for us and no equity crowdfunding either httptcoxls7oudistech it fb geek
+265577431275016192	business	ipo s1astumi holdings inc filed s1a on mon 05 nov 2012 174326 edt httptcoakb8dzrd
+265577428850724864	business	ipo s1ssoligenix inc filed s1 on mon 05 nov 2012 173520 edt httptco0be3tcqi
+265576794810355713	business	new bloomberg businessweek has a short feature about gopro and new cameras hero 3 marketing is paying off ipo anyone
+265569584311042048	business	ipo s1astouchpoint metrics inc filed s1a on mon 05 nov 2012 170737 edt httptcocytvi81a
+265568538868187136	business	groupon redefines secret sauce metric 2 days before ipo
+265567163023237121	business	mariabartiromo kickstarter ceo no ipo for us and no equity crowdfunding eithersall things digital httptcozac6pijq
+265566388981215232	business	vc confidence up despite tech ipo busts httptcorqzo8exk
+265565190324641792	business	ruckus wireless sees ipo pricing at 1315shrsforbes httptcoktzclpgk
+265561673258123264	business	ipo s1aseverbank financial corp filed s1a on mon 05 nov 2012 165821 edt httptcodgdv1ix0
+265560447862837248	business	rt precisetechno kickstarter ceo no ipo for us and no equity crowdfunding either httptcodjckscsj tech technology perrychen jobsact news
+265560445254004736	business	rt precisetechno kickstarter ceo no ipo for us and no equity crowdfunding either httptcodjckscsj tech technology perrychen jobsact news
+265559459244417025	business	kickstarter ceo no ipo for us and no equity crowdfunding either httptcoxls7oudistech it fb geek
+265559207045132288	business	kickstarter ceo no ipo for us and no equity crowdfunding either we think the most disruptive aspect of kick httptcodkiwislq
+265557620402843649	business	kickstarter ceo no ipo for us and no equity crowdfunding either httptcodjckscsj tech technology perrychen jobsact news
+265556162148171776	business	kickstarter ceo no ipo for us and no equity crowdfunding either the tech industry may be fascinated httptcopbqeusos internet
+265555419064332289	business	discover secret penny stock trading strategy formula to turn 1000 into 1 million httptco9wtaoaj4 trades purchase ipo all
+265553949497622528	business	hope its not a wreck rt katyawachtel potbelly sandwich hires banks for 2013 ipo sources httptcopzyizjrf via reuters
+265553809156235264	business	ipo rwspowershares preferred acce fund filed rw on mon 05 nov 2012 162619 edt httptcopbdsxtzd
+265553808183136256	business	ipo rwspowershares commodities opportunity acce fund filed rw on mon 05 nov 2012 162603 edt httptco0vouxkuc
+265553807323320322	business	ipo rwspowershares bank loan opportunity acce fund filed rw on mon 05 nov 2012 162503 edt httptcovqtwbjxp
+265547724630409216	business	kickstarter ceo perrychen we dont ever want to sell this company we dont ever want to ipo this company roadmapconf gigaom
+265542014878220288	business	acquisitions are seen as a better route to growth than ipos finance business httptcoz127awrf
+265541077895872512	business	fresh on the heels of an ipo shutterstock launches an iphoneapp httptcompa5yyjp via techcrunch
+265536851614498818	business	fresh on the heels of an ipo shutterstock launches an iphone app httptco1meqbckqsapple ipad
+265536620223139841	business	ar fresh on the heels of an ipo shutterstock launches an iphone app httptco3825rfpu
+265536618897735680	business	mobile fresh on the heels of an ipo shutterstock launches an iphone app httptcodkywxuda
+265535459042672640	business	ruckus wireless announces ipo pricing range httptco7pksirgy
+265535299147411456	business	inmediatum fresh on the heels of an ipo shutterstock launches an iphone app httptcogaet71yj
+265535096851922945	business	mariabartiromo ruckus wireless sees ipo pricing in 1315 a share rangesforbes httptcot7isfggi
+265527405618282496	business	fresh on the heels of an ipo shutterstock launches an iphone app httptcorcpn0q1o tech technology tc mobile apps
+265527114739097600	business	hubspot raises 35 m inches toward ipo httptcodbuvrnuf httptco2refw6lt via thenextweb
+265526516262268929	business	fresh on the heels of an ipo shutterstock launches an iphone app shutterstock has just had a httptcox1ukewdu mobile techtalk
+265526510159527936	business	fresh on the heels of an ipo shutterstock launches an iphone app shutterstock has just had an incredibly succe httptcosjsqaryg
+265526499531173888	business	fresh on the heels of an ipo shutterstock launches an iphone app shutterstock has just had an incredibly succe httptcoeain5vfm
+265526410473525248	business	fresh on the heels of an ipo shutterstock launches an iphone app httptcolhikhvjr
+265526378731036672	business	fresh on the heels of an ipo shutterstock launches an iphone app shutterstock has just had an incredibly succe httptcofhrmj1wc
+265526377107832832	business	fresh on the heels of an ipo shutterstock launches an iphone app shutterstock has just had an incredibly succe httptcony6se7qg
+265526359172997120	business	fresh on the heels of an ipo shutterstock launches an iphone app httptcox7ahgps1 via techcrunch
+265526291263016961	business	rt bioworld rgls sitting pretty with 509m from ipo 250m from private placement with partner azn 5m from sale of convertible note to biib
+265526287886589953	business	fresh on the heels of an ipo shutterstock launches an iphone app httptco7scy63e2
+265526278839480321	business	rt fresh on the heels of an ipo shutterstock launches an iphone app httptcoju7t00qp techcrunch saas
+265525524091244544	business	fresh on the heels of an ipo shutterstock launches an iphone app shutterstock has just had an incredibly succe httptco7anroexj
+265524705971294208	business	vancl ceo chen nian talks about the cancelled ipo future ipo plans httptcofts70m7j
+265521971507392514	business	ipo s1asunited community bancorp filed s1a on mon 05 nov 2012 135802 edt httptcoxag5zqey
+265521567172288512	business	with hints for an ipo mobileanalytics startup flurry raises 25m from crosslinkstechcrunch httptcobzyzatms
+265517049793622017	business	eyeing an ipo marketing software giant hubspot raises 35m forsallinone inbound marketing software firmshttptcohvrwqwdz
+265515828793974784	business	press releaseipobound marketing biz hubspot grabs 35m for aggressive growth httptcoqi1yt0ps
+265515794300026880	business	press releaseipobound marketing biz hubspot grabs 35m for aggressive growth httptcoarq7bsb4
+265515761425055744	business	press releaseipobound marketing biz hubspot grabs 35m for aggressive growth httptco1tye4rjx
+265510561821908992	business	rt bioworld rgls sitting pretty with 509m from ipo 250m from private placement with partner azn 5m from sale of convertible note to biib
+265509306567364610	business	mikeolson step 1 start clouderasstep 2 execute like a machinesstep 3 ipo clouderasstep 4 chaching sounds so easy that way
+265508825627512832	business	rgls sitting pretty with 509m from ipo 250m from private placement with partner azn 5m from sale of convertible note to biib
+265508241058971648	business	groupon redefines secret sauce metric 2 days before ipo
+265506637933051905	business	wildmanbs ah hell the lil facebook jackass should be in jail next to corzine for that stupid fb ipo fraud he perpetrated
+265492413043314688	business	venture ipobound marketing biz hubspot grabs 35m for aggressive growth httptco7yol4hbx
+265491985224314880	business	press releaseipobound marketing biz hubspot grabs 35m for aggressive growth httptcowestomae
+265491973803233281	business	press releaseipobound marketing biz hubspot grabs 35m for aggressive growth httptcoccji8dbp
+265491887685767171	business	press releaseipobound marketing biz hubspot grabs 35m for aggressive growth httptcorm96vivf
+265483943481069569	business	ipobound marketing biz hubspot grabs 35m for aggressive growthsinbound marketing software business hubspot h httptcok9gnrm8e
+265483941367119872	business	ipobound marketing biz hubspot grabs 35m for aggressive growthsinbound marketing software business hubspot h httptcoz4npmgm0
+265483940566011905	business	ipobound marketing biz hubspot grabs 35m for aggressive growthsinbound marketing software business hubspot h httptcokija1jnr
+265483940469547009	business	ipobound marketing biz hubspot grabs 35m for aggressive growthsinbound marketing software business hubspot h httptcoezbcirfc
+265479488853377025	business	hubspot raises 35 million odd amount httptcog3dok5dv hubspot has some of the best content on socialmedia for business
+265477265045979136	business	mariabartiromo ivanplats litmus test for canada mining ipo revival pwc sayssbusinessweek httptcoxm27gqtf
+265476700060663810	business	gfi software files for a 100 million us iposhttptcot8vddu7e httptcodvjle0pj
+265475466616524800	business	istco foros eyeing an ipo marketing software giant hubspot raises 35m forshttptcogtegdjxu
+265474706877059072	business	ipo s1aseverbank financial corp filed s1a on mon 05 nov 2012 111124 edt httptcovqpkntwa
+265470676318711808	business	why home equity beats facebook equity httptcopuux5bxi
+265470648720171010	business	rt fantanstocks tan news harried cleantech sector seeks turning point in solarcity ipo httptcoarvvi4jf cleantech harried news
+265469905116225536	business	tan news harried cleantech sector seeks turning point in solarcity ipo httptcoarvvi4jf cleantech harried news
+265462911697301504	business	ruckus wireless sees ipo priced at 1315shr httptco0kadexre
+265461778111164417	business	mariabartiromo regulus announces 809 million in total gross proceeds from ipo and others sacramento bee httptco3giufhoc
+265454880267857920	business	eyeing an ipo marketing software giant hubspot raises 35m for international growth ma and more httptcotlo8gbn6screek
+265454496338042882	business	rt ipad3release2 for apple ipad 2 data cable extra long 6ft 6 6 feet usb charge and sync data cable for ipo httptcoybjwig0x famouslinesinschool
+265451829259800576	business	eyeing an ipo marketing software giant hubspot raises 35m for international growth ma andmore httptcokt24iee3 via techcrunch
+265451376535015425	business	rt xconomy hubspot hits 100m raised looks to lead bostons marketing tech cluster ipo still a ways away httptcosenegh8c
+265451227750469632	business	for apple ipad 2 data cable extra long 6ft 6 6 feet usb charge and sync data cable for ipo httptcoybjwig0x famouslinesinschool
+265450943611559936	business	michael woolf the failure of facebooks iposcommentshttptcogzqd4yof uk httptcovc6qid7f
+265450257670877188	business	great story facebooks flawsno innovationsmichael woolf the failure of facebooks ipo httptcogzqd4yof uk httptcosehplyo1
+265448739186036737	business	ruckus wireless targets 1315 ipo range wireless networking equipment maker ruckus wireless inc said on mond httptco0ni6ev58
+265448627504291840	business	solid startupreport eyeing an ipo marketing software giant hubspot raises 35m fors techcrunch httptcopjaljvdb
+265447503044943872	business	taylorsmartin cuts ipo price offers more shares httptcomnpgcajp
+265444382059159556	business	mariabartiromo ruckus wireless sees ipo 84m shares at 1315smarketwatch httptcoifzoj1fp
+265443739395297280	business	eyeing an ipo marketing software giant hubspot raises 35m for international growth mampa and httptco1o5jz6bp tech technology
+265443586487758848	business	restoration hardware nails ipo at 24 a shareshousingwire via rbergeronmredsretail icsc restorationhardware httptcoa1s7lfla
+265443367834492928	business	rt sravishsridhar leading the boston startup renaissance hubspot raises 35m one step closer to an ipo congrats dharmesh bhalliganshttptcoy4v6bino
+265440857463853058	business	rt sravishsridhar leading the boston startup renaissance hubspot raises 35m one step closer to an ipo congrats dharmesh bhalliganshttptcoy4v6bino
+265440486993567744	business	eyeing an ipo marketing software giant hubspot raises 35m for international growth ma and more httptco3zlzwiqg
+265440208525340672	business	eyeing an ipo marketing software giant hubspot raises 35m for international growth ma and more allinone i httptcokvycxikl
+265440182545829889	business	cuba usa eeuu eyeing an ipo marketing software giant hubspot raises 35m for international growth ma and m httptco4ee9tc5e
+265440149234663424	business	eyeing an ipo marketing software giant hubspot raises 35m for international growth ma and more httptcol81esofe
+265440098231934976	business	eyeing an ipo marketing software giant hubspot raises 35m for international growth ma and more allinone i httptcoi9ukbhxc
+265440064975278081	business	eyeing an ipo marketing software giant hubspot raises 35m for international growth ma and more httptcobizsoidn
+265438568208531457	business	hubspot hits 100m raised looks to lead bostons marketing tech cluster ipo still a ways away httptcosenegh8c
+265437656429776897	business	eyeing an ipo marketing software giant hubspot raises 35m for international growth ma and more allinone i httptcost80xcrh
+265434941674909696	business	leading the boston startup renaissance hubspot raises 35m one step closer to an ipo congrats dharmesh bhalliganshttptcoy4v6bino
+265434208992899072	business	read it while its hot facebook ipo reactions fr the social webhttptcoa2cxa1ip info on usshttptcoxpu59eeg
+265419057556238336	business	ipo s1asbiodrain medical inc filed s1a on mon 05 nov 2012 072424 edt httptco6f60dudt
+265419056482508800	business	ipo s1asruckus wireless inc filed s1a on mon 05 nov 2012 071955 edt httptcor7pck1bs
+265419055492640769	business	ipo s1astaylorsmartin group inc filed s1a on mon 05 nov 2012 071148 edt httptcorobpwugq
+265419054548930560	business	ipo rwsnexstar broadcasting group inc filed rw on mon 05 nov 2012 071134 edt httptcoqd67ch34
+265411111778660354	business	ipo s1assuncoke energy partners lp filed s1a on fri 02 nov 2012 211816 edt httptco5lwsi82y
+265411110797185024	business	ipo s1asnugold resources inc filed s1a on fri 02 nov 2012 202114 edt httptcom8fyxfqs
+265411109761187840	business	ipo s1asgalt petroleum inc filed s1a on fri 02 nov 2012 175203 edt httptco75kaynrq
+265411108549042176	business	ipo s1asgankit corp filed s1a on fri 02 nov 2012 174532 edt httptcowxcrjrhf
+265395429703811072	business	up nd ready to go wrk jammin to ipo singing httptco92aqej5k
+265369444765798400	business	mariabartiromo firms eyeing to tap ipo marketsrtt newsshindu business linefirms eyeing to tap ipo marketrtt new httptcom4ftysqi
+265353274813714432	business	ipo prep hubspot raises a 35m mezzanine round and adds board expertise httptcoiyvdhj9z
+265344023781330944	business	discover secret penny stock trading strategy formula to turn 1000 into 1 million httptco9wtaoaj4 trades purchase ipo all
+265339508516610048	business	mariabartiromo ipo markets becomes active again 5 issues lined upsmoneyguru india httptcoygnvavc8
+265338910694072320	business	ipo etf term of the day for sunday november 04 2012
+265337709529268224	business	simple steps to uncover the greatest life insurances ipo jump do not just get the first life insurance polshttptcoa4t4mhsi
+265326212342235136	business	after ipo restoration hardware holdings rh may be a gook stock to invest could benefit from the housing recovery

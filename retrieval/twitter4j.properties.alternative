@@ -1,0 +1,8 @@
+#twitter4j.properties
+#Thu Sep 27 00:26:42 PDT 2012
+oauth.consumerSecret=8ojyjAHXrmXBUDTrc7th7cSKEBKCDhHFgiXddhU8yM8
+debug=false
+oauth.accessToken=16103751-Ptej9hWuhIAaFrjmpmSBQAebBdxQRF6oAO527xzrc
+oauth.accessTokenSecret=VLAfrnJF16Y2vRQE09hlzJOZi7qcJBwWVadHRKDgvNw
+oauth.consumerKey=Nbi4jkpBJ6S1AppxJm8yBQ
+http.prettyDebug=true

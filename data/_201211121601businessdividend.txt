@@ -1,0 +1,877 @@
+/usr/local/java/jdk1.6.0_37/bin/java -Xms1024m -Xmx1024m -cp :../lib/*.jar:../lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:../lib/twitter4j-2.2.6/twitter4j-async-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-core-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-examples-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-media-support-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-stream-2.2.6.jar:../lib/twitter-text-1.5.0/twitter-text-1.5.0.jar:bin UsersMentionDownload business dividend
+business dividend lang:en geocode:39.8,-95.583068847656,2500km
+268140878575575040	business	verizon to pay 85 billion dividend to its owners
+268140137379139584	business	verizon to pay 85 billion dividend to its owners httptco2tqqmsjo
+268138098595069953	business	cap gains and dividend tax hikes plus deflation of the phoney election rally putting the hurt on stocks plus bad earnings
+268137286846263296	business	ibd market in correction strength is fleeting late to short no new highs to speak of mo vz t been hammered nuts be dividend tax hike
+268137248216719362	business	verizon to pay 85 billion dividend to its owners verizon wireless said monday that it will pay a dividend ofshttptcotrfh1irt
+268136419304820737	business	verizon to pay 85 billion dividend to its owners httptcomke6qq3l
+268135463108366336	business	verizon to pay 85 billion dividend to its owners verizon to pay 85 billion dividend to its owners
+268134494509342720	business	verizon to pay 85 billion dividend to its owners verizon to pay 85 billion dividend to its owners
+268134485428674561	business	insurance insure investors title company raises quarterly dividend to 8c from 7c per share httptcoiuduswz0
+268132866850951168	business	bg foods grows on two levels price and dividend the ideal situation for dividend investors httptcoguu0tz76
+268130876116852736	business	primerica incsboard of directors of primerica inc declares 009sthe board of directors of primerica httptcosv1j0o5k
+268129180510732289	business	verizonwireless pays another big dividend avoids a tax hike verizon wireless the biggest us mobile httptcosrfwo59m internet
+268128739198631936	business	verizon wireless pays another big dividend avoids a tax hike verizon wireless the biggest us mobile network httptcov3xszfcn
+268127974249881600	business	verizon wireless to pay 85 billion dividend to its owners new york reuterssverizon wireless said on monda httptcoeubveje4
+268127859841847296	business	verizon wireless to pay 85 billion dividend to its owners new york reuterssverizon wireless said on monda httptcorncpad4n
+268127758406799360	business	verizon wireless to pay 85 billion dividend to its owners new york reuterssverizon wireless said on monda httptcouqkqhvh3
+268127757672792064	business	verizon wireless to pay 85 billion dividend to its owners new york reuterssverizon wireless said on monda httptcorjgml6na
+268127756913606656	business	verizon wireless to pay 85 billion dividend to its owners new york reuterssverizon wireless said on monda httptco0aksxsg4
+268127756167024640	business	verizon wireless to pay 85 billion dividend to its owners new york reuterssverizon wireless said on monda httptcow6ohcyiy
+268126309903892480	business	3m board declares quarterly dividend httptcoxnpwmh7x
+268124367559462912	business	what will jurassic cliff mean for dividend investors higher taxes on dividend paying stocks is a httptcouldatbxl yahoo uco
+268124365693001728	business	pennystock411 what will jurassic cliff mean for dividend investors higher taxes on dividend paying stocks is ahead ansfinancial
+268124365214871552	business	pennystock411 what will jurassic cliff mean for dividend investors higher taxes on dividend paying stocks is ahead ansfinancial
+268123815358394368	business	3m board declares quarterly dividend httptco8je7y2ae
+268122667939422208	business	fox news what will jurassic cliff mean for dividend investors httptconmdqg2pp
+268117233417474048	business	verizon wireless plans to pay 85 billion to its parentssnew york reuterssverizon wireless said on monday tha httptcorz6gkmll
+268116722693849088	business	seattle wa timesbusiness verizon to pay 85 billion dividend to its owners
+268115709765222400	business	verizon wireless plans to pay 85 billion to its parents new york reuterssverizon wireless said on mondayshttptco6s9xcctj
+268114793309810690	business	verizon to pay 85 billion dividend to its owners httptcoukiuyrgy
+268114343437139968	business	business rt verizon to pay 85 billion dividend to its owners verizon wireless on monday said it will pay a d httptcoj09bvjeu
+268111409320173569	business	verizon to pay 85 billion dividend to its owners verizon wireless says it will pay a dividend of 85 billion httptcoo1tq4mqw
+268110696317853696	business	verizon wireless plans to pay 85 billion to its parents httptcokv0xcxbt news breaking
+268109794014003200	business	verizon to pay 85 billion dividend to its owners httptco2tqqmsjo
+268109402752565248	business	board of directors of primerica inc declares 009 quarterly httptconvvay8tb via businesswire
+268107533644861440	business	verizon wireless plans to pay 85 billion to its parents httptcos1kiubkl
+268103865143017475	business	verizon wireless plans to pay 85 bln to its parents httptcofrwjsok3 via reuters
+268102261509603330	business	einstein noah restaurant group announces quarterly cash dividend of 0125 per share httptcofju3tk5o
+268097707560796161	business	verizon to pay out 85b verizon wireless dividend to vodafone by year end httptconvakblnb
+268087998543958018	business	out of stv after their 30 gain today following the announcement of another special dividend
+268070918188834816	business	rt ariegreenberg asset managers for dividend income and capital returns httptcopwancpag finance
+268070802157621248	business	schnitzer board declares quarterly dividend httptcoz12xi3fg
+268070348191301632	business	asset managers for dividend income and capital returns httptcopwancpag finance
+268070347381805056	business	asset managers for dividend income and capital returns by topyieldsthe asset management industry is often over httptconppxcwak
+268069148783964161	business	forex1288 remindersnorth european oil royalty trust nrt goes exdividend soon expectation of annual yie httptcoipzfnk8c
+268063329598189568	business	worries over likely dividend tax increase unfounded some are taking the other side of the fear trade particularly as it pertains t
+268057693502181376	business	clockenders blackscarfafc billbones85 darrenarsenal1 i think his avoidance of the dividend issue was telling sees nothing wrong with it
+268052850498736128	business	whittling down worries over likely dividend tax increase some are taking the other side of the fear trade particularly as it pertai
+268046826643525633	business	freightcar america inc declares regular dividend httptcofbtwoxwe
+268046006833262592	business	freightcar america inc declares regular dividend httptcotivqvplh
+268045507774009344	business	freightcar america inc declares regular dividend httptcocywzbvkp
+268044297738285057	business	extraspace raises dividend 25 after a strong 4th quarter selfstorage recessionproof httptco8uqj7xv0 httptcolfbkvzxx
+268044295083261952	business	extraspace raises dividend 25 after a strong 4th quarter selfstorage recessionproof httptco8uqj7xv0
+268044282521350144	business	top ranked dividend stock alte becomes oversoldsforbes httptcouacazuml
+268040722857459712	business	insurance insure cash dividend on the way from homeowners choice httptcontn4kqct
+268040345839886336	business	southside bancshares declares cash dividend and a stock repurchase plan nov 12sthe board of directors of sout httptcosn9wz1d8
+268039016589451264	business	gap inc announces dividend httptcou4xzgh82
+268038971341275136	business	gap inc announces dividend httptco5rdmwtuu
+268037290947923968	business	us stocks decline as investors await meeting on greecesbusinessweek dividendcomus stocks decline as investor httptcoxcpnpfeo
+268035415796240384	business	daily dividend report dhi hrb teg cbt swx d r horton incorporated dhi maintained its quarterly dividendshttptcolwdomocn
+268030494703239168	business	will they agree or bunt with only 16 scheduled days congress must or your capital gainsdividendinvestment property taxation go sky high
+268027907199340544	business	5star dividend stocks poised to outperform ag mortgagesmarkettrouncing returns could be written in these five s httptcor1jtewtg
+268027246638403584	business	psx news 1 great dividend you can buy right now httptcomilgoh8p dividend great news
+268024041850408962	business	us investors fret over dividend tax evidence of investor concern visible in the telecoms a httptcoaa3bus29 httptcoxcg2xzed
+268023680649543680	business	romney avoids 100 million in dividend taxes via foreign routeshttptco60e2ij8z p2 p21 ofa tcot ccot
+268022433720725504	business	starwood property trust to pay yearend bonus on top of 8 dividend httptcoukxvhqvl finance
+268022431896186881	business	starwood property trust to pay yearend bonus on top of 8 dividend by tim plaehn commercial mortgage reit sta httptcodp6c1h11
+268017855155539968	business	dividendsincome investing is out httptcopwckw699stop stories today via getrichstayrich
+268016686605680640	business	get a special dividend with a 71 yield httptcodqjgcm7e
+268015726298791937	business	short sellers change bets against highyield dividend stocks mo aep nly t duk kmb kmp mrk pg rai vz httptcou45elyg0
+268013811691315201	business	tv china digital tv announces special cash dividend to shareholders httptcorwphylez
+268005390816538625	business	get a special dividend with a 71 yield stv httptcoouz0ettu
+267996920474120192	business	dividend picks from value focused dodgescoxsdividend picks from value focused dodgescox httptcowcvtuc6k
+267996290711973889	business	extraspace raises dividend 25 after a strong 4th quarter selfstorage recessionproof httptco8uqj7xv0 httptcoka3uhiiq
+267985168785096704	business	rt topstocksmsn companies are making onetime special dividend payments this year in anticipation of a dividend tax hike next year httptcobc1wd2cp
+267978853815816192	business	ben fischer investors still need yield after electionsso dividend stocks remain a good choice even if tax rates rise
+267978303577653248	business	making historynorthwestern mutual expects a more than 5 billion dividend payout in 2013 httptcos7vr7rq5 httptco9642qzu4
+267977824919506946	business	with obama care your death taxes go up cap gainssdividend taxes also go up though none has to do with healthcare so why are they in it
+267976379977588736	business	tot news top dividend stocks favored by tweedy browne httptcoqtasfaip browne dividend favored
+267976378320826369	business	companies are making onetime special dividend payments this year in anticipation of a dividend tax hike next year httptcobc1wd2cp
+267975672599805952	business	pfe news top dividend stocks favored by columbus circle investors httptcopeenvhik circle columbus dividend
+267969242320748544	business	dow news replace your income with these growing dividend companies httptcodosfyq3r companies dividend growing
+267960975355957248	business	4 special dividend stocks for income investorssseeking alpha httptcohh1yguhg b2b
+267947592225284096	business	top dividend stocksstop dividend stocksdividend stocks online provides top dividend lists to httptcofz7w5trw bankaccount
+267925193232621569	business	exdividend opportunities to consider this week the 2012 european situation has caused extreme market v httptcoaikpton1 stocks
+267894066493140993	business	5 ways to find the best dividend stocks httptcoarqt1eba
+267888888327069696	business	rt qineqt disney dividend growth story a buy after todays dip httptcou9htjkom nwsa twx viab dis
+267883653256847360	business	httptco6v7zsplr utility futility and dividend dumping are tax fears overdone httptcoajdzfo82 reports
+267883650517970944	business	httptcom1gmjtn0 utility futility and dividend dumping are tax fears overdone httptcohuwc7ndk reports
+267881175777964032	business	safrica vodacom h1 earnings up 22 pct hikes dividend httptcoahczuj7v
+267879755825680384	business	centurylink 74 dividend stock has new growth drivers httptcoqiwbutwi eqix vz ctl
+267879674040946688	business	utility futility and dividend dumping are tax fears overdone httptcotwvaf7fy
+267878549392871424	business	safrica vodacom h1 earnings up 22 pct hikes dividend johannesburg reuterssvodacom the south african unit httptco3cx0rsqi
+267878171477684224	business	business rt safrica vodacom h1 earnings up 22 pct hikes dividend johannesburg reuterssvodacom the south httptco6uz7fpqr
+267877297481207811	business	safrica vodacom h1 earnings up 22 pct hikes dividend johannesburg reuterssvodacom the south african unit httptcoewnyoiiq
+267873938879684608	business	disney dividend growth story a buy after todays dip httptcou9htjkom nwsa twx viab dis
+267864205305204736	business	check out this item i found on ebay httptco1zfr9hrg
+267854585610260481	business	don wisdomtree midcap dividend news ares capital longterm value with a high dividendsstocknews httptcodmszglsz topetfs
+267847222299856896	business	and its stockholders might have rejoiced in a dividend
+267844029964767232	business	rt topetfstocks dewwisdomtree global equity income news despite fiscal cliff dividend outlook not all bad httptco9fxvdhsd bad cliff despite
+267843849966215168	business	dewwisdomtree global equity income news despite fiscal cliff dividend outlook not all bad httptco9fxvdhsd bad cliff despite
+267836357307670529	business	5 dividend champs with 7 yields on average to buy for the next 4 years httptcobe3165rz
+267833515398295553	business	mrmoneymustache 50k in the bank would you a pay off mortgage on a rental home or b put it all in dividend stocks
+267824086829375488	business	making historynorthwestern mutual expects a more than 5 billion dividend payout in 2013 httptcofhxk5yaw httptcorb9qqdex
+267810460714287104	business	what will happen to dividend taxes under obama httptcolv2jlfjg
+267806520320856065	business	len leggettsplatt announces quarterly dividend of 29smore leg leggettsplatt news httptcojtvjoqirs29
+267791342527188992	business	epiq epiq systems declares special dividend of 9c per share httptcouq0l4fpu stock trade investment news epiq
+267743577780658176	business	theboyler switch to thephonecoop broadband its good and you get dividend points helpful face
+267738179824668673	business	sdivglobal x superdividend etf news global x superdividend etf sdiv the one stop shop for dividend etfshttptcohnjgoy3o
+267736786279755777	business	a firm wishes to maintain an internal growth rate of 8 percent and a dividend payout ratio of 25 percent the cu httptcov0mffwdt
+267722168731844608	business	rt spikeisland100 the first dividend of obamas victory republicans in civil war base waking up to being duped by fox tv and karl rove httptcoka4h6wwp
+267721619164758016	business	rt spikeisland100 the first dividend of obamas victory republicans in civil war base waking up to being duped by fox tv and karl rove httptcoka4h6wwp
+267719789835845632	business	rt spikeisland100 the first dividend of obamas victory republicans in civil war base waking up to being duped by fox tv and karl rove httptcoka4h6wwp
+267716725359923200	business	the first dividend of obamas victory republicans in civil war base waking up to being duped by fox tv and karl rove httptcoka4h6wwp
+267698347035471872	business	a hot high dividend stock with high options yields and earnings growth httptcokv5ejtty
+267698344036552704	business	centurylink 74 dividend stock has new growth drivers httptcolzsz54yn
+267696463935582210	business	waste management inside the dividend httptco5rm3s6ac stocks
+267690314414817280	business	sueswayzee economy boomed after he worked with repub congress to slash dividend and capital gains taxes wdelpilartcot path2enlighten
+267673802815721472	business	httptcoo6j30ajk burberry raises interim dividend 14 motley fool 30 with the headline news of a oneoff charge httptcone9kxii9
+267665551378235392	business	5 high yielding dividend stocks analysts recommendsseeking alpha httptcoolykcyjk b2b
+267657945519640576	business	not an rei member join today and enjoy these coupon offers now members also get an annual dividendshttptco4sevh8n3
+267653145776226304	business	weekend editionstime to get off the carousel httptcoxxnz13h6
+267642945899995137	business	byronyork stop focusing on income tax its dividendscap gain tax that will kill us retirees who depend on that for survival
+267620790453800960	business	host hotelssresorts a dividend paying champion httptcoahxqycay finance
+267620788885139456	business	host hotelssresorts a dividend paying champion by kapitallhost hotelsresorts hst trades around 1425 v httptcosf8zyg6x
+267586534566416384	business	cef weekly review nuveen diversified dividend and income httptcojbfsggxk finance
+267586533635268608	business	cef weekly review nuveen diversified dividend and income by joe eqcomesactionable itemshighest positive sp httptcorpzcaegb
+267577330678001664	business	rt tradinggoddess mkt ex dividend stocks for the fourth week of november here is our latest update on the stock trading techn httptco17oihfmv
+267570074548830208	business	nly news high dividend stocks that can best for investor esrx bac mips nly httptcodv1cefmb best dividend esrx
+267534728134021120	business	bxp boston properties hikes dividendsanalyst blogsmore bxp boston properties news httptcoamqzsgupsbxp
+267480041594691584	business	marijuana prohibition going up in smoke high hopes for a drug war peace dividendsforbes httptcoci4yuyme
+267446877061013504	business	a 19thcentury dividend at a 21stcentury stationscity roomsthe
+267443991430197249	business	jfahmy also possible increase in dividend tax rates
+267408403167604736	business	rt azmoderate stockholders out there do you really think its good for your dividend checks to allow the board to discriminate for political reasons
+267407061917237249	business	these midcaps offer the best of both worldsstheres a dividend yield above 7 in here httptco6uyho7le
+267406602632560640	business	rt azmoderate stockholders out there do you really think its good for your dividend checks to allow the board to discriminate for political reasons
+267406421874835456	business	stockholders out there do you really think its good for your dividend checks to allow the board to discriminate for political reasons
+267401352450306048	business	new blog posting the dividend connection how dividends create value in the stock market geraldishttptcoy9olfxwg
+267399672589606912	business	hps dividend yield is 39 i dont think many longterm investors would mind if that was cut and put towards survival
+267395607969275904	business	per wetf via barrons qualified dividend income made up only 385 of wealthy households total income fiscalcliff stockaction
+267362072340332544	business	a hot high dividend stock with high options yields and earnings growthsseeking alpha httptcofddi4f8p b2b
+267338899259527168	business	pom pepsico inc dividend stock analysissmore pep pepsico inc news httptcoyzvhof2espep
+267320825261195265	business	luck is a dividend of sweat the more you sweat the luckier you getsray kroc
+267314744753549312	business	avista corp board declares common stock dividendstop pennys 2012 1900 et avista corp board declaresshttptcow2hmzf7z
+267308356010655744	business	rt tradinggoddess mkt ex dividend stocks for the fourth week of november here is our latest update on the stock trading techn httptco17oihfmv
+267293085824868352	business	dividendsincome investing is out httptcopwckw699
+267266998403203072	business	325 reasons this dividends dying httptconxd19htp
+267249320020025345	business	2 dividend powerhouses that can replace mreit yields httptcodqwtm4gk
+267232747356045312	business	aiz assurant board of directors declares quarterly dividend of 21 per commons more aiz assurant inc new httptcon5jwkrlys21
+267218960448110592	business	pfm powershares dividend achievers news nasdaq to buy mergent dividend indexessstocknews httptcokkwykb4z topetfs
+267211825219764225	business	saratoga investment corp declares 425 dividend per share httptcoow1mciwa
+267211760103194624	business	saratoga investment corp declares 425 dividend per share httptcovg936vdf
+267211759587299329	business	saratoga investment corp declares 425 dividend per share httptcopxljgjls
+267211757934764032	business	saratoga investment corp declares 425 dividend per share httptcoe7umutgt
+267211757926371328	business	saratoga investment corp declares 425 dividend per share httptcocpp6juyt
+267211757800529920	business	saratoga investment corp declares 425 dividend per share httptcoikfzrdip
+267211757737607168	business	saratoga investment corp declares 425 dividend per share httptcouxozc7zm
+267211757699862528	business	saratoga investment corp declares 425 dividend per share httptconthgdwil
+267211757670518784	business	saratoga investment corp declares 425 dividend per share httptcoevyajqsr
+267211757666316288	business	saratoga investment corp declares 425 dividend per share httptcoxixzzuci
+267211757662130176	business	saratoga investment corp declares 425 dividend per share httptcofyvo0nwm
+267211757590818817	business	saratoga investment corp declares 425 dividend per share httptcopzp0xybq
+267211757544681472	business	saratoga investment corp declares 425 dividend per share httptcolzb5xg02
+267210090128502785	business	ebix board of directors raises the quarterly dividend by 50 to 0075 per share httptco3ilojazn
+267210063540801536	business	ebix board of directors raises the quarterly dividend by 50 to 0075 per share httptconpj61kpp
+267210060843872256	business	ebix board of directors raises the quarterly dividend by 50 to 0075 per share httptcombdrtrks
+267210059526840320	business	ebix board of directors raises the quarterly dividend by 50 to 0075 per share httptcostavakjz
+267210059099013121	business	ebix board of directors raises the quarterly dividend by 50 to 0075 per share httptcokk12zcwp
+267210057228378112	business	ebix board of directors raises the quarterly dividend by 50 to 0075 per share httptcot0npbkms
+267177441372540928	business	assurant board of directors declares quarterly dividend of 21 per common share assurant board of directors de httptco3myveis0
+267172625640472577	business	kc star business nic will pay shareholders 163 million in a special dividend httptcoacz37fw7
+267158729164746752	business	dividend paying whole life insurancesthe alternative fixed income vehicle part 4 httptcoqzn2mnhq
+267158456803422208	business	httptco6v7zsplr dividend paying whole life insurancesthe alternative fixed income vehicle part 4 httptcobkpngeib reports
+267158455335391233	business	httptcom1gmjtn0 dividend paying whole life insurancesthe alternative fixed income vehicle part 4 httptcovbd0cii4 reports
+267147513809752065	business	telus profit lifted by wireless dividend raised httptcolzxfhzrx
+267143059639259136	business	saratoga investment corp declares 425 dividend per share httptcoqn8sjgyu
+267142600287473664	business	rsg robert half international announces quarterly dividendsmore rhi robert half international news httptcolk1jwstlsrhi
+267137091438276608	business	profit from stock market high yield and dividend growth httptcoebslfwot
+267134148714586113	business	mkt ex dividend stocks for the fourth week of november here is our latest update on the stock trading techn httptco17oihfmv
+267128263623725058	business	xom news diy dividend investing vs the etfsstocknews httptcosjrmrjmp gasoilstocks
+267127060928012288	business	rt kepecaezy telus profit lifted by wireless dividend raised httptcoy6qv4lyy
+267126651404578817	business	telus profit lifted by wireless dividend raised httptcoy6qv4lyy
+267122702618357760	business	nvidias 3q earns rise company starts dividend httptcox6b2qnp9
+267120285495476224	business	telus profit lifted by wireless dividend raised httptcoi23s1lts
+267115115957059584	business	new blog posting top dividend stocksshttptco5x52wmii
+267105183534817280	business	1 dividend stock with worldwide growthsthis diversified company is raking in global profits httptcoqezeiwt3
+267104553709744129	business	daily dividend report qcrh tgi aiz esio nick httptcocbpfhzxz business video
+267100176991256576	business	rt columbiamobuzz butler honored as silver slugger billy butlers conversion to a fulltime designated hitter paid a major dividend httptcomg9rhbzn
+267094297160077312	business	butler honored as silver slugger billy butlers conversion to a fulltime designated hitter paid a major dividend httptcomg9rhbzn
+267092964365434882	business	luck is a dividend of sweat the more you sweat the luckier you getsray kroc
+267090671620464641	business	telus profit lifted by wireless dividend raised httptco33wy6irm
+267090154211127296	business	is california waters dividend doomedsthe water utility reported earnings yesterday and it might be headed off t httptcokgpvychm
+267088451957035009	business	telus profit lifted by wireless dividend raised httptcodnigybgy via reuters
+267085065480204290	business	finding the best dividend and high yield stocks httptcota0082ljsdividends invest
+267083346398568448	business	daily dividend report ups bam avb mar tmo httptcoju9d5yn6 business video
+267081390133219328	business	intc integrys energy group inc declares dividend on common stocksmore teg integrys energy group inc news httptco1lzisbx9steg
+267071261249794048	business	telus profit lifted by wireless dividend raised httptcom2wfyreo business marketing
+267070324238065664	business	saratoga investment corp declares 425 dividend per share httptcodrngggmh
+267070324200337408	business	saratoga investment corp declares 425 dividend per share httptco3vi4sa0c
+267070324187750401	business	saratoga investment corp declares 425 dividend per share httptcoqivcbtdk
+267068932446371840	business	telus profit lifted by wireless dividend raised reutersstelus corp reported a stronger thirdquarter profi httptcotlrtws59
+267068924363952128	business	telus profit lifted by wireless dividend raised httptcol67qfbew reuters
+267068796467032064	business	telus profit lifted by wireless dividend raised reutersstelus corp reported a stronger thirdquarter profi httptcoio9nvfyw
+267068794806075392	business	telus profit lifted by wireless dividend raised reutersstelus corp reported a stronger thirdquarter profi httptcocq9azhr0
+267068791224156160	business	telus profit lifted by wireless dividend raised reutersstelus corp reported a stronger thirdquarter profi httptcopzkrsnub
+267066959294787584	business	brookfield real estate services inc reports third quarter 2012 results ands istockanalystshttptco9hfymk4c
+267066366840938496	business	pfe the safest international dividend payer ive ever seensmore pmphilip morris international news httptcouyuheywdsdividend
+267066284229943296	business	vfc vfc named top 25 safe dividend stock increasing payments for decadessmore vf corporation news httptcogwm6jfilscorporation
+267058759086510080	business	donwisdomtree midcap dividend news ares capital longterm value with a high dividend httptcovgljapzc ares capital dividend
+267047733658009600	business	autonewstop state auto financial declares 86th consecutive quarterly dividendsdailyfinance httptcoubzsb8wv
+267042269469757440	business	roundys represents compelling value after overreaction to dividend cut httptcocp26kymy stocks
+267033185576181761	business	arts way manufacturing announces cash dividend on the companyss sacramento bee arts way manufacturing a httptcoj5d5sl1x
+267032255074025473	business	luck is a dividend of sweat the more you sweat the luckier you getsray kroc
+267029817445187584	business	why apple should double its dividend immediately aaplshttptcogalb1ppl blog httptconydjbijc
+267029719231369217	business	google dividend a look into the future goog httptcodjtunlvp
+267029191919271936	business	cpg news cocacola valuation and dividend growth provide solid downside protectionsseeking httptcowhcmw7ww consumer goods
+267025781035790336	business	google dividend a look into the future googshttptcoyrvh8eyy blog httptcofwi7hntp
+267023406657064961	business	the only answer end all tax on corporations capital and dividend end all subsidies
+267021547645046785	business	lmt lincoln nationals board of directors approves increase in dividendsmore lnc lincoln national news httptcohympinb0slnc
+267021353167773698	business	google dividend a look into the future googshttptcoxm1wstvz blog httptco7i9hbnum
+267018239769456640	business	cabot board declares dividend httptcolx1oyojh
+267017266619637760	business	rmg state auto financial declares 86th consecutive quarterly dividend httptcosyj3fy6b automotive
+267015093131292672	business	chemed corporation declares quarterly dividend of 18 cents httptco7i4sj4uw
+267013514319773697	business	abbott labs abt is a life essentialsdividend paying stock 204 for your ira own it
+267013431805231106	business	dvyishares dow jones select dividend index news own dividend stocks root for romney httptcorkiyhzml dividend dvyishares index
+267013200548085760	business	chemed corporation declares quarterly dividend of 18 cents httptcoic188txx
+267009540560674816	business	hornby scraps dividend after london 2012 olympic games crashshttptcorgjoded1 httptcorusyhtlh
+267008621739642880	business	stock scan dividend stockssmarkets data centershttptcojdlxvitx httptcotdaxwnfc
+267008193559945216	business	rt leaguppedi nvidias 3q earns rise company starts dividend httptcoiobn5w5n
+267007585494904832	business	apple why apple should double its dividend immediately aaplshttptco6jy18hj5 blog why apple should do httptcoa7jcrqxe
+267006814548287488	business	nvidias 3q earns rise company starts dividend httptcoiobn5w5n
+266997659695452160	business	state auto financial declares 86th consecutive quarterly dividend httptcoyqozed4q
+266997458435989504	business	memphisbased mueller industries is increasing its regular quarterly dividend on common stock to 125 cents per share httptcohtiodp0a
+266995914382643200	business	telus profit lifted by wireless dividend raised httptcomqzug8v6
+266992322275844096	business	badger meter announces regular quarterly dividend httptcof1cz3htv
+266990891485507584	business	nic to pay shareholders 163 million in special dividend httptconki9rncd
+266989567352127488	business	tech gadgets telus profit lifted by wireless dividend raised reutersstelus corp reported a stronger thir httptcoira6pmw4
+266987532691070976	business	telus profit lifted by wireless dividend raised reutersstelus corp reported a stronger thirdquarter profi httptcoehrzxfox
+266986155029970946	business	top quartile ranked dividend stock goro becomes oversoldshttptcosasgovik
+266985752544542720	business	telus profit lifted by wireless dividend raised httptcozc8rqqmh
+266985488437612544	business	mfrtechsbadger meter announces regular quarterly dividend httptcooy9b3dnz
+266985148766097408	business	telus profit lifted by wireless dividend raised reutersstelus corp reported a stronger thirdquarter profi httptcodgpze9ph
+266980051197759488	business	top 10th percentile ranked dividend stock box enters oversold territory the dividendrank formula at dividend ch httptcoml7q5lfr
+266979579934175233	business	memphis mueller industries increases quarterly dividend 25 httptcov7epaoiz
+266979275977129984	business	brookfield real estate services inc httptcomxti7bjc realestate
+266978336016855043	business	hawthorn bancshares declares quarterly dividend of 005 per common share kcmetrosleessummitmo httptco85eowv7w
+266976027975221248	business	telus profit lifted by wireless dividend raised httptcojo1dql0d
+266975965316538370	business	nic to pay shareholders 163 million in special dividend httptcouhwy6g2e news
+266975960518234112	business	nic to pay shareholders 163 million in special dividend httptcogbia4tnw news
+266975614949543936	business	telus profit lifted by wireless dividend raised httptcosu1vgbv4
+266972266422734848	business	hedgefunds bankersmutual funds who make money investing in stocks have to find other option then dividend stocks bonds ok fiscalcliff
+266971929724985346	business	telus profit lifted by wireless dividend raised
+266971302160658432	business	telus profit lifted by wireless dividend raised httptcoydefwdbr beehivetech
+266970496313204736	business	telus profit lifted by wireless dividend raised httptcokgy8vhpk
+266969697839357953	business	telus profit lifted by wireless dividend raised reutersstelus corp reported a stronger thirdquarter profi httptcomvw5zxks
+266967464775143426	business	telus profit lifted by wireless dividend raised httptcopkabo3l2 via reuters
+266967419346640898	business	telus profit lifted by wireless dividend raised reutersstelus corp reported a stronger thirdquarter profi httptcoaaxlnlxx
+266967120032718848	business	business rt telus profit lifted by wireless dividend raised reutersstelus corp reported a stronger third httptcojov3hjol
+266966133100380160	business	telus profit lifted by wireless dividend raised reutersstelus corp reported a stronger thirdquarter profi httptco1qebsqwf
+266966132534173697	business	telus profit lifted by wireless dividend raised reutersstelus corp reported a stronger thirdquarter profi httptcowqcbs9ih
+266966131594653696	business	telus profit lifted by wireless dividend raised reutersstelus corp reported a stronger thirdquarter profi httptcoiqdnivcz
+266965872235659264	business	telus profit lifted by wireless dividend raised httptcooz1yk5ro reuters
+266965832704348160	business	telus profit lifted by wireless dividend raised reutersstelus corp reported a stronger thirdquarter profi httptcobdvo3shg
+266965831085334528	business	telus profit lifted by wireless dividend raised reutersstelus corp reported a stronger thirdquarter profi httptcor19o56nq
+266965828690391040	business	telus profit lifted by wireless dividend raised reutersstelus corp reported a stronger thirdquarter profi httptcoivep77oo
+266965628475289600	business	telus profit lifted by wireless dividend raised reutersstelus corp reported a stronger thirdquarter profi httptcomouy66qm
+266965619323330560	business	telus profit lifted by wireless dividend raised reutersstelus corp reported a stronger thirdquarter profi httptconksff0xq
+266964442078654465	business	cash dividend on the way from fifth street finance corporation httptcowaskpo09
+266963938502135808	business	update 2telus profit lifted by wireless dividend raised httptcodnbwdmog
+266954313904041986	business	amgen about to put more money in your pocket looking at the universe of stocks we cover at dividend channel on httptcobul5dqks
+266952390333317120	business	mfrtechsesi declares quarterly dividend httptcowreas5nx
+266951644627996672	business	esi declares quarterly dividend httptcoob1he516
+266951638613372929	business	triumph group declares quarterly dividend httptcoihgcvjm0
+266949764808048640	business	high yield dividend stocks gaining in a down market httptcos7qmp9pg
+266948094124494851	business	triumph group declares quarterly dividend httptcoeitfrbry
+266945481584824321	business	exdiv reminder for energen corp looking at the universe of stocks we cover at dividend channel on 111312shttptcop4yxwv6j
+266945468410511360	business	armour residential reit goes exdividend soon looking at the universe of stocks we cover at dividend channel o httptcoy9f9xqlg
+266945182673563650	business	resources connection goes exdividend soon looking at the universe of stocks we cover at dividend channel on 1 httptcorpkf4vee
+266945001630597120	business	cpg news cocacola dividend growth champion and its offspringsseeking alpha economic time httptcourynnipa consumer goods
+266944349848342528	business	high yield dividend stocks gaining in a down marketshttptconl1q9ydb
+266943123052187648	business	where can one find all of the scheduled tax increases in one place scheduled for january 2013 obamacare payroll dividend etc
+266942675251511296	business	1 great dividend you can buy right now nee httptcofxuwkyls
+266942284900233218	business	1 great dividend you can buy right nowsmotley fool httptcoqcfrxcbn swarthynews
+266940763542257664	business	mtd gets results collectiveimpact httptcocasxfyh3
+266938307357847552	business	dglparnershomebiz what will happen to dividend taxes under obamashttptco9nx2rkv0 httptcoo1ox1vds
+266937002916712448	business	luck is a dividend of sweat the more you sweat the luckier you getsray kroc
+266936091834187777	business	cash dividend on the way from vectren corp looking at the universe of stocks we cover at dividend channel on 1 httptconhx4aljv
+266934224727183360	business	seemacnbc cnbcfastmoney my dividend paying stocks are in my ira bargain time for me if others dump them
+266933998742298625	business	mueller industries increases quarterly dividend 25 httptcobwpptmj4
+266932555129946112	business	mueller industries increases quarterly dividend 25 mueller industries inc announced it is increasing its regu httptco0zodgox8
+266932265819443200	business	nvidias 3q earns rise company starts dividend httptcohkzvfyjw
+266931158732906496	business	investing will tax hikes hurt dividend stocks httptco7bb1cbet via usatoday
+266930718947549185	business	dividendsincome investing is out httptcopwckw699
+266930413044367360	business	nvidias 3q earns rise company starts dividend nvidia corps thirdquarter earnings climbed 17 percent as theshttptcojtfekmhf
+266927019772768256	business	goldcorp about to put more money in your pocket on 111312 goldcorp inc toronto g will trade exdividendshttptco88b9yudh
+266926673025433601	business	genworth mi canada exdividend reminder on 111312 genworth mi canada inc toronto mic will trade exdivide httptcoetg4fblh
+266924463285755904	business	extra space storage raises dividend 25 percent httptcogoynvnvp
+266919045343879168	business	extra space storage raises dividend 25 percent httptcoonn3ishd
+266917379202760704	business	vfc named top 25 safe dividend stock increasing payments for decades vf corp nyse vfc has been named to the httptcoajlfdkua
+266911859045715969	business	brookfield real estate services inc reports third quarter 2012 results ands istockanalystshttptcoxjazvybb
+266909455776628736	business	brookfield real estate services inc reports third quarter 2012 results ands istockanalyst httptco5dbijfzf
+266907196468633600	business	huntington preferred capital inc declares quarterly cash dividend httptco5l56g86h
+266907162482192384	business	conserve your retirement money with dividend etfs httptcoxo8pcgf1sdividends
+266906464625500161	business	rpc inc announces special yearend cash dividend atlanta nov 9 2012 prnewswire rpc inc nyse resshttptcotveuar8e
+266899712223899649	business	4star dividend stocks poised to outperform american capital agency agnc httptco3kbnd0b3
+266899349810847746	business	is veolias dividend safe ve httptcojp8cfpiz
+266899273113821187	business	will this megadividend survive win httptcoiqqgqfls
+266899185259909121	business	dont let this doubledigit dividend fool ya httptcolds8ie17
+266897262322520064	business	data group inc announces third quarter results for 2012 and 2013 dividend policy httptcoffsawwfm
+266897234187141122	business	data group inc announces third quarter results for 2012 and 2013 dividend policy httptcob8c7nj2v
+266897088367968256	business	data group inc announces third quarter results for 2012 and 2013 dividend policy httptcolmc8kekz
+266897064699523072	business	data group inc announces third quarter results for 2012 and 2013 dividend policy httptcogw0gtvcs
+266897020533497857	business	data group inc announces third quarter results for 2012 and 2013 dividend policy httptcorfdrhujh
+266892294735675392	business	sprott resource lending corp reports third quarter 2012 results and declares dividend for q3 2012 httptcozapjfjrg
+266892252574515200	business	sprott resource lending corp reports third quarter 2012 results and declares dividend for q3 2012 httptcoqtcy23qm
+266892249428815872	business	sprott resource lending corp reports third quarter 2012 results and declares dividend for q3 2012 httptcolzyherk8
+266890631060807680	business	calfirst bancorp announces 2012 annual dividend to stockholders of 220 per share httptcoeec9xxad
+266882230905876480	business	memphis talent dividend is moving the dial increasing thesof college grads a 1 upticks1bil for memphis httptcokflud0wm
+266882095702491136	business	gk services declares regular cash dividend httptco4ztkvden
+266881981906812929	business	gk services declares regular cash dividend httptco01m0dicv
+266878129967095808	business	gk services declares regular cash dividend httptcotxdtlrgn
+266877586209112064	business	deswisdomtree smallcap dividend news wisdomtree moving to monthly payouts for us divi httptco7ezfjkmm deswisdomtree dividend etfs
+266873181581742080	business	dividendnewssis the yield curve a useful stock market timingspublished tue 06 nov 2012 025657 0500 o httptcowdbtctiv
+266866705031114752	business	infinite computer solutions continues rapid growth declares interim dividends it news online infinite com httptcowgrhravl
+266800104126705664	business	rt ariegreenberg httptcom1gmjtn0 is apple becoming a dividend stock httptcoyzadikey reports
+266798686183497728	business	httptco6v7zsplr is apple becoming a dividend stock httptcommlfmqmz reports
+266798682890973184	business	httptcom1gmjtn0 is apple becoming a dividend stock httptcoyzadikey reports
+266796385553240064	business	is apple becoming a dividend stocksseeking alpha httptcotfei1bbw
+266796121937047552	business	is apple becoming a dividend stock httptcogfzmdrws
+266793108946169856	business	nvidias 3q earns rise company starts dividend httptcom5t598vh
+266786997597782016	business	pfmpowershares dividend achievers news nasdaq to buy mergent dividend indexes httptcoxzotsipl achievers dividend indexes
+266779837052641280	business	pnw can pitney bowes continue to deliver a 12 dividend yieldsmore pbipitneybowe news httptcoiox7k6onspbipitneybowe
+266774290878300161	business	wsjs hot dang if they sell all that copper att might just pay a dividend next quarter
+266750624643825665	business	daily dividend report ca thi aap ddr cae wfm httptcotb8cnt5c business video
+266750087064088576	business	pm news top dividend stocks favored by todd veredussstocknews httptcoai2bflrf bluechipstocks
+266748475813818368	business	the madness must endlet it be now httptcojfpioiuo
+266742320861433856	business	memphis memphis talent dividend gets reward in increased college applications httptcozswpgryd
+266733362285248512	business	luck is a dividend of sweat the more you sweat the luckier you getsray kroc
+266728050291535872	business	dont let this doubledigit dividend fool yashigh debt and a low net profit margin do not make for a secure divide httptcoqssvhlhs
+266727493350871040	business	rt becca51178 we have to pitch our message right how do you explain under obama care dividend taxes will go from 15 to 434and make libs understand
+266727257714855936	business	nvidias 3q earns rise company starts dividend httptcoxcyrdwkv
+266712759989858304	business	update 3nvidia eyes lower quarterly revenue starts dividend httptcoojzqjwr5
+266712618448867328	business	is veolias dividend safesrestructuring promises returns but is it fast enough httptcovf9wjnfd
+266712536764788737	business	memphis talent dividend gets reward in increased college applications getting people in shelby county in and through college is like
+266711579725291520	business	nvidias 3q earns rise company starts dividend nvidia corps thirdquarter earnings climbed 17 percent as the httptcotgcjnvbw
+266711239193919488	business	nvidias 3q earns rise company starts dividend nvidia corps thirdquarter earnings climbed 17 percent as the httptcolryfj9ln
+266711220986458113	business	nvidias 3q earns rise company starts dividend nvidia corps thirdquarter earnings climbed 17 percent as the httptco1um6vo8x
+266709859477626881	business	memphis talent dividend gets reward in increased college applications getting people in shelby county in and th httptcojxyoofxm
+266708733013413889	business	nvidias 3q earns rise company starts dividend httptcohsdlqshf
+266708571016798209	business	nvidias 3q earns rise company starts dividend
+266708092568346624	business	update 3nvidia eyes lower quarterly revenue starts dividend httptcowzf8weiz
+266707322234097665	business	lly news 9 bigname stocks going exdividend next week httptcomzdgvq4l bigname exdividend going
+266706734280761344	business	making historynorthwestern mutual expects a more than 5 billion dividend payout in 2013 httptcoipfrxswd httptcot6cf5lvf
+266705422365360130	business	memphis talent dividend gets reward in increased college applications getting people in shelby county in and httptcofxlb2wvw
+266704334249676800	business	krft dividend roundup kss mar mga wyn wrb ddr leg lncsmore kohls corporation news httptcowqcfz2c3scorporation
+266702115240550400	business	what you should know investing will tax hikes hurt dividend stockssusa today httptcoseqlzwwf
+266701997435142145	business	investing will tax hikes hurt dividend stockssusa today httptcoug2mg0yr tax taxes irs
+266701432663732224	business	rt indistwebsite houston wirescable announces fourth quarter dividend httptcoxgezxhcp
+266699425580208129	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266699052341665793	business	investing will tax hikes hurt dividend stockssusa today httptcoojanvy0e b2b
+266696497490427906	business	epiq systems declares regular dividend and special cash dividend httptcok8zanfdo news
+266696493447143424	business	epiq systems declares regular dividend and special cash dividend httptcoxpgbpg7m news
+266695032164212736	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266692888027615232	business	rt becca51178 we have to pitch our message right how do you explain under obama care dividend taxes will go from 15 to 434and make libs understand
+266692409470095360	business	briefenergizer ceo says expects dividend to continue at current rate for a while httptco3qfb3ohw
+266692104233824256	business	mcan mortgage corporation reports third quarter earnings and an increase insmortgage interest income increa httptcopl99bbu4
+266691730991091712	business	rt becca51178 we have to pitch our message right how do you explain under obama care dividend taxes will go from 15 to 434and make libs understand
+266690505876844544	business	rt becca51178 we have to pitch our message right how do you explain under obama care dividend taxes will go from 15 to 434and make libs understand
+266690157489577984	business	rt becca51178 we have to pitch our message right how do you explain under obama care dividend taxes will go from 15 to 434and make libs understand
+266690151328137216	business	rt becca51178 we have to pitch our message right how do you explain under obama care dividend taxes will go from 15 to 434and make libs understand
+266689791444275200	business	we have to pitch our message right how do you explain under obama care dividend taxes will go from 15 to 434and make libs understand
+266689192661225474	business	kc star business epiq systems declares regular dividend and special cash dividend httptcomsjri00o
+266683616074027008	business	update 2nvidia eyes lower quarterly revenue starts dividend httptcox8qkdmqd
+266681270237544449	business	knight transportation inc announces quarterly cash dividend and participation in upcoming 2012 stephens fall httptcotnfcaq27
+266679900235243521	business	revenue tax increase on top 1 capital gain tax carried interest dividend tax must increasesspending cut over 10 yrs
+266678997499408384	business	knight transportation inc announces quarterly cash dividend and participation in upcoming 2012 stephens fall httptconkcchsy5
+266677104094089216	business	update 2nvidia eyes lower quarterly revenue starts dividend httptcope1e6zaz
+266676099172421633	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266675397809295362	business	on taxes capital gain dividend tax and carried interest tax must all go up corporate tax must come down to 25
+266674049663520769	business	community trust bancorp passes through 4 yield mark looking at the universe of stocks we cover at dividend cha httptcopaknwl6o
+266673961507647488	business	aaon thirdquarter profits up 7 pct special dividend set after two quarters of double and tripledigit earnings httptcodovxamro
+266672405118865409	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266670954061647872	business	httptcoxnc1mmef news daily dividend report wst gg len wsm sss ozrk httptcornapkcvv
+266669245365108738	business	mchp microchip technology declares quarterly cash dividend of 352 cents per share getting money from everywhere yessur
+266668482240856064	business	looking for a strong dividend payer medical stock becton is the answer httptcogpxuarj9 stocks
+266663620430139392	business	shawcor declares quarterly dividend tsx scla sclbtoronto nov 8 2012 prnewswiresthe board of dir httptco2dapuevk
+266662991125155840	business	insurance insure assured guaranty ltd declares quarterly dividend of us009 per common share httptcoterxlqnb
+266662445777551361	business	eqt news 9 utility dividend opportunities to consider httptcoq3gwte63 consider dividend news
+266661642404777984	business	nvidia quarterly revenue meets expectations initiates dividend httptcos29donqg
+266661243023151104	business	marijuana prohibition going up in smoke high hopes for a drug war peace dividend by art cardenswhat was theshttptcoyv5ojcso
+266660100859645952	business	market wrapup for nov8 qcom aapl ctl pru kss wfm moreshttptcogalb1ppl blog httptcobkij2ul1
+266660060971810816	business	5 reasons why apple keeps falling aaplshttptcogalb1ppl blog httptcocm2mxtxz
+266659235306287104	business	svu news whole foods profit up 49 raises dividendsstocknews httptcoy6bxvwnn retailerstocks
+266659019366739968	business	rt tigpeterson think or swim is showing aapl with a special dividend of 265sis this true stockaction goog dougkass
+266658818509926401	business	5 reasons why apple keeps falling aaplsiedume ipad library project kids reading 1000 appbooks a year news feed httptco4vftyvmb
+266658683222642689	business	mfrtechsspanamerica declares special cash dividend of 100 per share and declares regular quarterly dividen httptco2lfwz9tr
+266658682299883520	business	mfrtechssilgan declares quarterly dividend httptcocgmto7ir
+266658424060801024	business	think or swim is showing aapl with a special dividend of 265sis this true stockaction goog dougkass
+266658131495485440	business	quadgraphics passes through 6 yield mark looking at the universe of stocks we cover at dividend channel in t httptcojegrqzjp
+266657736664694784	business	ups board declares dividend httptcotqhotd4v
+266654216045600771	business	microchip technology declares quarterly cash dividend of 352 cents per share httptcog8t7kbrk
+266649322794393600	business	devry increases dividend by 13 percent httptcooljqu3tc
+266646440867160064	business	pan american silver declares fourth quarterly dividend of 2012 httptcoxykuljid
+266644323444064256	business	glimcher realty trust an attractive dividend for your income basket httptcoh3denkkv finance
+266644319547572224	business	glimcher realty trust an attractive dividend for your income basket by kapitallglimcher realty grt is tradi httptco9y733au6
+266641816286289920	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266639123408900097	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266637045106081792	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266636534013370369	business	3 reasons to buy this dividend stock for growth and a 5 yield httptcoito4eikx finance
+266636532423749632	business	3 reasons to buy this dividend stock for growth and a 5 yield by hawkinvestdividend stocks have been trending httptcoonwfrxzw
+266630126526152705	business	company to pay 29 special dividend with 37 yield httptcoqfxryazi
+266621185905799168	business	cpg news kellogg offers weak earnings sales views for 2013swall street journal dividendc httptcoll3aon3a consumer goods
+266619381453320192	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266618624972840960	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266618573647138816	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266615145176907776	business	company to pay 29 special dividend with 37 yield httptcob4a2qcph
+266612049755394048	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266609370970849281	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266606857341239296	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266604989034672128	business	insuring high dividend securitiessgood idea or waste of time httptcogc5m3jsh finance
+266604987474407426	business	insuring high dividend securitiessgood idea or waste of time by poweroptionsas you may be able to tell i am httptcosnwq5vau
+266604896944533504	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266603868828348417	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266600692939100162	business	employers holdings inc reports third quarter 2012 earnings and declares fourth quarter 2012 dividend reno nv httptco8wj8unzp
+266600606691643392	business	rt suluclac goldman sachs analysts predicteddividend and capital gains tax rates could rise toward 25 percent httptconsauakk0
+266600116499120128	business	goldman sachs analysts predicteddividend and capital gains tax rates could rise toward 25 percent httptconsauakk0
+266598915829297153	business	making historynorthwestern mutual expects a more than 5 billion dividend payout in 2013 httptcoklbufe3l httptco8bkkojyq
+266596411532001281	business	freddie mac announces 29b 3rd qtr profitsmakes 18b dividend payment to us taxpayerssits a start httptcoelguv693
+266596338433662977	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266595229900079105	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266593417461633024	business	herbgreenberg yea idt accelerated their entire 2013 dividend tons of companies are paying special dividends as well httptcocdwfpfir
+266593084505194496	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266592486233870337	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266592332399407104	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266590741441155074	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266590303144796160	business	mandycnbc streetsignscnbc clarity in the tax code dividend stocks are likely to get a lot less attractive
+266589943080574976	business	dividend stocks should remain attractive for longterm investors httptcoiomplj6e stockmarket
+266589856061337600	business	rt sullycnbc here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266589697214660608	business	here we go a company say its paying dividend early bc of significant pending increase on dividend tax rate httptcomzrhntflsleg
+266589451927564288	business	cpg news kellogg offers weak earnings sales views for 2013swall street journal dividendc httptcoc15pywtq consumer goods
+266589450916741120	business	cpg news pepsico inc pep dividend stock analysissistockanalyst istockanalystpepsico i httptcod9m990sv consumer goods
+266586854357336066	business	x factor 5 stocks reaching their exdividend date on november 9shttptcopievcu5n httptcouqu72qaw b2b
+266586849894604800	business	dividend stocks in this time of tax policy uncertaintysistockanalyst httptcoquptfbsf b2b
+266586848321748992	business	5 dividend stocks investors mostly dislikesnasdaq httptcoyoodq3ky b2b
+266582433695162368	business	luck is a dividend of sweat the more you sweat the luckier you getsray kroc
+266580879218982912	business	cmi upgraded to buy httptcokfqtnenf
+266579431928262656	business	jimcramer roccothestreet that would be awesome if twitter pays a dividend
+266579222447915009	business	5 dividend stocks investors mostly dislike submitted by dividend yield as part of our httptcoduvypvrb
+266578073657417729	business	gsk glaxosmithkline honors healthcare nonprofits with 40000 impact award what an awesome company dividend payout on 10313
+266577534773243904	business	mcdonalds october comps fall short of expectations mcdshttptcoxc8krpfl blog httptcoaak97ypg
+266576372745527296	business	molycorp declares preferred dividend httptcorqdyzuzv via sharethis
+266573993551724545	business	just got paid a dividend from slt yessur
+266572175287394304	business	canadian tire adjusted earnings up raises dividend reutersscanadian tire corpsone of the countrys bigge httptcoa0c0wfww
+266572090306609152	business	lincoln national increases quarterly dividend 50 to 12 cents lincoln national corp lnc the insurer that hir httptcototkxgzz
+266570364820262913	business	retail shop regency centers corp exdividend reminder yahoo share with friendsss httptcoeeczevev httptcoevgyh13i
+266569462503858176	business	2 aapl support at 530 from dividend funds looking to get in at 2 with payout growth potential
+266568854841475072	business	lincoln nationals board of directors approves increase in dividendssacramento bee httptcooksubfsa
+266568333690798081	business	dividendsincome investing is out httptcopwckw699stop stories today via getrichstayrich
+266566887792582656	business	5 dividend stocks for the next 5 years httptcoqdpjfosy
+266564514898640896	business	kaman announces new officer declares dividendsindustrial distributionshttptcotm17ipef
+266562879493394433	business	crt610 ha dividend yield will soon be higher than your mortgage rate
+266558088356716545	business	made someswith xinchinese real estate co with good dividend kids will be very happy this year
+266555792516341761	business	wendys loss widens in q3 despite higher sales doubles dividend httptcotuj2qazv
+266552527871418368	business	update 1canadian tire adjusted earnings up raises dividend httptcoyuoprhmw
+266550185944035329	business	if all your investment ideas are high yielddividend plays are you very late to the game ithinkso
+266549370487468032	business	forbes marijuana prohibition going up in smoke high hopes for a drug war peace dividend httptcol86tnnvv
+266548882916376576	business	swiss reinsurance might pay a special dividend if it could not find good uses for its excess capital httptcokkgxsyo0
+266548550295498752	business	pff jnk hygsreduced love for high dividend yieldersshttptco22fncy1t
+266546139506036736	business	vno named top 25 socially responsible dividend stock vornado realty trust nyse vno has been named a top 25 s httptco22diabpl
+266545808600621056	business	dividend lovers beware of lower prices in the future httptcoqln3yxz8
+266545549115789312	business	lincoln national raises dividend 50 to 12 centssmarketwatch httptcooksubfsa
+266545487803449345	business	canadian tire adjusted earnings up raises dividend reuterssdiversified retailer canadian tire corp reporte httptcovcsl7jzw
+266542215675904001	business	business rt canadian tire adjusted earnings up raises dividend reuterssdiversified retailer canadian tire httptco9nembeum
+266541204181762048	business	rt davidavery windstream ceo i am confident in our ability to deliver strong stable free cash flow to support our dividend
+266540127772360704	business	lincoln national raises dividend 50 to 12 cents lincoln national corps nyselnc board has raised its divid httptcolwyvgxd7
+266538928939622402	business	johannesburgswhile south africas thirdlargest goldminer harmony gold won plaudits on httptcoosdtbi9f
+266537935376113664	business	wendys net loss widens dividend doubles typepad httptcoiy38ktxh
+266537887825276928	business	lincoln nationals board of directors approves increase in dividendsistockanalyst httptcooksubfsa
+266535067315228674	business	windstream ceo i am confident in our ability to deliver strong stable free cash flow to support our dividend
+266531813202219009	business	blackrock kelso capital corporation declares regular quarterly dividend of 026 per share announces september 30 httptcogwoxrkxy
+266531128935084032	business	compass minerals declares dividend httptcogxfhl1wh
+266529354689966081	business	will the 15 dividend and cap gains tax rates be extended watch our new peter lefkin video httptcok6xwtmvv
+266529187907645440	business	ddr declares common share dividend of 012 for fourth quarter 2012 beachwood ohio nov 8 httptco5gebm0kj denver real estate
+266529128335937536	business	wendys net loss widens dividend doubles httptcoehbfuzn3
+266528817856778240	business	compass minerals declares dividend httptcopojwrzed
+266527382318497792	business	newell rubbermaid declares dividend on common stock httptcotgbsgxjs
+266526783434801152	business	blackrock kelso capital corporation declares regular quarterly dividend of 026 per share announces september 30 httptcoiutgkqyl
+266525871697956864	business	svu news whole foods profit up 49 raises dividend httptcokq7xmkx6 dividend foods news
+266520761337012224	business	apple apples dividend set to surgesbarrons apples dividend set to surgebarronsapple stock has quietly sa httptco7gguqyus
+266512646419931136	business	bp news bp lifts dividend by 125 httptcoenh0lifo news
+266504274022907904	business	att announces expansion plans dividend increase httptcohfmhvzva
+266502527363731456	business	news technology deutsche telekom to outline dividend policy next month httptcori2kchyt
+266502358228406272	business	dividend stocks in this time of tax policy uncertainty httptcosllgtsgg
+266500112312827904	business	ihymarket vectors intl high yield bond etf news dsm lemb iltb cft ciu dividend stocks upda httptcocakaq3hr bond dividend high
+266493345294057473	business	swiss re considers special dividend swiss reinsurer reports a 62 per cent jump in net income in the third quart httptco0xfzqd1x
+266486834564063232	business	cpg news pepsico inc dividend stock analysissseeking alpha pepsico inc dividend stockshttptco8qdevjfd consumer goods
+266485497851940864	business	commerzbank warns of rising loan losses germanys second largest bank by assets rules out paying a dividend unt httptcovlbb3rap
+266477912578985984	business	hnz news 5star dividend stocks poised to pop hj heinzsstocknews httptcoakbuuwvr fastfoodstocks
+266477775135862786	business	5 high yield stocks with early november upgrades by dividend stocks onlinenovember has just started and we hav httptcohojxf7zw
+266462800354897920	business	hnz news indicated dividend yield rankings of sampp 500 companiessstocknews httptcoobjxfrxu fastfoodstocks
+266454731206057984	business	anglogold cuts dividend by half as strikes prompt lower spendingshttptcobmmeiw9c
+266452163658661888	business	anglogold ashanti earnings fall halves dividend httptco358cimxk
+266448354756657154	business	horizon technology finance announces financial results for the third quarter 2012 and quarterly dividend of 045 pershttptcobp4llunt
+266448354588901376	business	horizon technology finance announces financial results for the third quarter 2012 and quarterly dividend of 045 pershttptcoufcgre7u
+266447120058425344	business	summittvsa anglogold ashanti earnings fall halves dividend companies
+266444262604935168	business	anglogold ashanti earnings fall halves dividend httptco1or9no0c
+266442624980877312	business	anglogold ashanti earnings fall halves dividend johannesburg reuterssanglo gold ashanti the worlds third httptcocqydp1zl
+266416055960879106	business	financial technologies quotes exdividend financial technologies quotes exdividend financial technologies in httptcoexymhsop
+266410512558993408	business	burberry raises interim dividend 14sburberry group posts betterthanexpected pretax profits httptcofzedqkrz
+266406199015124993	business	4 dividend picks from the dow jones with strong longterm earnings growthsnasdaq 4 dividend picks from the do httptcooxam2ro0
+266405066884382720	business	marijuana prohibition going up in smoke high hopes for a drug war peace dividendsforbes httptcobew0q6mp
+266402183250079746	business	hwbk hwbk exdividend reminders91212 httptcol9nipw1e stock trade investment news hwbk
+266400084319674369	business	babcockswilcox q3 profit declines initiates dividend 250 mln share buyback babcockswilcox co bwc on w httptco9tei6e3d
+266392219236302848	business	apa news x factor 5 stock reaching their exdividend date on october 18 httptcogva4esbt date exdividend factor
+266388375332872194	business	swot analysis landauer as a dividendoriented investor i want to own a stock for a long time with a holdingshttptcommi7fadj
+266383518781825024	business	rt billdrennan making historynorthwestern mutual expects a more than 5 billion dividend payout in 2013 httptcoipfrxswd httptcottucglpc
+266383070163263490	business	xom news diy dividend investing vs the etf httptcozycjbchq dividend investing news
+266378927084281857	business	att unveils 14b infrastructure plan never has issues with atts coverage so this is nothing but good newsshttptcobovrq71h
+266367462482796544	business	citi dividend card offers 100 bonussup to 300 cash back httptcoflrvfsu3 via cardwisdom by jason steele
+266367189387472896	business	adamgallenberg well i was gonna buy dividend stocks but now ill get taxed on dividends and any capital gains whats left real estate
+266365172749303808	business	att unveils 14b infrastructure plan raises dividend httptcoeml6yumh
+266360364508274689	business	finding the best dividend and high yield stocks httptcota0082ljsdividends invest
+266359656937582592	business	wmt news walmart stores inc dividend stock analysis httptcomn2e4ah0 analysis dividend inc
+266355637204697090	business	lexmark declares quarterly dividend httptcopdv81bts lexmark
+266352750760165376	business	javelin mortgage investment corp announces november and decembers7 2012 globe newswiresjavelin mortg httptco3o73xncl
+266352593159192578	business	nv energy inc announces quarterly dividend las vegas nov 7 2012 prnewswiresnv energy inc nyse nve httptco0tkspsw7
+266351246850539520	business	dividend stocks continue slide in us postelection stock rout new yorkhighdividendpaying stocks took anothe httptcozdx6ldyq
+266350861503049729	business	american capital agencys results show mreits can still pay 10 annual dividend yields httptcofhsmq87s finance
+266350860601262080	business	american capital agencys results show mreits can still pay 10 annual dividend yields by saibus researchwe th httptcobbm00lcz
+266349618890170368	business	daily dividend report els stwd pgh cnk fnv httptcovemfzjev business video
+266349616910438401	business	daily dividend report apc all wm expd t httptcosd9tavkr business video
+266346393537499136	business	pennystock411 mlp etf declares q4 dividend the alerian mlp etf nysearcaamlp declared its fourth quarter 2012 distribusfinancial
+266346393394888705	business	pennystock411 mlp etf declares q4 dividend the alerian mlp etf nysearcaamlp declared its fourth quarter 2012 distribusfinancial
+266344404116185088	business	making historynorthwestern mutual expects a more than 5 billion dividend payout in 2013 httptcoipfrxswd httptcottucglpc
+266343939521536000	business	fox news mlp etf declares q4 dividend httptcodklpcm33
+266340991051632641	business	legmainstay long term buy leggettsplatt stock bouncing dividend yield still juicy at 43sforbes httptcobha1arex
+266338464943992832	business	copall the better for cop 18 dividend yield butsblk cop gnisfoolish blogging network httptcoxyismuar
+266335974982840320	business	httptcofiawxu2q mlp etf declares q4 dividend httptconsttckew httptcox9l7aoa3
+266330793289322496	business	mlp etf declares q4 dividend the alerian mlp etf nysearcaamlp declared its fourth quarter 2012 d httptcovopos8hz yahoo uco
+266329991858499585	business	att to invest 14b in networks increases dividendsbloombergnews httptcoh9tckezn
+266329991254536195	business	att to invest 14b in networks increases dividendsbloombergnews att to invest 14b in httptco8fg8auh5 news breakingnews
+266327497724018688	business	126613 tredegar board declares dividend httptcofmvkpkli lln
+266324337634729984	business	chort0 so sell the big gainers and anything paying a dividend
+266324088539205634	business	daytrend at least 10 reduction in value of stocks dividend w most likely tax increases
+266323936277561344	business	dividend stocks continue slide in us postelection stock routswall street journal httptco1iqlvgnj b2b
+266318523075280897	business	vwo should i stay or should i gosedivspdr sp emerging markets dividend news httptcolyhv54rb dividend edivspdr emerging
+266317393289154560	business	pimco bond fund manager bill gross take on obamas reinforcement of dividendscapital gains tax hike must read httptcock41mrqv
+266316043327250432	business	morguard corporation announces 2012 third quarter results and regular eligible dividend tsx httptcoxamaddpa denver real estate
+266311203771543552	business	javelin mortgage investment corp announces november and december 2012 monthly dividend rate of 023 per share httptcoghihsvpz
+266311199514320898	business	javelin mortgage investment corp announces november and december 2012 monthly dividend rate of 023 per share httptco6izrrxtj
+266311199514300416	business	javelin mortgage investment corp announces november and december 2012 monthly dividend rate of 023 per share httptco1mkffzsp
+266310892784852993	business	dividend stocks continue slide in us postelection stock routswall street journal httptcorlrkjs2e
+266310480442847232	business	javelin mortgage investment corp announces november and decembersjavelin mortgage investment corp has ele httptcoofj8n3uc
+266309889343766529	business	fox news babcockswilcox 3rdquarter profit down 39 initiates dividend httptcogkwajwub
+266309301088436224	business	pm news the safest international dividend payer ive ever seen httptcouvklzxvy dividend ever iamp39ve
+266305563758051328	business	18 dividend yield buts18 dividend yield but httptcothemrxam
+266299585654308864	business	employers holdings inc reports third quarter 2012 earnings and declares fourth quarter 2012 dividend httptcooehparla
+266299584328916993	business	excel trust announces results for the quarter ended september 30 2012 declares dividend httptcox5uqxflc
+266299277360373760	business	reinasays lmao but forreal one of the best investments longterm in my opinion is pm phillip morris they always raise their dividend
+266297820376625152	business	whole foods market posts higher quarterly earnings trims salesgrowth outlook whole foods market posts highershttptcoa7i5s1t2
+266292829951754241	business	americanwriterus the truth about dividend payout ratioshttptcoq97tilpt blog httptcophi3fekf httptcol0vzj8zc
+266291516669034497	business	babcockswilcox announces third quarter 2012 results initiates dividend and announces share repurchase program httptcoke9hmcqh
+266290688403050498	business	profitable dividend paying stocks are superstars during tough days in the stock market own cat
+266289995638243329	business	babcockswilcox announces third quarter 2012 results initiates dividend and announces share repurchase program httptcoq5w3fuxh
+266289808190615552	business	babcockswilcox announces third quarter 2012 results initiates dividend and announces share repurchase program httptco8qwwxeks
+266284558327111680	business	4 financial dividend stocks pulling in profits and shunning debtsseeking alpha httptco12tmkvq7 b2b
+266280403902541824	business	industrial reits dividend yield outperforms core property types httptcoguruja7m cre realestate
+266279322195730434	business	4 financial dividend stocks pulling in profits and shunning debt by zetakapwe all know people who tend to thin httptcoihoyt9mj
+266279303837257728	business	4 financial dividend stocks pulling in profits and shunning debt httptcobh3muivp finance
+266277473338155009	business	mfrtechstredegar board declares dividend httptcocmtyvxwj
+266275966941274114	business	tredegar board declares dividend httptcofdcf13oq
+266271430914736128	business	prospect capital this 11 yielder pays dividends monthly and is worth buying now by hawkinvestdividend stocks httptcondhdy8dz
+266270250465628161	business	wag news top ranked dividend stock wag is oversold httptco4c3aegao dividend news oversold
+266267930969374720	business	mo news indicated dividend yield ranking for the sp 500 by industry httptco2xozisqi dividend indicated industry
+266260315765895168	business	newly reelected president barack obama will push for higher taxes including a dividendtax hike that will cause a huge drop in stocks
+266260173461536769	business	election is over wondering if aapl goog msft or xom will issue a special dividend before yearend
+266259483578224640	business	kaman board of directors declares dividend httptcoy1jlyfv6
+266256996611796992	business	stockssevergreen stocks 4 favorite dividend ideas httptcobds5uq2o
+266252660339011586	business	2 dividend powerhouses that can replace mreit yields httptcodqwtm4gk
+266247437360979968	business	get a 96 special dividend from this retailer httptcob3hmskic
+266243496799780865	business	so much for investing in high dividend stocks
+266239979691335680	business	there goes my dividend check just as i predicted would happen im not going to apologize for wealthsnot having a student loan notsorry
+266239795255209984	business	why am i obsessed with dividend growth stockssseeking alpha httptconflosxrx b2b
+266232667522084864	business	lexmark declares quarterly dividend httptcoojaqxanr
+266232203107774465	business	get a 96 special dividend from this retailershttptco3xibcvpi
+266230907273363457	business	yeah dont get your magic undies in a knot rtsfear the dividend tax reaperhttptcoa2dol6zq
+266230365386076161	business	att unveils 14b infrastructure plan raises dividendsatt plans to invest 14 billion over the next three yearsshttptcofkh9vvm0
+266229767307665408	business	get a 96 special dividend from this retailer bke httptcou902s9ym
+266228531128827904	business	daily dividend report els stwd pgh cnk fnv equity lifestyle properties incorporated els maintained its q httptcojyjniape
+266228496639086594	business	dividend seekers should buy nly off triple bottom 141425supside to 20 with 135 div yield
+266228465123086336	business	dividend seekers should buy nly off triple bottom 141425supside to 20 with 135 div yield
+266224982638600193	business	centrica an ftse 100 dividendraising star httptconv5lviog
+266224227617751040	business	rt k1ng3r15 funny how the dow jones goes down drastically day after obama is elected investors are worried about his capital gains and dividend taxes
+266224066380300288	business	att unveils 14b infrastructure plan raises dividend att plans to invest 14 billion over the next three yea httptco2pqf3ggg
+266224062232133632	business	att unveils 14b infrastructure plan raises dividend att plans to invest 14 billion over the next three yea httptcouulao42a
+266221567355273216	business	pm news top dividend stocks favored by todd veredus httptcoc7xdlo44 dividend favored news
+266220470377017344	business	daily dividend report apc all wm expd t in other dividend news anadarko petroleum corporation apc maint httptco1kedc23d
+266214246105358336	business	rt allthingsd att unveils 14b infrastructure plan raises dividend httptcoinipvzzc
+266213244111290369	business	att unveils 14b infrastructure plan raises dividend att inc said it plans to invest 14 billion over httptcozlvzirte internet
+266212822558572545	business	funny how the dow jones goes down drastically day after obama is elected investors are worried about his capital gains and dividend taxes
+266211335270981632	business	luck is a dividend of sweat the more you sweat the luckier you getsray kroc
+266211103867015168	business	steven cohens 10 favorite dividend stock picks httptcoozjlxzn9
+266210675259473920	business	httptcohtzvtwuw blog att execs are confident about spectrum position cnet att executives httptcoxxeo1r6y
+266209303189417985	business	bryceprowess dafunkinbest overfunded cash value life insurance from a mutual company that pays dividend higher than inflation
+266208487191748610	business	castlesburning agreedsbut hard is not impossible and i have to believe in a karmic dividend somewhere oooh deep smile
+266205955769905152	business	dividendsincome investing is out httptcopwckw699
+266204431987654656	business	time warner beats street on profit advertisingsreuters httptcorbxzdixu time warner beats street on profi httptcoqhjrihjg
+266204430511263745	business	time warner beats street on profit advertisingsreuters httptcohdvxmsvo time warner beats street on profi httptcotz8epfon
+266199548509159424	business	dividend masterysarr cel irs sbsfoolish blogging network httptcorddpa1q6 via themotleyfool
+266197654596374529	business	beckyquickcnbc pimcos bill gross on squawk if dividendscap gains taxes go up stocks will be worth less 510 less at least
+266196200804470784	business	evergreen stocks 4 favorite dividend ideas httptcobds5uq2os investing
+266191928578691072	business	att will spend 14b to pumps cnet dividendcomatt will spend 14b to pump cnetatt today laid out a b httptco9del9t4i
+266190925280182273	business	att will spend 14b to pumps cnet dividendcomatt will spend 14b to pump cnetatt today laid out a b httptcorgm7lkca
+266190914194665474	business	att will spend 14b to pumps cnet dividendcomatt will spend 14b to pump cnetatt today laid out a b httptco32vlgv5k
+266190359921561600	business	httptcohtzvtwuw blog att will spend 14b to pumpscnet att today laid out a broad plan to httptco6bbuviet
+266190345811947520	business	att to invest 14 billion in networks lifts dividend businessweek att inc t the top u httptcojeo3sijg
+266190004752101376	business	att will spend 14b to pumps cnet dividendcomatt will spend 14b to pump cnetatt today laid out a b httptcomsglksjr
+266186349089021953	business	ares commercial real estate corporation declares fourth quarter 2012 dividend of 025 per common share and repo httptco9i9uwypr
+266184157388996608	business	2 dividend powerhouses that can replace mreit yields by regarded solutionsnow that the popular agency mreit se httptcogz1wuenp
+266181346685231104	business	att answers higher dividend tax rates with premature dividend hike httptcowgv8bj5s
+266180000892461058	business	franconevada q3 beats lifts dividend agrees to buy weyburn net royalty interest for c400 httptcon0inioxg
+266176966103814145	business	nasdaq expands index business with purchase of mergent dividend achievers httptcolkykplpf
+266172359533277185	business	commonsensespimcos gross on squawk if dividendscap gains taxes go up stocks will be worth less 510 less at least
+266172169606815745	business	bke is beating obama to the punch expecting the lower dividend tax to be eliminated next year is my guessshttptco4lngh6jr
+266170680838590465	business	ares commercial real estate corporation declares fourth quarter 2012 dividend of 025 per common share and reports httptcoxvxgxbmu
+266170535929602048	business	ares commercial real estate corporation declares fourth quarter 2012 dividend of 025 per common share and reports httptcocbfdopp6
+266169631465680896	business	some are blaming 265 dividend for aapl fall 2day anyone who holds this 600 dollar dog for 265 dividend needs to check his head
+266165222409109505	business	if cap gains rates and dividend tax rates go up next year look for more selling into the end of the year
+266141914108141568	business	retail shop inland real estate should you buy this 7 dividend yield yahoo share wi httptco7twbfuui httptcoevgyh13i
+266138273070596096	business	monroe capital corporation announces fourth quarter of 2012 dividend of 034 per share httptco9wqpmwwk
+266133104094228481	business	uk bus and rail operator firstgroup freezes dividend in the wake of the west coast main line debaclesreuters httptcolkz8xagq
+266133102856908801	business	uk bus and rail operator firstgroup freezes dividend in the wake of the west coast main line httptcoxgmxwopc news breakingnews
+266130479458172928	business	pm why pinnacle west capital is a top 10 utility dividend stocksmore pnw pinnacle west capital news httptcosgpeuo60spnw
+266123944673832960	business	inland real estate should you buy this 7 dividend yieldsseeking alpha httptcooutdv98h
+266122431788367872	business	inland real estate should you buy this 7 dividend yield httptcokbhsgtwh finance
+266122428676206592	business	inland real estate should you buy this 7 dividend yield by kapitallbased in oak brook il inland real esta httptcoeh5aww1f
+266108730020597760	business	yahoo finance carnival corp a dividend boost candidateshttptcor7sqhhuq casino news
+266060875205595138	business	t news top dividend stocks favored by columbus circle investors httptcopevzzxej circle columbus dividend
+266054714041434112	business	new blog posting top dividend stocksshttptcoljgmefwg
+266048668128407552	business	the nea dumbing down of public education has paid its dividend deadrepublic
+266040087635165184	business	leggettsplatt stock bouncing dividend yield still juicy at 43 innerspring mattress components leggettspl httptcol1vvapns
+266037138510970880	business	are highdividend yielding utility stocks overvalued httptcouekxr6jv duk exc fe so spy ttm xhb xlf xlu
+266035412592627712	business	caseykim12 sell your dividend stocks and funds
+266034302029008898	business	time to invest in land in canada soon to have to largest navy continue buying gold bars and see my dividend checks keep shrinking hell
+266025247453614080	business	pxd plum creek timber company inc announces quarterly dividend of 042 pers more plum creek timber com httptcorfmvw8sbs042
+266024501693788161	business	mattzakrowski i thought he was pretty clear cut death tax keep current capital gainsdividend tax etc
+266015216410705920	business	daily dividend report kop pool agii ottr emr httptcoyufsotja business video
+266012698062503936	business	dividend paying stocks and mutual funds may plunge tomorrow with an obama win
+266010107882639360	business	infinity property and casualty corporation declares quarterly dividend 6 2012 prnewswiresinfinity propert httptcologzxtbv
+266008041416167425	business	avon announces reduction in quarterly dividendsavon productss httptco1f7d6yaj
+265994678262980608	business	cmi cummins incs dividend prospectssmore cmi cummins inc news httptco41w0l4lmscmi
+265982750882926592	business	us bancorp ride this financial stock 12 higher in 12 months by dividend kingsin light of the big bank bail httptconsefiwqe
+265981990631788545	business	making historynorthwestern mutual expects a more than 5 billion dividend payout in 2013 httptcoipfrxswd httptcogrddkso0
+265972274597855233	business	telular wrls raises the dividend againsincreases guidance httptcokrdyzlmr
+265970010961375232	business	daily dividend report enr nyx csl slh pl httptcotyfiyh1b business video
+265964891649765377	business	christmas coming early for aol shareholders with 445m dividendsforbes httptcow2gdgfw7
+265958298300317696	business	pengrowths decision to end its premium dividend program was the right move httptcohejytwst stocks
+265957928408866817	business	new job dividendsreorg specialist sterne ageesestablished in 1901 sterne agee is one of the oldes httptco1uxhvqcb hiring
+265951226515054592	business	horizon technology finance announces financial results for the third quarter 2012 and quarterly dividend of 045 pershttptcoscn4zogo
+265951209494568961	business	4 dividend picks from the dow jones with strong longterm earnings growthstrefis 4 dividend picks from the do httptcohz7bnvtw
+265951205904240640	business	horizon technology finance announces financial results for the third quarter 2012 and quarterly dividend of 045 pershttptconjrpz7ur
+265951205560299521	business	horizon technology finance announces financial results for the third quarter 2012 and quarterly dividend of 045 pershttptcouxbztqfa
+265950210008698881	business	bank of america a buy ahead of potential dividend payout increase httptcodjiwdaqt stocks
+265949097301770240	business	qcom indicated dividend yield ranking for the sp 500 by industrysmore range resources corporation ne httptcoxuhadw7fscorporation
+265947615915560961	business	commented on stocktwits verified that record date is 12th and ex is tomorrow httptcotcl2j42a aapl httptco9qe16nlt
+265946848362119168	business	franconevada announces third quarter results and 20 dividend increase cnw groupsfranconevada announces t httptcofyzmzmsh
+265946759312859136	business	forbes leggettsplatt recently raised its quarterly dividend by a penny or 36 to 29 cents per share marking httptcozhjnmd1e
+265943731700649986	business	gibson energy inc declares dividend all financial figures are in canadian dollarscalgary nov 6 2012 prn httptcoyktno3dt
+265941262920740864	business	horizon technology finance announces financial results for the third quarters istockanalyst httptcoaqz2apqy
+265937939161300992	business	eog news indicated dividend yield ranking for the sp 500 by industry httptcom1je8utq dividend indicated industry
+265937636064112642	business	horizon technology finance announces financial results for the third quarter 2012 and quarterly dividend of 045 pershttptcobgaeva5w
+265937630766714880	business	horizon technology finance announces financial results for the third quarter 2012 and quarterly dividend of 045 pershttptco3mclctow
+265937630611517440	business	horizon technology finance announces financial results for the third quarter 2012 and quarterly dividend of 045 pershttptcoh5wkrpea
+265937629680369664	business	horizon technology finance announces financial results for the third quarter 2012 and quarterly dividend of 045 pershttptcoco1eoznp
+265937625058263040	business	horizon technology finance announces financial results for the third quarter 2012 and quarterly dividend of 045 pershttptcoxpijqgfo
+265937615985979392	business	horizon technology finance announces financial results for the third quarter 2012 and quarterly dividend of 045 pershttptcoveijcvng
+265937615923081216	business	horizon technology finance announces financial results for the third quarter 2012 and quarterly dividend of 045 pershttptcooglxuubw
+265937614446665730	business	horizon technology finance announces financial results for the third quarter 2012 and quarterly dividend of 045 pershttptcohrulenzg
+265937611892334592	business	horizon technology finance announces financial results for the third quarter 2012 and quarterly dividend of 045 pershttptcor0tqfgxo
+265937611800080385	business	horizon technology finance announces financial results for the third quarter 2012 and quarterly dividend of 045 pershttptco9j1ivlqt
+265937611745529856	business	horizon technology finance announces financial results for the third quarter 2012 and quarterly dividend of 045 pershttptcogtpobeic
+265937611732967424	business	horizon technology finance announces financial results for the third quarter 2012 and quarterly dividend of 045 pershttptcouha87glz
+265937611573587972	business	horizon technology finance announces financial results for the third quarter 2012 and quarterly dividend of 045 pershttptcodpyflp6d
+265936377122795520	business	gsk news glaxosmithkline raises dividend to yield 52 httptcoeiqoyqw5 52 dividend news
+265930064108085249	business	buckle announces 450 special dividend httptcoxz6hoxsz
+265929543741751296	business	windstream declares 25cent quarterly dividendslittle rock arkswindstream corpamprsquos nasdaq win boar httptcorml48tsh
+265929543691407361	business	windstream declares 25cent quarterly dividendslittle rock arkswindstream corpamprsquos nasdaq win boar httptcoxgcn9ayq
+265929296399462402	business	molycorp declares preferred dividend httptcolvinqezi
+265928877354909697	business	hardinge inc declares quarterly cash dividend httptco1ztkddzg
+265927924853649409	business	expeditors announces semiannual cash dividend of 28 httptcoatbvvbgm
+265927108776321024	business	plum creek timber company inc announces quarterly dividend of 042 per share httptcoyn0voquu
+265927104250642432	business	waste management announces cash dividend httptco58wsjys9
+265925678774497280	business	the buckle inc announces a 450 per share special cash dividend and a 020 per share regular quarterly dividend httptcokhcf6j1q
+265924818300461057	business	plum creek timber company inc announces quarterly dividend of 042 per share httptcobhmpl8vm
+265921879171268608	business	commented on stocktwits on ex dividend date stock price reduced by dividend prior to market open httptcopjtqbntu
+265920530685767680	business	aapl dividend payable november 15 2012 to shareholders of record as of close of business on november 12 2012 httptcooj5uyqvr
+265919823601602561	business	commented on stocktwits read about dividendsrecord date httptcomsblgmso aapl httptcoqrutn0k1
+265911579332194304	business	windstream declares 25cent quarterly dividend httptcoah1cc28w
+265910758636920832	business	this steel behemoth could burn its dividendhttptcovczlaczg
+265910307287867392	business	cinemark declares quarterly cash dividend of 021 httptco7i1ky7ab
+265904943670628352	business	5 tempting dividend stocks to stay away fromskro mdp pbi swy rgrsfoolish blogging network httptcodjxsap5a via themotleyfool
+265904926796939264	business	daily dividend report kop pool agii ottr emr koppers holdings incorporated kop maintained its quarterlyshttptcoltkqvydq
+265902695582404609	business	lockheed martin a must buy dividend king httptcofyqaf53u lmt
+265902276353351680	business	mrk news indicated dividend yield ranking for the sp 500 by industry httptco1ji8o1bk dividend indicated industry
+265898976300126208	business	annaly capitals dividend yield will be threatened if fed accelerates mbs buying plan httptcotijcazgq nly agnc
+265898660263518208	business	dividend growth model portfolio update income growth gainers and decliners httptcolzjatdnn
+265895297278959616	business	anything in aol besides that 515 dividend httptcozhjdsuzp stocks
+265889030258954240	business	annaly capitals dividend yield will be threatened if fed accelerates mbs buying plan httptcoj8iopv2e
+265888196058034176	business	braiden harvey amazon lockers on their way to staples storessreportscnet dividendcomamazon lockers on the httptco1axlrleo
+265887454446383104	business	annalys q3 earnings and rmbs valuations indicate another dividend cut is coming httptco0l1jmhhr finance
+265887450797326336	business	annalys q3 earnings and rmbs valuations indicate another dividend cut is coming by zvi baron monday november httptcowgxe0wbo
+265883311124144129	business	businessnewstop news summary freddie mac earns 29b in q3 pays us treasury 18b dividendswashington post httptcof1ij1dvi
+265883036267184128	business	business news summary freddie mac earns 29b in q3 pays us treasury 18b dividendswashington postsnews
+265881784544288768	business	nly news homesstock pickssdividend stockssdont chase the obvious reits httptcoumyzh0nj chase dividend donamp39t
+265880173797318656	business	luck is a dividend of sweat the more you sweat the luckier you getsray kroc
+265872512930422785	business	kellogg company a dividend stock to buy httptcofw7u2wuq k
+265872422392176640	business	daily dividend report enr nyx csl slh pl energizer holdings incorporated enr maintained a dividend of 40 httptcoftisdjrv
+265866226813788160	business	luck is a dividend of sweat the more you sweat the luckier you getsray kroc
+265865682447638528	business	this 85 dividend yielder is a cash flow machine httptcoyazulcev ftr
+265854975882690561	business	yet signs point to an obama win high dividend payers are down mixed sentiment today
+265852882388131840	business	safe after sandy 7 utility stocks this week httptcogxffv9rn aep dpm ed etr fe se te stocks news dividend invest
+265849479587049472	business	forbes as president obamas chances of winning have improved in recent weeks shares of stocks that pay rich di httptcoqecfdvst
+265848548908736512	business	own dividend stocks root for romney as president obamas chances of winning have improved in recent weeks sha httptcocyubjsre
+265846077058580481	business	carlisle companies declares regular quarterly dividend httptcogc6yxlkt
+265845526061256705	business	dividendsincome investing is out httptcopwckw699
+265844375278481408	business	carlisle companies declares regular quarterly dividend httptco18wbhc4y
+265844291463704577	business	own dividend stocks root for romneysforbes httptcoijkym5lt b2b
+265840049306865664	business	braiden harvey christmas coming early for aol shareholders with 445m dividendsforbes my moinfochristmas comi httptcohlzrfj84
+265835569265930240	business	business christmas coming early for aol shareholders with 445m dividendsforbessnews
+265833861877993474	business	cash dividend on the way from gold resource corp goroshttptcowqq7wbpv
+265831971257716736	business	billionaire ray dalios top dividend pickssetn jnj wagsfoolish blogging network httptcosrsvcy69 via themotleyfool
+265831427122278400	business	annaly capitals dividend yield will be threatened if fed accelerates mbs buying plan httptcohcj8xa3g finance
+265831426132430848	business	annaly capitals dividend yield will be threatened if fed accelerates mbs buying plan by qineqtannaly capitalshttptcowxlitkvx
+265827638919168002	business	kingfisher chief may consider special dividend or share buybacks httptcomavf2jvf
+265826676003442688	business	rt kmills3230 making historynorthwestern mutual expects a more than 5 billion dividend payout in 2013 httptcote4hdneo httptcorgysqhmh
+265826335497269248	business	making historynorthwestern mutual expects a more than 5 billion dividend payout in 2013 httptcote4hdneo httptcorgysqhmh
+265823927299866624	business	braiden harvey cvs caremark 3q profit up 16 pct as sales risesbusinessweek dividendcomcvs caremark 3q profi httptcorixbf360
+265817572631519232	business	textainer group holdings limited reports thirdquarter 2012 results and increases quarterly dividend httptcobtc4quvd
+265814303217709056	business	textainer group holdings limited reports thirdquarter 2012 results and increases quarterly dividend httptco7djw4t6h
+265810043331543040	business	ares capital declares additional dividend following q3 report httptcoebpbmljj
+265803535105552384	business	cpg news kellogg company a dividend stock to buysseeking alpha kellogg company a dividen httptcopg3yidt6 consumer goods
+265800051681529856	business	dglparnershomebiz dividend paying whole life insurancesthe alternative fixed income vehicles seeking alpha httptcolryqq9cw
+265798707176435716	business	argo group declares quarterly cash dividend httptcorsp3xadf
+265787108554309632	business	mfrtechsemerson increases quarterly cash dividend httptco9p42hrol
+265782893664686080	business	november 6 surprise the election day is all comes down to the trust level if your dividend has just been cut to half you know its romney
+265780403665784834	business	emerson increases quarterly cash dividend httptco9mt9b63o
+265777101267951616	business	five big dividend hikes expected very soon httptcor5gjc8th
+265767364044390400	business	silver wheaton declares q4 dividend payment for 2012 httptco8nbyqxfb
+265767248315154432	business	kingfisher chief may consider special dividend or share buybacks httptconag6xwue
+265757749277769728	business	ozlotto if you landed 6 numbers of the 7 your dividend is 347150 thats major disappointing if you got it no
+265722458227765248	business	benton harborbased whirlpool declares thirdquarter dividend httptcompczaxgf maytag
+265718732528168960	business	1 great dividend you can buy right nowsmotley fool httptcoztqsft3z swarthynews
+265713736579444736	business	rt bradloncar with as much cash as they are raking in mygn isnt going to be able to hold off on a dividend forever another very solid quarter there
+265709800422248448	business	retirement strategy the goals of the dividend investor for the long haul and a corrected update httptcovejmkq2c
+265708509264486400	business	icahn enterprises lp nasdaqiep dividend news icahn enterprises lp nasdaqiep declared a quarterly dist httptcoityukinl
+265705982238273537	business	luck is a dividend of sweat the more you sweat the luckier you net
+265692160546967554	business	max life announces maiden dividend httptco7x6t1lmf
+265685039143088128	business	with as much cash as they are raking in mygn isnt going to be able to hold off on a dividend forever another very solid quarter there
+265681573188354048	business	the dividend tax cut bush put in when he was in office are expiring soon obama wants to triple it
+265680934605557761	business	obamas dividend taxs on investors is going to kill the market no ones going to want to invest if they get taxed three times as much
+265654479230214145	business	bockaflokaflame putting your plus sign in the dividend
+265652901215608832	business	rt bockaflokaflame im no mathematician but we can make a sum when i put my plus sign in your dividend
+265652113747632128	business	rt bockaflokaflame im no mathematician but we can make a sum when i put my plus sign in your dividend
+265651724780453888	business	im no mathematician but we can make a sum when i put my plus sign in your dividend
+265649821954760704	business	making historynorthwestern mutual expects a more than 5 billion dividend payout in 2013 httptcoevsrq4ou httptconrato1wj
+265647331876167681	business	lsi lorillard inc announces quarterly dividend on common stocksmore lo lorillard inc news httptcojkmywcuusannounces
+265639144435376130	business	goldmansachs investment taxes are going up no matter who wins tomorrow httptcof0czodto via themoneygame
+265635430945406977	business	finding the best dividend and high yield stocks httptcota0082ljsdividends invest
+265608855629742080	business	that was nice a great sunset here in boulder and i just found out that i get a special dividend from nabi in 3 days
+265607600530419712	business	daily dividend report reg gg fis aem httptco20wbjqgk business video
+265603424668749825	business	commerce pays special dividend to help offset sting of tax rate changes httptco14kqgmb6 news
+265603420327661568	business	commerce pays special dividend to help offset sting of tax rate changes httptcododgatwb news
+265599811485573120	business	jimcramer looking for a basic material play with 2dividendsany suggestions
+265598623046332417	business	nabi biopharmaceuticals announces 1108sh special cash dividendsyahoo finance httptcoze2m9wkj via yahoofinance
+265596934063022081	business	confidentinvest thanks the info on unpim looking for a basic material play and a 2 dividendsany sugeestions or buy more unp
+265594170759057410	business	operations associatesdividend capital diversified property funds denver co real estate investment trustshttptcoa7kvpajc
+265590955506286594	business	chantylive to make a difference not just a dividend chanty langvermaas
+265590651188572161	business	ibm news buy ibm for likely upside driven by dividend growth httptcogp98tcwl news
+265590206298742784	business	luck is a dividend of sweat the more you sweat the luckier you getsray kroc
+265586495019175936	business	own dividend stocks root for romney as president obamas chances of winning have improved in recent weeks sha httptco23ug82fi
+265584103271854080	business	top quartile ranked dividend stock bvn becomes oversoldsforbes httptcor6f1bibf
+265579108744953856	business	are you planning for next year in 2013 dividend income is slated to be taxed as regular incomescould nearly triple for some in the us
+265572520462262272	business	why do some companies pay a dividend while other companies do not frequently asked investing question
+265565482332078080	business	briefmoodys select medical rating not affected by dividend nov 5 reuterssselect medical corps moodys httptcosueyqlom
+265564022743633921	business	among sectors energy xle china fxi materials xlb led gaining 05sto the downside xlu xlf were hit on dividend tax worries
+265563529992630272	business	ecology and environment inc declares 52nd consecutive stock dividend httptcodgvqqvs7
+265563523898302464	business	ecology and environment inc declares 52nd consecutive stock dividend httptcozmrqupkp
+265562384419127296	business	george soros 7 favorite dividend stock picks george soros is the founder and chairman of hedge fund soros fund httptcowrkeyoui
+265557592716214272	business	alancolmes he made his money and now pays dividend tax do you really want to play the whos paid their fair taxes game
+265554142704041984	business	dividend growth compounding versus interest compoundingsvia aaampblog
+265552587024125953	business	dividend etfs under the microscope httptcoojtbb3v8
+265544993282850817	business	proptrader 47 yield pe ratio below 4seinhorns a huge holder the seagate mysteryshttptcobb3gvnok httptcoea8ztg7k stx
+265543651462111233	business	top ranked dividend stock dre is oversoldsforbes httptcorgcs4tre
+265541326077050882	business	wag drop is classic head fake it went exdividend which triggered some sell orders based on stock price it shld bounce in few days
+265527987376648192	business	apples technical breakdown aaplshttptcogalb1ppl blog httptco7iiwyrvw
+265524033100079105	business	retail shop cash dividend on the way from cedar realty trust yahoo share with friends httptcowqizpbsp httptcoevgyh13i
+265521961487200257	business	daily dividend report kbw geo trlg saft vvc kbw incorporated kbw maintained its quarterly dividend of 5shttptco7b6on6fp
+265517552225095680	business	rt teganmathis nov 5 romney avoids 100 million in dividend taxes via foreign route httptcolpjizz6a
+265516669919698945	business	3 dependable dividend stocks with great 12month returnssseeking alpha httptcownwcub0l b2b
+265516077470068736	business	rt teganmathis nov 5 romney avoids 100 million in dividend taxes via foreign route httptcolpjizz6a
+265514820202291201	business	four dividend stocks to consider for healthy returnssabt bmy jnj mrksfoolish blogging netork httptcohbyipazs via themotleyfool
+265514687976857600	business	bought adm 2650 stop 2850 target ex dividend date november 13
+265514547387957248	business	buy this dividend stock to add a chocolate flavor to your retirement portfolio httptco62btgkfi hsy
+265514526642946048	business	rt teganmathis nov 5 romney avoids 100 million in dividend taxes via foreign route httptcolpjizz6a
+265512549313806336	business	rt teganmathis nov 5 romney avoids 100 million in dividend taxes via foreign route httptcolpjizz6a
+265512007518785536	business	rt teganmathis nov 5 romney avoids 100 million in dividend taxes via foreign route httptcolpjizz6a
+265511903319695360	business	goldman investment taxes are going up no matter who wins tomorrowshttptcoseyorq2g
+265511838026969090	business	nov 5 romney avoids 100 million in dividend taxes via foreign route httptcolpjizz6a
+265506950689742848	business	daily dividend report reg gg fis aemshttptcodalqf1wm
+265506803805204480	business	reit conversion with 18 special dividend yield httptcoa6azhlub
+265500203556163585	business	retail shop 2star dividend stocks poised to plunge general growth yahoo share with httptcozypgu806 httptcoevgyh13i
+265498759100760066	business	rt themoneygame goldman investment taxes are going up no matter who wins tomorrow by ljkawa httptcopkqptguy
+265496101975625730	business	chocolate buy this dividend stock to add a chocolate flavor to your retirement portfoliosseeking alpha buy t httptco2dphknn1
+265494876274176000	business	bac is considered extremely undervalued and an increased dividend could entice more to invest httptcobzh59db7 investing
+265491620487647232	business	reit conversion with 18 special dividend yield httptcovrpvs44f
+265490785758224384	business	shareholder yield dividendsbuy back per jim oshaughnessysgood olehorse sense
+265489935748968448	business	aapl dividend this tuesday 265will pop595
+265488866067243008	business	rt topetfstocks hgiguggenheim international multiasset inc news the indomitable rise of dividend etfs httptconyecbdvy
+265488319486521344	business	hgiguggenheim international multiasset inc news the indomitable rise of dividend etfs httptconyecbdvy
+265481430447046656	business	4star dividend stocks poised to pop ups ups httptcoo1pnfevx
+265481359378747392	business	2star dividend stocks poised to plunge general growth ggp httptcouimmcm3f
+265481198342639616	business	dividendsincome investing is out httptcor8ti44xhstop stories today via getrichstayrich
+265480456017956864	business	update silver wheaton down 2 on tsx as q3 profit dividend miss silver wheaton slwto httptco74cuiobq
+265479983886118913	business	goldman investment taxes are going up no matter who wins tomorrow httptco5c1h0l5y via businessinsider
+265478531113443328	business	12 fast growing dividend stocks from the dow jones index some people might say that the do httptcoe91prycd httptcokohpfv0j
+265475418952433665	business	2star dividend stocks poised to plunge general growthsdailyfinance httptcozhetqfpn b2b
+265472592125763584	business	rt paulzimbardo 5 diverse dividend companies to consider httptcopfsy69n1 acg intc kfn nyb stx dividend intel stocks investing news
+265472181713121281	business	5 diverse dividend companies to consider httptcopfsy69n1 acg intc kfn nyb stx dividend intel stocks investing news
+265472049319903235	business	new on fwisp dividend growth compounding versus interest compounding httptcotbybuy0v
+265468707432701952	business	gerber with a dividend increase of 50 our dividend yield will be 23s24 above the average of the sp 500 and sp financials
+265468525890633729	business	watch for overlap among lowvol and highdividend funds although fund shops often promote the strategies diffe httptcobzusawgo
+265466956814090241	business	nem added as top 5 metals channel dividend stock with 287 yieldshttptco8fmfehb3
+265465351783981056	business	tomczyk best strategic and financial use of our capital in 2013 is to pay down debtsincrease our dividend by 50 or by 003 to 009q
+265461990556835841	business	making historynorthwestern mutual expects a more than 5 billion dividend payout in 2013 httptco7qko867a httptcoqfd4br0a
+265461945229004801	business	making historynorthwestern mutual expects a more than 5 billion dividend payout in 2013 httptco7qko867a httptcoo9mimon4
+265459263923707904	business	is this a dividend to die for or from pbi httptcoarpliuz3
+265458963984834560	business	ares capital corporation declares fourth quarter dividend of 038 per share and an additional dividend of 005 pershttptcod7q1njib
+265458962978205697	business	ares capital corporation declares fourth quarter dividend of 038 per share and an additional dividend of 005 pershttptcofkb05xdl
+265458962818797568	business	ares capital corporation declares fourth quarter dividend of 038 per share and an additional dividend of 005 pershttptcocduavbgv
+265458961724100608	business	ares capital corporation declares fourth quarter dividend of 038 per share and an additional dividend of 005 pershttptcoi3behd16
+265458961636003841	business	ares capital corporation declares fourth quarter dividend of 038 per share and an additional dividend of 005 pershttptcogfuwdhn4
+265458961443090433	business	ares capital corporation declares fourth quarter dividend of 038 per share and an additional dividend of 005 pershttptcoqinvbpat
+265458960805535744	business	ares capital corporation declares fourth quarter dividend of 038 per share and an additional dividend of 005 pershttptcok6pwf3fl
+265458960675524609	business	ares capital corporation declares fourth quarter dividend of 038 per share and an additional dividend of 005 pershttptcotinhicjw
+265458960616787968	business	ares capital corporation declares fourth quarter dividend of 038 per share and an additional dividend of 005 pershttptcobi2vvhb0
+265458960188964864	business	ares capital corporation declares fourth quarter dividend of 038 per share and an additional dividend of 005 pershttptcojiskdo4x
+265458959920537602	business	ares capital corporation declares fourth quarter dividend of 038 per share and an additional dividend of 005 pershttptcockigsjwt
+265458957986975744	business	ares capital corporation declares fourth quarter dividend of 038 per share and an additional dividend of 005 pershttptcolobtsgzm
+265458957731119105	business	ares capital corporation declares fourth quarter dividend of 038 per share and an additional dividend of 005 pershttptcof3hj2mlu
+265457784471035904	business	making historynorthwestern mutual expects a more than 5 billion dividend payout in 2013 httptcoipfrxswd httptco09zeggu5
+265455854185230336	business	4 dependable dividend stocks that cramer likessseeking alpha httptco9pcf7aqx b2b
+265455851043688448	business	finding the best dividend growth stockssseeking alpha httptco7lc0kkdx b2b
+265446816349294592	business	the worlds best dividend portfolio exc ngg pcl roic ssw httptcojiyxz2bw
+265446656445652992	business	the 1 dividendyielding railroad company you need to know nsc unp httptco3d8ir29y
+265445969758396416	business	3 outperforming stocks with good dividend yieldssclmt pmt sccosfoolish blogging network httptconneexpl2 via themotleyfool
+265445777445355520	business	what if exelon did cut their dividendsd duk exc nee sosfoolish blogging network httptcopod4o16i via themotleyfool
+265444980150124544	business	insurance insure who is the worlds biggest dividend investor httptcohq9dfwyb
+265444365982396417	business	sypris declares cash dividend of 002 per share httptcogdxrlv0d
+265442822918914049	business	ares capital corporation declares fourth quarter dividend of 038 per share and an additional dividend of 005 per httptcohgwi898d
+265442615237951488	business	ares capital corporation declares fourth quarter dividend of 038 per share and an additional dividend of 005 per httptco2y5bv7al
+265438333990207488	business	the geo group declares quarterly cash dividend of 020 per share httptcot3f7fg8y
+265436832534253568	business	hydropower indsil hydro power and manganese board recommends dividend of rs 1shttptcobhee0boi
+265435314762416130	business	top dividend stocks favored by columbus circle investorssseeking alpha httptco4pya7aig b2b
+265419217908666368	business	silver wheaton declares fourth quarterly dividend payment for 2012 cnw groupssilver wheaton declares fourth httptcog13ws6jv
+265419215329185792	business	news silver wheaton declares fourth quarterly dividend payment for 2012 cnw groupssilver wh httptcob3lhfwfj yahoo finance
+265418471637143552	business	cascade corporation directors approve dividend httptco8f4mt69o
+265415436668137472	business	mfrtechscascade corporation directors approve dividend httptcornmqzpzs
+265413660841766912	business	cascade corporation directors approve dividend httptcoi7j9zamt
+265411036314738688	business	rt fortraderssags corpsexdividend day for final dividendags corpsexdividend day for final dividend htt httptcodkstfwlk
+265410224343621632	business	who is the worlds biggest dividend investor httptcoifzbikf3 finance
+265410223500582913	business	who is the worlds biggest dividend investor by robert allan schwartzthere has been a lot of debate at seekin httptcokt1wxybn
+265386523665526785	business	postnl says difficult to pay cash dividend httptcobbqfqv2o
+265370510026764288	business	what if exelon did cut their dividend httptco7znxazqh
+265368731365015552	business	safe after sandy 7 utility stocks going exdividend this week utility companies were the best performi httptcoy72yaqse stocks
+265360850079084544	business	5 diverse dividend companies to consider the 2012 european situation has caused extreme market volatili httptco20df0olx stocks
+265323323406315520	business	what if exelon did cut their dividendswhat if exelon did cut their dividend httptcozts8ml8r

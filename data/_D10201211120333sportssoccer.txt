@@ -1,0 +1,1493 @@
+/usr/local/java/jdk1.6.0_37/bin/java -Xms1024m -Xmx1024m -cp :../lib/*.jar:../lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:../lib/twitter4j-2.2.6/twitter4j-async-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-core-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-examples-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-media-support-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-stream-2.2.6.jar:../lib/twitter-text-1.5.0/twitter-text-1.5.0.jar:bin UsersMentionDownload sports soccer
+sports soccer lang:en geocode:39.8,-95.583068847656,2500km
+267953399566319616	sports	vote now help name the top gac boys soccer player for the 2012 season httptcovycmfiyg stl lakesaintlouis
+267953332033818624	sports	mizzou links maclinsdanario erupt mizzoussiue soccer heartbreak and 1 wrestling points httptcoyzqfej2e
+267952836942376960	sports	liamxmilos stop drinking redbull and watching the soccer notagoodmix
+267952648966262784	sports	vote now help name the top gac boys soccer player for the 2012 season httptcouymfqkt0 stl ofallon
+267952537984958464	sports	todays football trivia who was the 1st player to score hattricks against the same club in both matches of a pl season httptcoor1d4rnt
+267952489201008640	sports	todays u21 premier league games everton v blackburn reading v bolton villa v sunderland newcastle v man united httptcojoplmqwj
+267951893937008640	sports	soccermourinho happy with adaptable real after levante win httptcocrjkawpc socceraround
+267949802199855104	sports	finally the soccer stuff has came in
+267948172897308672	sports	im hatrick super soccer monday
+267948060934537217	sports	league chairman is now surfing with a new smart mobilehttptcopmef5dolgrassroots football soccer footy
+267947986137538561	sports	seattle soccer player suspended three games for antigay slur another day another pro athlete in trouble for u httptcodi0vhany
+267947985227362305	sports	seattle soccer player suspended three games for antigay slur another day another pro athlete in trouble for u httptcojm2sywdo
+267946981396185088	sports	lancaster mennonite blazers back in piaa boys soccer semiss lancaster mennonite the defending piaa httptcojazcgqrt newtag
+267946330834489344	sports	izzlovessoccer what soccer
+267945746890891264	sports	jayjayhohola bro play ice hockey instead of soccer in canada u will get beautiful white chickssa happy life speedy singh is awesome
+267944495583207424	sports	at least playing soccer with bro made my day
+267944428432392192	sports	bathe play soccer now bathe again
+267943851572989952	sports	rt thedurbster19 if your dating a soccer player raise your handsif not raise your standards soccergirlsarethebest
+267943740948234240	sports	so gonna ditch street soccer
+267943667157831680	sports	rememberanceday shows the good side of grassroots football httptcoiumxqokbsoccer footy nefollowers
+267943328329375745	sports	italy 51 egypt match 41sround of 16nakhon ratchasima korat chatchai hall httptco2ixsm1pc
+267942118583042048	sports	rt uswntgymfan tobinheath thanks for being the best inspiration to mesalways smiling not to mention your insane soccer skills weloveyoutobin
+267939811766194176	sports	womens pro soccer back in the usa 2013 bostonbreakers iblue aco1 awesometeam 78a281eashttptcopdg1guoo
+267938218597576705	sports	waiting for the rain to stop then off to soccer with buddies
+267936619984728064	sports	given the all clear to play soccer again sweet
+267935594464821248	sports	this weather how to play soccer firstwolrdproblems
+267935371520790528	sports	yoeeeh besoook beli rt irfanbachdim10 new indonesia jersey aff here we come httptcoducvkdey
+267935098794541056	sports	digest terps top unc 21 for acc mens soccer title today we played a great game our best game of the year httptcorhtaeq5m
+267933282006605825	sports	3 store for pro down left footed soccer style kicking tee order nowss compare more product and informa httptcodmz1l7ht
+267931189082456064	sports	i wish my sister was awake so we could talksstupid soccer practice
+267930872634818560	sports	lancaster mennonite blazers win state boys soccer openers cj sturges and ian httptcoeyigduek lancastermennonite newtag
+267930600860708865	sports	jennie garth coaches soccer as ex engages ins celebrity gossip jennie garth and peter facinelli attended f httptco2h2scfhe
+267929785206976512	sports	notice how there are absolutely no hot black girls on the team httptco28dyktjx thats because its a white girls sport
+267929407107235840	sports	rt mindendick kennbonnallie has soccer cleats on her header mustbeadime
+267929346486984708	sports	kennbonnallie has soccer cleats on her header mustbeadime
+267926662849630208	sports	gilberto silva midfield concept has changedshttptcoogjbujgy httptcoq06um1d4
+267926028385673216	sports	lancaster mennonite blazers back in piaa boys soccer semiss lancaster mennonite the defending piaa httptcojazcgqrt newtag
+267925517032906752	sports	tbsteez no man i tore a tendon in my foot tonight in soccer
+267924719192387584	sports	rt uswntgymfan tobinheath thanks for being the best inspiration to mesalways smiling not to mention your insane soccer skills weloveyoutobin
+267922167520428032	sports	rt pprjfleague pprjfleague match reports are in this weeks hexhamcourantthanks to courantsport football soccer footy
+267921308703133696	sports	rt uswntgymfan tobinheath thanks for being the best inspiration to mesalways smiling not to mention your insane soccer skills weloveyoutobin
+267920537139953664	sports	rt iravxdxbuettner soccer is so much fun
+267920216040816641	sports	i cant fall back asleep but at least soccer is on the mind
+267919443391311872	sports	soccerpalaces zaha celebrates birthday with england callup httptcoeqfxless
+267919440090365952	sports	messi passes peles goal milestone the goals just keep flowing for lionel messi who on sunday surpassed soccer httptco912peyxy
+267919054856151040	sports	i see softball and soccer leagues and tourneys but why no basketball ones thatstheshitidontlike
+267919035751092224	sports	look what i found on ebay httptcocvyhl3uu
+267918514373943298	sports	drove by the lgv soccer field and its the kids team practicing soccer watching my little cousins playshttptcolewxwyi4
+267918262208196609	sports	soalsoccer true blue
+267917804966146049	sports	soccerpalaces zaha celebrates birthday with england callup httptcotj0xenji socceraround
+267916654405632001	sports	so jesusmtz11 amazing sophomore he is really cool and swag to chill with plus great sweeper in soccer go follow him ps look at the time
+267916177060270080	sports	college roundup bowdoin ousted in soccer from staff and news services ithaca nysellyn grantkeane scored httptcoqlrhgejy
+267915572736585729	sports	soccerpalaces zaha celebrates birthday with england callup httptcostmncryd
+267915164588847105	sports	rt itsbreezietrik i miss playing soccer i really do 3
+267915150198185985	sports	rt itsbreezietrik i miss playing soccer i really do 3
+267914916776800256	sports	i miss playing soccer i really do 3
+267914569765236736	sports	soccer is so much fun
+267913129537728512	sports	soccer lionel messi scores twice to pass peleshttptcop9p4f0i5 httptco4fn2zt4n
+267912688418582528	sports	lancaster mennonite blazers win state boys soccer openers cj sturges and ian httptcoeyigduek lancastermennonite newtag
+267911690820132864	sports	soccerchelsea duo to miss nigeria friendly in miami httptcohv4oeajy
+267911117651722240	sports	tailgate to heaven looks at the glory of football i grew up in east london surrounded by soccer but as soonshttptcop5lpufmi
+267910859186118656	sports	finally get to see khaicleverly for a while before it started raining hahaha smelly and sticky khaicleverly after soccer
+267909388893831168	sports	just had soccer bestfeelingever
+267908470278340608	sports	hodgson we need to have a successful team in the first part of an exclusive twopart interview with httptcocqivi15h
+267908411956551680	sports	guizhou renhe in lampard talksshttptcoogjbujgy httptcohelmt6sc
+267908383439470592	sports	arsenals wenger to strengthen squad in january soccer roundupsbusinessweek arsenals wenger to strengthen s httptcoaenouqbi
+267907849760407552	sports	jesskapowers raynebradley soccers cool thou when its the us team competing for international honorssomething on the line or skc
+267907631824384000	sports	soccerball small dots measurements high quality rubber deluxe soccer ball httptcoajq8bjtg soccerballscase of 10
+267907240512610304	sports	tomorrow back to grind pokersim very happy for ublense returns to first division into chilean soccer championshipsgood night gl2all
+267906837305774082	sports	ace bayou sports httptco8zpuvepd
+267906775712411648	sports	jesskapowers raynebradley while nfl games can end in a tie its very raretwice in the last 10 yrs soccer ends in a tie 30 of the time
+267906255237046272	sports	rt ksorensen20 starting to hate the people i play soccer with annoyed
+267906246974259201	sports	rt ksorensen20 i officially hate everyone that i play soccer with likereally
+267906237981667328	sports	soccer sweats all weekend long thoscomfortable asf
+267905894178779136	sports	soccer with fcb
+267900513373257729	sports	drake playing soccer lil wayne skateboarding and nicki minaj still calling herself a barbie doll i guess hiphop really is dead
+267900422654672896	sports	unm soccer falls to air force falcons score late edge lobos in penalty kicks httptcotvuy2uua
+267900259420749824	sports	wondering what my life would be like if i never got hurt in soccer and never started gaming cant even imagine
+267900191569498112	sports	soccerchelsea duo to miss nigeria friendly in miami httptcod0n7xhsq socceraround
+267900013974257664	sports	countdown begins for africa cup hopefulsshttptcoogjbujgy httptcotuojfjjd
+267899956860444672	sports	i fell asleep yesterday as soon as i got home from soccer tryoutslike 4 i was wore out from the long weekend but i made the team
+267899779688853504	sports	donovan we probably should have gotten the fourth goal httptcocz6xoqnv soccer
+267899237600219136	sports	now that soccer is over i am never ever hungry thats a problem
+267898446793539584	sports	suarez scores and turns around to celebrate only to find no friendss httptco00bafjg6 via rsoccer
+267898430469316608	sports	rt sincerelymen screw soccer if i wanted to watch somebody struggle to score for 90 mins id just take my friends out to the bar
+267898412698046464	sports	daaannnng ronaldo got smacked takin a bow in the game of soccer aint cool httptcond7ahe9m
+267898343877906432	sports	you know if she would have let me id be holding her right now just saying
+267896929281781761	sports	messi passes peles goals in 1 year as barca winsshttptcozumf8mst httptcoxsfxx5e6
+267896283195392001	sports	rt sincerelymen screw soccer if i wanted to watch somebody struggle to score for 90 mins id just take my friends out to the bar
+267895627223031808	sports	lufcsoccer slu wins atlantic 10 soccer title siue awaits tournament announcementssouthern illi httptcopqs65b10 youth soccer
+267894172730658816	sports	soccer galaxy gets a leg up on seattle httptcol9lnee3i
+267894083605905408	sports	soccer is so much fun
+267892809959362560	sports	soccer los angeles houston score victories in first legs of conference finals httptco3hca02c9
+267892206734557184	sports	photo theabsolutebestposts this is a great blog to follow seriously httptco8deci2sc
+267892111259619328	sports	confessionnight i wish i went through with sports i played soccer and basketball iregretit
+267892069375283200	sports	is it weird that i love getting bruises from soccer imtough
+267891875690733568	sports	i feel like ludlow varsity boys lost their soccer game its just this strange feeling im getting sarcasm calmdownpeople greatseason
+267891867516030976	sports	terry injury concerns di matteo after chelsea stuttershttptcoogjbujgy httptcolruvlqgk
+267891678327750657	sports	rt hergettje ties are for soccer not football disappointed
+267890699880505344	sports	rt saucysmokesxo a soccer player kissed me last night then i hurried up and downed shots of tequila to help forget it
+267890531265294336	sports	like playing soccer watching soccer on tv
+267890317968171008	sports	tight tried to sleep didnt work out so now im watching soccer mylife
+267889388980166656	sports	rt wuchad congrats butlergrizzlies football nice job keeping the tradition alive also good luck to the lady grizzlies soccer team bucogrizzlies
+267889297582084098	sports	rockhurst cbc chaminade and rock bridge in the final four for soccer some things never change
+267888674681782273	sports	tobinheathjr you soccer pic with alex morgan and rest of the team
+267888419651330048	sports	when you look at the date and its 1111 so you look at you clock and realize its 1115 justmissedit
+267887589095268352	sports	might be getting a job at the indoor soccer place in tulsa excited
+267887222206889984	sports	rt msumavericks combined record of 2012 minn state footballswomens soccer teams 2813 mavfam thisiswhatwedo juggernaught
+267886726473740288	sports	played worms reloaded pc and fifa soccer 13 360 in the last 24 hours httptcor1v0rozd
+267886706987003906	sports	played fifa soccer 13 360 league of legends pc and 1 other game in the last 24 hours httptcorg6sjyxo
+267886703790919681	sports	kaileymathis22 oh come on it was all out of love for my favorite soccer ref buddy canthateme
+267886665756979200	sports	i better get 10 for soccer
+267886455991455745	sports	im really sad that im missing the first week of soccer conditioning
+267885928062791680	sports	la galaxy turn on the style in 30 rout of seattle sounderss9000 soccer httptcoxgsmehrm mls
+267885748211048448	sports	to me cristiano ronaldosisswill always be the worlds best soccer playerskeyword to me
+267885692531638273	sports	taylortwellman heres my opinion of the playoffs used a quote from you httptcokzzntftm
+267885447324237824	sports	soccer n fam all in one day fuckin amazing
+267885283389874176	sports	chavez9martin fuck fuck fuck i need to play soccer soon on me
+267885277287165952	sports	mls playoff format flawed has no credibility with true fans httptco2sphnttt via post
+267884873056911360	sports	privatejettt you cute little soccer players and your fifa
+267884755977117696	sports	gold coast dragons will hope to be admitted in to the aleague by 201516 if chinese investors including the httptcop35vujwx
+267884231143878656	sports	rt highpriestque bob marely jimi hendrix soccer in the dressing room httptcoc6qyxkuv
+267884182477352961	sports	tobinheathjr soccer picture or dope
+267883635619790849	sports	txrevosaurus why do midgets always laugh when playing soccer because the grass tickles their balls jokes that was cold trevorsha
+267883421521547264	sports	lanus move third after tigre winshttptcoogjbujgy httptconajdqm6o
+267883390915723264	sports	rt jocelynv soccer practice tomorrow morning poooooop i wanted to sleep in
+267883362159566848	sports	soccer los angeles houston score victories in first legs of conference finalsssalt lake httptcoeiufjizb
+267883361073258496	sports	slu wins atlantic 10 soccer titleshttptcolu7qqhgy httptconvzxqcyx
+267883359903031296	sports	soccer defeats tigers advances in ncaassdaily illini httptcob3i4jtzf
+267883348507119616	sports	paula broadwell soccer mom or seductresssslate magazine blog httptcobvf11ebo
+267883313396580353	sports	miami upsets lady vols in ncaa soccer first roundshttptcoelpbplf9 httptcoyox2t264
+267882663740841984	sports	soccer practice tomorrow morning poooooop i wanted to sleep in
+267882351609143298	sports	rt brettbmurray duquad i wonder if the soccer guys are gonna be running around tonight for soccer sunday if not its still sunday funday always do
+267882282176610304	sports	mserikarosegot ur soccer on to clear ur mind and knock this week outmakethisweekurbitch
+267881959684968451	sports	fcbayernmexico its a pity forkroos and schweinsteiger i like watching them to play soccerim going to miss them
+267881861974466562	sports	dude ima be home all next week we have to play some soccer
+267881405885853697	sports	lol pussy buddies sandinista we were like buttbuddies when it came down to soccer
+267881217167351808	sports	soccer rollover short puma women httptcoy4thnikq puma women039s soccer rollover short
+267881149114769408	sports	soccer is a way of life
+267880876409487361	sports	does anyone know of a good womens soccer league i can join i cant find a good one
+267880647245299712	sports	soccernation17 youre appearing offline with all your gay ass friends
+267880306227421184	sports	sc mens soccer httptcoebpv5tbg
+267880129710141440	sports	the only thing ima do tomorrow is play soccer soundsgoodtome
+267879976307662848	sports	soccernation17 i hope you and all your little friends are getting my messages read them
+267879844879142912	sports	chloelasek soccernation17 omg of course you take his side filysgay
+267879373368090624	sports	rt 1dbest5ladsever rt if you call it soccer favorite if you call it football nmalik httptcoctxqjm06
+267879162725953536	sports	played halo 4 360 and fifa soccer 13 360 in the last 24 hours httptcomrq5rnjp
+267878633618690048	sports	rt johnnym21 chavez9martin tbh your the best to me idont know wat i can do without you your 3 beast at soccer rate10000
+267878561166286848	sports	soccer later maybe too lazy
+267878456736481280	sports	chavez9martin tbh your the best to me idont know wat i can do without you your 3 beast at soccer rate10000
+267877686259617792	sports	nancycastaneda i know lol oh wells youll be my special soccer news reporter
+267877666986815489	sports	rt mbrownswag nice leather soccer cleats come from kangaroo scrotums youre welcome funfact
+267877641086963712	sports	4 soccer games this week a test a quiz and a research paper im gonna need to go home after this week
+267877472744394752	sports	rt phanny92 the soccer girls just dont like the softball girls
+267877404406583296	sports	the fun of participating in soccer betting activity httptcoajenm8x7 onlinecasinoibcbet onlinegambling casinointernet
+267877223946649600	sports	how does one try out for usa soccer team ussoccer
+267876829417861121	sports	cptskyupi9 orreannacp2000 we just use a very odd soccer ball i think its rusting
+267876669895876608	sports	why the hell is life so confusing tell me what to do man upstairs should i pursue soccer give up what career girls lost
+267876592196395008	sports	well now that hs soccer is over i have an entire day to run hoplessly in order to get more fit
+267876476962086912	sports	cptskyupi9 orreannacp2000 i dont like football either i dont even like hockey i mean a huge soccer fan
+267876456355479552	sports	rt msumavericks combined record of 2012 minn state footballswomens soccer teams 2813 mavfam thisiswhatwedo juggernaught
+267876452605759489	sports	soccernation17 chloelasek good one i totally forgot to laugh faggot swervehoe
+267876134933393408	sports	south african lesbian soccer player brutally murderedsa 19 yearold lesbian soccer player was brutally murdered by httptcomkt3gghe
+267875901520355328	sports	orreannacp2000 cptskyupi9 i play soccer often at schoolbut i wouldnt yell at a girl if they touched it jerks
+267875748797370368	sports	elliephantt i would but ill be in kansas city for soccer
+267875696884449280	sports	looks like im riding my bike to upland tmrwsjust for chriscooper6 and isaacrojas20 and braidendiebold0 and austinssmith soccer
+267875683819192320	sports	rt ausaints mens soccer earns atlarge berth joins women in naia national tournament httptco7mgiivhy ausaints
+267875569683808257	sports	skarroki its 5 at the moment so wont be long now might start playing indoor soccer soon wont be as good as tysoe what about you
+267875542051733504	sports	rt schebs congrats to au womens and mens soccer teams both are headed to the naia national championships go saints
+267875257040388097	sports	rt realmarvinpaine combined record of 2012 minn state footballswomens soccer teams 2813 mavfam thisiswhatwedo juggernaught allwedoiswin
+267875058163257344	sports	harrystyles i cant go to sleep and i have soccer tomorrowsand its 1 am here and im tired
+267875019814760448	sports	ive been watching everyone get juiced for their sport this year ooweeesonce i step on that soccer field i aint playing no games
+267874948838735875	sports	i love god jesus the holy spirit my family friends included and soccer thank you to all who have ever been in my life in any way
+267874591651807232	sports	the rams and 49ers ended in a tie today this isnt fucking soccer
+267874483157737472	sports	pwnage begins now on fifa soccer 13 httptcom7xrquf8
+267874082433953793	sports	rt sportstweets24 nd womens soccer irish hang on to win in first round of ncaasssportss httptcooblpd6io sports soccer women ncaa irish
+267873914154254339	sports	nd womens soccer irish hang on to win in first round of ncaasssportss httptcooblpd6io sports soccer women ncaa irish
+267873902439563264	sports	i posted 2 photos on facebook in the album windy soccer day httptco354g71jr
+267873589368328194	sports	rt mbrownswag nice leather soccer cleats come from kangaroo scrotums youre welcome funfact
+267873519164067840	sports	nice leather soccer cleats come from kangaroo scrotums youre welcome funfact
+267873109288300545	sports	love playing soccer in the rain but not when its too cold
+267873024689201152	sports	rt tulsahurricane congratulations to the latest cusa championsstulsa mens soccer way to go boys 50 over smustulsahurricane
+267873013322620928	sports	i will be the only person ever to own this hoodie uapbsoccer swac sicknasty soccer underarmor httptcowbxzk8e3
+267872877414592512	sports	familyretainer yancyandyancys yepand the strange attachment to the soccer ball has me worried too
+267872805645873152	sports	rt wuchad congrats butlergrizzlies football nice job keeping the tradition alive also good luck to the lady grizzlies soccer team bucogrizzlies
+267872707557863424	sports	rt 1dbest5ladsever rt if you call it soccer favorite if you call it football nmalik httptcoctxqjm06
+267872349456592896	sports	rt if you call it soccer favorite if you call it football nmalik httptcoctxqjm06
+267872303570907136	sports	lancaster mennonite blazers win state boys soccer openers cj sturges and ian httptcoeyigduek lancastermennonite newtag
+267872271471894528	sports	confessionnight i always wanted to be a pro soccer player but track is now my life
+267872190538608640	sports	gotta make sure the recession dont catch up with his soccer playing ass when he retires rt nowomanisright osas89 lmao he saving money
+267872065804181504	sports	two banquets in a row this week soccer nhs
+267871972673871872	sports	rt lottevonk oh i like this one confessionnight ive stopped calling soccer the real football because i like them equally now
+267871636517179392	sports	rt lottevonk oh i like this one confessionnight ive stopped calling soccer the real football because i like them equally now
+267871610952884224	sports	played fifa soccer 13 360 in the last 24 hours httptco8ctyftnm
+267871510574817280	sports	oh i like this one confessionnight ive stopped calling soccer the real football because i like them equally now
+267871450046808065	sports	the soccer girls just dont like the softball girls
+267871224783310848	sports	rt tulsahurricane congratulations to the latest cusa championsstulsa mens soccer way to go boys 50 over smustulsahurricane
+267871192151642113	sports	rt nourieeee ratedrafael nourieeee unless u got that soccer ball buzzy lmfaoooooo lmfhooo ewkkkkkk
+267871180327899136	sports	a soccer player kissed me last night then i hurried up and downed shots of tequila to help forget it
+267871098635448320	sports	ratedrafael nourieeee unless u got that soccer ball buzzy lmfaoooooo lmfhooo ewkkkkkk
+267870936580104194	sports	hempfield lancaster mennonite punch tickets to district 3 boys soccer titles httptcooadp5usu lancastermennonite newtag
+267870598078791680	sports	confessionnight danielaa617srachcortez cant even play soccer worthless
+267870525236330496	sports	bf92 soccer korysbrobqs shinny
+267870281303986176	sports	maddiewann damn soccer balls
+267869879749705729	sports	jayde jayde is adorably sporty naked soccer play blonde shortsshttptcoqxvmizxm nsfw babes porn
+267869782186008578	sports	yup another one winning indoorssoccer 200 futbol httptcomb9808mx
+267869735000100865	sports	votemoore2013 martin luther king boys soccer team beats bronx science 4 0 in httptco01hh7a7h follow bronx news on litche
+267869602913087488	sports	sometimes people hate on soccer for ending in ties well america it just happened in football today gkorkz adambhighfill stlouis 49ers
+267869391918608384	sports	soccer sundays fifa13
+267869244170051584	sports	confessionnight not being able to do niacc soccer killed me
+267869184149573633	sports	nancycastaneda thats goodsim doing great mexicos awesome lol hows the boys soccer
+267869135239802880	sports	snoopdogg shotout 2 david beckham n the la galaxy goin bac 2 the finals of mls lakers good snoop i knew you where a soccer fan
+267869115228749824	sports	ashfoundnathan yeah i have played soccer since i was 4 my ambition is uh to meet the wanted idk you
+267868830968209408	sports	renelopez19 sure were playing soccer too
+267868317203697664	sports	i remember when brian used to be in soccer and we were at the dome like every weekend
+267868213046550528	sports	rt dibroodryk jacanews 8 1 polokwane soccer player critical 5 more in hospital and 4 killed in crash st francis bay gutted httptcoqx6hkksa
+267868181400539136	sports	jacanews 8 1 polokwane soccer player critical 5 more in hospital and 4 killed in crash st francis bay gutted httptcoqx6hkksa
+267867931407421441	sports	lancaster mennonite blazers back in piaa boys soccer semiss lancaster mennonite the defending piaa httptcojazcgqrt newtag
+267867847290675200	sports	ashfoundnathan soccerfootball
+267867780110491648	sports	lispyhonest17 soccer
+267867725932662784	sports	hold upi was playing soccer yesterday in 70 degree weather whered this snow come from onlyinmn
+267867591211642880	sports	rt mankatonews msu advances to central region finals in soccer httptcomi3cn3aj
+267867575474610177	sports	she said soccer or me ill miss her lol soccersoccer
+267867405148102656	sports	lt1dmm ooumsoccer or softball
+267867334750900224	sports	misshalleyg my feed is clogged with said photos im on my couch watching soccer
+267867065065558016	sports	so tying is something you can do in football now cuz it wasnt stupid enough in soccer winorlosenoties
+267866776556154881	sports	sunofshinnyness ohh im sorrry
+267866163105628162	sports	after soccer f1 is the most viewed sport in the world finally back in the us this weekend in austin tx
+267866139063894016	sports	rt waltizzy i been playing soccer lately and before i go to sleep i gotta rub a535 on my legs like its lotion smh
+267866116590796801	sports	up since 730am went 2 work at 8am left work at 5 had 2 indoor soccer games at 625 and 810 barely got home and my bed is calling metired
+267865917743067138	sports	i hate to say it but mexico has changed my view on soccer i love how similar it is to hockey just without the toughness
+267865744853848064	sports	confessionnight allisonlockettt sucked so bad at soccer back in the day
+267865632844939264	sports	i been playing soccer lately and before i go to sleep i gotta rub a535 on my legs like its lotion smh
+267865496953700353	sports	soccer game in a few
+267865373775388672	sports	im gonna start taking my lil bro w me to the soccer field bonding
+267865168799739907	sports	rt chilango17 ready for the leg pain after playing soccer this will feel good haha
+267864907305873408	sports	confessionnight i wish i nvr gave up on soccer and worked hard at it i miss it so much it literally cleared my mind and i had no stress
+267864824749387776	sports	confessionnight i miss our friendship almost as much as i miss soccer
+267864815295414272	sports	played fifa soccer 13 360 in the last 24 hours httptcowksputoi
+267864800770531329	sports	rt chefjordan12 if you ask yourself why it happened just look back at the countless nights and days like this then maybe youll understand
+267864714913136641	sports	espn talking about soccer and mmasjuststop
+267864391335165952	sports	ashfoundnathan my friend hates mint wait football or footballsoccer
+267864290667663360	sports	indoor soccer at 1145 in the pm is for the birds definitely having a case of the mondays in the morning
+267864164540764160	sports	tempowbr i played soccer in college and always respected what the jays do
+267864096492363776	sports	confessionnight i miss playing soccer i really wish i didnt stop regretting
+267863971481133057	sports	rt tempowbr chasepwilliams giving jays soccer a so on a week when there is husker football to drool over i like this guy
+267863912001716224	sports	wijors 1 okay heres the real madrid alltime top league scorers list for those who aresby kaylmurray httptcooc3zf5ok
+267863886055747584	sports	rt sydneyfergieson sometimes i feel like my soccer family cares more than my real family notevenkidding
+267863825267716097	sports	rt amandagossman literally sweated alcohol with isabelhalle in our soccer game tonight formalweekend strugglefest
+267863701447659521	sports	hey espn why dont u include mlsplayoff scores in your bottom scroll epl la ligasserie a not the only soccer this weekend
+267863669470294016	sports	rt johnnym21 poppin pills before a soccer game makes me feel much better nopain
+267863629515333632	sports	pablo said he would go to my soccer games
+267863592131518467	sports	rt warrenali sooo what we learned tonight is that jmaharaj868 sucks ass at soccer lol alexobey lmaooo
+267863482769227776	sports	poppin pills before a soccer game makes me feel much better nopain
+267863449890062337	sports	rt courtdamron skyyminaj lol playing pro soccer was hard
+267863344436879360	sports	hoping for a quick week then soccer on thursday pumpedup
+267863317144563712	sports	played halo 4 360 dead space 360 and fifa soccer 12 360 in the last 24 hours httptcolhklwpmq
+267863161309376512	sports	rt nettie429 i cannot believe he just ditched me to play soccer and not even in real life men
+267862953523552257	sports	skyyminaj lol playing pro soccer was hard
+267862901254139904	sports	seniortrip ncaa mens soccer national championship hoover alabama ocamachocabrera kmay6060
+267862682886107136	sports	confessionnight i love soccer more than football sorrynotsorry
+267862617471741953	sports	confessionnight i re lace my soccer shoes after every gamesand clean them oh yeah and yes i have 18 pairs of shoes callmegay imnot
+267862210359992320	sports	someone told me i should play soccer ahahahahhaahhahahaha id suck so bad
+267862091338235904	sports	i cant believe i have a tryout with oklahoma christian for soccer
+267861890754023424	sports	jeremygramley it makes me feel like im in a rec leaguetheres no ties in baseball or soccer
+267861795186823168	sports	here is the schedule for releases from the gpac this weeksmondayswm soccer allconference tuesdayshttptco39vwyg9c
+267861732159000577	sports	rt msumavericks combined record of 2012 minn state footballswomens soccer teams 2813 mavfam thisiswhatwedo juggernaught
+267861469385871361	sports	who am i gonna chill with call out whores with eat braums with talk out problems with play soccer with listen to rap with
+267861408258068480	sports	the four teams at the wustl womens soccer sectional set for nov 1617 have a 7277 combined overall record d3soc
+267861400309870592	sports	rt natscott14 httptco3xymwga5 happy days back in the game try and stop us coyd naianationals drovernation
+267861363534213120	sports	after whining on i finally got my way and got to play soccer and it felt great3 onlychildadvantages mypassion
+267861294273662977	sports	sunofshinnyness ohhh i gotcha you done yet
+267861216704217088	sports	i can only bring a duffle bag and my soccer bag on my trip thats just really inconvenient carryon
+267860874310598656	sports	literally sweated alcohol with isabelhalle in our soccer game tonight formalweekend strugglefest
+267860815850393600	sports	soccer so fucking gay smh
+267860707201122304	sports	so excited for this week concert on tues nsum soccers sweet 16 on fri and football game on sat it started with a good weekend
+267860572924678144	sports	staten island academysrye country day schoolsboys soccer httptcoahs7iprj flores
+267860572182282240	sports	staten island academysrye country day schoolsboys soccer httptcoieqbdc2x flores
+267860509104164864	sports	rt thortripp in case youre like dannyobyrnesmissed the jays mens soccer highlights tonightscreighton won the mvc title 21 13th time ketv
+267860378497740800	sports	when on the battle field of retail soccer moms marines and shopping carts are tanks 48lawsofretail
+267860080345632768	sports	played fifa soccer 13 360 in the last 24 hours httptco1l4girpt
+267860035688878082	sports	rt mrpearlfect15 i still mad the 49ers and rams tied tho lols this aint no soccer game lol
+267859771066048512	sports	rt mrpearlfect15 i still mad the 49ers and rams tied tho lols this aint no soccer game lol
+267859714828824576	sports	rt silviabezz confessionnight im italian and i hate soccer and coffee oops
+267859704032669696	sports	as wustlbears said wash u will host womens soccer 3rd roundquarterfinals next weekend httptcof9knrzmm
+267859658713214978	sports	i still mad the 49ers and rams tied tho lols this aint no soccer game lol
+267859504559951872	sports	in case youre like dannyobyrnesmissed the jays mens soccer highlights tonightscreighton won the mvc title 21 13th time ketv
+267859279753658368	sports	indoor soccer tonight was a blast
+267859122270117888	sports	soccer was my passion for four years im not gonna not support that program after what it did for me
+267859054590849025	sports	confessionnight soccer is my life
+267858986718609408	sports	soccer practice will be freezing tomorrow night
+267858853784342528	sports	rt gpacheco97 i got nothing to do tomorrow so ima just go play some soccer
+267858611294842880	sports	rt kaylabumxd shoutout to sheplaysbeast she is a beast at soccer and basketball idk why she didnt play this yearsmf
+267858308319301632	sports	shoutout to sheplaysbeast she is a beast at soccer and basketball idk why she didnt play this yearsmf
+267858258012803072	sports	way to go tulsamsoccer conferenceusa1 tulsa mens soccer wins cusa conference championship httptcov4zesy5a
+267858161787092992	sports	update 1soccerhouston la take big steps towards mls final httptcopenahwsr socceraround
+267858039221153793	sports	rt swerve7 feel like playing soccer right now
+267857944681521153	sports	rt maddiemfshay confesionnight i miss playing soccer so much
+267857692117319680	sports	rt swerve7 feel like playing soccer right now
+267857622970028032	sports	feel like playing soccer right now
+267857566464364544	sports	rt bcalderon3 i havent played soccer in over a month 3
+267857468527357952	sports	i got nothing to do tomorrow so ima just go play some soccer
+267857379276763137	sports	rt usfigureskating kozuka is on the ice on nbc as you may have seen before he calms his nerves before a skate by juggling with a mini soccer ball
+267857321911263232	sports	bears when u knock out the qb on a play like that u literally alter the game u need to be suspended for next game like red card in soccer
+267857214864257025	sports	colombia soccer league round 18 review httptcorhmdpfwn deportes
+267857148204183552	sports	he missed the highlights at both 530s10 rt peterdrozda probably because more people care about bb than good soccer in this country
+267857117732540416	sports	rt totheathletes heres to the athletes who wouldnt be the person they are today without sports
+267857049281519616	sports	msu advances to central region finals in soccer httptcomi3cn3aj
+267857020554727424	sports	rt shitno1sayssps great job boys and girls varsity soccer teams way to show your colors backtoback 3peat
+267856923813085184	sports	update 1soccerhouston la take big steps towards mls finalschicago tribune httptco9yaz8atl
+267856922277990401	sports	miaa soccer beverly girls somerville boys win d1 northsespn blog httptcodhhqv8hg
+267856914543693824	sports	hs soccer inspiring rally comes up short for oliver amessenterprise news httptcormq9g0gd
+267856792732721152	sports	update 1soccerhouston la take big steps towards mls final httptcoywiootvs
+267856768091176960	sports	new jazz eventsnov 13 2012 barrowsguiseley soccer livestream at barrow street theatre httptcovnmvaaxj
+267856745345458176	sports	wished i lived in europe more opportunity to grow and become a great professional soccer player there
+267856675275431936	sports	actually it was our play of the days1025 sry u missed it rt dannyobyrne not even a mention of cu soccer winning the mvc from thortripp
+267856431783505920	sports	the soccer game today was so intense and the rain made it 10x better congratulations ladyhawksoccer on a great season glvcchamps hawks
+267856422686052352	sports	ready for the leg pain after playing soccer this will feel good haha
+267856332944719872	sports	i was about to give up soccer but olivia made me realize shes my reason my reason to keep it going 3
+267856332709842944	sports	rt realmarvinpaine combined record of 2012 minn state footballswomens soccer teams 2813 mavfam thisiswhatwedo juggernaught allwedoiswin
+267856300745048065	sports	rt msumavericks combined record of 2012 minn state footballswomens soccer teams 2813 mavfam thisiswhatwedo juggernaught
+267856151352315904	sports	harrystyles do you like socce because when ii grow up i want to be on the us womens soccer team3
+267856109765787648	sports	made an instagram account just for soccer picturessfollow it footypicss
+267856006166499328	sports	i will be at the first home soccer game for burk guys or girls
+267855936117436417	sports	rt msumavericks combined record of 2012 minn state footballswomens soccer teams 2813 mavfam thisiswhatwedo juggernaught
+267855720370810880	sports	rt hilltopalum chasepwilliams gonna hook creighton soccer w a quick so for winning valley regular seasonstourney title poised for a deep run in ncaa
+267855683918110721	sports	rt krysalvarado4 soccer season needs to hurry tf up i dont want to worry about anything anymore
+267855680843677696	sports	watching soccer becomes an entirely new experience when the field is covered in confetti
+267855658999746560	sports	i remember when leonitis reffed our soccer games 300
+267855591639228416	sports	soccer season needs to hurry tf up i dont want to worry about anything anymore
+267855584555040768	sports	rt msumavericks combined record of 2012 minn state footballswomens soccer teams 2813 mavfam thisiswhatwedo juggernaught
+267855559460532224	sports	soccer was great had a lot of funsbut my legs are a little tired
+267855555039731713	sports	rt maddiemfshay confesionnight i miss playing soccer so much
+267855503172980736	sports	mrclintlawson on the bright side whenever i get home from soccer practice tomorrow night i will have a car of my own
+267855343852326913	sports	confesionnight i miss playing soccer so much
+267855282833592321	sports	when horses are too old to run they go out to studswhen soccer players are to old to run they play in america
+267855270070329344	sports	rt msumavericks combined record of 2012 minn state footballswomens soccer teams 2813 mavfam thisiswhatwedo juggernaught
+267855198184148992	sports	randymoss if i wanted a tie i wouldve watched soccer
+267855106945458176	sports	lovin my new girls soccer followers
+267855105045430274	sports	washington u carnegie mellon ithaca and messiah will host ncaa sectional play for womens soccer d3soc
+267855099974545408	sports	rt doublejayalum congrats to all players and coaches of the mens soccer teamsmvcchamps
+267855082966614017	sports	chasepwilliams giving jays soccer a so on a week when there is husker football to drool over i like this guy
+267855077107171328	sports	so to jameyvonne for being my soccer buddy love you
+267854895384760321	sports	stiehrishere i was just kidding i am just saying zombiessoccer lol
+267854893417639936	sports	also thankful for a great staff who spent many hours this weekend at all the home events and they kept the soccer trophy at home
+267854875088527360	sports	sunofshinnyness what
+267854803584024576	sports	zacmedawattage that would contradict my tweet rt joecollier zacmedawattage i like soccer quit but you arent good
+267854795157671937	sports	rt msumavericks combined record of 2012 minn state footballswomens soccer teams 2813 mavfam thisiswhatwedo juggernaught
+267854661757849600	sports	mikelewisii yeah i think so because of soccer
+267854611078066176	sports	i kinda wish major league soccer was as popular as the other pro sports
+267854592333737985	sports	newagevending martin luther king boys soccer team beats bronx science 4 0 in httptco01hh7a7h follow bronx news on litche
+267854586981806081	sports	confessionnight im italian and i hate soccer and coffee oops
+267854585996120064	sports	thesmokingpun when playing soccer weekly i regularly lose toenails super gluesa bandaid can get you through the worst of it
+267854534628495361	sports	kofftherunimal nah go watch soccer sorrynotsorry
+267854486855376897	sports	i need a soccer game soonscuz igot nothing to take my anger out on
+267854281992970240	sports	rt wustlbears womens soccer hosting sectional play on fridaysaturday nov 1617 times tba d3soc
+267854213038608384	sports	rt wustlbears womens soccer hosting sectional play on fridaysaturday nov 1617 times tba d3soc
+267854014840979456	sports	confessionnight soccer will always be my favorite sport
+267853878601596928	sports	rt msumavericks combined record of 2012 minn state footballswomens soccer teams 2813 mavfam thisiswhatwedo juggernaught
+267853771818811392	sports	cant wait til tuesday soccer
+267853569129070594	sports	itsgoodtobeussrt msumavericks combined record of 2012 minn state footballswomens soccer teams 2813 mavfam thisiswhatwedo
+267853546865713153	sports	sometimes iswish i kept playing soccer
+267853474484604928	sports	rt msumavericks combined record of 2012 minn state footballswomens soccer teams 2813 mavfam thisiswhatwedo juggernaught
+267853449935343616	sports	so since i was at work all day i havent done laundry so i will be looking like a hobo with soccer pants and a hoodie firstworldproblems
+267853449759191040	sports	combined record of 2012 minn state footballswomens soccer teams 2813 mavfam thisiswhatwedo juggernaught allwedoiswin
+267853360550510592	sports	rt emantothemango typical da shit soccer players with a soccerball emoji next to everything lol
+267853348861014016	sports	rt sincerelymen screw soccer if i wanted to watch somebody struggle to score for 90 mins id just take my friends out to the bar
+267853286558818305	sports	beforesafter soccer httptcoplyqiyj0
+267853232108355585	sports	just pick one already hawaii bieber soccer bieber first haircut bieberstinacowan httptco1l5iaado
+267853221438058496	sports	rt jaygat4 confessionnight i miss soccer so much
+267853201909379073	sports	great job boys and girls varsity soccer teams way to show your colors backtoback 3peat
+267853172247248896	sports	rt mnsuclimbing congrats to msumavssoccer for a great win today off to the sweet sixteen get em mavs mavnation mavsoccer mavpride
+267853135064735744	sports	rt jaygat4 confessionnight i miss soccer so much
+267853096972079104	sports	billyferg21 haha theres always soccer season billy
+267852930185580544	sports	rt littlecc7 play soccer with me soiknowitsreal
+267852929791303680	sports	jacanews 7 4 polokwane city soccer players killed 6 injured in road crash 100 st francis bay holiday homes gutted httptcoqx6hkksa
+267852770994966529	sports	not even a mention of top20 creighton soccer winning its 11th straight and the valley title game from thortripp
+267852753693446145	sports	this whole not playing soccer til march thing isnt working
+267852685980598272	sports	if i could live in soccer pants i would
+267852535182798848	sports	rt derekrutten5 congrats to joeyd2111 shohendorf and the rest of the club soccer team league champs
+267852420506333184	sports	i hope everyone is ready to see a bunch of depressed soccer players tomarrow at school lol sadtweet
+267852221339807745	sports	dannyobyrne any mention of cu hoops or soccer on sound off i thought they take calls but it seems like a chance for the hosts to just talk
+267852204789075968	sports	cant wait for soccer season to start returnoftheclog
+267852150275702784	sports	lbcmarvin why didnt you hit me upswe coulda played soccer
+267852073725464577	sports	i wish i still played soccer
+267852041488064512	sports	rt msumavericks combined record of 2012 minn state footballswomens soccer teams 2813 mavfam thisiswhatwedo juggernaught
+267852004800466944	sports	i have a boyfriendwell soccer has a goalie but that doesnt mean you cant score
+267851887469010945	sports	typical da shit soccer players with a soccerball emoji next to everything lol
+267851851540611072	sports	sunofshinnyness lol im eating d you
+267851839758815236	sports	rt msumavericks combined record of 2012 minn state footballswomens soccer teams 2813 mavfam thisiswhatwedo juggernaught
+267851812311293952	sports	rt wustlbears womens soccer hosting sectional play on fridaysaturday nov 1617 times tba d3soc
+267851801112498178	sports	confessionnight in more ways than one soccer saved my life morethan justapasttime wayoflife
+267851765247012865	sports	rt msumavericks combined record of 2012 minn state footballswomens soccer teams 2813 mavfam thisiswhatwedo juggernaught
+267851566600572928	sports	my knees are as big a soccer balls kmssswollen
+267851497801396225	sports	coxblock01 confessionnight soccer is my go too i know it will always be there when nothing else is
+267851428364693504	sports	royalsoccer thats asking to get trapped lol
+267851420596850688	sports	chasepwilliams gonna hook creighton soccer w a quick so for winning valley regular seasonstourney title poised for a deep run in ncaa
+267851404260016130	sports	a lesson from the soccer dad from hell httptcol1pphhsy
+267851355698368512	sports	rt msumavericks combined record of 2012 minn state footballswomens soccer teams 2813 mavfam thisiswhatwedo juggernaught
+267851347783716866	sports	so far on ketv a uno basketball player punting a ball into the stands but nary a mention of top25 creighton winning the mvc soccer title
+267851312048267264	sports	bloomingclover work and school as usual hows soccer going still
+267851259770458112	sports	combined record of 2012 minn state footballswomens soccer teams 2813 mavfam thisiswhatwedo juggernaught
+267851165071441920	sports	womens soccer hosting sectional play on fridaysaturday nov 1617 times tba d3soc
+267851147761553409	sports	rt richardzaaron my minds been set on snowboarding for the past 2 weeks cantgetenough
+267851044183224320	sports	naw bro that just mean im careless whenever i play soccer
+267850660609941504	sports	everything else escapes my mind when i step on the pitch i love what i do soccer
+267850643950141441	sports	tobinheath thanks for being the best inspiration to mesalways smiling not to mention your insane soccer skills weloveyoutobin
+267850592771264512	sports	confessionnight i will make time for work school and soccer if youre not work school or soccer aintnobodygottimeforthat
+267850453075767296	sports	rt train5411 another week of indoor soccer weneedawin
+267850323585011712	sports	i wish college football and college soccer werent in the same season so i could play both upset
+267850319520751616	sports	mikietommy 1losers of burmac soccer have gone on to win burmac hockey the one people actually care about 100 of the time 2 fuckburke
+267850091895861248	sports	ohh lord it felt so good to play soccer again lol
+267849922450190336	sports	i miss playing soccer so much its not even funny
+267849735099011073	sports	sunofshinnyness what
+267849697929076736	sports	rt gocreighton todays mens soccer win guarantees creighton will have at least one ncaa tournament team for the 26th straight school year
+267849602345099264	sports	i just love soccer boys soattractive
+267849602051502080	sports	ruthbruciagaa breaks just didnt go your way yesterday remember soccer is a team sport win as a team lose as a team lifelesson 3 u
+267849509407694848	sports	pedroreza22 worse dogpatch soccer field at bonam
+267849443255152640	sports	rt wcouriersports congratulations to the wiu mens soccer team for an outstanding season and winning the summit tournament look out ncaa tournament
+267849399772798976	sports	you have to be in good shape for soccer
+267849313479163904	sports	rft maaddiemagette i think football players are so much more attractive than soccer players
+267849240418590720	sports	rt wcouriersports congratulations to the wiu mens soccer team for an outstanding season and winning the summit tournament look out ncaa tournament
+267849132167790593	sports	damn i wanna play baseball soccerstry track p
+267849107811467264	sports	lets be honest i would love to play a soccer game with johnmayer before a jam sesh friendsfirst
+267849103797522432	sports	soccersfootball coachessusa newcastle upon tyne salary 16000 to 16000 newcastle upon tyne tyne and wear httptcoer5xbucp
+267849037493972992	sports	take the soccer ball or football and i call this irish dancing zaynmalik httptcolttbfb2g
+267848921387241472	sports	rt lcprobs this just in 910 is actually only having soccer players and preselected hott freshmen every1 else just go 2 pickett deodorant optional
+267848577441751040	sports	when my boyfriend is cheers for me while im playing soccersi do better and i fall for himbestfeeling myboyfriendtho enjoyinglife
+267848432457248769	sports	rt seetr3s iscore2014 confessionnight i feel like my soccer dream is to big of a dream
+267848427075948544	sports	whaaaaa soccer starts tomorrow challer96 jackpelliott spcchamps
+267848313192210432	sports	thatkiddjorge2 nigga you witnessed a badass soccer game and i possibly saw you on tv how can today be bad suck a dick
+267848300173070336	sports	iscore2014 confessionnight i feel like my soccer dream is to big of a dream
+267848295152500737	sports	another movie alone tonight coolstatus
+267848289121095680	sports	rt itsnansilly i dont know how im doing im just crying and watching soccer and mom wont buy my panda
+267848281458081793	sports	gonna be a long night can belton have soccer fields with lights i will be there right now well everyday
+267848243298320384	sports	soccerrproblems when your soccer season only lasts about 1 month summerleagueonly
+267848242304266241	sports	i swear coach mccauley asshead coach coyote soccer is going to be the coldest team out there coyotesoccer
+267848231554273281	sports	rt antlovescake royalsoccer everyone on my tl is confessing something lol not me lol
+267848139640274945	sports	rt brielliott14 soccerslovelovelove
+267848126335946753	sports	royalsoccer everyone on my tl is confessing something lol not me lol
+267848088742395904	sports	conferenceusa1 tulsa mens soccer wins cusa conference championship httptcoayymic1u congrats
+267847938242383873	sports	rt stlclubsoc evers makes most of her opportunity to lead slsg to u15 state cup title lou fusz falls to futura in u16 httptcokyotjqvj via stltoday
+267847758608736257	sports	rt bryansiordia37 confessionnight i hate the fact that no matter how much i practice i cant get better at soccer
+267847691701207040	sports	sunofshinnyness its fine
+267847683853647872	sports	rt itsnansilly i dont know how im doing im just crying and watching soccer and mom wont buy my panda
+267847678635933699	sports	confessionnight i hate the fact that no matter how much i practice i cant get better at soccer
+267847603985711104	sports	im kinda in to soccer now
+267847477225455617	sports	6 pointsssoccer teams can score more than that on a good day
+267847445977911296	sports	rt heartanddsole anyway back to soccer its a great way to blow off steam its one of the most aggressive sports ive played
+267847330118643712	sports	another week of indoor soccer weneedawin
+267847318974382080	sports	anyway back to soccer its a great way to blow off steam its one of the most aggressive sports ive played
+267847232248770560	sports	im gonna change my soccer number to 14 to match troy
+267847201433214977	sports	life is what you make it
+267847119686225920	sports	soccerslovelovelove
+267846993953570818	sports	this bears game is worse than watching soccer snoozefest
+267846933442347008	sports	i dont know how im doing im just crying and watching soccer and mom wont buy my panda
+267846893244145664	sports	confessionnight i miss soccer so much
+267846878962536448	sports	soccer season ends weight room full of soccer lads everyday 6 months beachbodies
+267846861992386560	sports	1hoeyy all guys named julian are hot xchubbychino hahahaha remember that owl kid from soccer
+267846841901662208	sports	rt ryancox3 gklumpp94 cant wait to see soccer mom dharper4 in his track suit tuesday you love them
+267846839590584320	sports	landycakez lfcusa we only drink wine for soccer when freddy adu plays haha
+267846662637101058	sports	buy all stars soccer ground kids httptconreviwdc
+267846514611716096	sports	byu womens soccer cougars slip past utah state for firstround win in ncaa tournament httptcou1b63nz3
+267846498346233856	sports	rt nyokedumba dianaeremugo mainly school and soccer but things are slowing down now we need to have a girls night soon
+267846479253757952	sports	pauletteebravo soccer player
+267846348206919681	sports	rt natscott14 httptco3xymwga5 happy days back in the game try and stop us coyd naianationals drovernation
+267846240618807297	sports	httptco3xymwga5 happy days back in the game try and stop us coyd naianationals drovernation
+267846151410184192	sports	rt branndayy soccer tryouts tomorrow
+267846048301592576	sports	rt heartanddsole you off season girls dont be afraid to try playing soccer its ridiculously fun
+267845986083287040	sports	fuck you bitchwhy whendamn soccer kids
+267845970820222976	sports	httptcooz1jlld6 lz trx fgsadidas mens predator absolion trx fg soccer cleat predito trx fg sport cleats absolado trx fg little kids
+267845939195179008	sports	burrjosh soccer
+267845707501801473	sports	rt heartanddsole you off season girls dont be afraid to try playing soccer its ridiculously fun
+267845544179810304	sports	you off season girls dont be afraid to try playing soccer its ridiculously fun
+267845453041778688	sports	httptcooz1jlld6 nike t90 shoot iv fg mens soccer boots mercurial miracle iii tiempo natural iv firm ground shoes cheap price online
+267845379368812544	sports	rt edmsnob i dont understand soccer if i wanted to watch people struggle to score for hours id hang out with trap producers
+267845002430906368	sports	rt bakerathletics wscr baker earns atlarge bid into national tournament httptcoc5fod9fw
+267844993962627072	sports	messi is officially the best soccer player in the world
+267844493498273794	sports	sexysocerbeast i have an obsession with soccer
+267844456877797376	sports	uberfacts cheerleading accounts for more athletic injuries than any other sportsaveraging a total of 20000 to 30000 a yearsoccer
+267844343451242496	sports	so tony9561 you are a funny ass dude i enjoyed playing soccer with you and i know how hard you work and i hope for the best for you
+267844248387334144	sports	im dyingggg for soccer to start
+267844244079796224	sports	if you dont know that i like soccer then were not friends
+267844127843041280	sports	telling my mom abt soccer games
+267844047442411522	sports	rt hulkmarquez when girls that suck at soccer think theyre good lol
+267844043336208384	sports	rt kaitlynkiss so proud of my soccer boys you guys are amazing mcsoccer
+267843906576723969	sports	rt x1statik1x soccer is gay
+267843887605878784	sports	bvb dortmund germany reus gotze lewandoski soccer instaframe like httptcoakcv1jdv
+267843864797253632	sports	footyguru soccer bootcollection davidbeckham adidas httptcozbywhy95
+267843841325953024	sports	wscr baker earns atlarge bid into national tournament httptcoc5fod9fw
+267843604427440128	sports	talking to this girl whos into cod soccer and is amazingly beautiful 3 woah whataretheods
+267843577026072576	sports	messi surpasses peles tally ronaldo suffers eye gashsusa today httptcoqhstwvwv
+267843573142130689	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267843450181922816	sports	crazy wk end announcing on tva new sub the vedepochoke bellatormma 80 then a goal kick wind blown for a corner mvc mens soccer final
+267843408536666112	sports	rt jonshuman you dont even play soccer take that fucking hoodie off
+267843306900299776	sports	ohhnonicole pffff i wish hahadont worry on december ill meet you there hey we better go to a soccer game
+267843304626982912	sports	rt thebeerman22 i think tonight proved just how good i am at soccer
+267843281856126976	sports	rt soccerchickzzz soccer and homework are not a good combo toomuchwork
+267843255381676032	sports	soccer i love it simple
+267843248490430465	sports	im getting spanish lessons from the soccer recruits d
+267843205037428737	sports	you dont even play soccer take that fucking hoodie off
+267843077853548544	sports	i shouldnt be this sore and this tired after a rec soccer game my only answer is im playing my ass off giving 110 ejrathjen
+267843024380391425	sports	thegirard no have money on texans but soccer is on tvs next to snf
+267842942553702400	sports	kmaynard22 yeah i dont have class tuesday but have an advising meeting at 1 and a soccer meeting at 5
+267842840380456960	sports	alltyddown this weekend soccer family baseball love u tink
+267842830767108098	sports	la killed it tonightslagalaxy killers soccer
+267842793647525888	sports	rt sincerelymen screw soccer if i wanted to watch somebody struggle to score for 90 mins id just take my friends out to the bar
+267842696973000707	sports	rt soccerchickzzz soccer and homework are not a good combo toomuchwork
+267842533206396928	sports	rt emirrhodzic soccer season next year is pretty much all i can think about other than bo2
+267842517733609472	sports	rt hulkmarquez when girls that suck at soccer think theyre good lol
+267842383838838784	sports	equalssoccer when im on the soccer field everything else disappears soccerlife i miss soccer so much
+267842338070593536	sports	lancaster mennonite blazers blank greencastleantrim in boys soccer districtsshttptco1do17hv2 lancastermennonite newtag
+267842321553428482	sports	soccer season next year is pretty much all i can think about other than bo2
+267842309964566528	sports	lexilarsen sorry my life goal is to be a soccer mom ive said it a thousand times lparker23 speaks only the truthsgivemeababy
+267842259913953281	sports	rt hulkmarquez when girls that suck at soccer think theyre good lol
+267842245242265601	sports	rt katiewuzhere all the more motivation to stay in shape get better practice and keep going soccer wellmissyouweihe
+267842244625698816	sports	i miss soccer season though
+267842178284412930	sports	im opretty sure sec doesnt have soccer ya okay danny
+267842155001827328	sports	rt soccerchickzzz soccer and homework are not a good combo toomuchwork
+267842153194078208	sports	rt djenanaimamovic soccer boys yum
+267842130297360384	sports	goodluck to everyone trying out for track or soccer tomorrow
+267842114329640960	sports	rt hlgutrojans hlgu mens soccer team wins amc tournament to clinch naia tournament bid httptcolfxswtal
+267842051826135040	sports	when girls that suck at soccer think theyre good lol
+267842050844667904	sports	rt drihampton hahahahart bhamp8 ifyoudont love volleyball and soccer girls well someones gotta love the female bowlers
+267842008981336064	sports	hahahahart bhamp8 ifyoudont love volleyball and soccer girls well someones gotta love the female bowlers
+267841982334906368	sports	i want to play soccer that is look tight
+267841930191323136	sports	rt ausaints mens soccer earns atlarge berth joins women in naia national tournament httptco7mgiivhy ausaints
+267841912805941248	sports	rt hlgutrojans trojans move up to 17th in final mens soccer rankings httptcovhqvq1tr
+267841859479547905	sports	all the more motivation to stay in shape get better practice and keep going soccer wellmissyouweihe
+267841848557576195	sports	gklumpp94 cant wait to see soccer mom dharper4 in his track suit tuesday you love them
+267841847085395968	sports	rt mnusports mnu mens soccer receives the atlarge 4 bid to the national tournament opening round pairings will be announced tomorrow
+267841845994876928	sports	kennbisio womens soccer they will get to play in the sweet sixteen game at home this friday
+267841757713162240	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267841738247372804	sports	no soccer gamesim too happy happier than ive been in 14 years fwm
+267841683683684352	sports	good weekend of epl soccer
+267841547536588800	sports	jburgeson3236 your soccer needs to get over sportcenter is next
+267841545904988161	sports	rt alexaniebuhr confessionnight playing soccer helps me forget about everything else
+267841434080669696	sports	rt alexaniebuhr confessionnight playing soccer helps me forget about everything else
+267841407555887105	sports	dianaeremugo mainly school and soccer but things are slowing down now we need to have a girls night soon
+267841384055185409	sports	play soccer with me soiknowitsreal
+267841366724317184	sports	confessionnight playing soccer helps me forget about everything else
+267841349217300481	sports	why is soccer on espn
+267841067687227392	sports	rt hawkeyesoccer new soccer hill for runningsjust kidding but was good workoit in surrey british columbia httptcockm1hb2z
+267841006504923137	sports	rt thecassidysmith ayybaybay soccer group chat just got real sabmitchell arinmarshall thecassidysmith twayne13 ashleyisboss34
+267840932261527553	sports	ayybaybay soccer group chat just got real sabmitchell arinmarshall thecassidysmith twayne13 ashleyisboss34
+267840761649823744	sports	bswalley23 lol i love soccer i get crazy during world cup time
+267840598080376832	sports	lighter rt ataylor4029 snuggling w t after two soccer games still trying to remember the name of the lighter ithinkimcrazy
+267840582112661504	sports	i havent played soccer in over a month 3
+267840515351932928	sports	man i hate looking forward and seeing 3 parts to your nfl record 1this isnt soccerthis isnt hockey
+267840475225006080	sports	wow soccer i think put me out of shape basketball eforeffort
+267840388755243008	sports	1 suitcase packed a duffle bag full of soccer gear and a sleeping bag 1month
+267840387765387264	sports	new soccer hill for runningsjust kidding but was good workoit in surrey british columbia httptcockm1hb2z
+267840363799142401	sports	i miss playing soccer
+267840350117306369	sports	anyone who has a downer on us soccer should watch that lagalaxy performance the futures brightsi say that as a rbny fan
+267840283897643010	sports	old men cant play soccer provenfact
+267840157032513536	sports	rt mattmcfarren nothing ends a sunday better than soccer on tvsjesus not the one from the bible but my hispanic neighbor down the street
+267839849036386307	sports	rt soccerchickzzz soccer and homework are not a good combo toomuchwork
+267839838466752513	sports	thank the lord no more volleyball in pe cant wait for soccer tomorrow gonnakillit
+267839811111485441	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267839718195097600	sports	kickitcook46show long is soccer practice
+267839676214280192	sports	rt countrywords i shouldve never let her go i shouldve begged her to staysjake owen
+267839617615675392	sports	last night i laugh so hard watching comedy soccer xd
+267839484505227265	sports	rt jldobson the nfl needs to do away with ties this isnt soccer were in america
+267839422689595392	sports	soccerchickzzz soccer is stupid
+267839392171823104	sports	inevitblebitch yes and im sweet i play football soccer act and am a hopeless romantic lol
+267839316619841536	sports	me if i was rich i would buy a soccer team stewart good theyre probably pretty cheap corbinmcguire1 allmyfriendshatesoccer ugh
+267839289201684480	sports	rt soccerchickzzz soccer and homework are not a good combo toomuchwork
+267839288857731073	sports	rt soccerchickzzz thingsyoudontsaytome soccer is stupid
+267839262114852864	sports	rt soccerchickzzz soccer and homework are not a good combo toomuchwork
+267839238358331392	sports	rt byongstinsun highschool soccer is done now club soccer is here cantwait depressedatthesametime
+267839146511462400	sports	rt soccerchickzzz soccer and homework are not a good combo toomuchwork
+267839129579044864	sports	rt soccerchickzzz thingsyoudontsaytome soccer is stupid
+267839108074856448	sports	mav1215 yes i played soccer volleyball and basketball
+267839080962850816	sports	rt byongstinsun highschool soccer is done now club soccer is here cantwait depressedatthesametime
+267838998356049920	sports	rt bakerathletics womens soccer newsbaker has qualified for the 2012 naia womens soccer national championship they are one of httptcoked285fu
+267838965674041344	sports	lazio win derby 32 vs as romas9000 soccer httptcolehehc03 seriea
+267838959470641153	sports	triden123 soccer im always at camp there the same time as the soccer kiddos
+267838956073271296	sports	omg florida for the 1st time in 6 days countdown fl soccer soooexcited
+267838874301112321	sports	iiiammee confessionnight i have a soft spot for girls who know soccer
+267838863236530176	sports	cant wait to see soccer mom dharper4 in his track suit tuesday
+267838839253528576	sports	it feels so good to finally get a soccer ball between my feet again
+267838826804817920	sports	nah i love soccer id be a fatass if i didnt play
+267838816331644928	sports	rt kasciouskaige a tie is equivalent to 0s0sthey just wasted everybody time this aint soccer
+267838803484479489	sports	rt soccerchickzzz i dont want my soccer season to end
+267838797566324736	sports	rt jodieredduncan fun afternoon playing soccersand eating maggieeleighh29s cupcakes
+267838758316027905	sports	rt soccerchickzzz soccer and homework are not a good combo toomuchwork
+267838690439614464	sports	soccer boys yum
+267838660483903488	sports	jadecornstock i definitely won the how awesome soccer is argument dont give me that nonsense
+267838528489148416	sports	haymondo its like a loss this isnt soccer
+267838507471482880	sports	watching the soccer cup or whatever its calledthe guy is out with a leg cramp pretty sure ive raced with way worse suckitup
+267838447769767936	sports	does anyone wanna buy a coyote soccer tshirtit says coyote soccer on the front and if you wantmy namesnumber on the back anyone
+267838371450204160	sports	played fifa soccer 13 ps3 in the last 24 hours httptcon2e6k54a
+267838330408955905	sports	leo messi tops pele with 76th goal in calendar year httptco3lqgij04
+267838229259096065	sports	rt jonjakobeson i want to play soccer so badly right now fuck this weather
+267838129053003776	sports	nothing ends a sunday better than soccer on tvsjesus not the one from the bible but my hispanic neighbor down the street
+267838087634243585	sports	goddanit there is a soccer bagin my closet reminding me of a bad time when i didnt make the sluh soccer team your welcome
+267838070903164929	sports	rt josecruzsoccer girls who loves soccer httptco3r54dkoj
+267837860105814018	sports	rt amymillhollin confessionnight i ate all the cookie dough i got from that soccer fundraiser before i even cooked itslmao glad i got that off my chest
+267837803751174144	sports	rt soccerchickzzz soccer and homework are not a good combo toomuchwork
+267837739699949568	sports	confessionnight i ate all the cookie dough i got from that soccer fundraiser before i even cooked itslmao glad i got that off my chest
+267837718732623872	sports	rt soccerchickzzz soccer and homework are not a good combo toomuchwork
+267837708087463937	sports	shewantthatniko high school soccer ehh its alright what about zee baseball
+267837629872082945	sports	this is the first time in awhile that i give two poops about soccer
+267837625690382336	sports	i cannot believe he just ditched me to play soccer and not even in real life men
+267837508929331200	sports	rt kaitlynkiss so proud of my soccer boys you guys are amazing mcsoccer
+267837503841636352	sports	so proud of my soccer team atm
+267837492105969664	sports	im a sucker for soccer discussions
+267837352943181824	sports	i want to play soccer so badly right now fuck this weather
+267837259661856768	sports	rt wuchad congrats butlergrizzlies football nice job keeping the tradition alive also good luck to the lady grizzlies soccer team bucogrizzlies
+267837255945695233	sports	rt soccerchickzzz soccer and homework are not a good combo toomuchwork
+267837224450682880	sports	rt misterlarsen its ironic that a game with such terrible kicking ends just like a soccer game 49ers
+267837164111400960	sports	soccer ball great gift idea dimensions httptcoiiaivrri newssoccer ballscase of 20soa58020
+267837131962073089	sports	rt greasypitch heliascatholic congrats whatthebeck22 white headband hchs jr mo u17g state soccer cup champ great left back httptcopghblnie
+267837089373122560	sports	highschool soccer is done now club soccer is here cantwait depressedatthesametime
+267837069240446977	sports	just rolled my ankle in my soccer game at least im wearing my chive socks kcco httptconebanfdz
+267836963699171328	sports	bplindberg galaxy pouring it on all robbie keane does is score i love soccer
+267836877023875072	sports	rt soccerchickzzz soccer and homework are not a good combo toomuchwork
+267836814776205312	sports	thebloyd im calling bullshit all over this soccer game
+267836756538322944	sports	rt soccerchickzzz coaches that actually care about you
+267836714930810880	sports	rt soccerchickzzz soccer and homework are not a good combo toomuchwork
+267836677119160320	sports	rt bylindsayhjones only in seattle as many reporters watching the sounders soccer playoff game as sunday night football
+267836640045707264	sports	rt ajonesin soccer season is over for about two months this year time to start training
+267836639877931008	sports	rt greasypitch heliascatholic congrats whatthebeck22 white headband hchs jr mo u17g state soccer cup champ great left back httptcopghblnie
+267836548194631681	sports	confessionnight i love playing soccer i fucking love it
+267836517739814912	sports	kstewhutcher and on saturday i have an early morning soccer game
+267836499255500800	sports	only in seattle as many reporters watching the sounders soccer playoff game as sunday night football
+267836457362812930	sports	rt soccerchickzzz soccer and homework are not a good combo toomuchwork
+267836449292959744	sports	previewsoccercapello to test new players in us friendly httptco64vkqamv
+267836448168878080	sports	previewsoccerfalcao test for brazil marathons for spain portugal httptcoyvxztt3b
+267836440094842881	sports	rt jakeirwin21 no espn i dont wanna watch soccer boring
+267836435216871424	sports	rt britkent both loras mens and womens soccer teams advance to the sweet 16 its a great day to be a duhawkslyeah duhawks ncaatourney
+267836418368339969	sports	soccer season is over for about two months this year time to start training
+267836386571329536	sports	rt soccerchickzzz soccer and homework are not a good combo toomuchwork
+267836365360754688	sports	uofuviews ute soccer field friday 11912 httptcopzefgsti
+267836335270801408	sports	soccer david beckham
+267836254001975296	sports	rt soccerchickzzz soccer and homework are not a good combo toomuchwork
+267836187941670912	sports	rt soccerchickzzz soccer and homework are not a good combo toomuchwork
+267836177359446016	sports	rt josecruzsoccer girls who loves soccer httptco3r54dkoj
+267836172808626177	sports	i miss soccer season
+267836141049368577	sports	rt soccerchickzzz soccer and homework are not a good combo toomuchwork
+267836116374261762	sports	rt xxxela lexi going on whoever was 2 on ra girls soccer team lol
+267836101924904961	sports	rt soccerchickzzz soccer and homework are not a good combo toomuchwork
+267836036695080960	sports	la playing simply inspired soccer right now
+267836016725983232	sports	soccer and homework are not a good combo toomuchwork
+267835961952575488	sports	la galaxy are you guys kidding me right now im not a fan but you guys are playing some seriously impressive soccer
+267835953538801664	sports	girl soccer playerss
+267835933192232961	sports	ninjabritt3 so to nataliekatee for being pretty and good at soccer we dont talk but that should change thank yousyesss
+267835841316007936	sports	i really dont care what people think about me im just gonna be the real me
+267835776576921600	sports	heliascatholic congrats whatthebeck22 white headband hchs jr mo u17g state soccer cup champ great left back httptcopghblnie
+267835775943589888	sports	lexi going on whoever was 2 on ra girls soccer team lol
+267835719119142912	sports	wow the plays they run in these soccer games mls
+267835649804099584	sports	im just ready for 7th hour tomorrow soccer
+267835580149293058	sports	confessionnightsi miss playing soccer
+267835576852557825	sports	my wrap of liga mx weekend action mexican quarterfinal places decided in last roundshttptcoyusplni3 via sinow
+267835562843578368	sports	rt kaitlynkiss so proud of my soccer boys you guys are amazing mcsoccer
+267835536369131520	sports	rt jadorefafa confessionnight i love soccer players
+267835363786117121	sports	chose to go to an indoor soccer game with acoleman29 over watching the notebook worthit
+267835315593572353	sports	confessionnight i love soccer players
+267835222593245184	sports	rt studsmith sammyrae17 so to sam shes funny smart pretty also a beast at soccer must follow
+267835217346191360	sports	mlgattackisnl snd4dummies running around on a soccer field titties just a bouncing
+267835140875640832	sports	emmakayh that ass in those shorts that is beautiful soccer
+267835118566141952	sports	rt ohrelatefacts awkwardly standing there while your friend talks to someone you dont know
+267835117827940352	sports	girls who loves soccer httptco3r54dkoj
+267835095279337473	sports	sammyrae17 so to sam shes funny smart pretty also a beast at soccer must follow
+267835048147951617	sports	szbyrd how much are tickets i feel like caitlin will grw to love soccer like i can grow to love college ball
+267835039289589760	sports	soccer national champions httptcoz9m4rmdh
+267834988853067776	sports	emilymalacane ok baseball is hot and soccer is hot so nothing else matters i wanna be out of this like ugh kms
+267834794904285185	sports	rt branndayy soccer tryouts tomorrow
+267834771906891777	sports	so to asawarlick for being cold at soccer and for being funny as hell
+267834720816074752	sports	rt ceeeveee 5 bucks says tmw were running the wash for soccer aghh
+267834718060433409	sports	i love the nfls tie games french communist soccer guy
+267834716252696576	sports	cotylynne12 is it me or are soccer players little bitches wow ha ha
+267834684468256768	sports	corneycorky13 well i am watching soccer for some odd reason olay
+267834665883299841	sports	la galaxy vs seattle sounders halftime score 10 robbie keane scores justshttptcobltoa2pn
+267834644416827393	sports	soccerbabe23 alilovesmontero the defense is the blame
+267834631238320129	sports	alexvargas14 fuck soccer
+267834608601665537	sports	my dietssoccer training starts on wednesday d
+267834575546368000	sports	bstefff youre just mad that i care more about soccer than i do about you sorrynotsorry
+267834568881627137	sports	so proud of my soccer boys you guys are amazing mcsoccer
+267834526787567616	sports	rt motivateathlete all athletes retweet httptco73taxaxi
+267834516498960384	sports	rt angelicaraen pedroreza22 10thingsilove god family soccer girls my bros my team food music kim kardashian twitter this
+267834435821522944	sports	rt angelicaraen pedroreza22 10thingsilove god family soccer girls my bros my team food music kim kardashian twitter this
+267834388912418819	sports	metro state womens soccer is 1102 alltime at home in the ncaa tournament rmacws getrowdy gometro
+267834271597748225	sports	johnbishop71 you are officially a fan of a soccer team today you shouldnt be tweeting you should be under the bed
+267834262517080064	sports	i love to watch soccer go la galaxy
+267834245756616704	sports	pedroreza22 10thingsilove god family soccer girls my bros my team food music kim kardashian twitter this
+267834226257317889	sports	rt dcuadros1 dianamarce11 soccer is the best
+267834055574298624	sports	air force men make ncaa soccer tourney first time in 15 years httptcoco8lch2a
+267834006173802496	sports	watching mls soccer makes me miss my childhood sport soccer thosewerethedays
+267833885826637824	sports	fuck soccer lol
+267833883037421568	sports	las vegas soccer coach henderson httptcoj3wjvooy jobs
+267833874975977472	sports	i officially hate everyone that i play soccer with likereally
+267833826884075521	sports	soccer game
+267833819363692545	sports	my roommates have made me hate soccer probably because they sit in the living room and very much overreact itssoccer notfootball stfu
+267833818755502080	sports	soccerchick7 i want to run away to a place where i will be remembered but not forgotten
+267833796567642114	sports	my sundays are just for soccer
+267833710357934081	sports	if its as bad as i think no soccer for me either
+267833642791870464	sports	omg soccer is the sexiest sport ever
+267833641109954560	sports	ridempowered same thing can happen in a soccer game 1 team clearly better but the opponent eeks out a result see cancellara in cycling
+267833546289340417	sports	contemplating playing soccer this yearplease tell me if this is a good or bad idea people
+267833342018342913	sports	ayso fall soccer teambest team ever the titans it was an awesome team and season going to do it next yea httptco8eby080q
+267833328189718532	sports	i wish that ladygaga would play soccer with me
+267833299177721857	sports	just witnessed a miracle a pro soccer game thats 20slagalaxy
+267833269356199936	sports	soccer is gay
+267833082135068672	sports	who would that be lexi rt lexianduknowit xxxela i miss ira mansall the peoplesfuck 2 on the soccer team mannnnn
+267833076049141764	sports	jib jab soccerjay robert rodney johnslynn thttptcoyatuvg9l
+267833012371214336	sports	confessionnight im completely done with soccer for ever as of like 2pm
+267832876194734081	sports	photoset onlylolgifs womens soccer player throws ball at opponents face httptcosmxvxspe
+267832855781064704	sports	rt soloekiko11 anything is posaible as long as you set your mine to it example smoky soccer
+267832816795004929	sports	rt jodieredduncan fun afternoon playing soccersand eating maggieeleighh29s cupcakes
+267832763456057344	sports	rt hamzakaroumia probably my favorite soccer players right now garethbale11 luis16suarezsand juanmata10
+267832727515041792	sports	local sports digest santa clara mens soccer team beats wcc champion sans san jose mercury news httptcoht7nj53w
+267832700407271424	sports	spencerblaine13 thats right you are probably pretty tired after that soccer game
+267832699346104320	sports	probably my favorite soccer players right now garethbale11 luis16suarezsand juanmata10
+267832671764357120	sports	rt kortneyykay ssc soccer playerssyumm
+267832581070913537	sports	rt raeganbrittain loved playing soccer all weekendsmuchneeded
+267832572128681984	sports	confessionnight soccer is life with out it i would be like you reading this tweet
+267832540805599233	sports	i believe in soccer and the runway
+267832477354164224	sports	rt countrywords i wanna make you feel wanted and i wanna call you mineshunter hayes
+267832329840513024	sports	victory for melbourne mariners sail past packshttptcoogjbujgy httptcos1pgqf6i
+267832325964963841	sports	rt kortneyykay ssc soccer playerssyumm
+267832308428578818	sports	miss my old soccer friend soleary3where have you been
+267832220230770688	sports	ssc soccer playerssyumm
+267832201905852416	sports	mjones99 were a drinking team with a soccer problem cc kassandrakuip vince4kc96 akgarcia331 unclefuzz54 chefmac0 kccauldron
+267832049900081154	sports	rt motivateathlete that pre game feeling you get
+267832019508146177	sports	starting to hate the people i play soccer with annoyed
+267831849592713218	sports	im officially starting to hate soccer givingup
+267831819750223872	sports	rt branndayy soccer tryouts tomorrow
+267831783578550273	sports	miguel and joel are mean the dont want me to play soccer with them
+267831638984097792	sports	catholic soccer the rams are weird art hains and allen vaughan talks chiefs and more right now on oss httptcovwqbv6vj
+267831619694514178	sports	stiehrishere hahaha please i bet the walking dead has more viewers than any soccer gamesshaha
+267831607560396801	sports	10favoritethings soccer
+267831535636447232	sports	campbellcourt i use to before soccer started
+267831508147007488	sports	confessionnight my parents made me play soccer and i cried before every practice for the first year
+267831403457163264	sports	when there are basketball games soccer games and football games on the same day
+267831379256029184	sports	rt sarahslegl is it soccer season yet my life feels incomplete screwbasketball soccerislife endofstory
+267831369542029312	sports	even though i know tyler hates soccer he still came to my last game love
+267831336763543552	sports	rt branndayy soccer tryouts tomorrow
+267831269222653952	sports	rt ucmmules jennies soccer extends lead to 30 in 60th minute on goal by carly stanley teamucm miaaws
+267831183059083264	sports	rt jakeirwin21 no espn i dont wanna watch soccer boring
+267831088888557568	sports	defending acc soccer champion unc falls to surging marylandscharlotte observer httptcorisjjdda
+267831087802220545	sports	acc mens soccer tournament maryland beats north carolina 21 to win third httptcoaitrznkb
+267831086506201088	sports	mens soccer finishes last in ivies with 31 loss at pennsharvard crimson httptcowxblnotd
+267831069200510977	sports	kright23 yrite007 basketball or even possibly soccer lol
+267831067988332546	sports	for our indoor soccer team toy gun
+267830964795871233	sports	no espn i dont wanna watch soccer boring
+267830956507951104	sports	soccer players are the hottest some gorgeous men out there i would have made a great wag mls bpl
+267830928506753024	sports	demitomphroy im livin vicariously through your soccer endeavorsslol love it way to inspire and represent
+267830903852650496	sports	my cousin quit d1 soccer cause she didnt have enough time for school if it was me i wouldve quit school soccergrlprobs
+267830901206048768	sports	rt kevingrahamkfan just saw the ninerssrams tied this isnt soccer pathetic
+267830859745329152	sports	where are my soccer cleatssmovingproblems
+267830615519424512	sports	wengernotwagner elivillacorte vab4life10 fartillery mohamedthepleb soccerkido arabmoney1 some one will get beat i swear to god
+267830600126328832	sports	bought my soccer sweats
+267830598654099457	sports	rt lorasbaseball both soccer teams in the sweet 16 duhawkatology for sure
+267830561089925120	sports	rt yslcheetah elivillacorte vab4life10 fartillery mohamedthepleb soccerkido arabmoney1 wengernotwagner dont start eli
+267830537224351744	sports	confessionnight i dont know whether to play soccer or club volleyball in the spring decisions
+267830510460493825	sports	kmtskadizzly not at all lol how did yall do in soccer this year
+267830508409458688	sports	hockey also makes me miss playing soccer lipgloss9 kelseygorniak shannyraen taylarolson badassstatus
+267830402398433280	sports	rt asaplineker tothesky hollaatsergio elizabethkaay heeeeeelll naaaaaah soccers
+267830385428275200	sports	having the imprint of a soccer ball on your leg 2 hours after practice soccergirlprobs
+267830384190971906	sports	rt rachelmclovin ferris wheelsmidnightrs five star soccer fields httptcoccnmwyn8
+267830358660243456	sports	elivillacorte vab4life10 fartillery mohamedthepleb soccerkido arabmoney1 wengernotwagner dont start eli
+267830353442504705	sports	rt branndayy soccer tryouts tomorrow
+267830332752007168	sports	rt ceeeveee 5 bucks says tmw were running the wash for soccer aghh
+267830168142364673	sports	emgansel everyone decided on soccer over it ouch
+267830165881634817	sports	stiehrishere false the walking deadsoccer
+267830136991264769	sports	5 bucks says tmw were running the wash for soccer aghh
+267830052329246721	sports	paiget00 yeah me too i hate it when i slide on turf when i play soccer it burns soccergirlprobs
+267829974050934784	sports	morganbrileath kenzieemarie1 yeah we were laughing at soccer and our coach was being a dingus
+267829894086549504	sports	eg flu tracking news update 2soccerflu win brazil title with three games to sparesyahoo eurosport uk httptcofqzss7u4
+267829776054644736	sports	jaxstadler idk man i will get them before summer soccer though wantblackirwhite
+267829767410180096	sports	soccer tryouts tomorrow
+267829427319238656	sports	when me juicyjaybee antonio and oscar dominated in soccer dreamteam
+267829418091741184	sports	ispeaksoccer ive never seen the noteboooook
+267829325389242368	sports	kidnstar but my best part is the soccer game with park ji sung lol
+267829317441036288	sports	nfl still allows a tie what the shit is this soccer
+267829132036026369	sports	senorreboyras i dont have seen soccer sonce long time ago
+267829126528905216	sports	rt sarahslegl is it soccer season yet my life feels incomplete screwbasketball soccerislife endofstory
+267828986871164928	sports	tothesky hollaatsergio elizabethkaay heeeeeelll naaaaaah soccers
+267828682888994817	sports	why im watching a soccer movie is beyond me alex will play basketball but hes gotta be aware of the other sports too
+267828622394544128	sports	rt theschneidsdale shoutout to the soccer team for getting to the state final fourwhich gets us off school friday hellyea
+267828621547278336	sports	is it soccer season yet my life feels incomplete screwbasketball soccerislife endofstory
+267828495462322178	sports	sierrabarton08 except soccer cuz they r 2 busy crying over when they get tripped
+267828127542157312	sports	soccer should have its own channel i wanna watc espn not this stupid shit
+267828000639287296	sports	swimmerssdivers wanting to go to the 5a state championship soccer game will be dismissed from practice at 430 pm tomorrowsgo buffs
+267827864223772672	sports	rt theschneidsdale shoutout to the soccer team for getting to the state final fourwhich gets us off school friday hellyea
+267827844376297472	sports	lovethisteam bccsoccer httptcomrvntch9
+267827823782273026	sports	ok now i know why im watching mlsplayoffs great commentary from taylortwellmansalexilalas the joe buckstroy aikman of soccer
+267827799199473664	sports	rt hperetti last soccer banquetsnewchapter
+267827743717224449	sports	sbchat nascar is a lot like soccer great atmosphere in person that doesnt translate on tv idk what will change that if anything sbchat
+267827697223335936	sports	jstein1989 soccer has ties as well really because so few goals are scored realtalk
+267827584816009216	sports	shoutout to the soccer team for getting to the state final fourwhich gets us off school friday hellyea
+267827562695241728	sports	alexi lalas mustache will do more for soccer in america than having 10 messis
+267827397666156544	sports	mens soccer championship qualifiers announced httptcovbqfofvs
+267827376405225472	sports	fc utrecht are 6th on the dutch soccer league jacob mulenga is still a great member of the team
+267827286462574592	sports	rt pourmecoffee breaking this dog loves soccer httptcog6nwse8r
+267827264484425729	sports	prodigyryan22 nothin much man just got done with football and soccer a few weeks ago and just enjoying the free time
+267827157424812032	sports	paula broadwell is a soccer mom like im a geneticist or a cyclist for the tour de france
+267827154694307840	sports	soccerbabe23 i wish
+267827143243878403	sports	rt warrenali sooo what we learned tonight is that jmaharaj868 sucks ass at soccer lol alexobey lmaooo
+267827122704367618	sports	confessionnight i dont like poetry hospitals needles onions soccer anything grapeflavored dubstep wearing socks inside or skirts
+267826980957847553	sports	chrisyates11 doylebode baseball lost me in 94 and even steroids never got me backsfound soccer at 94 wc and never returned sbchat
+267826937639092224	sports	racedayrocks soccer is too slow to keep audiences interested for the entire match mlb is loosing popularity bc of this as well sbchat
+267826865174093826	sports	rt natesaathoff houston won 31 after being down 10 at half were fine seattle 135 minutes of soccer still to play in the series
+267826852654100480	sports	reporting to practice tfc torontofc outside red soccer like instagood me httptcoz7tgug1z
+267826606708518912	sports	awkward moment when ur playing imaginary soccer in ur kitchen and to everyone around you it looks like your running in circles
+267826599712395265	sports	rt mikehays12 soccer tonight sore tomorrow
+267826514685472769	sports	rt hueyboi so to themc913 up at neosho playing soccer good luck up there hes a cool dude has some good tweets so go follow him
+267826428844843008	sports	so to themc913 up at neosho playing soccer good luck up there hes a cool dude has some good tweets so go follow him
+267826386427846656	sports	rt columbiacougars cougar mens soccer qualifies for the naia national championshipssthe season continues columbiacougars
+267826384683012096	sports	cine playin mw3 and i see a soccer game on tv httptco7uodjeyx mw3 cod callofduty soccer
+267826361895370754	sports	played fifa soccer 13 360 in the last 24 hours httptcohjpftzeb
+267826303766507521	sports	sierrabarton08 and american professional soccer isnt lets be real here
+267826218315952128	sports	told my dad about the tough decision between soccer and walking dead you all are having he was astounded a show about zombies exists
+267826167841685504	sports	rt sincerelymen screw soccer if i wanted to watch somebody struggle to score for 90 mins id just take my friends out to the bar
+267826098719584256	sports	sbchat soccer perfect for tv 2 hours and done
+267825889964879873	sports	oh geez rams and ninerssa tie this isnt soccer idiots
+267825757252878337	sports	rt natesaathoff houston won 31 after being down 10 at half were fine seattle 135 minutes of soccer still to play in the series
+267825752442036225	sports	sooo what we learned tonight is that jmaharaj868 sucks ass at soccer lol alexobey lmaooo
+267825720938594304	sports	rt natesaathoff houston won 31 after being down 10 at half were fine seattle 135 minutes of soccer still to play in the series
+267825593607925760	sports	get the certain tingle eating haagen dazs with some soccer moms where they like to fucking sit and mingle
+267825548644978688	sports	why am i playing indoor this seasonshorrible facility and horrible competition soccer is soccer addicted
+267825429107335169	sports	to my soccer teammates im sorry i missed the game i forgot
+267825328267874304	sports	rt unmlobos lobo mens soccer invites you to join the program in watching the ncaa tournament selection show at coaches barshttptcoxwjiab2u
+267825263281328128	sports	nbabsolutely hollyjeenius you dont know about this soccer shit oh
+267825211196452864	sports	houston won 31 after being down 10 at half were fine seattle 135 minutes of soccer still to play in the series
+267825200291250176	sports	male soccer is probably the most unwatched sport in america
+267825188173926402	sports	rt brutalbluth yeah wearing mom jeans and picking my kids up from soccer practice in a townscountry being fiscally responsible and never having sex
+267825130615472128	sports	rt usfigureskating kozuka is on the ice on nbc as you may have seen before he calms his nerves before a skate by juggling with a mini soccer ball
+267825092313104385	sports	a soccer player barely gets hit in the shin and goes down in pain but then they take a ball straight to the face and r fine what
+267825004329193473	sports	rt sierrastarr94 almasri10xx watching the mls is like watching a european soccer game in slow motion so true
+267824849806839809	sports	gringos no soccer football your football is fucking american football and american football should be called united states football
+267824818198560769	sports	rt willconcannon did you know i love playing soccer
+267824784069517313	sports	soccerbabe23 tweet it it would hurt he has a vicious foot
+267824750011760641	sports	imma miss highschool soccer nextyear lastyear
+267824726771113984	sports	almasri10xx watching the mls is like watching a european soccer game in slow motion so true
+267824706856579072	sports	rt mikaylaisag that soccer game today
+267824634794217472	sports	rt seanmonaghansm i dont always play poker while watching soccer but when i do i prefer aces aces rctid
+267824459472310272	sports	sincerelymen screw soccer if i wanted to watch guys struggle to score for 90 mins id just take my friends out to the bar th3hundred
+267824365993861120	sports	played fifa soccer 13 360 and 1 other game in the last 24 hours httptcoizesxsd0
+267824155343331330	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267824155024556032	sports	i dont always play poker while watching soccer but when i do i prefer aces aces rctid
+267824132568252416	sports	rt aturner16 i love my soccer girls so much i dont want this to be over lovemyfamily
+267824115384205312	sports	rt larenhelms the rams and the 49ers just tiedwhat is this soccer
+267824103354929152	sports	blueranger69 how is soccer not fun
+267824088578416640	sports	about to play the final games play with the heart or go home jogabonito soccer futbol fb
+267824085143269376	sports	landycakes still loves soccer lavsea
+267824051391717376	sports	skuenning88 same hairstyle tall plays soccer like a dick though not sure if thats fitting to you
+267824004793004032	sports	jossygrace i wanna learn how to play footballssoccer
+267823977840402432	sports	rt nickkkatnight bloody sockshand warmersand lots of turf burnits soccer season
+267823972538802176	sports	mls dcunited any chance this vet can get a veterans day retweet for pastspresent sm who got into soccer stationed in europesasia
+267823930516058112	sports	congratulations to the hanniballagrange and columbia mens soccer teams for making the naia national tournament represent the amc well
+267823872764674048	sports	sbchat todays youth plays soccer not little league dont discount girls in mls growth us womans footie is huge
+267823870004842499	sports	kookie is not impressed with this soccer match httptcodesjwkcr
+267823861800779777	sports	gerardbutler plus soccer all in one what can get better than this
+267823708855492610	sports	rt tshqsportsblog the other football premier league wrap november 1011 httptcodfqr5l4i soccer arsenal astonvilla chelsea
+267823705101582336	sports	rt kahhleee i wish a football player would say something about the soccer team this year
+267823696767500289	sports	hlgu mens soccer team wins amc tournament to clinch naia tournament bid httptcolfxswtal
+267823619227394049	sports	the other football premier league wrap november 1011 httptcodfqr5l4i soccer arsenal astonvilla chelsea
+267823566567907329	sports	gerard butler in a new soccer movie yes please
+267823557789249537	sports	people who claim soccer is dumb and boring because it can end in a tie shld make same comment about nfl dontbeahypocrite rams
+267823545734791168	sports	soccerbabe23 i had too
+267823538231193601	sports	missouris soccer season ends after heartbreaking ncaa tournament loss httptcoa5xzfidh
+267823483017388032	sports	mike4241sdo u know who jordyn is black and plays soccer
+267823384782598145	sports	watching soccerssomeone comes in the room talking on the phone i want to say shut the heck up tv on talk in the other room thanks
+267823339416981504	sports	krismcdonald21 but in a soccer tie you still get a point everyone wins
+267823272232628225	sports	played fifa soccer 13 360 in the last 24 hours httptcojbomjkte
+267823194096926720	sports	duquad i wonder if the soccer guys are gonna be running around tonight for soccer sunday if not its still sunday funday always do
+267823187314745344	sports	whitneyyadrich i still hate ties in soccer but i got over that a long time ago
+267823145199751168	sports	love soccer httptcom3vk8hzc
+267823015264391168	sports	a2 not sure if they are major league yet but have selected right marketssbuilding soccerspecific stadiums has benefits sbchat
+267822944380669952	sports	goodness soccer wore me out today
+267822851531354112	sports	mens soccer championship qualifiers announcedsnaiasnational association of intercollegiate athletics httptco6fxjhlejsgoeagles
+267822838155710464	sports	playing soccer in the airport with ten year olds dedication dylanthevillan paigevonbank36 nicole24 wh httptcopyrzoby4
+267822822544519168	sports	sport play 562930 soccer netspair sportsplay equipment is known for fun equipment of exceptional safety andshttptcotv4jg2ee
+267822757281140737	sports	rt jnikeparrish soccer is on espnsnow thats more like it
+267822609033469952	sports	heyitspaige elizabethkaay i cant help but love the gamebasketball soccer
+267822598891642880	sports	rt jnikeparrish soccer is on espnsnow thats more like it
+267822494256332801	sports	fuckindrew i was like toes exist in football this aint soccer
+267822458680258560	sports	rt mnsuclimbing congrats to msumavssoccer for a great win today off to the sweet sixteen get em mavs mavnation mavsoccer mavpride
+267822434760130561	sports	rt footballmsu congrats to msumavssoccer on to the regional final mavnation
+267822401172144128	sports	rt savannahloree soccer boyssfootball boys
+267822378619383809	sports	kilvo6166 no dude baseball went well thats why im now here playing college soccer
+267822314295549954	sports	rt ustwlover jillianleightw i bet you sound good i suck but i can play footballsoccer so it is okay because they like that
+267822279776411648	sports	air force men make ncaa soccer tourney first time in 15 years albuquerqueskevin durr tied it with 16 seconds httptcobd0ivetn
+267822277490524160	sports	air force men make ncaa soccer tourney first time in 15 years httptcoqa3ju8dq
+267822090487488512	sports	i love it when you miss something so much and you finally get to do it again soccer grassfaires kickedgrass
+267822039946108928	sports	not a big fan of ties but its better then changing the way the whole game is played to decide a winner ie hockey and soccer
+267821987324362752	sports	caitlinobrien21 yea its all good finished varsity cross country a few weeks ago about to start per season soccer
+267821986464534529	sports	rt naterivas30 so to helloitskenya cuz i always see her at school and shes raw at soccer go follow nows
+267821969746059264	sports	talentandskill confessionnight im in love with the game of soccer i dont know where id be without itid be dead
+267821961047076865	sports	w soccer texas tech ncaa second round match set texas tech red raiders official sites httptco30bjt6sr txtech redraiders
+267821812841320448	sports	my life currently revolves around artcyclingssoccer couldnt be any better
+267821807632007168	sports	long weekend of soccer ready to get back in the swing of things at 5am pushplay liftheavy healthyfitmom addictedtoworkingout
+267821773872041984	sports	so to helloitskenya cuz i always see her at school and shes raw at soccer go follow nows
+267821762815852544	sports	rt hlgutrojans trojans move up to 17th in final mens soccer rankings httptcovhqvq1tr
+267821752749543425	sports	rt soccrcoachprobs tip of the day either love your players or get out of coaching
+267821731136278528	sports	i wonder if the soccer guys are gonna be running around tonight for soccer sunday if not its still sunday funday
+267821728258990081	sports	thought my soccer team wuld win and go on to the next round but we didnt and this weekend rlly bummed me out
+267821532414373888	sports	rt athleteprison rt athleteprison rt if you see your sport baseballsbasketballsfootballssoccersgolfsbowlingsbmx
+267821494523006976	sports	played fifa soccer 13 360 in the last 24 hours httptcomttz1n2f
+267821493549932545	sports	rt almasri10xx watching the mls is like watching a european soccer game in slow motion
+267821465867542528	sports	when a girl knows her soccers
+267821454849085440	sports	rt savannahloree soccer boyssfootball boys
+267821420392882176	sports	rt sincerelymen screw soccer if i wanted to watch somebody struggle to score for 90 mins id just take my friends out to the bar
+267821371881566208	sports	danielles0715 i know rightd if your talking about soccer i totally agree haaahhad
+267821187973922816	sports	one of the lads hella thought id play soccer in the snow hahaha
+267821061368860673	sports	confessionnight i love soccer coyotesoccer
+267820971380056064	sports	soccer tonight sore tomorrow
+267820943055933440	sports	rt doglover5316 suck the air out of soccer balls runners havenstarted lifeproblems dontbethatathlete storyofmylife kyleeabraham
+267820800948719616	sports	suck the air out of soccer balls runners havenstarted lifeproblems dontbethatathlete storyofmylife kyleeabraham
+267820700386082818	sports	rt savannahloree soccer boyssfootball boys
+267820676486942720	sports	krismcdonald21 but what about ties in soccer
+267820641888133120	sports	last soccer banquetsnewchapter
+267820567007227905	sports	although those were the names of the first soccer team i was in
+267820566071898113	sports	tonight at 10shighlights of quparkside ncaa tournament soccer plus we check in wour last team standing in hs fb the cse panthers
+267820491262275584	sports	ispeakcomedy andrea is so damn stupid thewalkingdead this tweet is for you since you leave me for that show soccercutie06
+267820473776214016	sports	horaknightz hi sam im kylie and im obsessed with one direction and soccer but one direction will always come first
+267820467526717441	sports	bakerdudeabides kellenk19 good to see that kellen still has his soccer skillssalso glad to hear he has had a full recovery
+267820331601915907	sports	rt almasri10xx watching the mls is like watching a european soccer game in slow motion
+267820284034293760	sports	why is soccer on espn right now who wants to watch a 2 hour game and see 2 goals scored
+267820273863114752	sports	rt thatonedude32 sportscenter this must be why theres soccer hooligans nothing pisses you off more than wasting two hours on a cats game everybodywins
+267820246654656514	sports	confessionnight ive played soccersvolleyball but i had to quit both because i have such bad ankles and i hate it
+267820242015776769	sports	i dont know how things ever get accomplished consistently in soccer
+267820227977412609	sports	plus a lot more turnovers rugged possession and less attacking but hey soccer is soccer
+267820181143814147	sports	kdturner95 oh i miss you i miss soccersno its smalls actually and we havent talked in so long about anything
+267820098608328704	sports	rt karla13 so to helloitskenya cause shes soo beautiful shes really good at soccer plus she got that shoegamesfollow her
+267820048402497536	sports	watching the mls is like watching a european soccer game in slow motion
+267820002655211521	sports	both soccer teams in the sweet 16 duhawkatology for sure
+267819927820443650	sports	soccer boyssfootball boys
+267819922208464897	sports	so to helloitskenya cause shes soo beautiful shes really good at soccer plus she got that shoegamesfollow her
+267819832219680768	sports	hashtagmike22 fair enoughsthe mls playoffs is on tonight and its pretty good soccer
+267819773423931394	sports	i honestly lovehate soccer mostly 999 love
+267819742805504000	sports	5chn31d3r thank you so much haha it was hard playing good soccer in those conditions but we pulled it outsthatmademynight
+267819709884399617	sports	jillianleightw i bet you sound good i suck but i can play footballsoccer so it is okay because they like that
+267819641785708544	sports	does anyone wanna make a indoor soccer team and play in milwaukee hit me up
+267819537687252994	sports	who knows what time the soccer team plays tomorrow is it 2
+267819535065837568	sports	ctownrivals basha girls soccer
+267819447807512577	sports	so to gurlzrule002 for being really good at soccersfollow her
+267819439091773441	sports	tough weekend for dereks soccer team 4 games in 30 degree weather allowed only 4 goals but scored none two 00 ties need some offense
+267819276830928897	sports	rt loooligans they know me so wellslol lilis gonna have her own soccer team of her own kids
+267819271864844288	sports	played fifa soccer 13 360 in the last 24 hours httptcomcw4ivis
+267819261857255427	sports	loved playing soccer all weekendsmuchneeded
+267819123113873408	sports	skuenning88 i play soccer against a guy almost every sunday and he looks just like you if he wasnt such a douche id ask if u r related
+267818920155705344	sports	this is how we win soccer games sharkbit3 httptcospykauns
+267818873783455744	sports	groomer707 some soccer guys broke a pipe in mgilley spswater spraying everywhere lmao and the fire alarms started going off
+267818846843465729	sports	audbaker might as well get my soccer mom look on and a freaking mini van to haul our groceries beepbeep
+267818783559778304	sports	did you know i love playing soccer
+267818730237607936	sports	homework sucks
+267818663531388928	sports	a beautiful girl who loves soccer soccerlife
+267818619759628288	sports	i have about 30 pages left in this awful book that i have been reading all day instead of finishing i going to watch some tv for a bit
+267818512385449984	sports	air force claims mpsf title with shootout win over new mexico the air force mens soccer team capped an incredible httptcojogzh53f
+267818325281734657	sports	i feel like playing soccer right nowsjust need to kick the ball aroundsclear my mind again like yesterday
+267818302716383234	sports	bloody sockshand warmersand lots of turf burnits soccer season
+267818252531552256	sports	rt sincerelymen screw soccer if i wanted to watch somebody struggle to score for 90 mins id just take my friends out to the bar
+267818236685479937	sports	rt usfigureskating kozuka is on the ice on nbc as you may have seen before he calms his nerves before a skate by juggling with a mini soccer ball
+267818153600491520	sports	missnatherrod soccer tournament
+267818126127808513	sports	they know me so wellslol lilis gonna have her own soccer team of her own kids
+267818072293904385	sports	why did i pick to play soccer again
+267818021551218688	sports	wondering if were gonna get new jerseys for soccer probably not though cause they dont care about us lol sadbuttrue
+267817992228851712	sports	i have bruises on my thighs from getting the soccer ball kicked at meeee lovely warriorwounds
+267817963879559168	sports	rt mnusports mnu mens soccer receives the atlarge 4 bid to the national tournament opening round pairings will be announced tomorrow
+267817910628646912	sports	off to the gym play some soccer
+267817838838943744	sports	i shouldve worked this semester and not for soccer season semester to go see my friends play
+267817782962425856	sports	i havent played soccer about two weeks i feel fat sadtweet
+267817757549133825	sports	we talked about kids today as a family everyone agreed that im gonna have the most and theyre all gonna be wearing soccer stuff 247
+267817671553347585	sports	rt hiimtaylorjones hanboss13 nowwatching minor league soccer
+267817641396281344	sports	im so not looking forward to it because soccer season is coming up
+267817618893844480	sports	played fifa soccer 12 360 and 1 other game in the last 24 hours httptcojgrwyplm
+267817607871209473	sports	rt hiimtaylorjones hanboss13 nowwatching minor league soccer
+267817521179148288	sports	every mexican has that big ass blanket with a soccer team on it haha well i do bahahahaha
+267817505316298753	sports	what are better soccer or hockey players and whysdepends on the guy but usually soccer because when i watch t httptco28c1l0x3
+267817445581008897	sports	hanboss13 nowwatching minor league soccer
+267817401431769089	sports	saw the rams and niners tied i thought they were playing football not foosball aka soccer fuhlerj
+267817315712765952	sports	we won our indoor soccer game
+267817217968726016	sports	samuelgward jacobmeadowsssoccer still sucks though
+267817114302296064	sports	rt oliverwdrake congrats to both au mw soccer teamssboth are heading to the naia national tournamentsgoau
+267816925608960000	sports	soccerstories yaelaverbuch she got pneumonia
+267816911579013120	sports	rt uwppioneers mens soccerswisplatteville 2 carroll wis 1 220 2nd half
+267816754951122944	sports	new jazz eventsnov 12 2012 watch online boreham wood vs basingstoke town soccer stream online 12112012 atshttptcov7qm2mva
+267816694540541952	sports	rt footballmsu congrats to msumavssoccer on to the regional final mavnation
+267816658926706689	sports	stlouisparker congratulations is that moorhead or st paul also i heard you got a soccer ball so you can kick it around w us whenever
+267816616220299265	sports	everyone watching walking dead im watching a soccer game
+267816193715499008	sports	jayzawaski670 italy loves hockey and soccer its like my mexican house hold where its always an issue blackhawks
+267816167584985090	sports	rt usfigureskating kozuka is on the ice on nbc as you may have seen before he calms his nerves before a skate by juggling with a mini soccer ball
+267816146160455681	sports	needham high boys soccer 2012 massachusetts d1s champions 20 over weymouth to play somerville in the state semifinal on wed
+267816038773710848	sports	soccer and friendships are two completely diff things
+267815913460465664	sports	dareme02 stlisarealboy yes and soccer players taking their shirts off
+267815887678095360	sports	rrogerwworld i love soccer more than my own boyfriend
+267815877443997697	sports	talking about soccer if youre a bird im a bird tabark94 tabark what does that even mean
+267815719100637185	sports	my kids will love soccer they will love the bears and they will be good at fifa
+267815687819517953	sports	rt ershiajiselle confessionnight im going to miss going to soccer games
+267815678852079616	sports	anyone else watching this soccer match on espn no thats cool
+267815593112121345	sports	previewsoccercapello to test new players in us friendly httptcoovunltna socceraround
+267815592139042818	sports	previewsoccerfalcao test for brazil marathons for spain portugal httptcodfsmzjrg socceraround
+267815501323984896	sports	davidsuraj116 youre a great soccer player buddy you got great foot worksmove the ball very well i wish you luck in your soccer career
+267815463331958785	sports	confessionnight i miss soccer so much
+267815446982561792	sports	actually happy to have a break from soccer longseason
+267815400677445632	sports	naiasmens soccer championship qualifiers announcedsmodified rpi rankings also released httptcorhofio5d
+267815398307667968	sports	rt hillaryegan lindzcarpenterr remember when we became the best soccer trio since zayn louis and liam
+267815369945776128	sports	fuck this notebook shitsoccer alllll night on espn
+267815340753432576	sports	rebecca looks like a total soccer mom breakingamish
+267815197576658944	sports	tayaurorameyer feel free ill invite the whole soccer team over
+267815144095096832	sports	rt sfish222 what is this this is america there has to be a winner there is no tie in football this isnt soccer penaltyfieldgoals 5playerseach
+267815072984883200	sports	i cant wait to get my new cleats soccer halamadridjcs
+267815053582016512	sports	lindzcarpenterr remember when we became the best soccer trio since zayn louis and liam
+267814960590110720	sports	they are right ot rules need to be changed what is this soccer rams 49ers
+267814829874626560	sports	rt stlouisparker if anyone was wondering i got a soccer ball for my gift at the banquet tonight
+267814777844297728	sports	miranda get done with your soccer practice already
+267814500604968960	sports	even though im dont playing soccer i could still watch it all day long grassfairyatheart
+267814431017279488	sports	i love my soccer girls so much i dont want this to be over lovemyfamily
+267814368564097024	sports	rt mnusports mnu mens soccer receives the atlarge 4 bid to the national tournament opening round pairings will be announced tomorrow
+267814360716562432	sports	kyle is a homosi remember he ditched me one time at the school soccer tryouts
+267814321969582080	sports	rt zhollstrom7 sean conerty scores overtime winner for michigan state against rival michigan in the big ten soccer championship sportscenter sctop10
+267814201991524352	sports	rt jesskapowers rams49ers tie but soccer is dumb because it can end in a tie makes complete sense
+267814184916492288	sports	mls soccer corn and dannys famous grilled cheese topdinner
+267814182383136768	sports	bobbybeaulac who do they think they are soccer
+267814139756412928	sports	with chocolate gingerbread cookies and playoff soccer go sounderssdrinking an oatmeal stoutshttptcojwyu6ez0 photo
+267814128557629442	sports	900 tweet goes out to the soccer team for winning states tylermatthew22 blholley10 jaylamanca cheeseboi10 cpollock16 and everyone else
+267813950320701441	sports	im at vetta soccer club st louis mo httptcownvuxpby
+267813911699525632	sports	the moment you wonder how you went from soccer videos on youtube to exorcism videos
+267813779566383104	sports	ties are for soccer not football disappointed
+267813612482093056	sports	staplesinc5 oh i didnt even know soccer had a pro league in the us until this year
+267813492684386304	sports	photo admhawthorne amburgered not enough dinosaurs with facial hair i love this little guy httptco6vy28kcj
+267813471171796992	sports	pinche thats what my mom says when her soccer team is ls losing lmao
+267813465056481280	sports	needham high boys soccer up 10 over weymouth in the massachusetts state d1 south championship with 10 minutes to go
+267813295229112321	sports	a tie is for bitches that give up like in soccer
+267813283430547457	sports	rt thatgirlkiwi semirasteezy you better put them soccer skills to usesrun semira ruuuuuuuuuuuuuunsahaa
+267813209665318912	sports	worst thing that happened to me in 8th grade not making the soccer team nobody could believe it and neither did i
+267813205605244928	sports	soccer on
+267813182318456832	sports	confessionnight im going to miss going to soccer games
+267813177495007233	sports	espnfc soccer means hottie taylortwellman on the call mls
+267813173812396033	sports	rt schebs congrats to au womens and mens soccer teams both are headed to the naia national championships go saints
+267813153834938368	sports	soccersthe notebook
+267813096817582081	sports	rt murtity marsellonashaha i just noticed what marsellona meant cuz the soccer team barcalona and ur name is marsel smart
+267813081055363072	sports	rt columbiacougars cougar mens soccer qualifies for the naia national championshipssthe season continues columbiacougars
+267813047727423488	sports	rt andrewamar20 most of my soccer intelligence has come from playing fifa so much
+267812990953336832	sports	played fifa soccer 13 360 in the last 24 hours httptcodwiinqgu
+267812943759036417	sports	whacked the snot outta my elbow tonight while running in soccer spikes i musta flown 4 ft across the asphalt what can you do lolz
+267812903728586752	sports	if anyone was wondering i got a soccer ball for my gift at the banquet tonight
+267812843942998016	sports	rt metrostsports womens soccer price pollack score in second half in 21 win at seu rmacws getrowdy gometro httptco4vayflmb
+267812795104505856	sports	rt cbchighschool thanks for the coverage tonight stlouis soccer is a more informed community due to your efforts thanks
+267812721276362752	sports	semirasteezy you better put them soccer skills to usesrun semira ruuuuuuuuuuuuuunsahaa
+267812678825828352	sports	so proud of all the soccer boysswatching you win was well worth the road tripshttptcogdw5jq8d
+267812673763291137	sports	did i just watch a soccer game really a tie unbelievable this is an embarrassment to the nfl this rule has to change
+267812639286099968	sports	two thoroughly bruised knees thanks to scooter soccershttptcogj3ipnov
+267812626271174656	sports	rt stlclubsoc evers makes most of her opportunity to lead slsg to u15 state cup title lou fusz falls to futura in u16 httptcokyotjqvj via stltoday
+267812588274974720	sports	marsellonashaha i just noticed what marsellona meant cuz the soccer team barcalona and ur name is marsel smart
+267812492422561792	sports	everyone go follow this guyssaiddope6 he really cool and a mustfollow he is a great soccer player to so go tap that follow button
+267812484235272192	sports	pledge class indoor soccer notrrealsoccer
+267812431517069312	sports	dey got my nigga alex thomas lookin sick on here lookn like a soccer player w syphilis n a staff infection lol bow
+267812407613722624	sports	played pro evolution soccer 2008 360 in the last 24 hours httptcoldsscaog
+267812348855721984	sports	dear soccer haters how is it your real sport football had a tie today clowns
+267812334859329536	sports	watchespn2012 fifa futsal world cupmondays matchessusa coverage httptcoi1fctf4c
+267812269306560512	sports	sped home from soccer to watch thewalkingdead noteventoolate
+267812217938931712	sports	drcogerim watching soccer cant wait till ill first game
+267812137039171584	sports	five facts about readingsrumputsantoso fact 1 reading can make you a better conversationalist fact 2 httptconzhplq2j
+267812072681766912	sports	should probably change my avi soccers now dead and gone
+267811993057099776	sports	spencemac10 hopefully beg of december cant wait to ball it up in soccer
+267811976879677441	sports	socceryaya amazienggrace eh oh well its just a guy thing right jonnyrick
+267811873922113536	sports	nfl really cant talk crap on soccersrams 49ers kissingyourcousin
+267811855056125952	sports	photo commasplice103 coffee is not a recreational activity httptcohdflpwhn
+267811846441013248	sports	rt kevinizajedi so glad i decided to try out for soccer this year its been a great 12 weeks thankstoall onefam onelove sectionalchamps bcsoccer
+267811741445009408	sports	so to crazypollo12 for looking like pauly d lololol this nigga is de funniest no but really follow him hes boss at soccer
+267811741109477376	sports	by the soccer fields penn state erie junker center httptcokbrvjkbw
+267811672616484865	sports	soccer cleats httptcocaqnxlgw
+267811633617842176	sports	rt sbarbie43 spencemac10 thanks boo dont forget soccer when im not crippled anymore
+267811492991205378	sports	rt mike3hunnaa soccer girls can twerk seen it and prayed for it
+267811483575021568	sports	spencemac10 thanks boo dont forget soccer when im not crippled anymore
+267811202036531201	sports	rt cstilger1107 so to mlane004 for finally being nice to me for being good at basketball and soccer folllowhim
+267811179873849344	sports	the notebooksmls soccerhaha
+267811143152697344	sports	kellanschmidt its cuz youre a soccer fan soccer fans are the only people more loyal than husker fans when you mix the two its dangerous
+267811093378908160	sports	little miss is showing an excitement for soccer
+267811083702636544	sports	zombie babies totally epic you can kick them like soccer balls thewalkingdead thewalkingdaughter
+267811059627343874	sports	i should really pack my soccer bag but ehhhhhhhhh
+267810929717174272	sports	rt taylorboozell howimetmybestfriend soccer when we were like 4 paigenicholson7
+267810882011144192	sports	rt carverjohnny i guess soccer isnt the only sport thats gay enough to end in a tie
+267810582856597504	sports	i dont want to hear football fans slam soccer for ties what the heck is this tie nonsense rams 49ers baseballisbetter
+267810368368279552	sports	your my favorite soccer player though
+267810343521251328	sports	i didnt think football was soccer in football i thought there was a winner and a loser
+267810263183548416	sports	congrats to au womens and mens soccer teams both are headed to the naia national championships go saints
+267810225015373824	sports	teyonnabrooke has she talked to you
+267810143331311618	sports	just do what you did take their damn ball true as in soccerscant damn score with no damn balls bears
+267810010027917312	sports	rt sincerelymen screw soccer if i wanted to watch somebody struggle to score for 90 mins id just take my friends out to the bar
+267809984484605952	sports	wtg son came in 1st place on a 4 game tournament soccer
+267809958593171456	sports	yay soccer
+267809897322782721	sports	rt javilouiee ahh i miss soccer
+267809837776248832	sports	confessionnight im a man ahahhahahahah no but seriously i like soccer i cant believe i just told everyone that that was so personal
+267809826241908737	sports	played fifa soccer 12 360 and assassins creed iii 360 in the last 24 hours httptcomlmdyq3p
+267809809124950016	sports	seems like the only way espn can boost soccer ratings is to put the bcs countdown on before it switchchannels
+267809750811557888	sports	so to mlane004 for finally being nice to me for being good at basketball and soccer folllowhim
+267809711838085120	sports	rt hannahrenetrott soccer is going to nationals woooo
+267809641034051584	sports	admtua52 no just soccer sweats and 1 sweater
+267809626672738304	sports	people keep saying my butt is getting bigger guess soccer did this lol
+267809545093513217	sports	sw38 who are the soccer girls playing on first round
+267809513757876225	sports	rt bennorgaard boo tying is for soccer
+267809478454415360	sports	soccer girls can twerk seen it and prayed for it
+267809438944079874	sports	no school and soccer practice tomorrow bestdayever
+267809343435579392	sports	yesterday was my last game of soccer in a long while
+267809326633201664	sports	amberhaggard brodeo since when savanna has had soccer games where they tied
+267809325978894336	sports	soccer players idigthem
+267809311693107203	sports	rt anjolao20 i always stick my tongue out without knowing it when i play soccer sowierd
+267809233410600960	sports	soccer is on espnsnow thats more like it
+267809227601498112	sports	just scored 5 goals in a indoor soccer game lol
+267809145120505857	sports	houston win eastern conference final first leg 31s9000 soccer httptcoflkq5klj mls
+267808926647607296	sports	bc lions western football game or my soccer game oh the decisions
+267808867763748865	sports	chelsea drop another 2 points at and lose captain john terrys9000 soccer httptcocfy1o2aq epl
+267808765200441344	sports	wayne rooney picked up a knock and is out of englands friendly versus sweden this week see who else is out httptcoowbilyju
+267808710179557376	sports	lalo23 haha idk but that game was crazy lolswe came back sick with itslolsfuck it thats soccer
+267808573604646912	sports	emmalouie10 i might not be at soccer tomorrow im sorry baby3
+267808539026808833	sports	paula broadwell is extremely accomplished and aggressive and nothing is enough for her husband sons work some soccer gamesnot enough
+267808534836703232	sports	today my dad taught me three things soccer players are queer which means im queer and that he know what the word queer is and means
+267808520743837696	sports	rt tannerwilson48 soccer or track
+267808428964069376	sports	and this is why the nfl fuckin sucks ties theyre no ties in sports unless its soccer
+267808345442885632	sports	throwing up during soccer practice
+267808294301728769	sports	rt tday1223 the tie in football is the dumbest thing let em duke it out like men until someone wins instead of a draw like gay ass soccer
+267808262055948288	sports	soccer or track
+267808254086742016	sports	lobo mens soccer invites you to join the program in watching the ncaa tournament selection show at coaches barshttptcoxwjiab2u
+267808125309026304	sports	zrobinson1 but you compared it to that other sportwhats it calledsoccersadvancedhackysack
+267808121722904576	sports	ayeeari sumguyalejandro lopez7 alexxlopez11 you run in soccer so stfu
+267808092094337024	sports	rt zhollstrom7 sean conerty scores overtime winner for michigan state against rival michigan in the big ten soccer championship sportscenter sctop10
+267808085991628800	sports	at times i feel like i can connect more to someone if they play soccer
+267807918936715265	sports	a tie what is this soccer absolute garbage 49ers
+267807846291361793	sports	played fifa soccer 13 360 and medal of honor warfighter 360 in the last 24 hours httptcodeccthnn
+267807826850754560	sports	time for some la galaxy playoff soccer two of my all time favorites in donovan and beckham
+267807597040644099	sports	rt chrisssybear when people bag on soccersid like to see you try bitch
+267807547304599552	sports	rt thereid a tie in the nfl what are we soccer
+267807524953133057	sports	rt corrycolorrado this aint soccer there shouldnt be ties in the nfl espns49ersrams
+267807488882114560	sports	i knew having a brother would come in handy one day soccerderek
+267807469022089216	sports	should have to use 5 diff guys to kick like soccer rt pfac51 nfl should go to a fg after 1ot best of 5 fg
+267807398683607040	sports	rt ausaints mens soccer earns atlarge berth joins women in naia national tournament httptco7mgiivhy ausaints
+267807384431366144	sports	rt asbury45 i just love soccer its my favorite sport ever ifiwasgay
+267807268446277632	sports	soccerargentine championship results and standings httptcongvskkaz socceraround
+267807265963249664	sports	rt thatguyconnor a tie a tie i feel like i watched a great football game only to be given a soccer game ending dissapointed stlvssf
+267807203338100736	sports	rt bennorgaard boo tying is for soccer
+267806858687963136	sports	rcmwisnewski20 hahahah i got thrown outta pats soccer game because the ref made a bad call
+267806744447700992	sports	i tie in football is worse than a tie in soccer
+267806676504178688	sports	rt kevinizajedi so glad i decided to try out for soccer this year its been a great 12 weeks thankstoall onefam onelove sectionalchamps bcsoccer
+267806669612924929	sports	rt ravenathletics we have our second national tournament qualifier as bcws lady raven soccer team has earned the no 5 atlarge httptcowrczs4xm
+267806537924374529	sports	regiscdudley i will never understand soccer player logic
+267806446236864514	sports	i always stick my tongue out without knowing it when i play soccer sowierd
+267806386614841344	sports	holy shitsjose cis for his soccer skills
+267806384920346624	sports	rt usatweets4u gamebreaker helmets can be used in flagfootball soccer waterpolo rugby paintball volleyball and more want more info 5613068002
+267806336543252481	sports	tbin3d amen what is this soccer
+267806308302991360	sports	rt jacksoniusrex i think seanverbanic needs to thank me for making him the soccer player he is today ymcasoccer
+267806253382782978	sports	watching soccer highlights
+267806219597643776	sports	rt thereid a tie in the nfl what are we soccer
+267806191130923009	sports	rt mgriego87 ties are for sunday morning service not afternoon football wth is this soccer suck 49ers
+267806176450854912	sports	i miss competitive soccer
+267806132104466433	sports	rt wustlbears womens soccer will play no 14 concordiamoorhead on friday at a site to be determined concordia defeated cal lutheran 32 in iowa
+267806077465280512	sports	rt mnusports mnu mens soccer receives the atlarge 4 bid to the national tournament opening round pairings will be announced tomorrow
+267806035664830464	sports	played fifa soccer 13 360 in the last 24 hours httptcosd5e1jmd
+267806011476303872	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267805937170014209	sports	rt hlgutrojans trojans move up to 17th in final mens soccer rankings httptcovhqvq1tr
+267805918018797568	sports	2 nationals in 4 years of college soccer decent
+267805828751454209	sports	rt morrisee got to play soccer today with all the day 1 bros good times
+267805800305668097	sports	hambonie1 we always have soccer games the same dayssbut half the soccer girls go after our games anyways well try 3
+267805787982794752	sports	misterbman yeah its commonplace in soccer its rare in football
+267805774611349506	sports	rt greekphil23 i really hate soccer
+267805766034001920	sports	arsonaldarebel seein u rock that arsenal jersey got me hyped haha showin us soccer playersfans love and killin battles
+267805760673677312	sports	rt gocreighton todays mens soccer win guarantees creighton will have at least one ncaa tournament team for the 26th straight school year
+267805742424289280	sports	rt gocreighton creighton is the nations only school with active win streaks of 10 or more in both mens soccer and volleyball
+267805739224031232	sports	soccerargentine championship results and standings httptcopux0vxpr
+267805716067270656	sports	jonjohn this isnt fucking soccer they should have double overtime nfl
+267805637780598785	sports	good luck to the adapted pi and ci soccer teams at state in stillwater nov1617sgohawks httptcoh4niprlp
+267805628704108545	sports	michelledbeadle making soccer fans everywhere giggle just a little nillnill tie
+267805566427086849	sports	my indoor soccer team for this winter leauge is about to be stacked
+267805537868054530	sports	rt mnusports mnu mens soccer receives the atlarge 4 bid to the national tournament opening round pairings will be announced tomorrow
+267805527457820673	sports	therealjwoods why are you watching soccer anyway
+267805488761143296	sports	dear nflthis isnt soccer ties shouldnt be allowed thisweddingishorseshit
+267805450467168257	sports	to settle a tie after overtime in an nfl game have the two kickers kick a game of horse its exciting like penalty kicks in soccer
+267805409824350208	sports	johnnystaverns thenathangraham so waht is a tie in soccer called
+267805404229169152	sports	so glad i decided to try out for soccer this year its been a great 12 weeks thankstoall onefam onelove sectionalchamps bcsoccer
+267805381747675136	sports	rt icallhimpapi you know what i miss i miss playing soccer soccerislife socceraddict
+267805316702404609	sports	rt kevingrahamkfan just saw the ninerssrams tied this isnt soccer pathetic
+267805209965760513	sports	rt coltonjames51 this is football not futbol i dont watch soccer for a reason wedontdoties
+267805197303173122	sports	rt mnusports mnu mens soccer receives the atlarge 4 bid to the national tournament opening round pairings will be announced tomorrow
+267805195382190080	sports	fgcu mens soccer team back in ncaas after asun title winsnbc2 news httptcopq0euu5k
+267805194249715712	sports	soccerhouston take big step towards mls finalschicago tribune httptcosjxv6loq
+267805185504604161	sports	spain messis 76th passes peleshttptcoh21pfz2w httptcostnsp0pf
+267805166277894144	sports	rt tday1223 the tie in football is the dumbest thing let em duke it out like men until someone wins instead of a draw like gay ass soccer
+267805008362364928	sports	pwhiskeybubbles i really do not like that it ended in a tie ties are for soccer
+267804985914429440	sports	rt creighton creighton mens soccer 2012 mvc champsson to the ncaa tourneysgojays gocreighton
+267804978733801473	sports	bigez and now we have to talk about a tie unbelievablekinda reminds you of soccer
+267804864753586176	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267804822323990529	sports	pfac51 the college on the 45 you dont want battling kickers i hate watching soccer because of things like that
+267804747468247041	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267804603184209921	sports	rt thedockets so do soccer fans feel unsatisfied like this all the time
+267804596460744704	sports	sportscenter thats why nobody likes soccer runforever dontwinorlose tiegame
+267804485525581824	sports	daniel tosh is funny as hell but you cross the line talking trash on soccer bitch
+267804394832138240	sports	rooney out of england squad to play swedenshttptcodp1ev2yu goalcomrooney out of england squad to play sw httptcoidleeqpl
+267804372942061568	sports	tylerpdustin tends to be far more dramatic in soccer
+267804367099424768	sports	i think seanverbanic needs to thank me for making him the soccer player he is today ymcasoccer
+267804351966347264	sports	ghanson25 agreed never should there be a tie in any sport even soccer
+267804339215687681	sports	soccerstar71 im really notim honestly telling the truth but if you said tht you did this id be like httptco03mcxnpr
+267804324376231937	sports	hey broo no i cant i have soccer
+267804250833297408	sports	fun rugs soccer time accent httptcos8zy9foi
+267804234488094720	sports	rt sincerelymen screw soccer if i wanted to watch somebody struggle to score for 90 mins id just take my friends out to the bar
+267804203517345792	sports	alot of stuff coming out and stuffing starting the one thing i just cant wait for is soccer never new i would fall in love with a sport3
+267804127130681344	sports	us soccer player fined suspended and given sensitivity training for using gay slur httptcoejhkxmk4
+267804125662703617	sports	basement soccer with the bro i won
+267804104988966913	sports	rt icallhimpapi you know what i miss i miss playing soccer soccerislife socceraddict
+267804083820302338	sports	rt whatthedeez a tie game what is this soccer
+267804072592162816	sports	soccerlife19 yeah lol
+267804052065222656	sports	congrats to all players and coaches of the mens soccer teamsmvcchamps
+267804036705710081	sports	rt ausaints mens soccer earns atlarge berth joins women in naia national tournament httptco7mgiivhy ausaints
+267804036139462657	sports	played a soccer game for the first time since maysfeels good to get back into it
+267804022487003136	sports	rt ausaints mens soccer earns atlarge berth joins women in naia national tournament httptco7mgiivhy ausaints
+267803893382135808	sports	mens soccer earns atlarge berth joins women in naia national tournament httptco7mgiivhy ausaints
+267803832388575232	sports	sportscenter ties are for soccer plainnsimple
+267803828328464384	sports	lol class m soccer states is more interesting than class ll
+267803792160997376	sports	rt oliverwdrake congrats to both au mw soccer teamssboth are heading to the naia national tournamentsgoau
+267803767435567104	sports	and it ends in a draw the game has been reduced to soccer
+267803721788968961	sports	lionel messi is the best soccer player alive
+267803678193377280	sports	played fifa soccer 13 360 in the last 24 hours httptcor22xlh2e
+267803670253543424	sports	lmfaoooo rt sexifacetoya and what would robggetscash do wo soccer
+267803442532188160	sports	rt billytheskid abdolutely disgusted with the rams bradford just threw himself on the ground like a little soccer bitch losetryingratherthantiecoasting
+267803429311750146	sports	trojans move up to 17th in final mens soccer rankings httptcovhqvq1tr
+267803383031820289	sports	sportscenter if i wanted to see a tiegame i wouldve watched soccer
+267803337255157760	sports	its like watching a soccer match on univisiontu
+267803333962645504	sports	congrats to the ru mens soccer team for the win today epic comeback hawknation
+267803251771068417	sports	gamebreaker helmets can be used in flagfootball soccer waterpolo rugby paintball volleyball and more want more info 5613068002
+267803234641518592	sports	rt kansassports what is this soccer nfl rams 49ers
+267803216039800834	sports	rt kjgetfucked a tie game what the fuck nfl this isnt soccer
+267803190106398721	sports	kickapoos soccer season came to an end last night in a quarterfinal loss to rock bridge kickapoosoccer httptcowuovmnaj mopreps
+267803178819547140	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267803177133420547	sports	lancaster mennonite blazers win state boys soccer openers cj sturges and ian httptcoeyigduek lancastermennonite newtag
+267803088029614080	sports	soccer ballsflip flops donated by veritasclassicl families for first grade teacher tina rays mission to ivory coast httptcoswlw3hck
+267802992512753665	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267802963030974464	sports	the 2 things americans most hate about soccer are fake injuries and ties turns out the usas beloved nfl has both of those also weird
+267802923411595264	sports	rt mikaylaisag that soccer game today
+267802885939662848	sports	rt kcgooner10 so soccer is stupid because sometimes teams tie and there isnt a winner welp then the nfl sucks cuz i just watched a tie soccer4life
+267802852808880128	sports	congrats to tus mens soccer team for claiming their fourth cusa championship title httptcog9kxlt79
+267802836073603073	sports	megannicole6 come to my soccer game in friday
+267802738342129664	sports	i wanna learn how to play soccer and basketball
+267802710357716992	sports	sportscenter at least its not like soccer where this happens all the ram time
+267802661779288065	sports	soccerstar71 theyre on my phone because i like to be preparedi know ill use them alot lmfaoo im a loser
+267802655672369152	sports	rt joesiehlmann what an ugly game in san francisco not to mention the fact that the nfl still allows ties what is this soccer
+267802648428806146	sports	rt chrisssybear when people bag on soccersid like to see you try bitch
+267802640853905408	sports	rt julieweber2 seeing maddiel4 play soccer today will definitely makemylife
+267802589138141184	sports	gourcuff back for france friendly in italy httptco615untqy
+267802580116180992	sports	if i wanted to watch a football game end in a tie i would have watched soccer nfail
+267802496515317760	sports	jodieswafford even soccer has penalty kicks
+267802492836925442	sports	sportscenter this must be why theres soccer hooligans nothing pisses you off more than wasting two hours on a cats game everybodywins
+267802357419622400	sports	rt uwpexponent uwp mens soccer has made it to the third round of the ncaa d iii mens soccer tournament uwp will play loras this weekend site is tba
+267802258937372673	sports	rt chrisssybear when people bag on soccersid like to see you try bitch
+267802171792297984	sports	bmeatdoz what is this your 4th grade soccer team go bandits
+267802129677291520	sports	what a tie this is football not soccer
+267802095682453504	sports	britwoolard my problems apparently i let people in too quickly
+267802087927201792	sports	soccer career is now over thanks to my boys that made my last year a memorable one time for a new chapter in my life
+267802064879505409	sports	dropping 3 assists in my last soccer game is a good cap to a long career united whiteteamswag
+267802030259712001	sports	ethaneckert yeah but soccer and football are two totally different sports
+267802026736513024	sports	wait the game tied its not soccer
+267802010085105665	sports	britwoolard its true nothing anyone says help but its nice to know people are there no youre not prying im an open book 1 of
+267801984969613312	sports	recklesseriksthat one day i think we were with mikey and i played soccer and you niggas just watched
+267801905965703169	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267801855336255488	sports	hey handegg stop trying to copy soccer
+267801814538285056	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267801788500033536	sports	rt usfigureskating kozuka is on the ice on nbc as you may have seen before he calms his nerves before a skate by juggling with a mini soccer ball
+267801764835774464	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267801736704581632	sports	tripleeeec titor10 hannahbr0wn play us then in indoor soccer
+267801707843579906	sports	mnu mens soccer receives the atlarge 4 bid to the national tournament opening round pairings will be announced tomorrow
+267801679783682048	sports	phareswheel13 first soccer practice
+267801672259076097	sports	renanrgas im good man i know the soccer team is gonna miss you this year lol
+267801647080681472	sports	rt kevingrahamkfan just saw the ninerssrams tied this isnt soccer pathetic
+267801623542235137	sports	you know what i miss i miss playing soccer soccerislife socceraddict
+267801618370682881	sports	rt tday1223 the tie in football is the dumbest thing let em duke it out like men until someone wins instead of a draw like gay ass soccer
+267801598124781569	sports	coxseysoccer i wanted to try anyway sorry if im prying or got too personal
+267801566264840192	sports	coxseysoccer ive just been where you are right nowsi know how awful it is and i also know that nothing anyone says really helps but
+267801534790766592	sports	drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267801482512965632	sports	soldier field as a football fieldoddi know i knowbut i usually see it as a soccer fieldsoccerprobs
+267801466729807872	sports	rt thetasigma1383 sweet theres gonna be a tiessoccer fanboys get to pop off to football fans now
+267801439752056832	sports	jesscarbz10 can we have a soccer celebration deeberstyle please soccer chicks
+267801388304707584	sports	sportscenter its like a soccer gamesthey should at least get a point each in the standings
+267801337272602624	sports	im sorry i just cant whip up any anger over this ramss49ers tiesperhaps im just a soccer fan at heart
+267801303135186944	sports	playing soccer develops your quads but it doesnt do a damn thing to your calves like seriously i have no calves nada
+267801292414517250	sports	when people bag on soccersid like to see you try bitch
+267801286328594433	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267801272114106369	sports	mikeandmike espngreeny so you are going to cover a soccer game
+267801252832890881	sports	rt kevingrahamkfan just saw the ninerssrams tied this isnt soccer pathetic
+267801208746565632	sports	rt wommack54 there shouldnt be ties in footballsjust play until someone scores this isnt soccer
+267801155982204928	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267801130296287232	sports	ties are for soccer games
+267801124797550592	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267801123203723264	sports	live sports scores stats fixtures sports news soccersbasketball tennissus footballsice hockeysbaseballs scoreboard update
+267801099652718592	sports	andystrickland spent the last four hours to watch a damn tie stlrams likekissingursister or watching soccer
+267801060037505024	sports	fakejpd you should be ashamed of yourself football being all soccery 49ers michaelcheeney
+267801043163836416	sports	dont understand why tiegame still can happen play till there is a winner this isnt soccer lol
+267801025044426752	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267801000159637507	sports	im super confused this is football not soccer how do you tie
+267800993696215040	sports	princeofstammer aired the address is 10200 soccer drive plainfeildil u hve 2 register first at httptcoycvwd1iz and pay 10 for pickup
+267800983898308608	sports	rt stonehageman seeing all the soccer girls pictures is making lowkey jealous
+267800975434207233	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267800953149870082	sports	sportscenter this is america soccer isnt that popular here is bc we dont like ties we need a winner tieing in the nfl is unacceptable
+267800908660891649	sports	yessthis isnt soccer or europe this is america someone loses here rt espn arent ties the worst
+267800891334217728	sports	sportscenter if we wanted to watch soccer wed watch um soccer tiegame
+267800882844942336	sports	rt kansassports what is this soccer nfl rams 49ers
+267800880538062849	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267800842160181248	sports	brodeo soccer doesnt end in ties either lol
+267800837030563841	sports	rt kevingrahamkfan just saw the ninerssrams tied this isnt soccer pathetic
+267800797205643264	sports	yeah wearing mom jeans and picking my kids up from soccer practice in a townscountry being fiscally responsible and never having sex
+267800795712454657	sports	rt oliverwdrake congrats to both au mw soccer teamssboth are heading to the naia national tournamentsgoau
+267800707212644352	sports	what an ugly game in san francisco not to mention the fact that the nfl still allows ties what is this soccer
+267800698677235712	sports	rt stonehageman seeing all the soccer girls pictures is making lowkey jealous
+267800686211776512	sports	if nfl has a negative its the fact it still allows games to end in a tie maybe its trying to attract a euro audience that loves soccer
+267800627814481920	sports	rt brockminert i felt like i just watched a soccer match hours of nothing tiesarelame
+267800598454337536	sports	rt kevingrahamkfan just saw the ninerssrams tied this isnt soccer pathetic
+267800591693123584	sports	bgoon im straight and played soccer shitnoonesays goonsquad grownmansquad littleboy eurolife lilgoonk
+267800559711555584	sports	longhair fakesmile brunette close jacket banquet soccer httptcoxytqtwaw
+267800547497758720	sports	sportscenter i dont watch soccer cause a sporting event cannot end in a tie its football not futbal
+267800544435904512	sports	sportscenter reminds me of exactly why i dont watch soccer
+267800525838364672	sports	rt zuu531 ties are for unimportant sports like soccer not football
+267800524483608577	sports	andrealynn91 lol exactly ties soccer nobody likes em
+267800522285801473	sports	as a soccer fan im not that bothered by the tie thing if that score represents how the teams performed let it be stlrams
+267800502891319296	sports	senior pic senior pics soccer soccerball 4 eyes httptcorx9ojlp3
+267800486378356736	sports	just saw the ninerssrams tied this isnt soccer pathetic
+267800462114312192	sports	rt jsiebenmark someone please tell me how an nfl game can end in a tie is this football or soccer
+267800461799743488	sports	a tie in the nfl thats soooo soccer of them stlvssf
+267800386281291777	sports	someone please tell me how an nfl game can end in a tie is this football or soccer
+267800382946828288	sports	this tie is a conspiracy to get americans to like soccer i already do but still nfl
+267800322309771264	sports	britwoolard them like no one else has before
+267800313258450944	sports	ties are for sunday morning service not afternoon football wth is this soccer suck 49ers
+267800258959003649	sports	britwoolard i know i just have to be patient and know that the hurting will end im sorry u had that happen to u i know ill appreciate
+267800258526978048	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267800234522984448	sports	rt gocreighton creighton is the nations only school with active win streaks of 10 or more in both mens soccer and volleyball
+267800211538198528	sports	jimtraber wow what are going to say bad about nfl ending in a tie i know soccer is bad because of it doesnt happen as much but it did
+267800207490691072	sports	this isnt soccer keep playing till theres a winner tiegame
+267800196778434560	sports	that soccer game today
+267800183629287424	sports	emblemthree aske3 do you like soccer i love you guyssfollow me
+267800138360160256	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267800128314818561	sports	sportscenter i feel like im at a little league soccer game
+267800085922988032	sports	lobo soccer suffer heartbreaking defeat on penalty kicks in mpsf tournament championship httptcokpkrrryr
+267800081124716547	sports	hounddog26 i feel like only football and soccer are the only relevant sports that tie
+267800066360758272	sports	soccer is going to nationals woooo
+267800038095351808	sports	what is this this is america there has to be a winner there is no tie in football this isnt soccer penaltyfieldgoals 5playerseach
+267799933493575680	sports	calvin college womens soccer falls to loras in second round of ncaa tournament great season 1651shttptco3zzccc8i
+267799897103810561	sports	rt jerpetey13 a tie football gamewhat the heck nfl this isnt soccer
+267799852585459712	sports	rt juicyjayv a tie this aint soccer pointless game
+267799840841412608	sports	rt joesevy a tie this is football not soccer we want a winner merica
+267799799963738112	sports	rt oliverwdrake congrats to both au mw soccer teamssboth are heading to the naia national tournamentsgoau
+267799752148647936	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267799739406381056	sports	thats it a tie this isnt soccer
+267799720456499200	sports	essentialmorty i didnt know the nfl used soccer rules whoendsinatie
+267799700512591872	sports	ahable its fine in soccer theyre built for it nfl isnt
+267799676043022336	sports	mcruger it rarely happens and only in the nfl in soccer its likeexpected
+267799656908591105	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267799646452215810	sports	rt washboard4 nfl games ending in a tie if i wanted to waste my time id watch soccer nfl 49ers
+267799618052567041	sports	rt kasciouskaige a tie is equivalent to 0s0sthey just wasted everybody time this aint soccer
+267799589791342592	sports	rt bennorgaard boo tying is for soccer
+267799583852208128	sports	bgoon piss of wankerrando soccer douche footyshit
+267799567427334144	sports	viclombardi sam bradford looked like a soccer player
+267799564109615105	sports	rt wakoadem when your playing soccer inside your house and you break something fuck
+267799551832895489	sports	regiscdudley this isnt soccer reed ties are bad
+267799523353575424	sports	rt ikendunething watching that was miserable ties only exist in soccer not football
+267799490474438656	sports	the comets professional indoor soccer team defeated the milwaukee wave in an overtime thriller this afternoon httptcomthakol6
+267799489308405760	sports	i always thought soccer was the only sport that can end with nobody winning whats happening to football
+267799469108654080	sports	when your playing soccer inside your house and you break something fuck
+267799441640148993	sports	this is not soccer
+267799427618594816	sports	rt shakenblake85 this isnt soccer cant end up with a tie 49ers whathappened
+267799404159840256	sports	sportsnation i thought i was watching football not soccertiesarelame
+267799382202662912	sports	st louis mo kmox slu takes a10 soccer title more st louis newsshttptconqpmclxx
+267799367073792001	sports	ties are for soccer not the nflsjust stupid
+267799353274540032	sports	rt joesevy a tie this is football not soccer we want a winner merica
+267799351181574144	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267799344399409152	sports	the columbiacougars mens soccer squad grabs an atlarge bid to the field of 32 for playnaia soccer tournament bracket tomorrow at 1p
+267799327731220481	sports	first soccer and died a little bit definitely need to start getting into shape determined
+267799286178258945	sports	watching that was miserable ties only exist in soccer not football
+267799279463182336	sports	i didnt realize i was watching soccer 49ers 24 rams 24 final nfl
+267799276686561280	sports	the cc mens soccer team is going to nationals i couldnt be more proud of my boys dowork gocougars
+267799263969435649	sports	this is football not futbol i dont watch soccer for a reason wedontdoties
+267799214166265856	sports	tomorrow nights6 in theater we recognize fb cc soccer sbsvb for their fall sport accomplishments its been a great fall season
+267799175008231425	sports	rt zuu531 ties are for unimportant sports like soccer not football
+267799156150636544	sports	a tie what is this soccer
+267799146432458753	sports	rt shakenblake85 this isnt soccer cant end up with a tie 49ers whathappened
+267799121111441408	sports	congrats to both au mw soccer teamssboth are heading to the naia national tournamentsgoau
+267799063880142848	sports	rams49ers tie but soccer is dumb because it can end in a tie makes complete sense
+267799048436731904	sports	hannahkeeth24 only in the nfl you can tie well and soccer
+267799044766695424	sports	espnfirsttake i know we are pushing the game in europe but lets not make it soccer just yet weak
+267799011459735552	sports	nfl games ending in a tie if i wanted to waste my time id watch soccer nfl 49ers
+267798999900254209	sports	rt teesfromtom this is why americans hate soccer
+267798990752452608	sports	rt sjnurseries congrats to panthersfutbolsfarmington high for getting to soccer state quarterfinals and aztecladytigers to the championship
+267798988856639488	sports	rt columbiacougars cougar mens soccer qualifies for the naia national championshipssthe season continues columbiacougars
+267798984339357696	sports	rt brockminert i felt like i just watched a soccer match hours of nothing tiesarelame
+267798974562455552	sports	oh well worse things can happen like no fox soccer channel oh wait thats happening too at least mls is still going on
+267798917758996480	sports	shaffdaddy34 go to kaylas pick up my muddy soccer sweats and have your mom wash them so i can wear em tomorrow
+267798910356058112	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267798908191797248	sports	mrshofficial damianmcginty chicharito a a famous mexican soccer player of machester
+267798867515416576	sports	rt southstands303 rt johnreidydenver a tie this aint soccer
+267798865267265537	sports	nice job slusproud to be an alum kmoxnews slu takes a10 soccer title httptcoz3v3u3ab
+267798857725915136	sports	rt sjnurseries congrats to panthersfutbolsfarmington high for getting to soccer state quarterfinals and aztecladytigers to the championship
+267798814793027584	sports	soccerlife19 your high school coach scouted me lol
+267798811227877376	sports	peytonshead kickers might as well do a shootout if theyre gonna treat it like a soccer game and tie why not
+267798799190224896	sports	boo tying is for soccer
+267798781091774465	sports	youngbleed23 i think the nfl needs to revisit the rule book no game should end in a tie you have a soccer ball in your twitter name
+267798762016079872	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267798759239479297	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267798743796039680	sports	nigga they playing soccer
+267798736237899776	sports	thats the reason soccer sucks and now it happened to me watching an nfl game ties
+267798691035877376	sports	what a tie how is this acceptable is this soccer
+267798684366938112	sports	a tie football gamewhat the heck nfl this isnt soccer
+267798605757313025	sports	rt kansassports what is this soccer nfl rams 49ers
+267798602137620480	sports	come on nfl if i wanted to see a tie i would have watched soccer
+267798591752527872	sports	a tie in the nfl what is this european soccer
+267798583846248448	sports	rt kjgetfucked a tie game what the fuck nfl this isnt soccer
+267798583510716417	sports	rt randlophstep really wishin i had more soccer fan friends to watch games with
+267798582743158784	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267798581182861312	sports	rt dustenpotter how very soccer of the nfl
+267798565571674113	sports	espn ties are for soccer and the teeball not baseball not basketball not college football and it certainly doesnt belong in the nfl
+267798524354252801	sports	rt joesevy a tie this is football not soccer we want a winner merica
+267798516376674304	sports	there shouldnt b any ties it isnt soccer
+267798510412378112	sports	when did the nfl become a soccer league tie games are for pussies good lord
+267798498450235396	sports	rt stevebraband i see nothing wrong with the way that football match endedssoccer player
+267798475993923584	sports	rt kasciouskaige a tie is equivalent to 0s0sthey just wasted everybody time this aint soccer
+267798475457036289	sports	a tie a tie i feel like i watched a great football game only to be given a soccer game ending dissapointed stlvssf
+267798474144239617	sports	rt ryneguidry happy birthday soccer starskyentt
+267798463624929281	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267798451071381504	sports	foimfster football requires a lot of sacrificessivory coasts yaya toure english football is mor httptcor7x56gnf soccer news
+267798427222552576	sports	rt juicyjayv a tie this aint soccer pointless game
+267798417395294208	sports	at least my team didnt lose 49erswheres our point lolbpl soccer
+267798415403012096	sports	dont let my tweet mislead you i like soccer i dislike ties
+267798412420870144	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267798397434621952	sports	abdolutely disgusted with the rams bradford just threw himself on the ground like a little soccer bitch losetryingratherthantiecoasting
+267798362990997505	sports	rt shakenblake85 this isnt soccer cant end up with a tie 49ers whathappened
+267798359845249024	sports	rt murr4458 congrats to the washu womens soccer team for posting a 32 ot win over thomas more despite a saturated field and blinding sheets of rain
+267798336776585217	sports	me too no penalty kicks bdance1632 benwgem feel like i just watched a soccer game a tie
+267798327947567105	sports	rt drewmoor a tie in the nflsthats sooooo soccer of themsstlvssf
+267798298130280448	sports	rt teesfromtom this is why americans hate soccer
+267798280853913600	sports	i guess im not too up to date on the latest overtime rules but a tie whatsis this soccer stlvssf unamerican
+267798275342598144	sports	a tie this aint soccer pointless game
+267798270372352000	sports	soccer tonight woohoo
+267798261807599617	sports	a tie in the nflsthats sooooo soccer of themsstlvssf
+267798253402210304	sports	rt murr4458 congrats to the washu womens soccer team for posting a 32 ot win over thomas more despite a saturated field and blinding sheets of rain
+267798252890505216	sports	this isnt soccer cant end up with a tie 49ers whathappened
+267798249077878786	sports	a tie football game i thought that kind of outcome was relegated to soccer
+267798240441794560	sports	well this seems like an easy way to tell who watches soccer tiegame
+267798209273925632	sports	how very soccer of you rams 49ers tie
+267798173140021248	sports	rt kansassports what is this soccer nfl rams 49ers
+267798168836648960	sports	how very soccer of the nfl
+267798168408825857	sports	looktothestarz yahoosports not including soccer unless its a playoff game
+267798167259594753	sports	rt thedockets so do soccer fans feel unsatisfied like this all the time
+267798147735097346	sports	espn im pretty sure the argument about soccer being boring because it has ties just went out the window
+267798127489191936	sports	tie game was i watching football or soccer ramsv49ers
+267798115548028928	sports	this isnt soccerslet them keep playing until someone wins
+267798109961211905	sports	emblemthree aske3 do you like play soccer
+267798103137083392	sports	rt shakeweight4men the tie rule in the nfl may be the dumbest thing ive ever heard of this isnt soccer
+267798069523910656	sports	rt kansassports what is this soccer nfl rams 49ers
+267798062108389377	sports	ruixu thos is not soccer rui
+267798035063533568	sports	a freaking tie this isnt soccer
+267798016180748288	sports	the rams and 49ers thought they were playing soccer ended in a tie
+267798009222397952	sports	soccer is a physical sport man carlitosknows
+267797985855946753	sports	what is this soccer tie
+267797975034638336	sports	a tie is equivalent to 0s0sthey just wasted everybody time this aint soccer
+267797971830194176	sports	rt brockminert i felt like i just watched a soccer match hours of nothing tiesarelame
+267797952301514752	sports	rt tday1223 the tie in football is the dumbest thing let em duke it out like men until someone wins instead of a draw like gay ass soccer
+267797944319762433	sports	rt tandys88 that is one reason why college football is better that nfl only one overtime is bullshit are you kidding me a tie this isnt soccerdamit
+267797927135690753	sports	so do soccer fans feel unsatisfied like this all the time
+267797908626219008	sports	this isnt soccer tie
+267797905660841984	sports	and folks make fun of soccer for ties thatsfunny elohel nfl niners rams
+267797904448700416	sports	rt jldobson the nfl needs to do away with ties this isnt soccer were in america
+267797895472873472	sports	i didnt know the rams and niners just played a soccer game tie really
+267797865483612160	sports	ive never seen a tie in any sport then again i dont watch soccer ramsvs49ers
+267797863336136705	sports	that is one reason why college football is better that nfl only one overtime is bullshit are you kidding me a tie this isnt soccerdamit
+267797833330085888	sports	gusmer1sthe soccer bug bites hard
+267797825092452352	sports	cyleklark a church down there wants to get together with my church and they also want to play soccer
+267797823825776640	sports	this is why americans hate soccer
+267797817626603522	sports	what is this soccer
+267797815265226752	sports	fabiovillas10 hey fabio it is lachlan fom the captain of the game thing and soccer camp that was a tough loss today
+267797815026135040	sports	ties are for soccer not football gayasfuck
+267797814627680257	sports	a tie game what the fuck nfl this isnt soccer
+267797804792045568	sports	soccer thinks the nfl needs new overtime rules
+267797799331037184	sports	i felt like i just watched a soccer match hours of nothing tiesarelame
+267797798668345345	sports	rt shakeweight4men the tie rule in the nfl may be the dumbest thing ive ever heard of this isnt soccer
+267797798630612992	sports	im sorry but ending the game in a tie makes me think its like soccer im not a big fan of soccer
+267797793295450112	sports	seriously a tie is this fucking soccer 49ers
+267797790699171840	sports	a tie really san fran and stl soccer thinks thats horseshit its not even like kissing your cousin its like kissing your brother
+267797789021450240	sports	rt shakeweight4men the tie rule in the nfl may be the dumbest thing ive ever heard of this isnt soccer
+267797783745028096	sports	rt tylerhack33 a tie a tie wtf this is not soccer or hockey red blooded american sports do not end in a tie
+267797778003021825	sports	rt jocogent a tie a tie this is america this isnt europe and this isnt soccer pissed 49ers
+267797764287639552	sports	fuck soccer and ties
+267797759879421952	sports	realmanofsteele like soccer and its called footballlike soccer
+267797753978028032	sports	i just love soccer its my favorite sport ever ifiwasgay
+267797749116841984	sports	this isnt soccer goodell ties are unacceptable
+267797747246190592	sports	i think soccer memes admins are the dumbest people in the world
+267797746965159936	sports	and the nfl is officially soccer
+267797735435038720	sports	give it the ole soccer breakdown rams need the win more so i guess the niners are ok with it i dont know never had my team tie before
+267797735242088448	sports	rt aleclubben there should never be a football game ending in a tie this isnt soccer
+267797730775162880	sports	gourcuff back for france friendly in italy httptcoh7utyc0z
+267797719639277568	sports	this aint soccer there shouldnt be ties in the nfl espns49ersrams
+267797717177225217	sports	so soccer is stupid because sometimes teams tie and there isnt a winner welp then the nfl sucks cuz i just watched a tie soccer4life
+267797710093025281	sports	hey nfl youre not soccer no game should ever end in a tie
+267797708813778945	sports	josefjlindberg yeah wtf is this soccer lol

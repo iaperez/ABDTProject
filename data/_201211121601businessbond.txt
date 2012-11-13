@@ -1,0 +1,101 @@
+/usr/local/java/jdk1.6.0_37/bin/java -Xms1024m -Xmx1024m -cp :../lib/*.jar:../lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:../lib/twitter4j-2.2.6/twitter4j-async-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-core-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-examples-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-media-support-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-stream-2.2.6.jar:../lib/twitter-text-1.5.0/twitter-text-1.5.0.jar:bin UsersMentionDownload business bond
+business bond lang:en geocode:39.8,-95.583068847656,2500km
+268143466574381056	business	rt gazgshore in cinema popcorn ben n jerrys large coke eventually seeing new bond film speak soon
+268143442276798466	business	maia unsaturated fat isnt a solid cuz it has double bonds nate and i have a single bond with all three of you girls you my homies
+268143346088828930	business	my name is bond james bond
+268143243118661632	business	rt jettroth i gotta go see the new james bond movie soon just has to happen
+268143209409036288	business	thehamsterscage just saw 50 years of bond cars special and thoroughly enjoyed it even the wife loved it how deep did you go in the lotus
+268143058560905217	business	aside from ncis i also watched the new bond twice notsorry
+268142897172447233	business	i thought nothing could break the brotherly bond but it seems a stable whore has come between us
+268142879984214016	business	rt firstworldfacts the act of kissing releases oxytocin in the brain a hormone that strengthens the emotional bond between 2 people
+268142768524767232	business	anthonymoliva skyfalls naomie harris berenice marlohe on the secret to scenes of seduction vide httptcopvghoobo hollywood
+268142764884123648	business	rt womenshumor im the james bond of facebook stalking
+268142694231056384	business	forum best bond ever connery was rightsskyfall is the bestsjames bond filmsever i httptcoslrmmx6v scifi fantasy
+268142669694394369	business	monday night talk on 959fm watd 2nd seg adamsvictoria bond bob hayes talk post election 2012staking your calls at 7818374900
+268142631010320384	business	i for sure want to watch that new james bond movie
+268142571233083392	business	i liked a youtube video httptcozhe8rb0f bonds007 themesguitar interpretation for skyfallsnew album available
+268142569567956992	business	bonds007 themesguitar interpretation for skyfallsnew album available httptcodk6njmsg via youtube
+268142296434880512	business	i liked a youtube video httptcob8rpkqpk bonds007 themesguitar interpretation for skyfallsnew album available
+268142152968708098	business	rt womenshumor im the james bond of facebook stalking
+268142118378303489	business	rt firstworldfacts the act of kissing releases oxytocin in the brain a hormone that strengthens the emotional bond between 2 people
+268141631750959105	business	smokin a doob n goin to see the new bond movie skyfall
+268141542638764033	business	i grew up with james bond my dad and i would always watch the 007 marathons on tbs i have seen them all skyfall is right at the top
+268141494362324992	business	dont miss a special james bond 007 themed episode this friday at 6pm mst with very special guest host doomcheez httptcoxxjp3jub
+268141409498984449	business	daniel craig picks riri over beyonce to play a bond girl we in turn hype our 5 fantasy bond girls okay so dan httptcokwsz8gcs
+268141226241449984	business	rt ciejthemoment blackout21 i want to see this new james bond movie foreal though
+268141218091921409	business	skyfall brings record bond debut of 884m james bond is cashing in at the box office httptcoqp2rzrdq
+268141071429681152	business	lancearmstrong and they still dont understand why a bond like ours doesnt break sad be great dad
+268141006778675200	business	blackout21 i want to see this new james bond movie foreal though
+268140324818395138	business	bond girls then and nowssssssssssss submitted by peterwutssssposted at 20121112 170135 httptcogtyhkltp
+268140306782883840	business	9gag bond girls then and nowssssssssssss submitted by peterwutssssposted at 20121112 17 httptcotfloalgd
+268140140956897280	business	i gotta go see the new james bond movie soon just has to happen
+268139775473614848	business	rt firstworldfacts the act of kissing releases oxytocin in the brain a hormone that strengthens the emotional bond between 2 people
+268139756494405632	business	rt womenshumor im the james bond of facebook stalking
+268139683937132544	business	who saw the new bond film while it wont get a dove approval bond appeals to many read relevants thoughts httptco0oixsv7h
+268139633001504768	business	kiss you on your neckstell you everything is great eventho im out on bondscould be facing 8
+268139370593284096	business	the best and the worst of bond james bond agent 007 has had his ups and downs on the big screenin conjun httptcop7arhixs
+268139279958560768	business	i want to see this new james bond movie
+268139211582996480	business	rt firstworldfacts the act of kissing releases oxytocin in the brain a hormone that strengthens the emotional bond between 2 people
+268138954002427904	business	going to see skyfall the new james bond flick tonightshas anyone seen itscomments
+268138925812502528	business	minnesotaben best bond ever be excited
+268138743083442177	business	watching quantum of solace cant beat bond007
+268138662556991489	business	casino royal is my favorite james bond movie because themcotillards
+268138539823276033	business	im dressedslooking sexy as ever an my birthday is almost heresletsgoo
+268138514326110208	business	bond time httptco8tqfjh8c
+268138354036580352	business	rt womenshumor im the james bond of facebook stalking
+268138103519199233	business	rt firstworldfacts the act of kissing releases oxytocin in the brain a hormone that strengthens the emotional bond between 2 people
+268137973432868865	business	we have our brotherly bond time by discussing and reenacting adventure time episodes httptcotzcafi44
+268137950615859200	business	my father nailed why james bond endures he is the modern knight errant roaming the world seducing maidens defending the queen
+268137637808852992	business	theyve been playing bond themes in the warren lobby which makes this even better skyfall
+268137546855358464	business	i can proudly say i am the only girl in my school that has seen all of the james bond movies proud notreally
+268137339115679745	business	classic james bond car aston martin db5 reappears in skyfall thanks to 3ds new york daily news new yorkshttptcoudd5bjvc
+268137042158948352	business	altonbrown was the queen in the artistsi know shes now an official bond girl
+268136631058460672	business	now onsmonday night talk on 959fm watd adamsvictoria bond bob hayes talk post election 2012staking your calls at 7818374900
+268136396282290178	business	iamanth incredible first bond film that actually tried to be a proper bond film since diamonds are forever
+268136270167932928	business	bond girls are now women and 007 a real mansthe cut httptco8mh2e0nn via thecut
+268136246084239361	business	the simple fact that the opening credits to james bond movies are just as badass as the actual movie says a lot about a franchise skyfall
+268136231852994561	business	rt throughy0ureyes justin wrote my fans are amazing so we trended my idol justin bieber is amazing our bond is unbelievable
+268135830546161664	business	buttcop ive never seen james bond either idk
+268135435639869440	business	your bond with your fellow beings was your despair
+268135429910433792	business	skyfallsvery good bond flicksif you like action and that sort of thing
+268135299203346432	business	with this whole cia sex scandal mean that james bond would be in a lot of trouble if he were to be caught with all of those bond girls
+268135233524744192	business	georgiabond we saw you need a job we want to hire you to join our now go to this page workherenow
+268135206106591232	business	rt womenshumor im the james bond of facebook stalking
+268135157049987074	business	alanalewis ohhhh i dont know about that me and him have a serious bond babe an you know threes a crowd haha
+268134821736370176	business	the bond they have is sooooo cute like i would never try to come between those guys
+268134781701730304	business	i wanna see james bond so badddd theman beast
+268134767671779329	business	so to colleencolleenp for getting her scholarship yay soproud loveyou
+268134733370777600	business	joshdallas skyfall is sheer awesomeness one of the best bond movies hope you enjoy it skyfall shakennotstirred bond
+268134728635392000	business	bouakare awesome thats the way i was leaning besides and this is embarrassing ive never really seen a bond movie whatswrongwithme
+268134581780246530	business	rt firstworldfacts the act of kissing releases oxytocin in the brain a hormone that strengthens the emotional bond between 2 people
+268134396765294592	business	the act of kissing releases oxytocin in the brain a hormone that strengthens the emotional bond between 2 peoplekitheney
+268134292532633601	business	rt tylersnod httptcov8kriknl fake skyfall spoilers on the blog
+268134277022089216	business	rt danchovy the names bond covalent bond
+268134269652721666	business	realliampayne bondsjames bond your middle name is james
+268134185741451264	business	mortgageupdate rubicon mortgagerates mortgagetipsgreetingsthe mortgage bond market experienced a rally httptco6gw0dzta
+268134144981213184	business	shaggymonk eversremember the bond movies back in the day
+268134129835597824	business	realliampayne have you seen the latest james bond movie skyfall
+268134072130355200	business	rt mschazzy bond that can never be broken
+268134049908924416	business	rt womenshumor im the james bond of facebook stalking
+268133964856823808	business	bond that can never be broken
+268133795675381761	business	skyfall awesomesif your a bond fan check it out or even though your not one its a great film
+268133636325384193	business	the natural bond that comes with breast feeding is something worth seeking for
+268133416652918784	business	satoriallme we should do a leobondbatgiant post collaborate and make art
+268133328832589824	business	3 business lessons we can learn from james bond httptcoumi1k3cf business biznews businessgeneral
+268133310557995008	business	rt firstworldfacts the act of kissing releases oxytocin in the brain a hormone that strengthens the emotional bond between 2 people
+268133200482664449	business	the bond vigilantes with a floating exchange rate the bond vigilantes with a floating exchange rate paul krug httptcokdvlv9ai
+268133146560696321	business	daniel craig wow bond
+268133083746824193	business	and i saw skyfall this weekend too its probably the best bond film and maybe my favorite bond film maybe
+268133030860824576	business	rt gazgshore in cinema popcorn ben n jerrys large coke eventually seeing new bond film speak soon
+268132950929993730	business	skyfall is great james bond is such a good role model not gonna spoil it though lotsofsex
+268132948774117376	business	httptcov8kriknl fake skyfall spoilers on the blog
+268132638194294784	business	cnet top 5 james bond cars from the novels forget the ejector seat aston martin and the underwater httptco7mvg1zug cnet mobile
+268132632540368896	business	ogdensown our bond inspired martini featuring five wives vodka httptco1xjpmw7g httptcoewlna7nw
+268132541037424644	business	rt womenshumor im the james bond of facebook stalking
+268132523895304192	business	from the civil war to james bond in one quick stepsa historian discovers the truth of faulkners comment the past httptcogjcusgye
+268132512415485952	business	007 daniel craig is second only to sean connery as bond overall however craig is bond in the new millinium
+268132455234535424	business	james bond gets box office boost from beyond the grave httptconrtmhqfq
+268132454840295426	business	james bond gets box office boost from beyond the grave httptcotxt8ticn
+268132412796596224	business	rt firstworldfacts the act of kissing releases oxytocin in the brain a hormone that strengthens the emotional bond between 2 people
+268132405058105344	business	glproctor6 colecannon3 they tweet everyone who mentions gold bond
+268132404051468289	business	rt womenshumor im the james bond of facebook stalking

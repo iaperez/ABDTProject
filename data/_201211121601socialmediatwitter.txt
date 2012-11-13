@@ -1,0 +1,1442 @@
+/usr/local/java/jdk1.6.0_37/bin/java -Xms1024m -Xmx1024m -cp :../lib/*.jar:../lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:../lib/twitter4j-2.2.6/twitter4j-async-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-core-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-examples-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-media-support-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-stream-2.2.6.jar:../lib/twitter-text-1.5.0/twitter-text-1.5.0.jar:bin UsersMentionDownload socialmedia twitter
+socialmedia twitter lang:en geocode:39.8,-95.583068847656,2500km
+268143203155320834	socialmedia	everyone is beefing tonight on the old twitter behappy stopthebeefing
+268143199590182913	socialmedia	rt lowtax sorry you are lonely on twitter dot com let me give you an ehugsmake you happy i want to punch you in the balls
+268143185828663296	socialmedia	total defense provides details about facebook antivirus marketplace offeringsallfacebook total defense provid httptcoj7mgi1oh
+268143184968839168	socialmedia	labtech software adds another industryleading solution in surfrightss sacramento bee labtech software ad httptco50ktxups
+268143169990963200	socialmedia	twitter had suddenly died
+268143150114172928	socialmedia	nursing jobs registered nursespicuspediatric icusrn nursing registered nursestaff nurse r httptcov2sn6nk8 nurse jobs
+268143149162049536	socialmedia	nursing jobs intensive care unit registered nurse nursing registered nursestaff nurse rn at cr httptcoacyt5whj nurse jobs
+268143146909720576	socialmedia	nursing jobs registered nursespicuspediatric icusrn nursing registered nursestaff nurse r httptco3idumkvf nurse jobs
+268143146020511744	socialmedia	nursing jobs registered nursespicuspediatric icusrn nursing registered nursestaff nurse rn at army ci httptcov2sn6nk8
+268143145865334785	socialmedia	nursing jobs intensive care unit registered nurse nursing registered nursestaff nurse rn at cr httptcoqxlw0p1x nurse jobs
+268143145592696833	socialmedia	nursing jobs communityspublic health nurse nursing community health at army medical departmentshttptcox0jdbe3o nurse jobs
+268143144934195200	socialmedia	nursing jobs communityspublic health nurse nursing community health at army medical departmentshttptcoivrj5oxm nurse jobs
+268143144787398656	socialmedia	texting on twitter and snapchat atthesamedamntime get on my level 2 chainz
+268143144707690496	socialmedia	nursing jobs travel rn medsurg oncology nursing registered nursestaff nurse rn at ppr healt httptcoghjcx1e4 nurse jobs
+268143141465489409	socialmedia	nursing jobs travel rn medsurg oncology nursing registered nursestaff nurse rn at ppr healt httptcoef2gzcns nurse jobs
+268143141100597248	socialmedia	rt nicolasgavora akbrizzle haha we share same taste just from following u on twitter but im stoked about music right now it was lookin dark a few yrs ago
+268143138579812352	socialmedia	fake people on instagram fake people on facebook fake people on twitter do real people exist
+268143134649765888	socialmedia	lmao she is a such joke people always be fronting on twitter
+268143124331761667	socialmedia	twitter all day erryday
+268143111748849664	socialmedia	nursing jobs ld registered nurse nursing registered nursestaff nurse rn at cross country in vi httptcoi4ux7c0v
+268143110947741696	socialmedia	nursing jobs ld registered nurse nursing registered nursestaff nurse rn at cross country in vi httptcoi4ux7c0v nurse jobs
+268143110108876801	socialmedia	nursing jobs ld registered nurse nursing registered nursestaff nurse rn at cross country in vi httptcoslq7opsp nurse jobs
+268143107676192768	socialmedia	i need to read or study but my phone is so attractivestwitter instagram neverfinishingthisbook
+268143095533678592	socialmedia	whats the point of even having twitter if you are not following mrepictweetssyou are seriously missing out on some of the best tweets
+268143087832944640	socialmedia	check out this photo of pappys smokehouse on yelp httptco3tuwwhtr
+268143087077978112	socialmedia	so if i do change my twitter name what should it be kashtihough dbhjahfan1 any suggestions
+268143085358301184	socialmedia	this is no longer a dream polyvore httptcocahiidue httptcotijiixuk
+268143084515250176	socialmedia	doing homework now shouldnt take more than 2 hours see ya later twitter
+268143083206635521	socialmedia	rissahhxo its 2012 and they dont got twitter yet are you serious
+268143070917308416	socialmedia	delaneyg84 realprpro well i hope someone removed that wanna be papshe has a picture on his twitter with a wrist ban on for the event
+268143063501778945	socialmedia	behonestsyou want to be on twitter instead of doing homework it happens to all of us
+268143058191802368	socialmedia	rt robbiecinco feels good to be part of the twitter family now 1love newtothegame needfollowers
+268143042278612993	socialmedia	im pretty shure the only place i curse is twitter respectable stayclassy
+268143033256652801	socialmedia	krisssybee omg really does she have twitter i need friends
+268143020917006336	socialmedia	my twitter slappin
+268143017385402370	socialmedia	rt arielsymone treyblue never trust a nigga thats on twitter 24 hours a day hisher life really aint shit instagram included
+268143017129562112	socialmedia	rt sbadsgood good morning does your coffee look like this too httptcohahy6tqp
+268143014323568640	socialmedia	xmaccabix imagine how much slower twitter will be tomorrow no one will want to put the controller down long enough to tweet
+268143007172292608	socialmedia	thatawkwardmoment when your parents get a twitter sosweet not
+268142996602626048	socialmedia	please a moment a silence for everyone on ig fakebook lol facebookstwitter repost realtalkshttptcoxns3fmgb
+268142988943847424	socialmedia	lexxflex lhhstwitter tryna get live
+268142973840130048	socialmedia	septemberthe soul must go onsaxophone pub by takarai hidetoshttptcop17tcobb
+268142962058330112	socialmedia	outraged residents deputy shot dogswalatv fox10 httptco0ilalbcz policenews
+268142944442277888	socialmedia	rt tarantinop anti bullfight protest on twitter nov 15th 7 pm ny time usenoacorridasdetorosentehuacanjoin us httptcocf0xwaen
+268142939417493504	socialmedia	delaniebrown haha im done and i know youre lying because you only have 22 followers on twitter gotem
+268142935546159104	socialmedia	im now the duke of sports cafe on yelp httptcoakvlo4sc
+268142919687475202	socialmedia	uhm why the hell is my avi an egg ugh twitter is getting to me forreal bro
+268142917049282560	socialmedia	filling boxes party at esbckids esbc72450 for occshoeboxes yesterday httptconffq6sht
+268142915203764224	socialmedia	pneumonia big threat for childrenstimes of india httptco2emu6z7l health news
+268142914197139456	socialmedia	have my green tea and cheese nips with the bible in front of me time to pray and read twitter your on timeout dedication obedience
+268142913622519809	socialmedia	pneumonia big threat for childrenstimes of india httptcoryfc7dtg health news
+268142911466647553	socialmedia	the best followers you could possibly have on twitter httptcojyy6vjf8 via douglaserice
+268142909503709184	socialmedia	que hermoso es entrar a twitter y ver de tendencia my idol justin bieber is amazing y beliebers dominate the world 3
+268142905921789952	socialmedia	evehardyward dont be mean to twitter
+268142902671192065	socialmedia	sheriff strength expresses shock after sheriff websters deathswrdwtv httptco9wwhqzli policenews
+268142901840723968	socialmedia	what is wrong with these two fake bitches blocking me on twitter loool u cant hide forever girls
+268142901329027072	socialmedia	twitter twitter user passwords reset after accounts breached httptcoqf0w5fsp
+268142901115097090	socialmedia	yay reeddeming is alive he came back from le twitter dead oo
+268142900259479552	socialmedia	nypd emergency service cops helping with rockaway recovery effortsnew york daily news httptco4etxqqrk policenews
+268142899017953280	socialmedia	cpg news cocacola gives 3m to city for antiobesity diabetes effortsschicago tribune co httptcokjzyeecn consumer goods
+268142896719482880	socialmedia	jai isnt going to follow anyone ok he got a new xbox game and its black ops twitter is the last thing on his mind today
+268142893414371328	socialmedia	twitter man sought after dinghy accident given jail time httptcounvlisyw tweezard
+268142893284347904	socialmedia	twitter user passwords reset after accounts breached httptcovv8nhlwh tweegs
+268142875588587521	socialmedia	rt katycole13 you unfollowed me on twitter man you sure showed me
+268142867699077121	socialmedia	rt dailyteenwords when im busy on twitter i ignore everything around me
+268142866595983360	socialmedia	if your birthday is after december 21st dont make it your twitter name you will be dead by then
+268142853455233024	socialmedia	well twitter seems to suggest that full english was shit waaaahhh letdown
+268142836589928448	socialmedia	just caved n signed up for twitter to help brad babyface thompsons followers you guys rock bthompson48 randykarraker
+268142835084165124	socialmedia	girls with twitter will always tweet each other even though we have cell phones
+268142832378839041	socialmedia	in my hands httptcofdmz3qtj
+268142825894457344	socialmedia	rt tarantinop anti bullfight protest on twitter nov 15th 7 pm ny time usenoacorridasdetorosentehuacanjoin us httptcocf0xwaen
+268142821217808384	socialmedia	i live on twitter basically
+268142821129740288	socialmedia	auto insurance quotes in harvey illinois is now provided online ats pr web press release pr web press r httptcoiyjorunh
+268142819259076608	socialmedia	meandymandy evankirkendall yeah she knows too much about my twitter i need to block it from her
+268142815438049280	socialmedia	httptcoh4hnkstx birthdays branchout twitter merry christmas and more on this weeks t httptcoibubjvbm via insidenetwork
+268142812825010176	socialmedia	rt beyondbad13 ihate hoes who thugs on twitterfbn through texts bt wen yhu see dem dey head drop
+268142811814174720	socialmedia	i wanna youakissbfuckcdatedtextemeetfeatgspend money onhtwitter relationshipdm me answers
+268142810631393281	socialmedia	akbrizzle haha we share same taste just from following u on twitter but im stoked about music right now it was lookin dark a few yrs ago
+268142801152274433	socialmedia	rt sonfunx tais0n hobbiestuart georgethorpe adammitchellten so worth while genuinely shocked to see he has twitter stewpocalypse
+268142794667872256	socialmedia	jennaferg08 hahaha u always say ooopsand same my twitter app is crap too xxxx
+268142790070894593	socialmedia	beliebers take away from real issues being trended on twitter sigh
+268142785935323136	socialmedia	rt narrybye twitter user harry styles should follow me
+268142780625350656	socialmedia	dandyrandy foleydonttweet i have arisen from my twitter slumber a town called green mountain falls would fit the bill thestonedalpaca
+268142770017935361	socialmedia	as immigration turns red states blue how can republicans transform theirs new yorker httptcoc7seb8tp
+268142767497150464	socialmedia	due to breaking news boss hattonweeks running camera httptcobkleug6z
+268142764829585408	socialmedia	follow me on twitter tharealbamm cookin up some hot bangers stay tuned truestory
+268142756076060673	socialmedia	everybody go follow alikwalker thats my best friendsand she just started twitter so help her get some followers she followsback
+268142748480188416	socialmedia	oomf is lying on twitterstweeting more like moaning boyyy
+268142746487889920	socialmedia	shenhayley i guess so they didnt have twitter when i was in school so i didnt get to try that theory out
+268142732571189248	socialmedia	rt faithchill dudes be putting their capes on to save their twitter idols anonymous
+268142729844887552	socialmedia	rt 3xwrestling 3xws own jimmyrockwell has joined twitter give the former pure wrestling champsrnrmikesydal s tag partner a follow
+268142712149139456	socialmedia	happy to help test firstmerits twitter account great presentation on the state of the economysthanks roonomics
+268142706985955328	socialmedia	when your own boyfriend doesnt follow you on twitter acaawkward
+268142703861190657	socialmedia	rt dailyteenwords twittersunfollow facebooksunfriend yousunforgettable
+268142701952778241	socialmedia	lia copy and pasted from the bootstrap docs tee he httptcojaefp4xh
+268142698190487552	socialmedia	twitter people nuh like u morewhile enuh dem just follow u fi faas ina u business
+268142697913663491	socialmedia	ddmbb lost the game but they played a very good stay away from negative energysstay off twitter until after season year
+268142625754865664	socialmedia	so im just chillin like a villin just paying attention to twitter like usual then i get up and see doby and harry potter on the screeno h
+268142617999585280	socialmedia	rt arronmulligan the banta on twitter is bouncing like town just a cyber version lovingit
+268142600362536961	socialmedia	aly26perez oh you tryna front on twitter ight baby i gotchu
+268142592359821313	socialmedia	im in a weird mood right now and thinking about getting off twitter for awhile idk tho foragainst reasons weirdmoodssuck
+268142588341661697	socialmedia	rt teapartyprotest glenn beck to republicans the tea party is doubling downsbusiness insider httptcogmpfc1ca teaparty
+268142584721985536	socialmedia	ive been on twitter for like the whole day
+268142570159366144	socialmedia	you know what its a good thing harry doesnt follow me because when we actually date itll be awkward when he asks for my twitter
+268142558029443072	socialmedia	mayno7 stay off my twitter
+268142554153877505	socialmedia	christadubill shohomeland ill keep a twitter silence on it itll be worth the wait
+268142551796678656	socialmedia	rt hollywoodwh0res too many wankers on twitter nowadays who just tweet the same old shit to gain followers cos nobody likes them outside of twitter
+268142546545434624	socialmedia	rt withlovelexx i love twitter cause i have no family on here i can say whatever the fuck i want thatcusswordforexample
+268142539255709696	socialmedia	rachelpittman nice to see ya on twitter rachel
+268142539238940672	socialmedia	dcell019 stupid idiot autocorrect the brainiacs should make a grammarcorrect i knew what you meant and so should twitter
+268142537896763392	socialmedia	i can see you yuya988 httptcoabvejeeq
+268142520029020161	socialmedia	adoremysarcasmsfuck twitter thats yo ass
+268142517223055360	socialmedia	oh my god everytime i tap instagram on my phone it goes to a different app each time like twitter pinterest or a flashlight lmao wtf
+268142508968660992	socialmedia	in twitter yall do everything in real life you be looking like
+268142505919410177	socialmedia	mobile industry makes a longdistance call to africasbloomberg blog bloomberg blogmobile industry makes a httptconjo6mdtx
+268142482305462273	socialmedia	im never on twitter anymore
+268142468988547073	socialmedia	rt joloftus4 i wish i actually got texts that werent just from twitter
+268142453738053632	socialmedia	rt trevmarshallsea2012the other great chinese invention new laughs from tiger father httptcob65rck55 c httptcocrxwssm9
+268142451766738944	socialmedia	i bet that when gwen stefanis followers ask if she can follow them back on twitter shes like i aint no follow back girl
+268142451712200704	socialmedia	rt mamamahoney2012tired of yucky lunchboxes momsscheck this out httptcov0alsvld washable and dryableshttptcoon7vwgym
+268142450420359168	socialmedia	rt momvillecom2012program that helps moms stay clean and sober recognizedsstatesman journal blog httptc httptcoln59gidq
+268142449526988800	socialmedia	rt cynthiaunibe2012my swag momentssmoms party saturday with family friends boyfriend httptco5gtj3grr httptcol6p1pivu
+268142427158765570	socialmedia	need some extra cash make money on auto pilot by simply using your twitter accounts httptcoawddffjj
+268142423732006913	socialmedia	rt princepluto some people seem bipolar af on twitter they go thru 27 emotions inn 10 tweets like tf
+268142420145864704	socialmedia	twitter specials25 off coaching packagessthis week onlysdm or call 8776597523shttptcoufcqyuxk
+268142413787299840	socialmedia	my account changed because ofspolicy you are more than welcome 2 follow me i am waiting 4 twitter to respond
+268142411123924992	socialmedia	can daltonleedavis1 and weezy7321 get their mushiness off of twitter
+268142398369062912	socialmedia	welcome to twitter kellylewis1108 its about time you left the stone ages
+268142396322230272	socialmedia	orange county ems worker to be honored for assist in busstop birthsnewssobserver httptcoceila6d5semsnews
+268142393793064960	socialmedia	okay seriously time to stop goooood night twitter
+268142383210835968	socialmedia	saallyyyydrfc done it ps did u know there is another sally honcharenko on twitter loool
+268142378404155394	socialmedia	justloseitshttptcojmjkz4sd
+268142369361235969	socialmedia	the banta on twitter is bouncing like town just a cyber version lovingit
+268142360955875329	socialmedia	i dont like my twitter name but i cant think of a better 1
+268142359785660416	socialmedia	syrian opposition says west has promised military aidsthe guardian the guardiansyrian opposition says west ha httptcohdcs88y0
+268142349446705154	socialmedia	rt thatwhiteboy miiirandaaa twitter ruins relationships preach
+268142348934979585	socialmedia	oomf and i are similar because twitter said so
+268142338197553152	socialmedia	briannashea12 well who are you lol i dont recognize you and havent been on twitter in a while
+268142335056031746	socialmedia	sinclair broadcast group hijacked local tv news to influence the vote take action httptcofcgpocbj via freepress
+268142322951258113	socialmedia	i told grant he should join twitter and he said he doesnt like itthat makes no sense how can he not like it if hes never had account
+268142320178827265	socialmedia	rt youranonnews how to install custom playstation firmware 355 run homebrew guide httptconyau6pdz httptcoimnnfeol
+268142316215226369	socialmedia	rt hollywoodwh0res too many wankers on twitter nowadays who just tweet the same old shit to gain followers cos nobody likes them outside of twitter
+268142307608510465	socialmedia	queencanada so you change your twitter name to be like me and then diss me friday night showdown ill be at the train station or dia
+268142287169658880	socialmedia	i wasnt on twitter like dat for some time
+268142286465011712	socialmedia	rt prnews linkedin events pr news social media icon awards httptcodtb941ga
+268142269461323776	socialmedia	hazstyless not reallyand yes i amsit doesnt really show on twitter idkw but usually im kind of quiet and shy
+268142267032821760	socialmedia	fda finds contamination issues at ameridose httptcoivwmgrwa
+268142266844082176	socialmedia	rt tcrabtree83 i love that twitter is a place where we can come to joke around and fully understand sarcasm by others
+268142265673846785	socialmedia	fda find bugs bird at affiliate of meningitis pharmacy httptcossqhpch9
+268142259030085635	socialmedia	tashareign hmm ok dont how to take that but if so i will sign faster then a twitter response lol
+268142255909519360	socialmedia	this lil girl always on twitter subtweet and she be knowing i know she talking about me
+268142253120294912	socialmedia	rt lovatic4lyfe im trying to get demi to rt at least 1 of my tweets idc if i go back in twitter jail for it p its worth it loveeee u ddlovato
+268142243620208640	socialmedia	martincitybrew tell brian the guy who does twitter and facebook should get a raise hope you have a good time send some pics
+268142228189351936	socialmedia	if it werent for the g on the court i would think i was at a utes game nofans morestudentstho httptcojks4wyvp
+268142221688197120	socialmedia	rt naepurpleberry thank god for twitter
+268142217972047872	socialmedia	twitter unintentionally sends flood of password reset emails a technical problem at twitter cont httptcoduwwnsja
+268142215258329088	socialmedia	special friendssfamily deal for you twitter friends act fastshttptcotjhyt1ib httptcoyesemfhe
+268142215233171456	socialmedia	bmaestas58 look who is finally on twitter yes brock approved fist pump
+268142202406973440	socialmedia	rt justgimmecashh if my babydaddy dont stfu i am on kik n twitter not fb lol
+268142201496801280	socialmedia	muslim cleric wins appeal against deportationsdeutsche welle httptcogq8akmg8
+268142200062357504	socialmedia	shoutout tah son richyythesavage yall go follow him now his twitter dry he gon follow backs
+268142187303284736	socialmedia	rt ohhmygoddreg twitter slowly but surely overusing love sosa lyrics in tweets i hate this
+268142173713739776	socialmedia	all this drama on twitter shakemyhead carlos27q
+268142168596697089	socialmedia	pure unadulterate truth thank you examiner honestyhttptcodiflcbt8
+268142163391557633	socialmedia	well im finna let me brother get on the computer he gettin on my nerves and want to get on his twitter nd he 10 sooo yeeeh peace followers
+268142160812060673	socialmedia	hp ink cartridges at super savings visit httptcopwbn95qg promo code twitter gets an extra 5 off
+268142159033671680	socialmedia	glad to see a certain someone is putting their twitter account to use
+268142156793929728	socialmedia	rt tarantinop anti bullfight protest on twitter nov 15th 7 pm ny time usenoacorridasdetorosentehuacanjoin us httptcocf0xwaen
+268142144617865216	socialmedia	rt youngdoe bykpmusic new single young doe last night f smiggzslisten now free httptcompdbvibs httpstcoqif4ofvm
+268142140159324161	socialmedia	thank god for twitter
+268142128763387904	socialmedia	twitter party join momcentral for the kotexmom twitter party 1113 from 34pm for more info visit httptcownaxywvc
+268142122635509760	socialmedia	rt dailyteenwords sundayslazinessssleepsfoodstwitter
+268142115677171712	socialmedia	chance to win a skillet or potspan set plus learn more about tough food questions at tues foodd twitter chat details httptcoeu2qeqiz
+268142107582140418	socialmedia	rt angelcoleman6 arizonawantsonedirection if they do come and do the twitter questions ima ask for all of them to twerkstwerk twerk twerk twerksslol
+268142104973291521	socialmedia	sick and tired of all these facebook network errorsgood thin i love twitter more than facebooksinstagood truestuff
+268142104792928257	socialmedia	miiirandaaa twitter ruins relationships preach
+268142098350493696	socialmedia	beliebers dominate the world bitch please somos 30 millones de ellas en twitter
+268142079102812161	socialmedia	ok drunkkk why am i on twitter
+268142070793895936	socialmedia	honeybadggjr thats like putting all your instas on twitter cheating
+268142068164096000	socialmedia	gawwwd i hate it when people hack twitter
+268142059658047488	socialmedia	there is no debatessuperjoe adater a debate about who was betterssakic or yzerman httptcojaeoobjh
+268142047221927936	socialmedia	rt haleighsnyd tea parties and twitter
+268142030327279617	socialmedia	rt therealjbaby im not really good at expressing my feelings on twitter but i cannot go without telling the world how much i love and care about my baby
+268142025105350656	socialmedia	i checked in at megu on yelp httptcoxzlm4r5c
+268142019782799360	socialmedia	rt leeceldridge bobfescoe need to get firepioli trending on twitter please rt
+268142011398369280	socialmedia	rt gkrueve anngardiner1 donthedon dannyquinn22 with all this mole talk on twitter its bringing back moledemort schneider iwon
+268142000975519744	socialmedia	rt sadiiemae i know you too well to not really know you at all you puttin too much on twitter
+268141999872434177	socialmedia	lexxiibby right haha a lot of them do i dont really care its not like im on facebook a lot i alread had to block my mom on twitter
+268141991165059072	socialmedia	rt chriswalinga so i was just thinking how does twitter beef even happen were like 17 and 18 practically fucking adults that shit dont roll in life
+268141987864141824	socialmedia	treyblue never trust a nigga thats on twitter 24 hours a day hisher life really aint shit instagram included
+268141983703396352	socialmedia	rt angelcoleman6 arizonawantsonedirection if they do come and do the twitter questions ima ask for all of them to twerkstwerk twerk twerk twerksslol
+268141983594323968	socialmedia	justin bieber thanks fans for support after selena gomez split httptcoujrnrjwd via gossipcop aww love u justinn bieber
+268141982352801792	socialmedia	im going thru phone 1d stalking and twitter withdrawls this is fucking torture
+268141978250776576	socialmedia	seeing my twitter notification come upsknowing theyre all from maris
+268141972533944320	socialmedia	rt narrybye twitter user harry styles should follow me
+268142019782799360	socialmedia	rt leeceldridge bobfescoe need to get firepioli trending on twitter please rt
+268142011398369280	socialmedia	rt gkrueve anngardiner1 donthedon dannyquinn22 with all this mole talk on twitter its bringing back moledemort schneider iwon
+268142000975519744	socialmedia	rt sadiiemae i know you too well to not really know you at all you puttin too much on twitter
+268141999872434177	socialmedia	lexxiibby right haha a lot of them do i dont really care its not like im on facebook a lot i alread had to block my mom on twitter
+268141991165059072	socialmedia	rt chriswalinga so i was just thinking how does twitter beef even happen were like 17 and 18 practically fucking adults that shit dont roll in life
+268141987864141824	socialmedia	treyblue never trust a nigga thats on twitter 24 hours a day hisher life really aint shit instagram included
+268141983703396352	socialmedia	rt angelcoleman6 arizonawantsonedirection if they do come and do the twitter questions ima ask for all of them to twerkstwerk twerk twerk twerksslol
+268141983594323968	socialmedia	justin bieber thanks fans for support after selena gomez split httptcoujrnrjwd via gossipcop aww love u justinn bieber
+268141982352801792	socialmedia	im going thru phone 1d stalking and twitter withdrawls this is fucking torture
+268141978250776576	socialmedia	seeing my twitter notification come upsknowing theyre all from maris
+268141972533944320	socialmedia	rt narrybye twitter user harry styles should follow me
+268141954116775936	socialmedia	rt jaip24 happy diwali twitter peoplesgoodnight
+268141948043407360	socialmedia	im trying to get demi to rt at least 1 of my tweets idc if i go back in twitter jail for it p its worth it loveeee u ddlovato
+268141943303856129	socialmedia	right its time to turn into a real twitter person where can i get info on the causes of homelessness among veterans for my dissertation
+268141931710779393	socialmedia	rt aliharm why do people try start arguments on twittershave you got anything better to do
+268141921371824129	socialmedia	twitter user harry styles should follow me
+268141901876715520	socialmedia	rt lovewoosie she on kiksfb and twitter but anit txt me 2dayswat a babymomma she is
+268141900404494336	socialmedia	rt amykinz13 reallycrazymae im just glad its over and twitter and tumblr can go back to tv movie star news
+268141896096952322	socialmedia	someone i hate is in the who to follow twitter damn u
+268141884688437249	socialmedia	arizonawantsonedirection if they do come and do the twitter questions ima ask for all of them to twerkstwerk twerk twerk twerksslol
+268141883363053569	socialmedia	the big gamble casinos designed with their regions in mindsabc40 httptcoffrrmw5b casino
+268141882444500992	socialmedia	company wants to build casino in chicago suburbssan francisco chronicle httptcouiccgezw casino
+268141871463817218	socialmedia	if my babydaddy dont stfu i am on kik n twitter not fb lol
+268141843890438144	socialmedia	you unfollowed me on twitter man you sure showed me
+268141841105448960	socialmedia	landolb13 but there really isnt a point to this tweet because the people that arent on twitter wont see it loveyou
+268141824055586817	socialmedia	presleysulcer02 its twittershello
+268141823598407680	socialmedia	twitter mentions for busch stadium httptco7r1lpckcsrt emtiller23 me and satori with a picture of my boyfriend today on our fiel
+268141818082902016	socialmedia	please help support mecomprometoacero add a twibbon now httptcoaafdyzwq
+268141813762752512	socialmedia	rt fatmamo saamiya warya why you stuntin on twitter just remember yeah httptcoelyusaua
+268141807353868288	socialmedia	maddylovesyouxo hahaha but you cant resist the call of twitter
+268141793089028096	socialmedia	touch food questions twitter chat tuesday httptcoeu2qeqiz
+268141784008380417	socialmedia	keselowski should appeal the cell phone fine nascar was promoting him on twitter earlier in the season stupidfine
+268141767474442240	socialmedia	noleksa if youre too old im ancientdont go aleksa youre one of twitter jewels this is our time lets enjoyt it to the fullest 3
+268141766409064448	socialmedia	rt occupygay klan master reince take your teaparty secessionists amp foxnews limbaugh httptcoxrcae1b7
+268141764467105793	socialmedia	rt lordburghley my god your kiddingsrepublican talking heads call for continued httptco7je7c55i
+268141762499981314	socialmedia	rt occupygay housedemocrats the biggest scandal of petraeus is the netanyahu fbi spy who httptcovsndej22
+268141760679645184	socialmedia	rt redroadrail lolgopsromney had no votes in many urban precincts edshow httptcoiewbquzw httptcojcsvl1dw
+268141758578319360	socialmedia	rt ohhenry7 urge macys to dump donald trumpask macys to do the right thing sign httptcot6v7xquv
+268141757059960832	socialmedia	3xws own jimmyrockwell has joined twitter give the former pure wrestling champsrnrmikesydal s tag partner a follow
+268141756774768642	socialmedia	rt occupygay vatican blasts against marriageequality httptcoik01wzsk yet johnpaul httptcoj8ftqgvx
+268141754656632832	socialmedia	twitter twitter twitter
+268141752970526720	socialmedia	well first time on twitter for about 4 months huh fbgm
+268141748310659072	socialmedia	rt bill1phd i agree with colbert asoff a raccoon that drowned in your birdbath is httptco0jagjkpe
+268141748268711936	socialmedia	just a guess but the operating partner at stevens point joe martino probably wasnt happy with the election outcome httpstco637uodia
+268141746561622018	socialmedia	rt redroadrail tea partiers blame their loss on everyone except them httptco4mfmh6ny httptcocku64fax
+268141740031086592	socialmedia	thinks backstreetboys is the greatest 90s artist vh1 100greatest httptcoglr7g6nh
+268141738672152577	socialmedia	pakistan new syrian opposition group gets backing from arab leaguesbloomberg cbccanew syrian opposition gro httptco22di1ov2
+268141735241199617	socialmedia	twitter is really cramping my comedic style
+268141729293668352	socialmedia	rt iaintgotit twitter gets better when your followers interact with you
+268141726198296577	socialmedia	rt bobbiehlspcx changed my twitter name do you dolls like it
+268141717918720000	socialmedia	techcrunch twitter hires former google vp and deputy general counsel of seven years nicole wong httptco9s22cx1b
+268141717226663936	socialmedia	notime4dabull new single young doe last night f smiggzslisten now free httptcompdbvibs httpstcoqif4ofvm
+268141712835244032	socialmedia	sometimes im on twitter and then i open twitter in another browser window
+268141706996760576	socialmedia	get free twitter followersshttptcodfdlcqjd 30
+268141697920286720	socialmedia	isdont understand why people have there twitter accounts privates like wtf yu hiding
+268141697366638593	socialmedia	rt itsyennithoo twitter im the real tanner helberg
+268141691356213248	socialmedia	whirblewind kylegaddo ill never be a kawaii anime girl like everyone else on twitter
+268141689166786561	socialmedia	ohwriteitdown hey you like sigur rs httptcoivpngfv9ps got on twitter just for thissits that important
+268141685119279104	socialmedia	iamdamimendoza sorry my dumb twitter unfollowed you or something d
+268141683403784192	socialmedia	rt ayejaydgaf people keep inviting me to this facebook has a new color event aint nobody care all about twitter
+268141676432867328	socialmedia	rt marinkillam shit ton o studyin to do cya twitter procastination
+268141663564746752	socialmedia	damn its like a twitter oasis rt malnatismonday in full effectsthanks loumalnatis
+268141659991207937	socialmedia	i wish someone would make a dvr for twitter so i can follow along as i watch the game later tonight
+268141659106181120	socialmedia	sigh twitter tells it all
+268141656329564161	socialmedia	when i can text people but im on twitter so i just ask on here
+268141643658575872	socialmedia	she on kiksfb and twitter but anit txt me 2dayswat a babymomma she is
+268141639799803904	socialmedia	wowsi cannot believe this unfortunately it is prob going to change nebrasketball httpstcog4krnv9h
+268141637409071104	socialmedia	ambulance chasing on 57th street classaction suit brewing against one57snew york observer httptcovkinjfzhsemsnews
+268141636037529600	socialmedia	splatsquillion not yet just bought it should read now really late night twitter gets me all angry at my mp dorries hows dancing injury
+268141628429053952	socialmedia	the magic of twitter is gone
+268141612167745536	socialmedia	spokesgay lousycanuck also i keep forgetting that twitter shows my real name because i was thrown off for a bit when you used it there xd
+268141609265274880	socialmedia	internet marketing plans3 keys to generating more lead and driving more sales with ppc seo localshttptcoj7usztod
+268141597353443328	socialmedia	rt ohhmygoddreg twitter slowly but surely overusing love sosa lyrics in tweets i hate this
+268141595000467456	socialmedia	i just tried fallering miself pon twitter
+268141564621094915	socialmedia	mrpurple314 twittersballs exploding fetish anonymousshiiii lenaaaaaa
+268141560091267072	socialmedia	lmao her twitter name is young eggs so much love
+268141545549602816	socialmedia	day 308 winter is incrementally approaching leaf frozen to the hood of my car this morning photoaday httptcoqece5vyq
+268141538570293249	socialmedia	why do people try start arguments on twittershave you got anything better to do
+268141537886609408	socialmedia	rt ayeeedriana i always forget jocelyne has a twitter lmao
+268141527195328514	socialmedia	instagram for those kids to lazy to scroll through there twitter feed and find the little gray boxes
+268141526830432256	socialmedia	twitter gets better when your followers interact with you
+268141525232402432	socialmedia	mum sues doctor for mistaking pregnancy for ear problemsninemsn httptco7gksn1io httptco9pi1vkku
+268141519645585408	socialmedia	craving and wanting fr a tweeplet to prove to me dt twitter is d best social network
+268141517007355904	socialmedia	i purposely dont check my twitter feed all day on mondays so i have something to keep me entertained during rehearsal 3moreweeks
+268141514872463362	socialmedia	when your best friend ignores you all day tried texting failed tried calling failed tried fb message failed resorting to twitter cpbabb
+268141510577516545	socialmedia	oas human rights commission demands protection for activistsshttptcowllj7gcp httptcotvfuvijn
+268141509080150016	socialmedia	dereklambert not in the twitter world
+268141506647445504	socialmedia	httptcoklhavjaa truedat
+268141503795326976	socialmedia	keep calms and stay on twitter
+268141484920954880	socialmedia	braddawg14 you cant say that on twitter awkward
+268141470400258048	socialmedia	iquit business rt 11 ways leaders can encourage employee job referrals httptcosdgxsjzpshttptcorsnmw2ng entrepreneur obama
+268141469418799104	socialmedia	iquit business rt at long last a rocket explained in normal language comic htt httptcosmdw5szi entrepreneur obama
+268141468428926976	socialmedia	video poker gains ground in roscoesbeloit daily news video poker gains ground in roscoebeloit daily newsthe v httptcoldbtnmtx
+268141468407980032	socialmedia	iquit business rt boombox watch because awesome never goes out of style httptcovknkvqxtshttptcotqtesp9x entrepreneur obama
+268141464217862144	socialmedia	7 leadership lessons from a mindmeld between twitters dick costolo and venture guru ben horowitz httptcolxnqizvj via fastcompany
+268141461705474048	socialmedia	alameda county transportation sales tax increase still trailingssan jose httptco2efvzuch taxes tax
+268141459729960961	socialmedia	property tax hearing continues tuesday nov 20ssnohomish county tribune httptcohff6w1yr taxes tax
+268141452951953408	socialmedia	managers if you need twitter promo for your artists music etc mysticsent offers 7 14 30 day promo packages mysticsentgmailcom
+268141449768488960	socialmedia	jessicafux good god i now hate twitter on the computer but if you are around later may i please tweet to you lol maybe not worshipful
+268141445498695680	socialmedia	rt wikimotive new information for marketing on facebook and twitter httptcotnorgcsi
+268141445028913153	socialmedia	rt grayy22 i think im becoming less addicted to twitter
+268141431678464000	socialmedia	twitter es lento gdlneedstakemehometour
+268141426301366272	socialmedia	stephanienelson haha its twitter i didnt even notice my grammar is always horrible on here
+268141418961321985	socialmedia	giveaway thru 1203 win an isound combo charger pro follow richardsolo register tweet details httptcox0az3vy4
+268141418906808320	socialmedia	saamiya warya why you stuntin on twitter just remember yeah httptcoelyusaua
+268141412200108036	socialmedia	about face 10 winter skin fixes that will your skin as smooth as a babys bottom httptcoag1wt7j8 workmom
+268141394047148032	socialmedia	twttr just lurd 1 of googles top legal eagles out of retirement httptcoyopmnz7c censorship googlers legal posts
+268141388623925248	socialmedia	happy diwali twitter peoplesgoodnight
+268141383469109249	socialmedia	peoplestheir twitter names
+268141366461222914	socialmedia	i want to send cupcakes and booze to whomever created the eviljoecox twitter account genius
+268141359796477952	socialmedia	adding the most interactive tweeps and unfollowing inactives using tweepis geeky twitter tools httptcos16twd8d
+268141359666429952	socialmedia	rt creeperpwnd fuck you im posting ponies brony rainbowdash httptcorbaulslk
+268141356365524993	socialmedia	socially freshs4 social tools for digital publishers thats yousfroms business insider httptcorknztj3w
+268141355505680385	socialmedia	people unliking romney on facebookscnn httptcoslph0plh
+268141354574557185	socialmedia	rt desireeblanddd i lowkey like twitter better on my phone than on the computer
+268141353882488833	socialmedia	noshandniam i just got home lol i am just on twitter
+268141352485789697	socialmedia	group turns to social media to rally support for papa johns amid liberal backlashsfox news httptcof7rnv8fx
+268141351277834241	socialmedia	socially freshs4 social tools for digital publishers thats yousfroms business insider httptcocy4epjav
+268141349738520579	socialmedia	people unliking romney on facebookscnn httptcobxvhlcwa
+268141345489707008	socialmedia	rt bobfescoe sad that twitter is already brewing w mad chiefs fans and we r 3 plus hrs from kick fans want change so bad and deserve it firepioli
+268141340469129217	socialmedia	rt creeperpwnd ninja rainbow dash like a baws brony pegisister httptco69xwpowz
+268141330352447489	socialmedia	submit a pic of the texaschainsaw3d poster at your theater using isawleatherface on instagram or twitter and you might win prizes
+268141315739488257	socialmedia	tweetro slams into twitter 100k token limit httptcov3bwkikx
+268141314472820736	socialmedia	yagirldee sorry love my twitter unfollows people
+268141311603916801	socialmedia	rt ylfossianna grace apperently stalks my twitter and she doesnt even have a twitter awkward
+268141309645189121	socialmedia	twitter im the real tanner helberg
+268141306063237120	socialmedia	rahiafarima voila twitter la hin hum ta intereet a ce ke ce soit chic lool
+268141301860544512	socialmedia	small businesses are favoring facebook and twitter over other social media platforms httptcovsophx3b
+268141291882311680	socialmedia	twitter slowly but surely overusing love sosa lyrics in tweets i hate this
+268141283132985344	socialmedia	rt slicedapplesinc wcggaming twitter marketing strategy rated e for everyone httptcodn2t8mcp kingjames macmiller imabig0
+268141280176009217	socialmedia	rt teapartyprotest glenn beck to republicans the tea party is doubling downsbusiness insider httptcogmpfc1ca teaparty
+268141277621657600	socialmedia	legal eagle flies to twitter joins growing flock of exgooglers httptcoi0hwo0vx nicolewong
+268141266980708353	socialmedia	rt rrabbbit jennifferr so many people mistake lust for love money for brains and twitter for reality
+268141241080889344	socialmedia	my mom has more followers on twitter than i doslmao
+268141209590046721	socialmedia	rt animalabusers outraged residents deputy shot dogswalatv fox10 httptcovbrlcys6 dogs animalrights
+268141197455933441	socialmedia	follow us on twitterinstagram aswih2013 for all the hottest celebrity events allstar weekend in houston 2013 sharesretweet
+268141194549264384	socialmedia	cute rt stlsooglam my heart httptcoaazkuxgc
+268141191147683840	socialmedia	damn twitter app hasnt been posting my tweets
+268141185758011393	socialmedia	con oskrcolmenaresskarlamontesino5 httptco6pc3sf6g
+268141174194323456	socialmedia	yallitsashleigh it was still super nice of you and oh gosh was it scary when i looked at my phone and there was a twitter notification
+268141173665824768	socialmedia	harrystyles oops this was meant for you httpstcouzzwk9y8
+268141168112570369	socialmedia	rt jowens23 premiumtweets lol my bad its all over twitter im done moved up in life tho way up lol
+268141166967537665	socialmedia	rt plusjack so apparently the today show replied to my tweet httptcol4kcf9ti
+268141163112964098	socialmedia	im cold need cover ttyl twitter mayb
+268141161129054208	socialmedia	i love my twitter friends more than my real life friends sometimes this is a problem
+268141137594814464	socialmedia	dadandburied i havent been sent a dick pic since i first started twitter that person received a pic of an 85 yr old vag as a response
+268141135396995073	socialmedia	twitter tuesday on morning takewhat nickname best describes this years husker teamtweet your answers to httptcoeaquwan0
+268141122738585601	socialmedia	rt nicoleemonaee i hate when people say you tweet a lot this is twitter theres nothing else to do except to tweet
+268141116149338112	socialmedia	rt teapartyprotest glenn beck to republicans the tea party is doubling downsbusiness insider httptcogmpfc1ca teaparty
+268141096377389056	socialmedia	rt carmanthonynews the chart that should strike fear in the heart of every knicks fans right nowsbusiness insider httptcovlgqpuvp
+268141096356421632	socialmedia	anngardiner1 donthedon dannyquinn22 with all this mole talk on twitter its bringing back moledemort schneider iwon
+268141083823853569	socialmedia	for me polyvore httptcohs9laooh httptcofglmog7y
+268141083505086464	socialmedia	like us on twitter youll love us on facebook httptcoyjqh49tm
+268141072348233728	socialmedia	rt teapartyprotest glenn beck to republicans the tea party is doubling downsbusiness insider httptcogmpfc1ca teaparty
+268141070372700160	socialmedia	parker posey talks price checksamny parker posey talks price checkamnyyou might recall that parker poseyshttptcoadwxodbf
+268141061266866176	socialmedia	rt elizabethniche follow proveyourfandom if u want to participate in cocacolazero s twitter scavenger hunt this coming mondaythursday fandomou
+268141052991516673	socialmedia	bourgmackenzie isnt verified uh hello twitter get with the system
+268141043818561537	socialmedia	andreaheschke hezie14 then click on it its the privacy option click on location services and switch twitter to off that should work
+268141034842759168	socialmedia	15 people unfollowed me on twitter thanks useqwitter for letting me know did i say something wrong
+268141022696062977	socialmedia	twitter urielmoce
+268141020993163264	socialmedia	rt noctoural88 twitter on the computerstwitter on the phone
+268141018745028608	socialmedia	ottawabiatch i stick to nfl network nhl network and twitter for sports news sportscenter is terrible
+268141016832434176	socialmedia	premiumtweets lol my bad its all over twitter im done moved up in life tho way up lol
+268141014122889217	socialmedia	sweetjonessjr bkcuss i wanna give it to yhuu my choice not ova twitter duhh more classy not trashyy llab
+268141007491702784	socialmedia	on the set of wiz khalifa video shoot httptcoirpho9fk
+268141006363426817	socialmedia	too many wankers on twitter nowadays who just tweet the same old shit to gain followers cos nobody likes them outside of twitter
+268141005977575425	socialmedia	mistrust of syrias muslim brotherhood lingerssreuters httptcodozku5g2 syria
+268140999455412224	socialmedia	rt kloveradio jesus spoke to the people once more and said i am the light of the world if you follow me you wontsjohn 812 httptconjzljv58
+268140999333785600	socialmedia	mserikagarzas womenshealthmag 15 things not to wear on a date the fashion trends guys just dont get httptcoah50mk7m
+268140990131482624	socialmedia	daniegsings youve had twitter for like an hour and you have more followers than me
+268140987069632513	socialmedia	photo nwacc new president evelyn jorgenson httptcoidcmdqcj
+268140980501377024	socialmedia	hawksbearscubs dare i search twitter for cardinals fans arguing pete kozma should have won roy rt love it
+268140978349694976	socialmedia	im bout to start using my twitter for realthinking boutsmoneymakingmission
+268140976252518400	socialmedia	they say why u on twitter i said cuz im working lovemyjob
+268140965963919361	socialmedia	greenyghost sorry twitter is where i sometimes do my gratuitous venting please enlighten me sometime about the weirdness of men
+268140963728330752	socialmedia	interested to 10000 followers for your twittershttptcovnvcy2kh
+268140943864115200	socialmedia	rt davidistheg i need to get off twitter and do my homework
+268140941985071104	socialmedia	glenn beck to republicans the tea party is doubling downsbusiness insider httptcogmpfc1ca teaparty
+268140935471312896	socialmedia	i would get homework done so much faster without twitter twitteraddict goodstudent
+268140935072870401	socialmedia	follow me hboom13 somethingyoudoeveryday twitter instagram facebook day8 novemberphotoaday httptcoflukpnih
+268140930916315136	socialmedia	winterschristmas fashion solutions for your kidssa 10 discount storewide cookieskids httptcorctnayugsbusyathome cbias
+268140926537449472	socialmedia	rt tayistheschmidt oh you blocked me on twitter thats cool nofucksgiven
+268140923559477251	socialmedia	kaylan2fragile because you all on instagram twitter talkinq about we over lmaoo you happy yall over
+268140923337179136	socialmedia	whos your favourite person on twitterstheres a few peopleee httptcojbms8eia
+268140921143566336	socialmedia	miracles in minnesota thanks for a great crusade just ended httptco7by9brza
+268140915858735104	socialmedia	iphone 5s said to begin trial production next monthsregister itproportaliphone 5s said to begin trial pro httptco3ofr9nbl
+268140903976275969	socialmedia	rt cheyenne1d97 why cant the guys at my school be as hot as the guys on twitter loveguyswithaccents lovebritishboys
+268140885491974144	socialmedia	use this coupon to keep your brakes in good health httptcocfqcsszf
+268140884468568064	socialmedia	twitter twitter user passwords reset after accounts breached httptcobqrf26pv
+268140878072266752	socialmedia	rt kissigirl30 i got 12000 new followers without even giving themshttptcoyjpzh0mrsmy passwordscrazy
+268140874041536512	socialmedia	twitter is always dead at 659
+268140863069233153	socialmedia	whats the point of even having twitter if you are not following mrepictweetssyou are seriously missing out on some of the best tweets
+268140860305190912	socialmedia	that being said let me get off twitter i feel like im killin erbody else vibe
+268140836481548289	socialmedia	rt pacrackz rt if you can say ur twitter name in churchin front of the pastor fav if u cant
+268140834204024832	socialmedia	so i was just thinking how does twitter beef even happen were like 17 and 18 practically fucking adults that shit dont roll in life
+268140827979698176	socialmedia	twitter on the computerstwitter on the phone
+268140825974829056	socialmedia	rt moneymusicbecky seangothigh yeah i jus got bored an made a twitter lol im fuckin bored
+268140825974829056	socialmedia	rt moneymusicbecky seangothigh yeah i jus got bored an made a twitter lol im fuckin bored
+268140822443204610	socialmedia	i need to get off twitter and do my homework
+268140808941748225	socialmedia	hey steeleyolunch2 lets creep on soccer2alyssa twitter
+268140803392684034	socialmedia	dennistaters this sounds like the im not a cop twitter
+268140788741971968	socialmedia	hersensationsiont tlk to her on twitter there for i dnt know her twitter name n heard someone tlkin bout u n her todaynever minddang
+268140785826938880	socialmedia	all i know is that jusmeyana bettersmy twitter namelol
+268140783905951744	socialmedia	i havent actually typed wtf in a long time just throwing that out there because i like to speak my mind which is what you do on twitter
+268140772220608512	socialmedia	mariadanielle you finally got twitter back lol
+268140771448848384	socialmedia	woaaahsa loot a kids from jmms is making a twitter nowsd cool
+268140770597408768	socialmedia	bomb squad miffed at rs100 reward for going beyond call of dutysmumbai mirror httptcodyxa6zcq policenews
+268140756173193216	socialmedia	lord mcalpine scandal shows leveson must find a way of reining in twitter andswe are going to have to brin httptco8qjyydi6
+268140752473845760	socialmedia	oregon state lands socal db httptco1zcy5qcz foxsportsnext
+268140751530123264	socialmedia	florida lb sees good times ahead httptcohfktvfgr foxsportsnext
+268140733301678081	socialmedia	rt shivz96 the sound of refreshing your twitter on an iphone in a dark room with headphones on
+268140733066780672	socialmedia	rt p2blogs rt ohhenry7 urge macys to dump donald trumpask macys to do the right thing sign petition to macys ceo de httptco81gwekky
+268140725265391617	socialmedia	why cant the guys at my school be as hot as the guys on twitter loveguyswithaccents lovebritishboys
+268140723365355520	socialmedia	top news syria opposition seeks support israel fires from golansreuters cbccasyria opposition seeks suppor httptcofpeojkad
+268140718055374848	socialmedia	the worst kind of pet ownerssan antonio express blog httptcoyonqbgtz
+268140694617595904	socialmedia	bensykes8 any idea if he has twitter
+268140694609211392	socialmedia	my bf slick lame cus he wont get a twitter
+268140693191544832	socialmedia	rt lebiebercrew love this httptcopylp37pu
+268140691643826176	socialmedia	woww iscan get thousands twitter folowers just 1 days more infoshttptcovnvcy2kh
+268140690096144385	socialmedia	bills rb fred jackson out vs miami spotlight on cj spillershttptcolnwj5c7h blog httptcowpssqhp2
+268140690079371266	socialmedia	from text to touch a look at microsoft operating systems over the yearssminneapolis star tribune httptcoiavbvc9k
+268140688984666112	socialmedia	rt nicoleemonaee i hate when people say you tweet a lot this is twitter theres nothing else to do except to tweet
+268140688825282560	socialmedia	lol youre a feen without1reason i wonder who this isshes cute httptco3epnqslh
+268140687277584385	socialmedia	i got 12000 new followers without even giving themshttptcoyjpzh0mrsmy passwordscrazy
+268140683032944640	socialmedia	rt cravebox hey cravers join clcravebox for twitter party on 1112 9pmest you must rsvp httptcoh0gqfbli cookinglightsmust rt to win
+268140677748113408	socialmedia	abbybrant im trying to do homework but i think twitter is more interesting my life omfg
+268140662627651584	socialmedia	i go on twitter with my ipod and laptop im so cool
+268140658919895041	socialmedia	word lol rt ward3g look just like gab lol rt yaboyj128shttptcoqxro3jdu
+268140636820094977	socialmedia	rt ibiebercrazy when someone has a good username and they havent been on twitter for 199937183381 days annoying
+268140630813859840	socialmedia	rt mucaro206 rt jhopz89 rt shawtay i wish heaven had visiting hours httptco0wdsa6fe
+268140625931689985	socialmedia	departing de soto superintendent inks 208000 severanceshttptcowhbicsjm httptco5gv90hes
+268140621468930048	socialmedia	rt tiffluv78 updated please rt httptcosbp5mieh qcfamilyman brokendoll knowingthinker drake scotteweinberg tagsgf twitter
+268140619015278593	socialmedia	slutbuttstfu isanyoneup huntermoore hi bby love me httptcodcaw0fsv jarettwyse
+268140614934212609	socialmedia	mollygracex twitter shouldshave a age limit a simple unfollow an have a nice day will do now stop tweetin me your life story kid
+268140605140525056	socialmedia	weird news panic at macedonian circus after lion escapessdaily herald weird news panic at macedonian circus httptcouxthkkwo
+268140603148218368	socialmedia	europe prevails againsbut this time in grinandgiggle golf on palm beachspalm beach post httptcodoarszao
+268140577114165248	socialmedia	luvandmusic gurl shut yo ugly self up i took a nap too then caught up on twitter
+268140573540638720	socialmedia	lmao rt djwalliemayne twitter wouldnt be fun if i didnt get a lil thirsty
+268140555379306498	socialmedia	harrystyles you can hide away and find your piece of mind with some hot girls twitter thats much cooler than mine
+268140554343305216	socialmedia	seangothigh yeah i jus got bored an made a twitter lol im fuckin bored
+268140542251114496	socialmedia	hey friends twitter seems to be in the unfollowing mood again i didnt do it trying to fix it so if you see me following thats why
+268140539386425344	socialmedia	karachi south asian news agencykarachi target killers have rulers support balochsouth asian news age httptcogzawekjh pakistan
+268140538602061824	socialmedia	karachi south asian news agencykarachi violence claims seven more lives three vehicles torchedsouthshttptcohetziuyu pakistan
+268140538182647808	socialmedia	when i do homework is twitter so much more interestings
+268140537830318080	socialmedia	karachi south asian news agencykarachi violence echoes in upper housebusiness recorder blogthe gove httptcoyw0firwp pakistan
+268140536840454144	socialmedia	karachi karachiputtalam sister city sri lankan team shares experiencesbusiness recorder blogspeak httptcomin95avw pakistan
+268140534940442627	socialmedia	karachi international news networkkarachi situation damaging economy ptithe news internationalpakist httptcoinckw911 pakistan
+268140531631144961	socialmedia	lol at this girl on twitter who says shes ochocinco biggest fan but didnt know he played in the nfl
+268140527592026112	socialmedia	i hate when people say you tweet a lot this is twitter theres nothing else to do except to tweet
+268140513507553280	socialmedia	rt ibiebercrazy when someone has a good username and they havent been on twitter for 199937183381 days annoying
+268140491126747137	socialmedia	twitter fam plz keep my brotherfriend mother lifted up carltonrlee we not only believe but trust god for complete healing injesusname
+268140486886309888	socialmedia	the sound of refreshing your twitter on an iphone in a dark room with headphones on
+268140485292457984	socialmedia	rt eriningram thebugchicks entsocamerica ento twitter meetup details holiday inn at 7 pm moved from tupelo honey cafe
+268140483421814784	socialmedia	oh my goodness jeff gordonsdang what was you thinking dude oh mercy the tweets on this very interesting gotta love twitter
+268140475637182464	socialmedia	shit ton o studyin to do cya twitter procastination
+268140473267400704	socialmedia	aint nobody on twitter eggs fucking with mine
+268140455512924161	socialmedia	rt ashlynnbeard13 me on my phone instagram home button twitter home button instagram home button repeat about a hundred more times
+268140453289947136	socialmedia	rt soon2bmrskd2012our wedding website is live httptcox7shypmd love life happy planning june22 http httptconka5bwzt
+268140452123901952	socialmedia	rt silvercharmevnt2012planning your wedding in six monthsor less oh then you definitely need to read my bo httptcoilcjuqwp
+268140438802800641	socialmedia	cuz twitter doesnt have mood without you whyfernando
+268140436433035264	socialmedia	strong growth has led michigan based banner and banner hardwares midland daily news httptcovagx1r9i
+268140436206530560	socialmedia	get more awesome 3000 twitter followers just visitshttptcovnvcy2kh
+268140435564789760	socialmedia	wxjimx u following me on twitter
+268140434826604545	socialmedia	rt thecarlospenastwitter needs to make following easier but i think i got about 75 of you love my rushers favmusic bigtimerush kca
+268140434734338048	socialmedia	leons brick combining forces to cut costs but both banners to keep flying httptcorj6hy9bd
+268140416791101440	socialmedia	nichelle3232 emmleee you guys are lame also you guys follow me so obviously you think im cool so i deserve a twitter
+268140411686621184	socialmedia	rt laurensands1 httpstcoothtqvxc mombreezyscheck out these guys i follow them on twitter can you follow them jonestimes2 djay0306splease thanks
+268140407827861504	socialmedia	jennifferr so many people mistake lust for love money for brains and twitter for reality
+268140407110635520	socialmedia	i aint sayin it on twitter so you can text me or ill just tell you at lunch tommoroq
+268140396255776768	socialmedia	bdsmreddit experiencing my first subdrop nervous about communicating this with my sir my sir and i ha httptcoivkunfug reddit
+268140393340747778	socialmedia	chesterbe mikeshinoda joehahnlp phoenixlp just knowing im on twitter when you guys are tweeting is an amazing feeling
+268140389838516224	socialmedia	mht startup watch 5 you should follow nov 1216shttptcoodkfxwya blog mass high techmht startup watc httptcogqkxd8nh
+268140373858213888	socialmedia	rt harrysilk maxharries93 ccaaroncc lol dont care hes widely regarded as the biggest helmet on twitter
+268140371534553088	socialmedia	tfbjp instantfollowback 500aday teamfollowwack 1000aday followngain ifollowall openfollow instantfollow httptcoya2c5hdd
+268140355428417536	socialmedia	rt simplysummer i stay asking africankush questions on twitter lol
+268140343252377600	socialmedia	rt justincase1957 ladies have you ever wanted to be the subject of my subtweets well now you can i am looking for a new twitter crush apply within
+268140332808556545	socialmedia	lmaoo rt eg111388 i find it hilarious the act these twitter celebs put up on the internet smh and yall are eating it all up tho
+268140326689062912	socialmedia	rt fabiantrill you know jmanddoo is bored when hes on twitter lol
+268140322524106752	socialmedia	twitter is a 24hour party you can tweet if you want to httptcohrbcoodu via sciam
+268140321622343680	socialmedia	httpstcoothtqvxc mombreezyscheck out these guys i follow them on twitter can you follow them jonestimes2 djay0306splease thanks
+268140310822010881	socialmedia	when my twitter randomly favorites tweets
+268140306619330560	socialmedia	i require real food httptcogfpnbq0c
+268140294225162240	socialmedia	coleg sorry that wasnt intended for yousit doesnt tag you in instagram twitter took out some of my text ha
+268140289800163328	socialmedia	domlikee not sure its all over twitter
+268140271299084288	socialmedia	i stay asking africankush questions on twitter lol
+268140267918467072	socialmedia	rt emmanemmanoplis i keep telling myself to do my homework but i always just end up back on twitter seriousproblem
+268140265804537856	socialmedia	i have to finish my math homework at 8 i dont wanna leave twittersitll probably only take me 30 min thoughso yeah
+268140263317319680	socialmedia	cocacola gives 3m to city for antiobesity diabetes effortsschicago tribune cocacola gives 3m httptcorl4rn7nm nutrition
+268140261832531970	socialmedia	nra ceo dawn sweeney addresses nutrition menu labelingsnations restaurant news nra ceo dawn swee httptcowugbbtml nutrition
+268140261731860480	socialmedia	rt fabiantrill you know jmanddoo is bored when hes on twitter lol
+268140259710222336	socialmedia	watching him3 psanders younow love iphone twitter cicinicki httptcoabkhqln6
+268140257399164928	socialmedia	rt dailyteenwords sundayslazinessssleepsfoodstwitter
+268140254018551808	socialmedia	hahah imthatnike thought i was talking about on twitter
+268140254018551808	socialmedia	hahah imthatnike thought i was talking about on twitter
+268140251199975424	socialmedia	rt tarantinop anti bullfight protest on twitter nov 15th 7 pm ny time usenoacorridasdetorosentehuacanjoin us httptcocf0xwaen
+268140249551605760	socialmedia	when someone has a good username and they havent been on twitter for 199937183381 days annoying
+268140245130813440	socialmedia	total defense provides details about facebook antivirus marketplace offeringsallfacebook total defense provid httptcomxisw0x5
+268140235056087040	socialmedia	soooo i cavedsgot a twitter lets see how this goes
+268140233630031873	socialmedia	abiek i was talkn bout your twitter name hahaha
+268140229590908928	socialmedia	when someone says their gonna put my twitter name on a list for the boys to follow and all i have to do is follow them httptcomd4z9d6w
+268140224700375040	socialmedia	hholingsworth what about the night owl they always say good night every day im one of those people on twitter
+268140219696570369	socialmedia	aubreyanne03 haha ill dm you the address so the whole twitter world doesnt know where i live
+268140218899648512	socialmedia	springsalliance pvanvuren rambobob aw geez now i need to register another twitter handle
+268140218106908672	socialmedia	i made this twitter so i can get justinbieber to follow me but i give up hes never going to notice me
+268140211735777281	socialmedia	rt missykatg good thing i dont have abandonment issues because that would make twitter unbearable but still please dont unfollow me
+268140205339467776	socialmedia	rt jmcgheezy50 do sme studying denget off twitterluvmelongtime now study hall for a couple of mins
+268140204043403264	socialmedia	going on twitter on the computer is weird
+268140194518151171	socialmedia	jennirope joshdreyer wish i had a a date with someone from twitter so i could make others jealous or vomit enjoy
+268140190848139265	socialmedia	buyer ends pursuit of embattled frank lloyd wright house in arizonaslos angeles times httptcoeif2egtb policenews
+268140189828911106	socialmedia	rt cbungbitch someone really effed up claireweeena twitter
+268140177006944257	socialmedia	rt thecarlospenastwitter needs to make following easier but i think i got about 75 of you love my rushers favmusic bigtimerush kca
+268140176964988928	socialmedia	i wish you had a twitter so we could just tweet all daay
+268140166965755904	socialmedia	gavin kenia stop using facebookme gavin you dirty liarcameron kenia get of twitterme i though we were broscameron we are bros
+268140151081938944	socialmedia	more twitter followers you can get 500015000 twitter followers today visit visitshttptcovnvcy2kh
+268140141292449793	socialmedia	im going to have to do something really fucking ridiculous to trend on twitter
+268140128663400449	socialmedia	twitter unfollow gremlin strikes again forget services that tell you who unfollowed you i want one to tell me who im no longer following
+268140128625651712	socialmedia	getting a little frustrated with twitter im just trying to change my name jeeze
+268140101287161856	socialmedia	you know jmanddoo is bored when hes on twitter lol
+268140100775444480	socialmedia	twitter name outdated new one coming soon creativenick
+268140075194404865	socialmedia	realliampayne will you be my twitter bestfriend
+268140059297976320	socialmedia	rt hotsyience keemoxtherapy s new twitter namesiactuallyknowwhoitisnow notnotmuhammedkhan
+268140057041436673	socialmedia	cant sleep and scrolling through twitter seems like a lot of other people cant either must be something in the air
+268140052578709504	socialmedia	check out jameskessee onshttptcokx4sfbkh share network and support promoted via jayceodpromoter0
+268140052117344257	socialmedia	twitter in five hours i have to pick up my family im falling asleep now halp
+268140044236238848	socialmedia	adrienne maloofs son christian breaks 3 fingers cps notifiedshttptcovtnwbp9d starcasmnetadrienne maloo httptcoo10cwsx8
+268140043665801216	socialmedia	rt caseybruns i love seeing a fellow oklahomie blakeshelton piss off ppl via twitter you cant win an argument with a redneck its science teamblake
+268140042579492865	socialmedia	i check twitter for tweets like thatand lyrics
+268140040423628801	socialmedia	twitter party join momcentral for the kotexmomstwitter party 1113 from 34pm for more info visit httptcosbgl8muo
+268140034287362048	socialmedia	nialler polyvore httptcotzdic1im httptcodobweayb
+268140026309771264	socialmedia	healthcare it jobs meditech implement analyst job healthcare it analysts at centura health in co httptcoj4cz3rjp
+268140025001148416	socialmedia	healthcare it jobs physician info sys analyst healthcare it analysts at sarasota memorial hospital in fl httptco1lambpsk
+268140017375916033	socialmedia	rt lnternetgrandma hoes looking for attention haters looking for a mention welcome to twitter
+268139989869670400	socialmedia	do sme studying denget off twitterluvmelongtime now study hall for a couple of mins
+268139986598109184	socialmedia	rt cbungbitch someone really effed up claireweeena twitter
+268139986182893568	socialmedia	did he just go on a twitter rant about cods notthatserious
+268139979937562624	socialmedia	more broadcast details about acura coaches vs cancer classic last week trutv put out a press release with broa httptcoodznqelf
+268139977886543872	socialmedia	rt cbungbitch someone really effed up claireweeena twitter
+268139977584553986	socialmedia	twitter is lame right now
+268139968977833985	socialmedia	abbywambach irishko24 welcome to twitter
+268139962879311873	socialmedia	jillianleightw i know i have over 100 photos of them from twitter saved on my phone every pic is amazing
+268139949893758976	socialmedia	palestinian militants signal truce as rocket strikes continuesvoice of america blog httptcordq4sm5m
+268139947750469632	socialmedia	israel confronts rocket attacks from gaza stray shelling from syriaswashington post httptcocjxcw82g
+268139946718670848	socialmedia	rt cbungbitch someone really effed up claireweeena twitter
+268139946269892608	socialmedia	kurt rambis says jackson thought lakers job was hissusa today httptcox9olody4
+268139945212911617	socialmedia	i really wish twitter would stop suggesting i follow the biebs smh
+268139945036771328	socialmedia	bbc executives step aside in backwash of sex abuse scandalswashington post httptcohhw533ck
+268139921770967040	socialmedia	rt ianconklin1 i am so confused on what has happened on twitter in the past hour and a half thingsgoneblownup
+268139917421473792	socialmedia	haidynwyre i dunno he doesnt use twitter p but oh well he will get over it if he finds out and cares
+268139902267428864	socialmedia	jrickyroc ive noticed there are a lot of babies on twitter lol
+268139902166761472	socialmedia	niktaylor123 jesus are you stalkin my twitter that was literally 10 seconds ago
+268139901197889537	socialmedia	lakewood police arrest second man in weekend bar killing httptco3vyeb7ro by ryanparkerdp
+268139898144436224	socialmedia	mim snaps ties with congressstimes of india the hindumim snaps ties with congresstimes of indiahyderabad mim httptcoktrzb3kk
+268139887167959040	socialmedia	get 10000 twitter followers todayseasy just visitshttptcovnvcy2kh
+268139884710088704	socialmedia	rt survivorjane preppertalk yes we are building the largest prepper community on twittersone prepper at a time preppers moms survival teotwawki
+268139880423497728	socialmedia	phanaticaliam aint tho sitting hea on twitter
+268139875893641216	socialmedia	luring 1000 jobs to tampa area could cost local governments nearly 2 millionshttptcownp9d2p6 luring 1000 httptcoy20cjxww
+268139875142885376	socialmedia	share a link on twitter httptcousiqn8cx
+268139861444284416	socialmedia	rt miltshook gop antidemocratic base 100000 right wingers have requested secession since election day httptcoiyyn0yij
+268139859724623872	socialmedia	drkraszynskamd honored for your follow big hello from the caymans im sure well mutually benefit from our twitter relationship
+268139859414249472	socialmedia	time to spread this around the twitter again feel better about your fellows security camera video captures good too httptcofgqmpkni
+268139858575364096	socialmedia	rt jackboi09 so to imsowitdashyt for being with the shit all day now his ass in twitter jail free my nigga tho fuck thes
+268139843278745601	socialmedia	rt logancullins next person to rt that vance g kid im unfollowing because he is the most annoying kid on twitter
+268139842653790208	socialmedia	slacks or skirt polyvore httptcokqvvdxue httptcodsbmqped
+268139837046018048	socialmedia	top stories twitter trolls with remembrance day httptcouwcq9mmr
+268139833308876800	socialmedia	top stories who wants their twitter verified httptcoeqzs5hw9
+268139831706664960	socialmedia	rt followmyvans definition of twittersnothing but publicity stunts lies fakessdrama
+268139814879121408	socialmedia	rt adater a debate about who was betterssakic or yzerman httptcoh3pgqcbp
+268139801935507456	socialmedia	cant be putting my business on twitter lol
+268139778443190272	socialmedia	rt megashuffle2012nowplaying phillip phillipsshome 2012 alternative indie music nowplaying phillipshttptcoci3stlvk
+268139762366431233	socialmedia	hit the 3000 tweet mark getting that twitter game up holla matthewfresquez woodyroseland rigginsdore chasevaughn codypitt ctruett53
+268139762366431232	socialmedia	how would you come on twitter and be likemind your business huh you sane
+268139755546476544	socialmedia	nicolewofficial pretty sure my twitter says my names emily smith but anyways dont listen to all those haters they dont know what their
+268139750580441088	socialmedia	rt 77awaking77 this butterfly flying twitter could touch your heart you can hear the wings beating as a sign of purity listen to mj voice
+268139748185501696	socialmedia	like seriously the twitter world would collapse on its knees if i got on twitter
+268139740094660608	socialmedia	someone really effed up claireweeena twitter
+268139737821356033	socialmedia	ruerevdam i just shut twitter down ruerev
+268139728166072320	socialmedia	harry uploaded it from instragram aka he isnt on twitter
+268139726408675329	socialmedia	100thgreycup cfl canadiancommish picking up his 100gc volunteer package cfl httppic httptcoxoxk1ba5 so excited
+268139715771908097	socialmedia	realkurtangle looks like he deleted his twitter acct
+268139710466121729	socialmedia	1 n im on the phonestwitter
+268139709295890432	socialmedia	now hiring sr sw support engineerwork remote httptco9wfawyyr
+268139706871578624	socialmedia	when i be on twitter i dont text ppl bck on time
+268139706271797248	socialmedia	gottalentupdate mtv cancels americas best dance crewshttptcowaqhqzkk blog httptcol9pdu6xknot happyshame shame
+268139702949924866	socialmedia	travel nurse jobs travel rn pediatric pacu physician pediatric at ppr healthcare in ca httptcogoc3y9fn
+268139696318713857	socialmedia	knightsleydone definitely will i shared before but twitter deleted them for some reason
+268139691755335681	socialmedia	ggluvv i accidentally tweeted from haxels twitter lol
+268139691268796416	socialmedia	why did i just receive a text regarding a twitter password reset
+268139682121011200	socialmedia	rting this share if youre heading to our thanksgivingwithjohn twitter party tonights ill be there httptco0jpvvuvu
+268139691268796416	socialmedia	why did i just receive a text regarding a twitter password reset
+268139682121011200	socialmedia	rting this share if youre heading to our thanksgivingwithjohn twitter party tonights ill be there httptco0jpvvuvu
+268139671006113792	socialmedia	rt thecarlospenastwitter needs to make following easier but i think i got about 75 of you love my rushers favmusic bigtimerush kca
+268139663565410304	socialmedia	when i look deseanjackson10 twitter page lol some people call it stalking but i call it looking up on my favorite celebrity
+268139658028920833	socialmedia	twitterspandorashappy me c
+268139651628408832	socialmedia	join momsmilkbtque mmbstacks twitter party huge prizes clothdiapers babywearing breastfeeding httptco2glmvpbc
+268139646695915521	socialmedia	tykwondo6 nobody up here has twitter that i know most of my followers are from kentucky lol
+268139627825725440	socialmedia	i know my dad has twitter but the day he follows me theres only one thing i can do blocked
+268139625372061697	socialmedia	every week in november eurostylelight is giving away 150 shopping spree to enter just rtsfollow httpstcoxzcag4khsgiveaway
+268139624872939521	socialmedia	rt ayoniynizzle im addicted too twitter
+268139622205362176	socialmedia	yslchitownlady dont be sending no threats to mike on twitterlol hell get there when he feel like itu just have dinner readylol
+268139603922399234	socialmedia	i will probably never put my number on twitter again there are some creepy people out there
+268139596943077377	socialmedia	rt dailyteenwords when im busy on twitter i ignore everything around me
+268139595751882752	socialmedia	davieneil does rat have twitter
+268139586222444544	socialmedia	rt barkleyus speaking of twitter and 30tweetsscheck out our social analyst iamcbatt on kctv5stoday talkin twitter httptcoixohybfk
+268139586205671424	socialmedia	rt katelyn2ward kylee lang and kenzie black on twitter imdying
+268139583240278016	socialmedia	rt princepluto i dont see how people get offended by tweets not directed towards them lol like get your emotional ass off twitter tf
+268139582082674688	socialmedia	harrystyles oh youre not even on twitter oh oh
+268139578685284353	socialmedia	rt thecarlospenastwitter needs to make following easier but i think i got about 75 of you love my rushers favmusic bigtimerush kca
+268139578123247618	socialmedia	dorian stalks my twitter sickdude
+268139577896734722	socialmedia	twitter dah start gila bengong bangang huh spoiled
+268139563715817472	socialmedia	illeviatar how do i remove a virus from my twitter
+268139559882211329	socialmedia	rt maddytherealest mattheistessa proud of my best friend she learned how to use twitter
+268139547756474368	socialmedia	rt awesumangl god has no phone but i talk to him he has no facebook but he is still my friend he does not have a twitter but i still follow him
+268139531960725506	socialmedia	bp funds a new biofuel process that turns old swords into plowsharesscleantechnica httptcov7lpl0li
+268139525614739458	socialmedia	rt firstworldfacts world population rank 1 china 2 india 3 facebook 4 usa 5 myspace 6 indonesia 7 brazil 8 twitter worldseries
+268139517070934017	socialmedia	broookee16 fine ill change after the next time i see you until then its always speedo season on my twitter
+268139505322704896	socialmedia	i wonder if anybody on twitter can help me find out how guillaume apollinaire was influential to the modernist movement for my essay
+268139500960624640	socialmedia	attempting to stay off twitter until my powerpoint is done well see how this goes
+268139490911076352	socialmedia	rt thecarlospenastwitter needs to make following easier but i think i got about 75 of you love my rushers favmusic bigtimerush kca
+268139472309342209	socialmedia	wboor come on will you taught me not to debate mastertes on twitter kicking a wall would be less painful and frustrating
+268139465082535936	socialmedia	rt mitsuuki2012watching innocent man drama 620 httptcozu3uonwm via mydramalist httptcolsco7cmz
+268139462700175360	socialmedia	chocolate recall some nesquik chocolate powder has been recalledshttptcojnmr86id examinercomrecall so httptcouxjrusq5
+268139459843858433	socialmedia	ianhonomichl i dont have the disco balls to call you out on twitter but if i must
+268139457922867200	socialmedia	just realized the home button on twitter is actually a bird house
+268139421822484481	socialmedia	ctaylor8 sounds good to me i was gonna add more to that list but twitter is always limiting my amazingly spontaneous ideas haha
+268139415157751809	socialmedia	why the heck is twitter telling me i should follow mcdonalds seriously
+268139413610049536	socialmedia	new trend coffee grounds art httptcopgf44fht
+268139411584208896	socialmedia	rt adater a debate about who was betterssakic or yzerman httptcoh3pgqcbp
+268139400960036864	socialmedia	rt justincaston braxtonwebster your not deleting your twitter it has been decided
+268139390327463936	socialmedia	good thing i dont have abandonment issues because that would make twitter unbearable but still please dont unfollow me
+268139389991931905	socialmedia	rt thecarlospenastwitter needs to make following easier but i think i got about 75 of you love my rushers favmusic bigtimerush kca
+268139371465678849	socialmedia	mrsnoel has a twitteroh snap my life is gonna be over nxt semstersmh
+268139366357037056	socialmedia	rt thajoker27 hey twitterwhat would u do if i died
+268139359054725120	socialmedia	tired of this two twitter accounts thing so im getting rid of this one if you still want to be following me follow keenancooper14
+268139350787776512	socialmedia	rt highbitchh dont think youre being slick twitter boys i can tell when you want the v
+268139348820643840	socialmedia	mattheistessa proud of my best friend she learned how to use twitter
+268139344294977536	socialmedia	updated please rt httptcosbp5mieh qcfamilyman brokendoll knowingthinker drake scotteweinberg tagsgf twitter
+268139338200674306	socialmedia	rt braxtonwebster rt if should keep my twitter favorite if i should deactivate it
+268139337051410434	socialmedia	i am so confused on what has happened on twitter in the past hour and a half thingsgoneblownup
+268139336527142912	socialmedia	i think i try way to hard to not face my problems example a twitter
+268139320777515008	socialmedia	i dont have the dedication it takes to become a twitter gawd
+268139303664746496	socialmedia	im auctioning large black onyx 925son tophatter httptcol9xgp2eu
+268139301349490688	socialmedia	im not even revising god twitter why you do distracting
+268139294546350080	socialmedia	brandonrdz104 you cant meditate on twitter you dumb fuck
+268139293573279745	socialmedia	twitter i should totally be you know verified cause likesidkspleaseeeee
+268139288925982720	socialmedia	did kim kardashian and kanye west skip out on an ice cream bill in londonswetpaint httptcowelnyh7p
+268139281518821376	socialmedia	rt justincase1957 ladies have you ever wanted to be the subject of my subtweets well now you can i am looking for a new twitter crush apply within
+268139275927822336	socialmedia	i never get on twitter or instagram anymore
+268139268008988673	socialmedia	why is my twitter so stupid
+268139267795070976	socialmedia	twitter its been a minuteswhats good servin
+268139267543429120	socialmedia	twitter fans save 5 when you purchase online through nov 21 use code vet12 at checkout a portion of funds will benefit holloman afb
+268139267488874497	socialmedia	the twitter app sucks y0
+268139264930377728	socialmedia	alexbehave you technically cant change your birth name i wasnt talking about twitter names lol
+268139264292835328	socialmedia	bulletshels lolsadorable twitter gangsters
+268139260408905728	socialmedia	ruckus wireless ipo plans defy rough market with wifi growth aapl investors business daily httptcouzvitvac
+268139244336320512	socialmedia	jacoblister4 you got twitter hell has frozen over
+268139233603112961	socialmedia	jessyyyyr its my new twitter account follow follow follow follow follow follow follow follow
+268139227483602945	socialmedia	leslie just screamed at me on twitter 3
+268139217337597952	socialmedia	i think i will start actually using my twitter account what should my first tweet in a year say
+268139211968892929	socialmedia	rt monicaacoss cuernitoarmany i wouldddd buuut its fun messing with your twittersd ahahahahahahaha
+268139208827338752	socialmedia	httptcol9cozqfq a whole lotta wind turbine blades from vestas in windsor headed north along riversideslemay in fort collins
+268139200778481665	socialmedia	rt faithchill dudes be putting their capes on to save their twitter idols anonymous
+268139198039597057	socialmedia	rt tarantinop anti bullfight protest on twitter nov 15th 7 pm ny time usenoacorridasdetorosentehuacanjoin us httptcocf0xwaen
+268139185221824512	socialmedia	a debate about who was betterssakic or yzerman httptcoh3pgqcbp
+268139181086240769	socialmedia	follow us on twitter to keep up with the newest in luxury home improvementshttpstcoano0tbor httptcokk5a65ye
+268139179756625920	socialmedia	rt thecarlospenastwitter needs to make following easier but i think i got about 75 of you love my rushers favmusic bigtimerush kca
+268139177462333440	socialmedia	ihate hoes who thugs on twitterfbn through texts bt wen yhu see dem dey head drop
+268139175679774720	socialmedia	hello twitter how have u beensi think its time i returned
+268139169908412416	socialmedia	i wish i actually got texts that werent just from twitter
+268139148060278785	socialmedia	mcalpine lawyers eye suing twitter users httptcomcp9ib2r
+268139128397393921	socialmedia	im sitting here on twitter watching my mom try to make 5 different foods at oncei should probs help lol notgonnahappen
+268139123888500736	socialmedia	and it came trueshaha going through old tweets of mineshttpstcogn1hdssm
+268139119530635264	socialmedia	iphonesandipads gizmodo leather oven mitts the toughest way to whip up cupcakes oven mitts are boring httptco1aedi4eq
+268139118263934977	socialmedia	iphonesandipads appadvice appadvice app of the week for november 12 2012 every week our staff will handpick httptcolbh0kby2
+268139117378949120	socialmedia	us computer officially worlds fastestshttptcoiiobsz50 upicomus computer officially worlds fastestu httptconpq9cnko
+268139101482541056	socialmedia	eleanorjcalder you and daniellepeazer should be verified what is wrong with twitter or twitteruk
+268139098953367552	socialmedia	untitled 97 polyvore httptcoerij5p3q httptcovngjnvre
+268139073288421376	socialmedia	alexspelhaug oh my god emojis on twitter im going to die
+268139072206299136	socialmedia	someone block twitter from my computer plz
+268139063008169985	socialmedia	call backssecondline stages on yelp httptcoyjfzidpf
+268139049561239553	socialmedia	here ya go twitter world maybe youve heard it maybe you havent still great httptcow2cojoca
+268139037796208641	socialmedia	if i win most likely to trend on twitter the school will probably override it once they read my tweets
+268139030552645632	socialmedia	paulbrassey welcome to twitter
+268139027100745728	socialmedia	why does my twitter i follow people
+268139024756133888	socialmedia	cuernitoarmany i wouldddd buuut its fun messing with your twittersd ahahahahahahaha
+268139015537045504	socialmedia	beatles lps are here tues nov 13sall 10 off that day if you mention fb or twittersfirst 17 pictures here a httptcojfmtavcc
+268139007307821056	socialmedia	hi you want 3000 twittersfollowers today lets visitshttptcovnvcy2kh
+268139007299428352	socialmedia	i love corfu httptcoyugqwrf3 httptcolbkwqjgf
+268139000362065920	socialmedia	rt blackdougiee twitter dry my phone dry what a day
+268138997304401920	socialmedia	omg twitter has lost its mindit just tweeted my tweet 3 times on its own
+268138988387307520	socialmedia	rt tayistheschmidt oh you blocked me on twitter thats cool nofucksgiven
+268138977310158848	socialmedia	whats the first thing you did when you woke up todaysget on twitter httptcop6y2vtbx
+268138975112339456	socialmedia	hiring a admitting nurse job nursing other positions at valley healths in va httptcoqnepoggp nursing jobs
+268138973715636225	socialmedia	hiring a admitting nurse job nursing other positions at valley healths in va httptcorqxgbs87 nursing jobs
+268138972750962688	socialmedia	misslizvicious miss liz glad to see you back on twitter
+268138955671756800	socialmedia	rt ibiebercrazy there should be an app like twitter but for beliebers onlywere we make a account fangirl together without other fanbases getting involved
+268138932775038976	socialmedia	lohanthonyfollowme causee youre one of my favorite person on twitters
+268138904689975296	socialmedia	profiletreetex thanks for following does your facebook page look as good as your twitter page
+268138887044538368	socialmedia	entrepreneur budgeting for entrepreneursschristian science monitor blog christian science monitor blogbu httptcomken5wpg
+268138880816009216	socialmedia	top 10 social media influencers to follow on twitter httptcoreld3p2l
+268138880413351937	socialmedia	rt f0reverkellin ronnieradke has 3562k followers on twittercaige has 953k followersiseestarsmusic has 481k followershmmm what does that tell you
+268138866538606592	socialmedia	ffs twitter im trying to adlib something here how about you dont just post the picture and delete the tweet with it pricks
+268138832904454144	socialmedia	kaylenrath1 haha do you just search twitter for croc jokes
+268138822078971904	socialmedia	dianazoga wish joyce and slayswould postpone twitter back patting on mundane issues and petty convictions until real good has been done
+268138821470781442	socialmedia	this game polyvore httptcooxrridlq httptcocdzqt7bs
+268138818660610048	socialmedia	rt faithchill dudes be putting their capes on to save their twitter idols anonymous
+268138795973619712	socialmedia	vevice too bad twitter doesnt have the local search anymore
+268138788633575424	socialmedia	hdwagggg we are gonna have to talk on twitter all week pyschprobs
+268138781582966785	socialmedia	the hottest boy on twitter is besttweetsshere httptconoayfk0b
+268138779926208513	socialmedia	wow you faggot you can be on twitter but not tx back slimsweetheart
+268138776713383936	socialmedia	still bumpin apimparistotle playlist on twitter im vibin right now
+268138767322337280	socialmedia	on twitter time flys by
+268138765522980865	socialmedia	ptrjhntrrnt colshyrfc bequietamy sammyrobinson1 twitter contact you if they think that you are likely to have fake accounts made
+268138760934412290	socialmedia	everybodys location on twitter is not their real location
+268138759164399618	socialmedia	rt tarantinop anti bullfight protest on twitter nov 15th 7 pm ny time usenoacorridasdetorosentehuacanjoin us httptcocf0xwaen
+268138753128820736	socialmedia	kissmyflawws dont call her that on twitter or at all please i dont have a problem with you but twitter doesnt need more drama thanks
+268138750708678657	socialmedia	man i see a lot crazy stuff on twitter and instagram
+268138748464746498	socialmedia	sammyadams mrstern lookie what is on my twitter discovery page httptcocitdeuqz
+268138742726918146	socialmedia	socialmedia twitter hires former google vp and deputy general counsel of seven years nicole wong httptcoess76r1v
+268138739170164736	socialmedia	just 27 you can add 10000 twitter new followers todaysvisit hereshttptcovnvcy2kh
+268138733616902145	socialmedia	i gotta do what i gotta do to save my shit bye twitter
+268138721151447040	socialmedia	7 im really nice and polite to everyone in public but get me alone and im a huge bitch as if you couldnt tell from my twitter already
+268138715572994048	socialmedia	ill be the first to predict the weeknd is going to be the next dumb parody twitter
+268138705456340992	socialmedia	rt rebeccaangell i will sell you an account with 403 followerssfor 10 i have an account with 403 followers httptcoykc6xn1k
+268138704260968450	socialmedia	iamsupercooli want a twitter bff anyonesiamsupercool
+268138691300581376	socialmedia	time to get off twitter one of my followers got onsctfuu i play to much
+268138681083260930	socialmedia	rt juiceycouturee you laugh on twitter but at night be going through it
+268138679632003072	socialmedia	i dont understand why people get mad when someone unfollows them on twitter i mean 98 of my tweets are just shenanigans with my friends
+268138678591840257	socialmedia	win allwhites egg whites for a year signup each month for a chance to win giveaway httptco8ultmnh9
+268138678424055808	socialmedia	laryanedgaf i love how im the highlight of kayla bards twitter do you even know me no lol damn
+268138676121370625	socialmedia	twitter makes me laugh handbags
+268138672073871360	socialmedia	rt ibiebercrazy there should be an app like twitter but for beliebers onlywere we make a account fangirl together without other fanbases getting involved
+268138670060617728	socialmedia	join us for our second twitter chat this thursday find more info here httptcokj8nwmeo
+268138658069114881	socialmedia	rt ibiebercrazy there should be an app like twitter but for beliebers onlywere we make a account fangirl together without other fanbases getting involved
+268138654239686656	socialmedia	lilotey get off twittersand do yo homework
+268138644643147776	socialmedia	rt ibiebercrazy there should be an app like twitter but for beliebers onlywere we make a account fangirl together without other fanbases getting involved
+268138640046182402	socialmedia	matthews smiles just got a twitter follow us
+268138631749836801	socialmedia	rt barelyjaylen i have a relationship with a lot of people where we never talk in person just communicate on twitter
+268138617740853248	socialmedia	rt recklessbby so i decided if you put your number on twitter im going to fuck with you hahaha
+268138615807299584	socialmedia	rt tayistheschmidt oh you blocked me on twitter thats cool nofucksgiven
+268138592528912384	socialmedia	rossc9210 one day i will watch timeschannelsdays bet people are hating us on twitter tonight
+268138580759678977	socialmedia	tb1zlee what am i doing wrong foreveralone venting to twitter instead of to the one you want
+268138577181941760	socialmedia	em chamas on yelp i was plesantly surprised by this placesi had no idea what to expect and not all of the reviewsshttptcogghqql2g
+268138561205837825	socialmedia	i will sell you an account with 403 followerssfor 10 i have an account with 403 followers httptcoykc6xn1k
+268138551110139904	socialmedia	i have a relationship with a lot of people where we never talk in person just communicate on twitter
+268138538204282880	socialmedia	rayhague youre back on your twitter game
+268138531942170624	socialmedia	rt lanadelrosie i wonder what percentage of my life ive given to twitter
+268138519715786753	socialmedia	rt sharepointwendy spc12 was the number 1 trending topic on twitter during the keynote
+268138511843078144	socialmedia	yaauie xochiana ohhhhh ryan you are my twitter google
+268138510693851136	socialmedia	hi there i cant remember my password to open twitter
+268138509594927105	socialmedia	hahaha gazgshore granddads twitter page is amazing
+268138505413206016	socialmedia	so glad ninapb18 got a twitter for meslove you
+268138504532414465	socialmedia	xxangelgurlxx messaged you on gmail and twitter
+268138485532200960	socialmedia	when it comes to twitter i feel like a lil kid that speaks everything thats on there mind and not caring what others say
+268138484382961664	socialmedia	i just went through almost 10 math problems on my homework without checking my twitter thats a new recordtobeat
+268138483992887296	socialmedia	i got shawty on 106 twitter lol
+268138481413398528	socialmedia	enough with the fake celebrity accounts just on here to ask for followersyour so annoying and dont get the point of twitterugh annoyed
+268138462916534272	socialmedia	its crazysi can get 5000 twitter followers just 1 daysvisit hereshttptcovnvcy2kh
+268138462010548225	socialmedia	rt taylorhaag if only twitter recorded how many times a tweet was screenshot and sent through a text in addition to rts and favs
+268138451474452481	socialmedia	oh you blocked me on twitter thats cool nofucksgiven
+268138448160948224	socialmedia	justinbieber day and night im tweeting for your check my twitter
+268138444637753344	socialmedia	80s chick polyvore httptcoopcptw1e httptcowe2xps5j
+268138438375657472	socialmedia	no one is on twitter right now i feel as if i should wait a little bitwhat the world could people be doin its the end of me
+268138438170140672	socialmedia	loljk theres jus a twitter folder
+268138436769218560	socialmedia	dearjanalba yea u know adrian may twitter accnt b xa
+268138433787097090	socialmedia	lmaosi dont even know i reduced myself to his level i dont ever put my situations on twittersbut taste ya own medicine
+268138426321235969	socialmedia	this is my dinner httptcogynt6xnh
+268138424819666944	socialmedia	rt ayoniynizzle im addicted too twitter
+268138420721811456	socialmedia	rt tarantinop anti bullfight protest on twitter nov 15th 7 pm ny time usenoacorridasdetorosentehuacanjoin us httptcocf0xwaen
+268138420579217409	socialmedia	rt ussoccerwnt side note looks like alexmorgan13 just passed 1 million followers on twitter alright game time usavger
+268138419098632192	socialmedia	spam needs to gtfo of twitter
+268138413746708480	socialmedia	wow i really dont use twitter much too many forums too many media sites jugglejuggle more kickn assets coming for indie dev needs
+268138405169352704	socialmedia	rt ibiebercrazy there should be an app like twitter but for beliebers onlywere we make a account fangirl together without other fanbases getting involved
+268138392901005313	socialmedia	rt ayoniynizzle im addicted too twitter
+268138371841400832	socialmedia	rt blackdougiee twitter dry my phone dry what a day
+268138364065161217	socialmedia	need to stay off twitter till i catch up on mic spoilers oh yeh and i need to finish coursework
+268138343227875328	socialmedia	found out that someone at aib wants to meet me because of my twitter wait till he finds out im dull as a box of rocks in real life
+268138335363534848	socialmedia	you laugh on twitter but at night be going through it
+268138304879349762	socialmedia	i checked in at pappys smokehouse on yelp httptcois8gpfxq
+268138302115303424	socialmedia	mjthrill been missing our twitter talks but still read you every time i can
+268138300961853440	socialmedia	crazy fans made liam paynes only day off in nyc not much fun see what he had to say about themshttptcogcgmczuf
+268138279734497280	socialmedia	rt awesumangl god has no phone but i talk to him he has no facebook but he is still my friend he does not have a twitter but i still follow him
+268138271614328833	socialmedia	im addicted too twitter
+268138269827559424	socialmedia	rt dvdsweb music videossconcertsceltic thunder heritage by celtic thunder httptcowkmem0bt httptco7aa37ryr
+268138262760153088	socialmedia	rt chrisba1dwin ya kna summits not write when ya having a argument with a egg on twitter
+268138258217721856	socialmedia	rt honestjessters twitter use to be so much fun then everyone converted to complainismsphilosophy yawn
+268138236654788608	socialmedia	keemoxtherapy s new twitter namesiactuallyknowwhoitisnow notnotmuhammedkhan
+268138224772329472	socialmedia	gleeksplace if i knew u out side of twitter i would teach u
+268138210851438593	socialmedia	omg i just used nigga on twitter ive never done this before
+268138204174094336	socialmedia	rt jimutter raise your hand if you remember this nascar statementshttptcobudnster
+268138200709607424	socialmedia	rt ricorela book your next xxx event or stripper event with ricorela beautiful dancers ricorelapromogmailcom httptconiqsdvd3
+268138189129134080	socialmedia	rt princepluto i dont see how people get offended by tweets not directed towards them lol like get your emotional ass off twitter tf
+268138189062012931	socialmedia	how to get 89128 twitter followers with one hand tied behind your back httptcoxxtfg3kn
+268138189032652800	socialmedia	anti bullfight protest on twitter nov 15th 7 pm ny time usenoacorridasdetorosentehuacanjoin us httptcocf0xwaen
+268138161681608704	socialmedia	thinkin theyre a preachers on twitter lol
+268138161006333952	socialmedia	i mean my phone just uploads it to skydrive and links it on twitter whenever i send a picture to twitter
+268138160788230144	socialmedia	ussoldier09 im sure when he gets on twitter he will find out lol
+268138150881292288	socialmedia	love the fact my favourite famous people on twitter have noticed me except katyperry and pink
+268138134712246274	socialmedia	phones going crazy tonight time for bed so shhhhh twitter
+268138134213124096	socialmedia	getting joses twitter notifications is starting to get annoyings
+268138131939815424	socialmedia	rt blackdougiee twitter dry my phone dry what a day
+268138125514133505	socialmedia	after my 3 day twitter hiatus im back bitches stretchconverse ima get me some duty tomorrow u better be on
+268138117846925313	socialmedia	zmprincess0 dey broke up n hi unfollowed her on twitter also he ask his friends to do the samesverry mature jb
+268138114403414017	socialmedia	outraged residents deputy shot dogswalatv fox10 httptcovbrlcys6 dogs animalrights
+268138110725013504	socialmedia	man i gotta get back on my twitter game slackin on da tweets smfh
+268138096506314752	socialmedia	720beaucbs you didnt see me admit i was wrong hmm httpstcohvdjaxdp
+268138093650014209	socialmedia	rt babyrex22 oomf need to text bck on twitter and shx
+268138075559968768	socialmedia	twttr just lurd 1 of googles top legal eagles out of retirement httptcoodbblifm censorship twitter
+268138072053522432	socialmedia	kgods00 not even a little bitsinternet pornanimetwitter delivery system go go darpa
+268138064013041664	socialmedia	rt robertbrady prepare your smb for the holidaysshttptcoru9gl6ka tweetchat this weds8pm eastern smbholidayprep
+268138058438811648	socialmedia	im glad they finally changed this damn twitter it looks much better and the app is way easier to use
+268138052575170561	socialmedia	got a missed call from my bffbrb twitter
+268138049878237184	socialmedia	lmao rt dntcallmebaby86smore cape business faithchill dudes be putting their capes on to save their twitter idols anonymous
+268138049257488384	socialmedia	hollyrweston amyrdownham what a boresdoes she read her mentions shes clearly not as twitter obsessed as everyone else
+268138047089037313	socialmedia	rt tomarchitects well we were at the casino and by the time we got homebobbyr00lzshttptcodyavkkr
+268138046254374912	socialmedia	twitters going down shit creek
+268138044199170048	socialmedia	kylamdouglas mariahchavez25 and alysaryan i love you guys you guys make twitter actually interesting haha
+268137996702867457	socialmedia	fresh from twitter httptco8xbozplo
+268137985663451136	socialmedia	the best green bay packer twitter account tcrabtree83 or tjlang70
+268137979694964736	socialmedia	twitters actin dumb
+268137977903988736	socialmedia	please help support vamos por la ligamx add a twibbon now httptco3eobq9q8
+268137974162661376	socialmedia	rt therealdrk go followsnisadothedishes she will follow back teamfollowback twitter twitternation follow4follow
+268137956215234560	socialmedia	lmao i follow one of them rt complexmag the 25 funniest noncelebrities on twitter httptcowlyfylnm
+268137947126194177	socialmedia	clearly not a winner at the twitter game i seem to keep losing followers
+268137940683726849	socialmedia	twitter hires former google vp and deputy general counsel of seven years nicole wong httptcoznmhdiuw
+268137938494291971	socialmedia	rt princepluto i dont see how people get offended by tweets not directed towards them lol like get your emotional ass off twitter tf
+268137922186854401	socialmedia	faasu9 heyyyy i didnt know u had a twitteri saw it on kigis tl n so i followed you mann havent seen you in like longgg time d haha
+268137914842611713	socialmedia	trending on twitter hashtag
+268137914196705280	socialmedia	hi you want 5000 twittersfollowers today visitshttptcovnvcy2kh
+268137913362030592	socialmedia	rt harrysilk maxharries93 ccaaroncc lol dont care hes widely regarded as the biggest helmet on twitter
+268137912850337792	socialmedia	rt akidnamedpablo rtrtrt quispta most of yall be frontin for twitter
+268137907666186241	socialmedia	now hiring account managersales representative httptcopthmexwh
+268137899382407168	socialmedia	arianagrande please ariana can u please follow me on twitter with a strawberry on top amanda simpson
+268137884492652544	socialmedia	the twitter call was too strongsi lose
+268137870101979136	socialmedia	love them to death httptcosu9raudq
+268137862162165763	socialmedia	oomf need to text bck on twitter and shx
+268137858940936193	socialmedia	1000 goes to jordankauk alibbobwa25 for makin fun of me so much one weekend that i made twitter i also won my bet with cale hooray
+268137858102095872	socialmedia	rt princepluto some people seem bipolar af on twitter they go thru 27 emotions inn 10 tweets like tf
+268137853391872001	socialmedia	rt ibiebercrazy there should be an app like twitter but for beliebers onlywere we make a account fangirl together without other fanbases getting involved
+268137832529403905	socialmedia	when parents try to talk to you on twitter no no
+268137812124119040	socialmedia	making a new twitter is fuking annoying
+268137811352379392	socialmedia	what darrylmayfield told me put my twitter name as
+268137811209760768	socialmedia	isnatchbigmacssu just got back on twitter dont b throwin rocks
+268137806067548161	socialmedia	rt jrickyroc favor this if youre 17 or younger youll see what my favorite thing is to do on twitter its rhymes with bunbollow
+268137795594371072	socialmedia	rt aidanwalumni i hate that vathanaktor got a twitter
+268137794000539648	socialmedia	rt studenthabits 1 hour on twitter seems like 1 minute but 1 minute of studying seems like 1 hour
+268137793845346304	socialmedia	rt justincaston braxtonwebster your not deleting your twitter it has been decided
+268137792750624768	socialmedia	if you have any suggestions to videos send us a message here in twitter or in youtube we will be waiting for it we cofcof you 3
+268137784022290432	socialmedia	twitter stay geekin lol
+268137778842312704	socialmedia	rt 1kredd dear oomf ya twitter name tell it all but you a stranger but change dat menabadazz
+268137777240088577	socialmedia	wanna give him my twitter namebut some things tht i say
+268137776367689728	socialmedia	well have to be up in 7hours so think its time i hit the kip night night my fellow twitter folk
+268137773020610560	socialmedia	nicoleewashere talon has a twitter
+268137768092303360	socialmedia	rt godschildjnj iamdwreck stop being naked on twittersoh damn ive been caught covers head in shame
+268137768092303360	socialmedia	rt godschildjnj iamdwreck stop being naked on twittersoh damn ive been caught covers head in shame
+268137746651041792	socialmedia	rt honestjessters twitter use to be so much fun then everyone converted to complainismsphilosophy yawn
+268137744545497090	socialmedia	rt denverpost lakewood police arrest second man in weekend bar killing httptcozx3rqmha by ryanparkerdp
+268137743907975169	socialmedia	welp rt mochamamii true life i got way 2 many twitter boos malesfemale lmao
+268137727801823233	socialmedia	sm there is a decline in blogs and a growth in facebook and twitter
+268137719757168640	socialmedia	iphoneassassins ya whats his twitter
+268137703143510016	socialmedia	badhabits studyingson twittertumblr
+268137701662924800	socialmedia	rt ibiebercrazy there should be an app like twitter but for beliebers onlywere we make a account fangirl together without other fanbases getting involved
+268137692586446848	socialmedia	dudes be putting their capes on to save their twitter idols anonymous
+268137688576688129	socialmedia	girl rt eshgotemall i jus dnt tweet my boo on twitter but he be watching me so its cool i be watching him to lol
+268137682780180480	socialmedia	rt pisslord what if twitters character limit was based on penis size that wou
+268137682037792768	socialmedia	on twitter you cant really tell whos online until they talk to you
+268137681194725378	socialmedia	thacritter i was on twitter yesterday from 10am til 6 this morning tf wrong with mert
+268137680716582912	socialmedia	rt dailyteenwords when im busy on twitter i ignore everything around me
+268137670557982720	socialmedia	rt diablo3info diablolike legends rise of a hero launches on httptcoaiui6tsxsventurebeat httptcoheu1zhqs diablo3
+268137668381138944	socialmedia	at least u know now rt dntchkforme im just old 27 bitter and singlesi use twitter for laughs only lmaooo
+268137657022947328	socialmedia	love how i communicate with people over twitter because im to lazy to text them
+268137651398397952	socialmedia	rt survivorjane preppertalk yes we are building the largest prepper community on twittersone prepper at a time preppers moms survival teotwawki
+268137629227298817	socialmedia	rt leahmariecake this is becoming too much of a reoccuring situation alexandercake fuckcollege homework verycool httptcoqkg8wpvq
+268137624756166656	socialmedia	rt ibiebercrazy there should be an app like twitter but for beliebers onlywere we make a account fangirl together without other fanbases getting involved
+268137608855556096	socialmedia	do we need to fast before a cholesterol screening maybe not suggests new studyshttptco7hwxxd0t cbs loca httptcodqhhazqs
+268137607500800002	socialmedia	fda find bugs bird at affiliate of meningitis pharmacysreuters afpfda find bugs bird at affiliate of mening httptcozfjant4r
+268137606284451841	socialmedia	recall some nesquik chocolate powder has been recalledshttptcokcypvwby abc newsrecall some nesquik choc httptcoshjw3ybb
+268137605420417024	socialmedia	rt kelzpls i feel like i lost my twitter mojo 0o
+268137604535427072	socialmedia	two california deaths renew mushroom warningssusa today new york daily newstwo california deaths renew mushro httptco9fxykhx7
+268137600978661376	socialmedia	rt giiiannaaa if i was famous id follow and reply to every single person on twitter and tweet where i am every day so i can meet people
+268137600127213568	socialmedia	tech htc one x one vx coming to att nov 16spc magazine httptcoqeqlz9l8
+268137595198914560	socialmedia	kordhunter because i deleted it then i asked you on twitter
+268137591583408128	socialmedia	quite hard to find a facebooktwitter famous person whos not a complete bellend
+268137579377999872	socialmedia	rt glittermermaid im getting off twitter i hate seeing happy people
+268137579088596992	socialmedia	adrienne maloofs son christian breaks 3 fingers cps notifiedshttptcogvrq9pnx starcasmnetadrienne maloo httptcogx6febty
+268137571878580225	socialmedia	tech news htc one x one vx coming to att nov 16spc magazine times of indiahtc one x one vx coming to a httptco8j2cfilb
+268137569294888961	socialmedia	what should my new twitter name be
+268137564156882944	socialmedia	feels good to be part of the twitter family now 1love newtothegame needfollowers
+268137557102063616	socialmedia	rt braxtonwebster rt if should keep my twitter favorite if i should deactivate it
+268137551137738752	socialmedia	i have a facebook twitter instagram tumblri spend too much time on the internet
+268137547853611009	socialmedia	braxtonwebster your not deleting your twitter it has been decided
+268137531793612800	socialmedia	behonest you are not as popular in real life as you are on twitter posers
+268137515398086656	socialmedia	rt dailyteenwords sundayslazinessssleepsfoodstwitter
+268137502970347521	socialmedia	new mayhem on 2 borders as syrian opposition unifiessnew york times new york timesnew mayhem on 2 borders asshttptcoabygqzve
+268137491712864256	socialmedia	timrosinski lovingyouandme8 you know where timim not going to mention where i live everytime im on twitter
+268137487224958976	socialmedia	new mayhem on 2 borders as syrian opposition unifiessnew york times new york timesnew mayhem on 2 borders asshttptcov9gmw1ic
+268137486247661569	socialmedia	twitter use to be so much fun then everyone converted to complainismsphilosophy yawn
+268137485631111168	socialmedia	nypd on hunt for halloween maskwearing armed robbers in brooklynsnew york daily news httptcorag6w2ql
+268137484016287744	socialmedia	rt lilbthebasedgod g golly guys twitter makes me happy lil b swings his arm like a proud soccer dad with a family he cannot control at homehey broslil b
+268137483475247104	socialmedia	rt downtowndenver its a zamboni its a plane its both downtown denver the zamboni has landed are you ready httptcol2l7jz3k
+268137480606322689	socialmedia	offically out of twitter jail
+268137478068793346	socialmedia	jetlifex26 i hate when people act different on twitter its so fucking annoying
+268137470288355328	socialmedia	snowjoemore chances to win in our snowbigdeal sweeps this week rt one entryday httptcobvqg9j3g
+268137469336227841	socialmedia	cant get to sleep so ive resulted back to twitter
+268137468572876800	socialmedia	sassy megan now has twitter back yayshttptcopqcn9yzn
+268137463959130112	socialmedia	rt enigmaticmess dear diary i have my first twitter crushshow do i get him to notice have hot uninhibited sex with meslove e
+268137461404815360	socialmedia	rt kelzpls i feel like i lost my twitter mojo 0o
+268137451200053248	socialmedia	rt discounthunters dealnews personalized mug for frees7 sh vistaprint offers a personalized mug for free plus around 7 forshttptcoflwgdike
+268137443113455616	socialmedia	rt weedwaffles we make twitter come alive
+268137438055108608	socialmedia	this is becoming too much of a reoccuring situation alexandercake fuckcollege homework verycool httptcoqkg8wpvq
+268137436394168320	socialmedia	rt braxtonwebster rt if should keep my twitter favorite if i should deactivate it
+268137428404011008	socialmedia	lovelyfreckless im gonna delete my twitter now
+268137425036013568	socialmedia	rt discounthunters dealnews cod black ops ii for xbox 360 w 10 credit points for 60sfree shipping microsoft store is stil httptcouhd7amgj
+268137420829118464	socialmedia	i checked in at cantina laredo on yelp httptcobh86nnsq
+268137413795250177	socialmedia	people wwho dont live the life they portray on twitter goofies
+268137412083994624	socialmedia	rt braxtonwebster rt if should keep my twitter favorite if i should deactivate it
+268137409676464128	socialmedia	10 am pt nov 13s15 fiscal showdownsk12 funding k12nnpodcast tue httptcoelsypwp8 twitter pty thu use kidsnotcuts
+268137402395131904	socialmedia	test your spiritual strength fast from people in general learn to be alone amp dealshttptcoaec7ctzn httptcoazbhyljx
+268137400495116288	socialmedia	portersbar can i apply via twitter
+268137393599700992	socialmedia	itzlilbman 100 wuz penny twitter
+268137386125447168	socialmedia	woww i feel so extraordinary to have 5000 twittersfollowersvisitshttptcovnvcy2kh
+268137382933573633	socialmedia	rt discounthunters dealnews boss audio indash car stereo with 65 speakers for 59sfree shipping walmart offers this boss au httptco6vh50xtr
+268137382086311936	socialmedia	yaboyjoe wat yo old ass doing on twitter
+268137372120670208	socialmedia	i think its cuter when people leave their relationships on the dlsnot all over twittersin everyones faces
+268137363673325568	socialmedia	fda find bugs bird at affiliate of meningitis pharmacysreuters abc newsfda find bugs bird at affiliate of m httptcoifn8hf53
+268137363274887168	socialmedia	themlostboys lol sorry fuckin twitter cuts me off with not enough characters
+268137359567114241	socialmedia	mummyfelstead binkyfelsteadsyour mummas seductive pose for her twitter picture is very cheeky ahah gotta love her madeinchelsea
+268137354898841600	socialmedia	twitter deprived for no reasonsimbaaaaaack
+268137353611210754	socialmedia	maxharries93 ccaaroncc lol dont care hes widely regarded as the biggest helmet on twitter
+268137339115679745	socialmedia	classic james bond car aston martin db5 reappears in skyfall thanks to 3ds new york daily news new yorkshttptcoudd5bjvc
+268137332476100608	socialmedia	rt braxtonwebster rt if should keep my twitter favorite if i should deactivate it
+268137327900110848	socialmedia	the twitter effect rt johngerzema omg text messaging declines in us for first time report says httptcogrfbezsc
+268137326666993664	socialmedia	a review of gremln a product to promote your factoidz articles on twitter httptcoebqvrqms
+268137310325968896	socialmedia	dear oomf ya twitter name tell it all but you a stranger but change dat menabadazz
+268137304168755202	socialmedia	i have missed u twitter so addicted
+268137298971996161	socialmedia	rt qnorico delete your account rt keepdatshit100 whats the only way out of black twitter
+268137291623571457	socialmedia	rt itsdelenaira my new wallpapersdelena delenawillhappensi actually love this picture aaahhhhsy httptco2iuevcgm
+268137290436575232	socialmedia	add tsamparevolt rangzenalliances on twitter
+268137286074503168	socialmedia	sleepurrrr slow down before you get put into twitter jail
+268137280093442048	socialmedia	boss audio indash car stereo with 65 speakers for 59sfree shipping walmart offers this boss audio 612ua i httptco5evpugmw
+268137278872899585	socialmedia	boss audio indash car stereo with 65 speakers for 59sfree shipping walmart offers this boss audio 612ua i httptconpij9fdk
+268137275358076929	socialmedia	ways to catch a tweet watcher say they name but dontstheir twitter name simple
+268137274460491776	socialmedia	dealnews boss audio indash car stereo with 65 speakers for 59sfree shipping walmart offers this boss au httptco6vh50xtr
+268137273516781568	socialmedia	dealnews lian li miniatx desktopsrackmount computer case for 170sfree shipping mwave offers the lian li httptcogx8cjuv2
+268137272656949248	socialmedia	dealnews cod black ops ii for xbox 360 w 10 credit points for 60sfree shipping microsoft store is stil httptcouhd7amgj
+268137271713210368	socialmedia	dealnews learn to design bundle course bundle for 99 as one of its daily deals stacksocial offers this lear httptconjvuut3s
+268137270807240704	socialmedia	dealnews personalized mug for frees7 sh vistaprint offers a personalized mug for free plus around 7 forshttptcoflwgdike
+268137251593154560	socialmedia	i need some new pictures on both facebook n twitter
+268137245465272321	socialmedia	nobody is on twitter
+268137243615588352	socialmedia	rt braxtonwebster rt if should keep my twitter favorite if i should deactivate it
+268137242126581760	socialmedia	i despise whoever set up a twitter for me addicted
+268137240876695556	socialmedia	delete your account rt keepdatshit100 whats the only way out of black twitter
+268137237814841344	socialmedia	we have officially met and surpassed our twitter follower goal for this monthswoohoosnext is fb and the httptco40ikqoro
+268137228109238272	socialmedia	kat is making a twitter have fun following her to subfuckingtweet
+268137224036548609	socialmedia	itskeylaaa new to twitter lol
+268137209721405440	socialmedia	not many people express that they are in a relationship on twitter
+268137205732618242	socialmedia	rt heyitsliyah homeworkshomeworshomewoshomewshomeshomshoshststwstwistwitstwittstwittestwitter
+268137189722963971	socialmedia	go followsnisadothedishes she will follow back teamfollowback twitter twitternation follow4follow
+268137183939010560	socialmedia	i have just learned why twitter suspended my account isam waiting 4 a response in the mean time people suck
+268137183892869121	socialmedia	hello and welcome to my twitter page on this account i promote my website httptcojmqinnay
+268137171683266560	socialmedia	hey twitter peeps
+268137162594213888	socialmedia	rt if should keep my twitter favorite if i should deactivate it
+268137156361453568	socialmedia	preppertalk yes we are building the largest prepper community on twittersone prepper at a time preppers moms survival teotwawki
+268137156244029440	socialmedia	fda find bugs bird at affiliate of meningitis pharmacysreuters abc newsfda find bugs bird at affiliate of m httptco95ydzsui
+268137136463687680	socialmedia	yeahsamedan yeah sometimes i forget that outside world is different to twitter world we could have sold our bodies for merch together
+268137124556062720	socialmedia	dear schoolmates if youhappen to follow me ontwitter be sure to keepthis rulewhats ontwitterstays on twitter
+268137122316288000	socialmedia	wats goin on twitter
+268137117740326912	socialmedia	the narrowmindedness of people on twitter is seriously unbelievable
+268137101046976513	socialmedia	so i decided if you put your number on twitter im going to fuck with you hahaha
+268137096722665473	socialmedia	its crazysi can get 3000 twitter followers just 1 daysvisitshttptcovnvcy2kh
+268137089101602817	socialmedia	twitter advertising has never been easier learn how to automate your twitter accounts httptcorxue0ar8
+268137081400877056	socialmedia	twitter culiao sube ya gdlneedstakemehometour
+268137077399502848	socialmedia	add tsamparevolt bodon twitter
+268137072769003521	socialmedia	man finds a 6 lizard crawling in sealed bag of salad greens from market as he prepares sandwichshttptco2pv4ip8d
+268137067026980864	socialmedia	rt troubleforfares why am i always caught in the middle of these fake twitter peepssexhalers who get exposed its like i have a connection to all of them
+268137062820102144	socialmedia	rt ibiebercrazy there should be an app like twitter but for beliebers onlywere we make a account fangirl together without other fanbases getting involved
+268137061935095808	socialmedia	treesidjorge bushy76 we both know thats not appropriate for twitter
+268137040091181056	socialmedia	next person to rt that vance g kid im unfollowing because he is the most annoying kid on twitter
+268137031396388864	socialmedia	msnbcvideo video secondterm headaches come early for president obama with petraeus fiscal cliff httptcoisokoeb6 pbo willb fine
+268137025885065216	socialmedia	rt mattwhite924 just searched for matt white on twitter theres quite a few of us out there im clearly the best one though mattwhiteisbestmattwhite
+268137004720599040	socialmedia	kevinxwolf lies you have like 3000 subs lol i tried to add you and i cant yep fb famousstwitter fmaous lol cx
+268137003554574336	socialmedia	go to work go to school read a book doing too much on twitter everyday
+268136992880066560	socialmedia	texas is so angry it wants to succeed from the english languageshttpstcoltirjyc6
+268136992183836672	socialmedia	rt heatherkitty120 how do i put up pictures on twitter
+268136984063668224	socialmedia	missmoody2u rotflmao whatever hoe its twittersnot a dating site slob on my knob dirt bag
+268136972676116480	socialmedia	rt helpportraitic helpportraitic is now on twitter to get involved in our dec 8 event email ichelpportraitgmailcom or facebook help portraitiowa city
+268136964438495232	socialmedia	rt matthewfaler i dont need followers on twitter i walk into walmart and people be following me alreadyxd
+268136961150185473	socialmedia	if twitter is for board people then facebook must be for no lifes mytheory
+268136945656422400	socialmedia	httptconv1fmrvk swaggy
+268136923862810624	socialmedia	taking a few moments between workshomework to read realjohngreens the fault in our stars not a short story just limited by twitter
+268136922881351680	socialmedia	how to automatically grow your twitter followerssproof inside video httptconftg3ogw
+268136887686938627	socialmedia	martymariana haha those words have came out our mouth so so manystimes we should just stop being twitter friends lolol
+268136878270713856	socialmedia	they need to make a twitter app for a macbook
+268136872323207168	socialmedia	when did he say that its not on his twitter so rt loveliverauhl you may be bullied at school but ive been bullied by the whole
+268136871178162176	socialmedia	nursing jobs nurse anesthesthetist crna nursing certified registered nurse anesthetist crna at army medica httptcok1gybd6b
+268136869622075392	socialmedia	nurse jobs nurse anesthesthetist crna nursing certified registered nurse anesthetist crna at a httptcok1gybd6b nurse job
+268136868481220610	socialmedia	nursing jobs nurse anesthesthetist crna nursing certified registered nurse anesthetist crna at army medica httptcofxw48nr7
+268136867935973376	socialmedia	katriiina i use mine for instagram and twitter because i dont have a smartphone its really obnoxious
+268136867407462400	socialmedia	nursing jobs registered nurse job nursing registered nursestaff nurse rn at valley healths in va httptcogjku3nlo
+268136865780092930	socialmedia	nursing jobs nurse anesthesthetist crna nursing certified registered nurse anesthetist crna at army medica httptcouciqvb4m
+268136864811204609	socialmedia	nursing jobs registered nurse job nursing registered nursestaff nurse rn at valley healths in va httptcomuoo47eo
+268136862659510272	socialmedia	what channel does the celtics and bulls game come on asks twitter
+268136859610255360	socialmedia	we make twitter come alive
+268136858330992641	socialmedia	behonest you a fake bitch or a fake nigga if you buy followers on twitter
+268136854304485376	socialmedia	orthopedic surgeonsorthopaedic surgeon physician orthopedic at aureus medical group in nc httptcope8ymeaq healthcare jobs
+268136849707499520	socialmedia	sports twitter mike trout unanimous al rookie of the year mike trout of the los angeles angels was a unanimou httptcocrzpz0li
+268136849652985857	socialmedia	hiring a orthopedic surgeonsorthopaedic surgeon physician orthopedic at aureus medical group in nc httptcodmerzi3b
+268136846373056513	socialmedia	rt prnews linkedin events pr news social media icon awards httptcodtb941ga
+268136836587720704	socialmedia	having an iphone has got me more addicted to twitter
+268136835572695040	socialmedia	okay okay fine ill go study for my work jeez twitter stop making me feel like this
+268136830711517184	socialmedia	hellooo twitter long time no see
+268136830656999424	socialmedia	one subject down this calls for a twitter break restthemind
+268136830610833409	socialmedia	rt ibiebercrazy there should be an app like twitter but for beliebers onlywere we make a account fangirl together without other fanbases getting involved
+268136827020529664	socialmedia	mrmusica asdfghjklscantan hermososnc httptcofxspeeom
+268136825158258690	socialmedia	what is up with twitter and its gay trends
+268136819776954368	socialmedia	rt cravebox hey cravers join clcravebox for twitter party on 1112 9pmest you must rsvp httptcoh0gqfbli cookinglightsmust rt to win
+268136815914004480	socialmedia	codysimmons9 stop im going to take away your twitter lol relax
+268136812596318208	socialmedia	miley i love you mileycyrus httptconhrihlnj
+268136808209072130	socialmedia	dantweddle about time you got twitter
+268136803142348800	socialmedia	travel rn or nursing registered nursestaff nurse rn at ppr healthcare in sc httptconga76skg healthcare jobs
+268136801884073984	socialmedia	operations technician vbfscontinuous recruitment job general other positions at merck in nc httptcor8cj4qnj healthcare jobs
+268136796905414656	socialmedia	rt parkerrpratt13 if i make a new twitter should the name be parkerpratt2pt0swhatdoyallthink
+268136795013804032	socialmedia	i dont even get on twitter anymoreslolls i missed yall
+268136794158149632	socialmedia	rt ibiebercrazy there should be an app like twitter but for beliebers onlywere we make a account fangirl together without other fanbases getting involved
+268136793990373376	socialmedia	hiring a travel rn or nursing registered nursestaff nurse rn at ppr healthcare in sc httptconffdrzhn
+268136792853708800	socialmedia	hiring a operations technician vbfscontinuous recruitment job general other positions at merck in nc httptconesbbsfs
+268136790056120322	socialmedia	nursing jobs rnlah medsurgical clinical scholar prn job nursing registered nursestaff nurse rn at centura httptco7d2mmdkm
+268136788592308226	socialmedia	nurse jobs rnlah medsurgical clinical scholar prn job nursing registered nursestaff nurse rnshttptco7d2mmdkm nurse job
+268136782778990592	socialmedia	rt heyitsliyah homeworkshomeworshomewoshomewshomeshomshoshststwstwistwitstwittstwittestwitter
+268136775711596544	socialmedia	gr4sshopp3r is basically the only decent person whos famous on twitter
+268136765251018752	socialmedia	its been a while twitter fam what have i missed
+268136763975929857	socialmedia	im getting off twitter i hate seeing happy people
+268136753276276736	socialmedia	rt ibiebercrazy there should be an app like twitter but for beliebers onlywere we make a account fangirl together without other fanbases getting involved
+268136750159904769	socialmedia	rt kortneybootokes fucking twitter get over yourself and let me do my fucking homework im gonna end up failing because of you c
+268136746284371969	socialmedia	bighairmafia mciver18 where would we be without mongs to brighten up twitter buzzinghegotaretweet noticeme
+268136743541288960	socialmedia	sportsesquire make it the roll tide of golf on twitter longestdriveringolf
+268136736574537728	socialmedia	iloveyu thanks for letting twitter knw i dnt got a chance lol
+268136732912914432	socialmedia	nursing jobs travel rn labordelivery nursing registered nursestaff nurse rn at ppr healthcare in ca httptcoijlticoo
+268136732619317248	socialmedia	nursing jobs travel rn labordelivery nursing registered nursestaff nurse rn at ppr healthcare in ca httptcodzxn4tvq
+268136732363464705	socialmedia	nurse jobs travel rn labordelivery nursing registered nursestaff nurse rn at ppr healthcare in ca httptcoijlticoo nurse job
+268136731679809536	socialmedia	nursing jobs rnsfmc icu job nursing critical care management ccuicu at centura health in co httptco94fz0y9z
+268136730249555970	socialmedia	nursing jobs travel rn labordelivery nursing registered nursestaff nurse rn at ppr healthcare in ca httptcoj1sbp5pc
+268136729335169024	socialmedia	nursing jobs rnsfmc icu job nursing critical care management ccuicu at centura health in co httptcoaddic0k9
+268136710964121600	socialmedia	jenlovesmlb my twitter has been getting molested my refreshes lol
+268136686146445312	socialmedia	rt rllyzaynrlly twitter user real underscore liam underscore payne rlly needs to stop replying to the same people
+268136677866885120	socialmedia	sports twitter lakers intrigued by chance to play for dantoni just when everybody thought the los angeles la httptcodg1oqnke
+268136677191585792	socialmedia	rt minnesotasiren between violence on gaza border and syria tensions israel mulls next moveshaaretz httptcoajphftwj
+268136676294000641	socialmedia	beliebers4lyf3 my twitter name haha itjusthannah
+268136661035122688	socialmedia	twitter i need your opinion should i come home in my dress uniform or my regular uniform
+268136657709039616	socialmedia	rt lilliandolyak wheres the ct faggots twitter
+268136656517877760	socialmedia	rt patriciasweetsssif you want more followers instantfollowbacksteamautofollows500adays1000adaystfbsf4fshttptcoyqpbvsh7
+268136650016694273	socialmedia	rt followmyvans definition of twittersnothing but publicity stunts lies fakessdrama
+268136647470772224	socialmedia	join workingmother and safetyathome for our wmhealthyhome party rsvp to be eligible to win prizes 1115 9pm est httptcokeopkyo0
+268136641032515585	socialmedia	skinnywa well i figured ud be used to doing it over twitter since thats where you talk all your shit
+268136638759202818	socialmedia	rt princepluto i dont see how people get offended by tweets not directed towards them lol like get your emotional ass off twitter tf
+268136636456525824	socialmedia	httptcolvyy32qg rochnationnn
+268136630739664896	socialmedia	rt kortneybootokes fucking twitter get over yourself and let me do my fucking homework im gonna end up failing because of you c
+268136621466075138	socialmedia	jiggidypuff savethecombo ninjarob0t yea twitter is so confused myself sometimes
+268136612083408896	socialmedia	using twitter instead of facebook lets see how this goes
+268136609118056448	socialmedia	rt dailyteenwords when im busy on twitter i ignore everything around me
+268136594853212160	socialmedia	nobody on my twitter will know how happy i am mark allen professional snooker player just tweeted me highlightofmyday
+268136580164767746	socialmedia	im gonna get a patch for my wind breaker with my twitter handle on it now
+268136578818383874	socialmedia	twitter thugs put an address with that tweet
+268136566944329728	socialmedia	rt awesumangl god has no phone but i talk to him he has no facebook but he is still my friend he does not have a twitter but i still follow him
+268136561080664067	socialmedia	just had the most fucking eventful three minutes of my life on twitter night now
+268136558798970880	socialmedia	change the color of my twitter from google chrome its dope
+268136558782197761	socialmedia	one thing i miss about twitter is lolgop some of the best shit is on there
+268136558316617728	socialmedia	ski champion lindsey vonn hospitalized with illness ussa sayssbloomberg foxsportscomskishttptco08qbmm2ksthe aspen proper
+268136557440032768	socialmedia	ski champion lindsey vonn hospitalized with illness ussa sayssbloomberg foxsportscomski champion lindsey vo httptco08qbmm2k
+268136557108658176	socialmedia	rt chris1529 i wonder if casssayy knows she dosnt have a picture on twitter its been like that for like 2 weeks lol
+268136556513083393	socialmedia	ski champion lindsey vonn hospitalized with illness ussa sayssbloomberg foxsportscomski champion lindsey vo httptco4nysczij
+268136554768236544	socialmedia	manage twitter easily with communitshttptcobp3vvulh
+268136554357202944	socialmedia	rt minnesotasiren between violence on gaza border and syria tensions israel mulls next moveshaaretz httptcoajphftwj
+268136553048584192	socialmedia	i wish there was a diff social networking site that only certain people were on so i could post other stuff but still have them on twitter
+268136547960885249	socialmedia	rt earthactivists our twitter list of tweeple rting our make seaworld nervous postssearthactivistsseaworldsplease tell your friends to joinsty
+268136547814092801	socialmedia	hello everybody on twitter just got home gonna chilax on the computer
+268136546950057985	socialmedia	when people act different on twitter than in real life because theres a small chance theyll never meet their folowers for them to tell
+268136542235672576	socialmedia	if i make a new twitter should the name be parkerpratt2pt0swhatdoyallthink
+268136531418550272	socialmedia	jorjaellis ill tell everyone on twitter what happened to you today heheheheheh
+268136519653552128	socialmedia	michael doesnt quite grasp the rules of twitter you cant just come on here slaying peoples favourite bands yknow
+268136514964316160	socialmedia	justinbieber broke up with selenagomez unfollowed her on twitter also he asked his buddies to do the samesverry maturesrt news
+268136493162319872	socialmedia	ohh soo you got time to be on twittersbut cant text nobody backskhallese saidsyou got yo phonescause you on twitters
+268136487357386752	socialmedia	antivirus pioneer mcafee sought in belize slayingsusa today httptcofi1adlo4 blogantivirus p httptcohdvewsrz itsecurity
+268136472073338880	socialmedia	rinaldi11 i cant describe it all through twitter theres too much to tell but its tied as my 1 right now its beautiful
+268136469506428928	socialmedia	rt princepluto i dont see how people get offended by tweets not directed towards them lol like get your emotional ass off twitter tf
+268136458806779905	socialmedia	there should be an app like twitter but for beliebers onlywere we make a account fangirl together without other fanbases getting involved
+268136455002550272	socialmedia	that time httptcoyx7vgsc3
+268136438506340354	socialmedia	plus this cold weather makes me want to sleep all day but i get distracted by twitter always
+268136433435435009	socialmedia	rt thateffingguy hahstwitter dramasits just twitter brossuckmydick getalife
+268136427378839553	socialmedia	twitter is a great place to tell the world what youre thinking before youve had a chance to think about it
+268136424648343553	socialmedia	mdawdyiphone brandon from sendgrid is on twitter as brandonmwestsi dont have an email or phone for you
+268136417518055425	socialmedia	homeworkshomeworshomewoshomewshomeshomshoshststwstwistwitstwittstwittestwitter
+268136400568864768	socialmedia	andria429 luckily she hasnt gotten a twitter
+268136398421364736	socialmedia	kristos olive oil ribbon cutting httptco0srzrmbz
+268136386828333057	socialmedia	that nerd moment when you both have each others phone numbers skype and twitter yet you have full conversations on lol chat
+268136373985357825	socialmedia	nokias 42 nonsmartphone still has facebook twitter videoshttptcoedtzratr
+268136360781680640	socialmedia	rt awesumangl god has no phone but i talk to him he has no facebook but he is still my friend he does not have a twitter but i still follow him
+268136358504177664	socialmedia	rainforestcafe3 with the mainn httptcoigrviwcw
+268136345862541312	socialmedia	rt leeceldridge bobfescoe need to get firepioli trending on twitter please rt
+268136345573138432	socialmedia	lol i lost like so many followers this past weekend but honestly i dont even care about twitter anymore haha
+268136332440772610	socialmedia	everyone follow this nigga httpstcoqurhxsk9 deadass his tweets real af
+268136330788212736	socialmedia	atf helps you to gain social proof to your pages with numbers of twitter fans in less than of days httptcoibcfhpww
+268136325415325698	socialmedia	directix1d show you whos twitter sorry i dont understand your grammar
+268136317295136768	socialmedia	federerlive thank you roger what a year httptco6ey0db5z congrats
+268136312517844993	socialmedia	pilam76 whutyearisit i feel honored first id like to thank twitter for this amazing opportunity id also like to thank my mom
+268136309984464897	socialmedia	rt awesumangl god has no phone but i talk to him he has no facebook but he is still my friend he does not have a twitter but i still follow him
+268136306813591552	socialmedia	im now the duke of starbucks on yelp httptcojl68abuh
+268136301801373697	socialmedia	i dont see how people get offended by tweets not directed towards them lol like get your emotional ass off twitter tf
+268136294041919488	socialmedia	rt casquinha777 dewtoursi just got on twitter and didnt get the spoiler alert notice before i saw the spoilersnofair
+268136275788328960	socialmedia	twitter hello im fansofmusic im on twitter can you give me a blue tick on my account ino its just for celebritys but i love music
+268136266556641281	socialmedia	rt rllyzaynrlly twitter user real underscore liam underscore payne rlly needs to stop replying to the same people
+268136266296602624	socialmedia	heatherkilsby just realised i havent been following you on twitter o rachyxx lets have a cracking night tomorrow xx
+268136258683957250	socialmedia	i wonder if casssayy knows she dosnt have a picture on twitter its been like that for like 2 weeks lol
+268136257694101504	socialmedia	miranda its biscuits and gravy i dont have you twitter name on my notsmart phone
+268136256641306624	socialmedia	did a twitter clean
+268136251251621888	socialmedia	thank you for the follow complete nutrition nutritionco is now following you on twitter
+268136251062894592	socialmedia	kansascitycashsdiary of diamondatl chapter two httptcoshnyhecos djvision
+268136243232141312	socialmedia	rt moveon the most popular twitter and facebook image of all time barackobama httptco1b5spxzi
+268136224366157824	socialmedia	rollickingsyou can to get more awesome 10000 twitter followers more info visitshttptcovnvcy2kh
+268136218808705024	socialmedia	cecemissxtotheo is that a lady gagainspired paws up pose in your twitter icon if so i approve httptcoushkqxmj
+268136209983885312	socialmedia	jfirwin here is what damonlindelof said httpstcofazifcvx
+268136205458235392	socialmedia	rt dannbannn twitter is just full of indirect tweets can see so many looking down my news feed pussies
+268136203646296064	socialmedia	rt melodyrwm52 mccainblogette know who twitter says is similar to meghan mccain daily kos congrats you fit right in
+268136202962624514	socialmedia	onlyatmcclellan where females be teamvirgin on twittersbut be 6 months pregnant
+268136201700143104	socialmedia	randybrock whereskiger twitter world is crazy
+268136192338444289	socialmedia	shaneread2010 theyre too busy reading your twitter mate and standing outside the metro ha
+268136178916683776	socialmedia	follow me on twitter gottihaze ifollowback ushi plash fittedcircle fc
+268136168820994048	socialmedia	you say actions tell it allstwitter tells it all
+268136150860972032	socialmedia	rt awesumangl god has no phone but i talk to him he has no facebook but he is still my friend he does not have a twitter but i still follow him
+268136143307022336	socialmedia	twitter are you likely to be purging inactive accounts any time soon
+268136142535274497	socialmedia	some people on twitter suck this weather is awesome
+268136122692034560	socialmedia	ashleynilsson how you liken twitter
+268136122150973441	socialmedia	our twitter list of tweeple rting our make seaworld nervous postssearthactivistsseaworldsplease tell your friends to joinsty
+268136119856676864	socialmedia	rt alfxsantos some people on twitter really make me question the stupidity of humanity
+268136112923484160	socialmedia	where are you celebrating thanksgiving why not at the best address in punta mita httptcoxqsznxvh thanksgiving httptco4ffjmurw
+268136107852587009	socialmedia	rt justjordyy i wish acne didnt exist rt justjordyy i wish acne didnt exist httptco4tsz58tj
+268136095722647553	socialmedia	holy shit twitter i leave you for 5 hours and come back to only 10 tweets thefuck
+268136091138281475	socialmedia	rt pupsherlive lol nydailynews a tweet of relief the word phew trended worldwide on twitter shortly after obamas victory httptcod9tllmbp
+268136090874019840	socialmedia	i could do homeworkor stay on twitter screwprecalc
+268136088101597184	socialmedia	definition of twittersnothing but publicity stunts lies fakessdrama
+268136085773774848	socialmedia	dvox3 nigga i been having a twitter
+268136084112809986	socialmedia	nobody on twitter is ugly you aint know
+268136079650091008	socialmedia	lauraj012 i searched your name to twitter stalk you and you didnt show up at firstsmomentary panic
+268136078584717312	socialmedia	micheleborba thanks for the twitter follow mrs d barron founder of parents taking charge in education blog
+268136071395696641	socialmedia	i cant even see outside and i know its snowing grasias twitter
+268136056145186816	socialmedia	twitter sucks tonight booooo
+268136040559157249	socialmedia	been a while i havent been on here wats up twitter
+268136039586099200	socialmedia	rt austinthamm hey kaely lets be mature and keep this off twitter thats your guys business
+268136032384450560	socialmedia	the lies juju tell on twitter lol smh
+268136025052807168	socialmedia	rt saraashlynn my neighbor asked me what my twitter handle is who asks that oh i deactivated it thank god i didnt put my last name here
+268136024276860929	socialmedia	jacqulyno of course my love i didnt even know until the other day that you had a twitter
+268136017461141504	socialmedia	she got a twittersfck nawwsctfusunnnnsshe finally upgradingg from facebook
+268136008342704128	socialmedia	i did miniture prayer night tonight im making myself look bad right now let me get off of twitter
+268135986867867648	socialmedia	imogenjayde your like a celeb on twitter i swear haha x
+268135977883672577	socialmedia	rt dailyteenwords when im busy on twitter i ignore everything around me
+268135957511938049	socialmedia	fsxo according to my twitter feed youre a self proclaimed freak in the bed
+268135954160693248	socialmedia	rt bubbabrooks3 httpstcoqfdo6svb kristynn14 and darleneehalll12si hated this
+268135952084529152	socialmedia	can you stop revolving your life around twitter and a boyband pleases
+268135950557794304	socialmedia	i am not the one who made the fake ass twitter account so for all you motherfuckers can miss me with that shit
+268135946694832129	socialmedia	rt erinlamb have faith all things are possible with god tumblr image httptco7jf8wzrw
+268135944144699392	socialmedia	rt occupygay vatican blasts against marriageequality httptcoik01wzsk yet johnpaul was buried wanal con httptcorcg1xmvk
+268135941485502465	socialmedia	kaybedford i need it back kali help me find my twitter soul again
+268135936573964288	socialmedia	mim snaps ties with congressstimes of india the hindumim snaps ties with congresstimes of indiahyderabad mim httptcopih89vz4
+268135935529611264	socialmedia	ugh my twitter is being lame wont show who retweeted or favorited what
+268135932581015552	socialmedia	chamber of commerce holds successful job fairsnevada county picayune chamber of commerce holds successful job httptcowihts6jr
+268135926486691840	socialmedia	i got a twitter and quit met ta2212 and became a regular tweeterthank you
+268135904500142080	socialmedia	after tonight i might go mia on twitterits too much
+268135884912738304	socialmedia	i always forget jocelyne has a twitter lmao
+268135884736577536	socialmedia	hootsuitehelp the reply all on twitter doesnt seem to me working i cant click the menu arrow that leads to it any ideas why
+268135876666732544	socialmedia	i get a goods12 minute nap before i leave to go go worksnow 11 fuck you twitter
+268135871147020288	socialmedia	gettin my ass off twitter for awhile my monday night shows finna start soon
+268135859667210240	socialmedia	rt mrzbadasz love u too girlsim getting pissed ugh i need to get off twitter
+268135858673168384	socialmedia	rt fellystarzz twittersenemy of progress
+268135844592906241	socialmedia	i apologize twitter i have not been on you for a couple days
+268135836208492544	socialmedia	dianealwaysgee hahahaha i know exactly what you mean and youre just like hahahaha this is hilarious twitter material lmaooo
+268135835545784320	socialmedia	darawarren1hiii have got this web hostingshttptcovcreca79 httptconu3vbfok
+268135830848172033	socialmedia	rt christinaphil this is twitter not instagram you dont have to hash tag every word on a picture dipshit
+268135824065978368	socialmedia	httpstcoqfdo6svb kristynn14 and darleneehalll12si hated this
+268135823814316032	socialmedia	twitter user tyler oakley check your goddamn indirects
+268135814486171648	socialmedia	rt socialmoms join me at the pixarbrave twitter party 1113 45 pm pst rt for a chance to win a 20 amazon gc httptcotrsypwyz
+268135808425398272	socialmedia	conversations at my parents strongly resemble twitter bickering is that why im here feeling all comfortable and stuffs
+268135800456245248	socialmedia	twitter httptco5vnqbt4q
+268135789244846081	socialmedia	i refuse to fall in love with any more boys on twitter
+268135784522072064	socialmedia	changed my twitter name do you dolls like it
+268135783884521473	socialmedia	frakkingawesome is this youleggalicious im only on twitter for the butt stuff all the sweet sweet sweetass butt stuff
+268135778914295809	socialmedia	rt doseofmehran youre in middle school wtf you doing with a twitter
+268135761734426624	socialmedia	i put a floating registration form over my twitter page and it became a capture site for me httptcowocc041x
+268135760413224960	socialmedia	wow ppl put too much on twitter smh not a good idea
+268135757519155200	socialmedia	theres never a day where justin bieber is not trending on twitter pathetic
+268135751827476481	socialmedia	rt capitalcustom crewneck giveaway visit httptcod1qlq9xf and post your favorite song on twitter then follow marlydumarz and httptcojq5r5xxf
+268135729329221634	socialmedia	rt oliviawildenews actress olivia wilde lists los feliz home for 2495 millionslos angeles times httptcoxet5hju4 oliviawilde
+268135714137444352	socialmedia	us colleges especially in midwest see record number of foreign studentsschristian science monitor christian httptcomyytmavo
+268135710773633025	socialmedia	rt glennbeck we finally know what it says httptcotprzivk6
+268135709938950144	socialmedia	brazilianbitty if youre hungry sign up for visa nfl fan offers httptcov9f6gero makeitepic nopurnecusres18
+268135705279090688	socialmedia	coranne yeah thats def more important than twitter i was afraid i ran you off
+268135697280540673	socialmedia	i wonder what percentage of my life ive given to twitter
+268135690695475200	socialmedia	rt heirjordan you need to chill lol sanchez5bihh im serious bruh sometimes you just gotta fly ya twitter boo out
+268135685926555648	socialmedia	love u too girlsim getting pissed ugh i need to get off twitter
+268135683955249152	socialmedia	its crazysi can get 5000 twitter followers just 1 daysvisit hereshttptcovnvcy2kh
+268135681438666753	socialmedia	chevas putting hissout on twitter like that
+268135654985187328	socialmedia	kmcaliney finally got a twitter yaysim hardcore creepin kellie you should be scared
+268135653886275584	socialmedia	you need to chill lol sanchez5bihh im serious bruh sometimes you just gotta fly ya twitter boo out
+268135648320430080	socialmedia	rt mindbiowingfact facebook and twitter addiction causes the same changes in the brain that are seen in cocaine users
+268135647506747393	socialmedia	2 famous people with the blue check mark follow me on twittersto bad i dont know them
+268135636777697280	socialmedia	rt mystratfordbaby youre on twitter but you hate justin bieberhttptcopbck4xqb
+268135636253437953	socialmedia	xboxsupport2 yeah i am its the only one ive got registered under the gt winter5un do you need my email dont really want it on twitter
+268135612488482820	socialmedia	i want to be twitter famous o
+268135605270097920	socialmedia	how the dow jones industrial average and other major us stock indexes fareds washington post plain dealerh httptcoqn936fny
+268135595891634176	socialmedia	jacki1991 raethompson1 hi honey holiday twitter slow down 3 and good thoughts to u all3
+268135594260049920	socialmedia	why am i always caught in the middle of these fake twitter peepssexhalers who get exposed its like i have a connection to all of them
+268135588052475906	socialmedia	breaking news rocky mountain twitter account gets in trouble for bullyingsgonnahappen
+268135587297501184	socialmedia	prepare your smb for the holidaysshttptcoru9gl6ka tweetchat this weds8pm eastern smbholidayprep
+268135572978147328	socialmedia	i hate when twitter randomly favorites tweets for me it makes me seem like a creeper lol
+268135557325025280	socialmedia	closing twitter to finish writing up the 2013 mock draft back in a few hours with aslink
+268135551012593664	socialmedia	rt 77pp123 and by appreciate i mean ban from twitter
+268135538043797505	socialmedia	i lowkey like twitter better on my phone than on the computer
+268135536735182849	socialmedia	dudee i made my twitter in september so chill tf out
+268135536282189824	socialmedia	marcusthesmurf look who just followed metag liam i dont know his twitter httptcokvjtuitm
+268135528514342912	socialmedia	lacermacer88 what it do gangsta welcome to twitter
+268135526303940608	socialmedia	klm888 its my fav of us to i love it too but see my twitter background youll love that moresxxxx
+268135503117828096	socialmedia	rt jfernau the moment you get on twitter and see nothing but posts about walking on grass and the topic of grass whatsgoingon soconfused
+268135497828818946	socialmedia	follow my new twitter account thanks jessyyyyrsx
+268135476865683456	socialmedia	720beaucbs you dont even know how to follow along on twitter and im supposed to think you can read stats
+268135474915328001	socialmedia	mochabear93 and then we will probably see it on here bc lets face it twitter is what people do on the toilet lol
+268135467457863680	socialmedia	brutalbabe i thought twitter unfollowed you and almost had a meltdown
+268135461778771968	socialmedia	so wheres the line when i become addicted to twitter
+268135461359333376	socialmedia	mrrobinson getstreamapp i would kill to use that beauty on twitter
+268135458981175297	socialmedia	hey hardenbeard you should meet insightfulbeard hes new to twitter but not to bearding beardlove folliclefriends
+268135445416796161	socialmedia	rt girifacts god has no phone but i talk to him he has no facebook but he is still my friend he does not have a twitter but i still follow him
+268135440429764609	socialmedia	so to that1heatfan for being pretty cool welcome to twitter by the way followhim
+268135437376315392	socialmedia	this is twitter not instagram you dont have to hash tag every word on a picture dipshit
+268135432758362112	socialmedia	more twitter buzz for limon httptco3aw1zn8tsrt 247weather a very cold morning todaysfive below at limon leadville and alamosa
+268135426194305024	socialmedia	and by appreciate i mean ban from twitter
+268135424243937280	socialmedia	rt callmecigar why does my twitter favorite random tweets
+268135420909465600	socialmedia	rt mindbiowingfact twitter has a bird as its logo thats why when you join youre an egg and your home button is a birdhouse why am i just getting this
+268135410138505217	socialmedia	fuck im done with twitter for a while time tosread and enjoy my time
+268135400479027201	socialmedia	realliampayne this is all i have to type in for your name to appear on twitter httptcofgavy27v
+268135396624449538	socialmedia	rt akstkpkr2 please help support benghazi four add a twibbon now httptco130wph4j
+268135383802470401	socialmedia	rt austinthamm hey kaely lets be mature and keep this off twitter thats your guys business
+268135379339730944	socialmedia	twiztedmetel pourme bigdaddy1a remember this httptcoqknngrts
+268135374256218112	socialmedia	meanwhile sienna is lounging like the queen of sheba httptcovwzr6lbq
+268135356958900224	socialmedia	need some more followers followme and ill followback teamfollowback twitternation twitter follow4follow musicartists
+268135351057526784	socialmedia	actress olivia wilde lists los feliz home for 2495 millionslos angeles times httptcoxet5hju4 oliviawilde
+268135349019111424	socialmedia	someone told me to add them on twitter i wont for 3 reasons 1 i hate the person 2 add wtf no just no 3 i dont want to
+268135310620250112	socialmedia	thecoachespn i couldnt find him on twitter pass it on pleasesnascar makes a lot ofsfrom an incident like thatslove the show
+268135307411591168	socialmedia	rt supermcloving omg twitter theses days lol
+268135304689487873	socialmedia	im fairly confident that nascar fined keselowski for the sole reason that their twitternascar hashtag deal failed
+268135299501146113	socialmedia	ebbyyyy arianax100 we both have glitter as our twitter headers badbitchprobz you know it
+268135304689487873	socialmedia	im fairly confident that nascar fined keselowski for the sole reason that their twitternascar hashtag deal failed
+268135299501146113	socialmedia	ebbyyyy arianax100 we both have glitter as our twitter headers badbitchprobz you know it
+268135293750759424	socialmedia	surgery jobs clinical psychologist physician psychology at army medical department amedd in al httptcodmzyao2h hospital jobs
+268135292882526208	socialmedia	surgery jobs general dentist physician dentist at army medical department amedd in mo httptcopb7whjdp hospital jobs
+268135292018503682	socialmedia	surgery jobs nursing assistant job nursing other positions at health east in mn httptcogmszxice hospital jobs
+268135289648726017	socialmedia	jackassislife okay so basically everyone i befriended via twitter just ends up not talking to me anymore its lovely me sigh
+268135285676724224	socialmedia	hiring a psychiatrist physician psychiatrist at army medical department amedd in or httptcostyd5sss physician jobs
+268135284829474816	socialmedia	hiring a director provider relations job nursing administratorvpdirector at amerigroup in tn httptcoy1bahzox physician jobs
+268135284523274240	socialmedia	hiring a psychiatrist physician psychiatrist at army medical department amedd in or httptco6k7lmu4e physician jobs
+268135283655057409	socialmedia	hiring a director provider relations job nursing administratorvpdirector at amerigroup in tn httptcohgwy4vjn physician jobs
+268135271931977729	socialmedia	dancemcfarland welcome to twitter killsthisisgonnagetreal newtotwitter
+268135258187251712	socialmedia	twitter hates candice hahahahhaa
+268135252390735872	socialmedia	lmao rt djchoz they need a mirror on the top of everyone twitter app so before you tweet you forced to look at yourself the real you
+268135238788579328	socialmedia	noballsforme cool for hacking my twitter x
+268135222279806976	socialmedia	alist357 watch away with visa nfl fan offers httptcov9f6gero makeitepic nopurnecusres18
+268135214109306881	socialmedia	rt sophiemartin17 having an early night is impossible when you have twitter
+268135214008647680	socialmedia	leiladelice leila welcome to twitter 3
+268135213111078912	socialmedia	rt oppinkpower rt survival colombian indian leader escapes assassination attempt httptcog5gnriym httptcoqkfhkojf
+268135210317656065	socialmedia	hey kaely lets be mature and keep this off twitter thats your guys business
+268135200620429312	socialmedia	hiring a gastroenterologist needed in nevada nursing surgery open heart cardiovascular at lo httptcovffpdpg0 physician jobs
+268135199735435264	socialmedia	hiring a opthamologist physician ophthalmology at army medical department amedd in ar httptcoikuv61py physician jobs
+268135199106273280	socialmedia	hiring a gastroenterologist needed in nevada nursing surgery open heart cardiovascular at lo httptco8ghdrix1 physician jobs
+268135198070288384	socialmedia	hiring a opthamologist physician ophthalmology at army medical department amedd in ar httptcokyhrzl7y physician jobs
+268135182572322816	socialmedia	rt fellystarzz twittersenemy of progress
+268135176440279040	socialmedia	changed back my twitter name cause im pretty sure no one recognized it
+268135176272506880	socialmedia	jrickyroc favor this if youre 17 or younger youll see what my favorite thing is to do on twitter its rhymes with bunbollow
+268135175278456833	socialmedia	omg twitter theses days lol
+268135160116047872	socialmedia	i think about you httptcoru8qo9cu
+268135154730557440	socialmedia	kalebadam you dont need to share your negative opinions to everyone on twitter no one likes a downer so hush please
+268135154193666049	socialmedia	trying to get my boy to get a twitter difficult
+268135153572904960	socialmedia	and they call it twitter luv hahasrt annarichardso luv4jcx but i do love you for it xx
+268135150108426243	socialmedia	the newsroom slowly took over my twitter and facebook page
+268135148954996736	socialmedia	6 things you must do to get your first job after collegesforbes forbes6 things you must do to get your firstshttptco95vd00hn
+268135146824269825	socialmedia	please help support glasgow rangers fc add a twibbon now httptcoxksdymqwshttptco29kvw8ui we are the people so support
+268135137873645569	socialmedia	im always in twitter jails
+268135127715037184	socialmedia	my moms gonna be home any minute and i havent done what she told me to do yet twitter got me gluedlol
+268135126083444737	socialmedia	i love twitter
+268135114108727296	socialmedia	rt dailyteenwords when im busy on twitter i ignore everything around me
+268135106554757120	socialmedia	i entered the hollyscoops lady time giveaway for a chance to win a free lady luxury gift collection httptcoyqmfudjc
+268135095951572992	socialmedia	volunteer fire company elects new glen ellyn chiefschicago daily herald httptco0elz1zxi firenews
+268135093279784961	socialmedia	kids vision for like is not on twittersfollow them at kv4lstl to see what schools they will be visiting next httptcoehjbehjk
+268135048409149440	socialmedia	rt fabiolahanks facebooksposting 100s of statuses in a daysobsessedtwittersposting 100s of tweets in a daysnormal
+268135036094668801	socialmedia	mmm hey twitter httptco8fxaugtu
+268135020261146624	socialmedia	most of the views we see on twitter are coming from those who are part of capitalism of rational ethics and values we will win by virtue
+268135019812384768	socialmedia	helping the tiniest babies survive and thriveswbtv helping the tiniest babies survive and thrivewbtvcharlotte httptcosgeyznhq
+268135017870417920	socialmedia	brianabaex3 and twitter
+268135012963082242	socialmedia	jr lolamisses my lil am bam got a damn twitter thoscheck u out lol lol niggas gone b childish n tha 12 tho
+268134992155136000	socialmedia	rt dailyteenwords when im busy on twitter i ignore everything around me
+268134984882216960	socialmedia	branding yourself by having much f0llowersshttptcoaljg8u96 and get 100000 twitter f0llowers by fast way
+268134979400241153	socialmedia	lakewood police arrest second man in weekend bar killing httptcozx3rqmha by ryanparkerdp
+268134977839972354	socialmedia	rt dailyteenwords when im busy on twitter i ignore everything around me
+268134971972136961	socialmedia	chelsgabbard see my new twitter picture well sheila saw my ipad background which is the samesthought we were the same person
+268134970554470401	socialmedia	every time i get on a twitter theres always a bieber related tt beliebers dominate the world
+268134964795691008	socialmedia	putt for dough dont really knowshttptco4xepdplx httptcogxkq90b8
+268134962719494144	socialmedia	paigederee actually you didnt cause i have different notification ringtones for twitter and my messages
+268134956969127936	socialmedia	rt preventionmag diet soda soft drink popno matter the name it still isnt good for you the surprising reasons httptcoarrwnpga
+268134948039454720	socialmedia	twitter difficult for some celebrities entertainment for us via buzzfeed six celebrities ruined by twitter httptcoa1guqmq8
+268134944356851712	socialmedia	beutedes you might want to get a taste of visa nfl fan offers httptcov9f6gero makeitepic nopurnecusres18
+268134937306206209	socialmedia	rt ccook12 just know twitter world that me paytonmarshall and logangentry16 are wild
+268134930016530433	socialmedia	amariahhhhhhh get off my twitter
+268134928586268672	socialmedia	babisynsgreat photos of your friend lily on her twitter from the show in new jersey
+268134921091039233	socialmedia	itsjavierbro damn twitter famous and shit you blow up my tl with everyone rting you lol
+268134912975056896	socialmedia	tomorrow marine bio test stat test ap lit test and im still on twitter senior13problems
+268134911519633409	socialmedia	what up twitter
+268134909057576960	socialmedia	you caught me twitter im not human
+268134904548687872	socialmedia	win a 150 cardslearn how to keep your family safe at this thursdays wmhealthyhome twitter party rsvp now to win httptco8jrvehmn
+268134904154423296	socialmedia	our generation will be the first to gave our twitter names on our tombstones
+268134872034467841	socialmedia	rt dailyteenwords when im busy on twitter i ignore everything around me
+268134868842586114	socialmedia	rt tyannajl issaiam who is the hottest local artist in your city send me their twitter name flyguymaliques flyguysteezin
+268134852384133122	socialmedia	be our next twitter follower with a 500 credit score to get a 3500 loan approvalshttptcop2htnzqz
+268134847485206530	socialmedia	bigcatsbeats awesome planning dates on twittersliving in the future
+268134838626824192	socialmedia	rt wutthefolk every time adiedeiparine hiddlelaughs on twitter my heart smiles
+268134837402075137	socialmedia	twitter twitter user passwords reset after accounts breached httptcosmy5x6o3 tweezard
+268134836621950978	socialmedia	just know twitter world that me paytonmarshall and logangentry16 are wild
+268134834075992064	socialmedia	jacklumanog you might not need to wait sign up for visa nfl fan offers httptcov9f6gero makeitepic nopurnecusres18
+268134830166925312	socialmedia	rt itzsamy i feeli feel liketwitter is a whole new world
+268134821648285696	socialmedia	she got a twitter lmao
+268134817474936832	socialmedia	followsmrepictweets for the most hilarious tweets on twitter no jokes this guy will make you laugh
+268134810277527552	socialmedia	i shouldsget off twitter i have a test over the constitution tomorrow and i have no idea what the amendments are after the bill of rights
+268134802446774272	socialmedia	rt sohailim perksofbeingamuslim following muslims on twitter and benefitting from their tweets mashaalllah
+268134800110522368	socialmedia	savemoneynstyle hi cathy hope you get lots of followers on twitter and fb are you on instagram
+268134798168559616	socialmedia	i think im gonna cry thank you so so much for all the follows ive been on twitter for 2 days and almost 100 followers many thanks xo
+268134782536396801	socialmedia	lazy dog and yes that is my jacket hes on httptconqozw86p
+268134782389596161	socialmedia	what did you do rt lawtooraw why is my life being repeatedly threatened on twitter smh
+268134774265237505	socialmedia	danbrace14 welcome to twitter
+268134759178326016	socialmedia	rt liampaynefcil truedirectionersarehere take a moment and read it pleaseshttptcootnchmch
+268134756049367041	socialmedia	im getting a twitter name shirt when i make it back homesi got so much to do
+268134752014454784	socialmedia	att htc one x and vx preorders begin tomorrowsslashgear httptcotjdzqb6v htc
+268134749359468544	socialmedia	not sure how twittersfacebook can positively impact your business youll want to read this httptcodf6taltx
+268134746406662144	socialmedia	rt villalobospaul i wish libby had a twitter so she could see everything that went down on here
+268134737095294976	socialmedia	rt threeclothing attention twitterverse we are giving away a three tee to 1 of our twitter followers to enter mention threeclothing in a post b4 1120
+268134736059310080	socialmedia	rt sohailim perksofbeingamuslim following muslims on twitter and benefitting from their tweets mashaalllah
+268134731185545216	socialmedia	thank you httptcoqhjxqp3c httptcoenxne1a1
+268134725447720960	socialmedia	xlindsaybiebero can u please record beauty and a beat for me and post it to twitter please u from nj
+268134721102413824	socialmedia	rt jackieegray fuck twitter facebook skype texting and phone calls nothing compares to actually spending a day with someone
+268134708632752128	socialmedia	tomlintushh oh so youre portuguese and your twitter is 1dnospossua
+268134700839739393	socialmedia	when myself whereskiger and randybrock are all equally influential on twitter in rochmn theres trouble httptcoyeqphqhi
+268134699233337344	socialmedia	our nanoteach team started a twitter account keep abreast of latest happenings in nanoscience and technology nanoteach
+268134697245220864	socialmedia	rt miltshook gop antidemocratic base 100000 right wingers have requested secession since election day httptcoiyyn0yij
+268134693382270976	socialmedia	get twitter headersshttptcoljkng0ia follow twitcovers
+268134688068100098	socialmedia	halle berry and daughter nahla stay in ussgabriel aubry wins custody battlesnational ledger nati httptcoaavrgzlo hallenews
+268134683110428673	socialmedia	cdiggins92 we can help you satisfy the sweet tooth get a taste for visa nfl fan offers httptcov9f6gero makeitepic nopurnecusres18
+268134679041933312	socialmedia	just so everyone knows having a blast on twittershas nothing to do w work this is personallove it
+268134665972494336	socialmedia	every time adiedeiparine hiddlelaughs on twitter my heart smiles
+268134658150109186	socialmedia	dark elegance polyvore httptcolbyhzcp3 httptcoqud1kajh
+268134644183076864	socialmedia	twitter your killing my battery
+268134640785702913	socialmedia	hey fakejoedooley remember how you won best twitter account we have a plaque for you dm us and well coordinate a way to get it to you
+268134637681901569	socialmedia	rt ndubznyvicj but twitter is far to addictive and blasting music through earphones is life fuck school
+268134627250683905	socialmedia	andystarr30 ahcanija tgg i can be your hero babyshttptcou8hwhrwm
+268134625044492288	socialmedia	mubinchoudhury loool fam just go on settings on twitter and turn sound effects off easy
+268134615728934912	socialmedia	rt fkknangelsits so hilarious when people post im fucking done cant do this anymore on twitterfacebookshttptcoidbknnpi
+268134614512590848	socialmedia	i have spent 147 hours on twitter today see how much you have httptco3i4v9o0o
+268134608372113409	socialmedia	kayladft and thats why you can communicate via twitter no reason to use your voice outside of the wiz hands over hot lemon water
+268134605553557504	socialmedia	rt ky4bieber i might stay off twitter for awhile makes me depressed only reason i used to get on was to talk to nice belieberssjustinbieber
+268134600532963328	socialmedia	re trendstracking real estate trends tweeting what is going on in the world of real estate httptcovzvhxjafs twitter retrend
+268134593343942656	socialmedia	rt bfalvey a1 i thought the nfl did a great job utilizing their twitter platform with the nflsalute campaign sbchat
+268134590760230912	socialmedia	i got on twitter for 5minutes and i missed everything thats happening in this episode
+268134589497737216	socialmedia	rt dailyteenwords when im busy on twitter i ignore everything around me
+268134582195478528	socialmedia	woww iscan get 5000 twitter folowers just 1 days visitshttptcovnvcy2kh
+268134565900591105	socialmedia	twitter
+268134564839424000	socialmedia	twitter really annoys me some times
+268134545688240128	socialmedia	sexdrugsandnina i miss this twitter account the picture and the background
+268134539027705856	socialmedia	tweetbot rt ilovebrandi so i need a twitter app thas cool for iphonesany suggestions
+268134534690787329	socialmedia	facebooksposting 100s of statuses in a daysobsessedtwittersposting 100s of tweets in a daysnormal
+268134518005841920	socialmedia	k fuck that im getting off twitter
+268134496539385857	socialmedia	who knows httptcopf9rmsfm
+268134494408679425	socialmedia	linkedin twitter facebook instagram fancy emt email and check them all again no wonder my battery never lasts firstworldpains
+268134456664129536	socialmedia	i studied for a little while then got open my computer to listen to music and ended up on twitter
+268134452566315008	socialmedia	rt jaaydiddy isuwearall da buulshit u fuckn wanna hearjx com heregafacci like seriously twitter is a crazy place
+268134441669517312	socialmedia	i want to delete twitter but i go on it a lot like when im boted so it would just make me even more bored if i deleted it
+268134438456680448	socialmedia	twitter user real underscore liam underscore payne rlly needs to stop replying to the same people
+268134414809174018	socialmedia	rtrtrt quispta most of yall be frontin for twitter
+268134408563867648	socialmedia	rt narrybye twitter user tyler oakley is my spirit animal and i love him
+268134405879508992	socialmedia	rt bitchgetmehigh twitter beef lol
+268134397146984450	socialmedia	i wish libby had a twitter so she could see everything that went down on here
+268134396446527488	socialmedia	rt plz check out our free 4 limited time free sponsored tweets 246tweetscom httptcotchvu168
+268134394450042882	socialmedia	rt sammyjanex seeing things on twitter that youd rather not see
+268134382911508481	socialmedia	glenn beck to republicans the tea party is doubling downsbusiness insider glenn beck to republicans the t httptcout5s9yhf
+268134382009712640	socialmedia	tempest in the tea partyshttptcofg6m6ryb tempest in the tea partyblueridgenowcombill oconnor a countyshttptco0xzgq0ip
+268134363001151490	socialmedia	eyes on arlington arlington charities seeks drivers as holidays approachsfort worth star telegram eyes on ar httptcogbqkpgeb
+268134352204996611	socialmedia	rt dailyteenwords when im busy on twitter i ignore everything around me
+268134351349374976	socialmedia	yeah i miss mckennastarr and thats pretty much all i got to say twitter
+268134343497613312	socialmedia	twitter user tyler oakley is my spirit animal and i love him
+268134342612631553	socialmedia	unless youre doing it superfreakinwell get off twitter brands httptcohw8u70kn via prdaily
+268134332877639680	socialmedia	briannatowerxo excuse me but i can go on whoevers twitter i want lol im stating my opinion tht ur halloween costume is just lingerieslut
+268134297993621504	socialmedia	rt kennethdabest yoyoitsyaya gth off my twitter
+268134287671443457	socialmedia	man twitter got it going 2 night tweettweet
+268134279568060416	socialmedia	i wish bougdurle didnt have a twitter condom on i would love to rt him
+268134272240611328	socialmedia	jamiemiller74 play all you want with visa nfl fan offers httptcov9f6gero makeitepic nopurnecusres18
+268134264766345216	socialmedia	irvinbruh on twitter too 0 i think im going up there for new yrs d
+268134245581615106	socialmedia	foow me on twittersi follow back gshttptconspylz18
+268134235875966976	socialmedia	are you ready httptcocl4hh93p
+268134235343319040	socialmedia	rt flangecake sorry this is funny suminishat httptcod7fkhzxf
+268134227831316481	socialmedia	my 1000th tweet goes out to danielleursosemray119 who made my twitter for me never thought i would use it but here i am 1000 ioe
+268134226795298816	socialmedia	nrohrbeck elenation has me rolling tonight why doesnt steve schon have twitter do i need to run the notsteveschon account
+268134223787991040	socialmedia	rt scottbeale sarahlazarovic breaks down the various types of twitter users httptcogeqx4vpo via ilovecharts
+268134221065891841	socialmedia	danwrexham what you have a new account no longer twitter famous
+268134212882792448	socialmedia	social twitter hires former google vp and deputy general counsel of seven years nicole wong httptcoupqpblft
+268134209451868160	socialmedia	first picture on twitters happyveteransday httptcoxcidn4oy
+268134203827314688	socialmedia	facebook ditchthemix httptcoaic23g5o birthdays branchout twitter merry christmas and more on this weeks top httptcocrqwesjh
+268134198005620736	socialmedia	im 2nd hand embarrassed rt cherylsab umreally rt twilightlexicon green is good for rob breakingdawnlive httptcohmha7qkf
+268134193974878208	socialmedia	hot pink and black prom polyvore httptcozshgceod httptcov5ckqspe
+268134188908150786	socialmedia	dan kanter block me on twitter and i still in shoock
+268134185514962945	socialmedia	deadmau5 random how did you get a tick for your twitter sorry
+268134166049206272	socialmedia	i feeli feel liketwitter is a whole new world
+268134152791023616	socialmedia	this account has been hacked by me follow meshttpstcofupo0frusor i will hack your account too
+268134151448825856	socialmedia	police search for slc home invasion suspectssabc 4 httptcomwemjvt3
+268134147606855681	socialmedia	ericwells never disappoints thanks for unlocking your twitter so everyone can retweet that
+268134147141296128	socialmedia	rt prnews linkedin events pr news social media icon awards httptcodtb941ga
+268134141336358912	socialmedia	im most excited for community group tonight bc i dont have to move from my current position just keeping it real here on twitter dot com
+268134139465703425	socialmedia	delea whats next me twitter delea no thats only hashtages day madeshashtags funny love her
+268134133874712576	socialmedia	read kylieminogue news via twitter k25stodays top stories via arleyx popmusicnotes astralwerksshttptco41tlzlu8
+268134133606273024	socialmedia	ardorscribe jcheath better twitter sext im going to fuck the follow out of you
+268134124366209024	socialmedia	rt princepluto some people seem bipolar af on twitter they go thru 27 emotions inn 10 tweets like tf
+268134122503938048	socialmedia	whitepaper analyzing the impact of social media from twitter to facebook httptcotpnbjobo
+268134118959747072	socialmedia	have so much to do before school tomorrow but instead sitting on twitter and tumblr
+268134106385240065	socialmedia	vandalizedcurl uh yea mike has a twitter idk his name tho lol
+268134098483150848	socialmedia	tubbylive can u move the twitter sign on the bottom
+268134095563923457	socialmedia	rt dailyteenwords when im busy on twitter i ignore everything around me
+268134095559725057	socialmedia	rt paulak twitter franstime for u to follow this young mansryanmcfadden4 very nice guysif u watch baseball hes coming to the big leagues
+268134084310605824	socialmedia	ice deporting more immigrants from montgomery county than philadelphiashttptcobonyormz blog httptcovs9u1hz4
+268134081747881984	socialmedia	quality sportscards vintage collectibles and household items httpstcocd074x1j httptcok8uye4ke
+268134078744784896	socialmedia	lurking and what do i see what the actual fuck httptcoe6p3pbum
+268134066052808704	socialmedia	this twitter thing is hard yo
+268134062672199680	socialmedia	rt kenziesaur the drama on twitter right now
+268134050814914560	socialmedia	hello twitter world
+268134046742233088	socialmedia	sorry this is funny suminishat httptcod7fkhzxf
+268134045584601088	socialmedia	httptcosepwclel birthdays branchout twitter merry christmas and more on this weeks top 20 facebook apps httptcolcyhjg6t
+268134036923359232	socialmedia	i might stay off twitter for awhile makes me depressed only reason i used to get on was to talk to nice belieberssjustinbieber
+268134034335481856	socialmedia	wormdamassacre really haha ms may is not cool enough to have a twitter xd
+268134033903456256	socialmedia	rt irielionmitch new folk welcome to twitter where such things like single people giving relationship advice is all part of what we call twitterlogic
+268134033580490752	socialmedia	woww truly amazing i got 3000 twitter followers todays would want the secret visitshttptcovnvcy2kh
+268134013879865345	socialmedia	long time not open twitter
+268134011619119104	socialmedia	rt johne1998 confessionnight aerohead223 is my twitter crush
+268134011510079488	socialmedia	whats up my twitter fam tell me something good bettathanever gogettagang
+268133992258232320	socialmedia	thank you willam belli i have have multitude of new twitter followers
+268133983475359744	socialmedia	please help support glasgow rangers fc add a twibbon now httptcoxksdymqw
+268133981353017344	socialmedia	personwas mentioned in how the aggies won and won my heart falling in loveswith winningsaustin chronicleshttptcojmtov6ml

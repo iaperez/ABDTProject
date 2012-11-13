@@ -1,0 +1,1481 @@
+/usr/local/java/jdk1.6.0_37/bin/java -Xms1024m -Xmx1024m -cp :../lib/*.jar:../lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:../lib/twitter4j-2.2.6/twitter4j-async-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-core-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-examples-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-media-support-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-stream-2.2.6.jar:../lib/twitter-text-1.5.0/twitter-text-1.5.0.jar:bin UsersMentionDownload business employee
+business employee lang:en geocode:39.8,-95.583068847656,2500km
+268143195987267584	business	just saw an airline employee yell at a service man on uniform trying to make sure he would make his flight shame on you americanairlines
+268142849122516992	business	an important signpostswalt disney cfo and csostwo titles one employee httptcobhrm5sff
+268142452395868160	business	oldest employee working right now by two years swag bossmoves barracuda djibouti dhaka
+268142396494188544	business	technology is wonderful hr director wants voicemail box for employee complaints click click done did you want an 800 number for that
+268141924668555265	business	prguitarman yeah d i saw an employee putting things away while i was there it was obvious she didnt care about what she was doing
+268141566571474944	business	alinoyes i think u should be employee of the month
+268141470400258048	business	iquit business rt 11 ways leaders can encourage employee job referrals httptcosdgxsjzpshttptcorsnmw2ng entrepreneur obama
+268141354121584640	business	travel rt look the airline with the unhappiest employees flying during the holidays can be a frustrating expe httptco02qxrwwb
+268140817858838528	business	hmm what to do with the rest of my night how about watch fastnloud and dream about working gasmonkeygarage id be best employee ever
+268140724090974208	business	got awarded employee of the month this amswork stokedsgodisgood
+268139188451409920	business	thanks for the money saving tips taco bell drive thru employee
+268138828022308864	business	lazlothebuzz if employee makes minimum wage or aboveno tip tipping is for people who work for less than min wage and rely on tips yes
+268138634107039744	business	bethohfine international flights on stand by 60 dollars employee benefit
+268136665430765570	business	uhh my new employee epicbeautee better follow back
+268136660145930240	business	top need an employee need a jobs dairy producers and dairy companies looking for employees with undergraduate httptco6wgdn4py
+268136619343740928	business	our friend and former employee passed away november 7 2012 we will miss you barb to all our friends httptcogdeh4rl8
+268136571016990720	business	we do have corp tax credit 25000 credit for each new employee hired and stays employed for 12 months
+268136003695419393	business	lockheed martin ceotobe ousted over relationship with employee lockheed martin president and incoming ceo chr httptcolfryriob
+268135953036607488	business	can food labels change employee health httptcolaq1dj26 via sharethis
+268135382544162816	business	ncwanna akritisuri if you work there i better be getting that employee discount
+268134475031003139	business	one day ill have an employee badge httptcosgoj65ir
+268133543945850880	business	just was at minneapolisstargetsand a rockstar employee cut the tags off my gloves so i could wear them you are awesome
+268133080303296513	business	skokie ambulance company responds to employee charged with fatal hits httptcomcfuizxp httptcouob8k9uesemsnews
+268132931950764033	business	i am officially a taco mayo employee whoojobs
+268132828217221120	business	employee discount at the food court yum
+268132794490834944	business	officially an employee at forever 21 yaay
+268132726320795649	business	saw a lawn care employee blowing leaves into the street where they promptly blew into neighboring yards a very sustainable business model
+268129208411242496	business	def just watched a chipotle employee lick her fingers then go back toscooking use the sink younasty
+268129100751843328	business	rt biggovt fbi whistleblower informed cantor of petraeus affair in october an fbi employee tipped off house majority lead httptcoajicxt0k
+268128814192791552	business	local home depot worker oldest employee in northamerica httptcol4d4w4t6 via thewindsorstar
+268128805510582272	business	officially a zumiez employee stoked for my first shift
+268128226860212224	business	it sounds like iampapajohn is a liar this is what a papajohn employee had to say httptco40fxawuu
+268128048224817152	business	blairemolitor in some small way i think you helped brighten that apple employees monday dick of the day the gift that keeps on giving
+268127463840821248	business	hmm that awkward moment when an apple employee sees your iphone search history and dick of the day pops upthanks apaguyo
+268127032322424832	business	papa john still spicy about employee health care httptcoiuhklyiy
+268126844526665728	business	this is so unfair walmart raises employee healthcare premiums by up to 36 httpstconyfpnqzv
+268126101845463040	business	10 modifiable health risk factors linked to more than 15 of employeremployee health care spending via healthaffairs httptco5bqqo0v0
+268126056270147584	business	broker clients benefitsspopular employee benefits questions httptcoquh9dcbs
+268124927088009216	business	hostess brands permanently closing 3 bakeries following employee strikeshttptcolh6o88fe
+268124335334637569	business	the metro west housing solutions employee giving campaign wraps up this week on 1115sto pledge or donate got to httpstcosxjaqwka
+268124172843114497	business	rt harrietbaldwin fbi whistleblower informed cantor of petraeus affair in oct fbi employee tipped off house majority lead httptco3oowri3y benghazi
+268124010150244352	business	rt nwafound have you heard about the employee discretionary grants nwafound has made httptco8cmymmaksphilanthropy
+268123900171395072	business	uncw employee charged for having child pornographysnov 12s551 pm et httptcoqzb3rqnr
+268123256425435137	business	apparently hostess stockpiles twinkies maker hostess brands permanently closing 3 bakeries following employee strike httptco71zaphhp
+268123054243209216	business	rt teheath joshmetz1 tekimbrosyou are the real son and the employee of the month but dont let that go to your head
+268122676189597696	business	the jeffco schools campaign has begunsif you are a jcps employee visit this site to make your donation nowshttpstco2jbjymgg
+268122162219585537	business	rt carsonmacc i wanna work at urban outfitters just for the employee discount
+268121609716502530	business	about to fill out the paper work so i can officially be a employee
+268121264424632322	business	employees have a mindset that insurance can only be had if its provided to them by some higher power not the case at all
+268120943329701888	business	new employee at victorias secret now i gotta figure out her secret
+268120746558099456	business	how to use promotional products for employee recruitment httptco4fqxskyl
+268120695085608960	business	rt sherihill sherihill fullofbalogna just calledfromaz were notallignorant told switchboardoperatoremployee assigned2calls call2save their jobs2
+268120669915590656	business	managers recognizing your employees makes them better workers httptcohj9qps1q
+268120613846142978	business	rt biggovt fbi whistleblower informed cantor of petraeus affair in october an fbi employee tipped off house majority lead httptcoajicxt0k
+268120598012624896	business	bubbleboibeatz jd2020 astrogaming do it best buy employee how can you say no
+268119580751306752	business	rt harrietbaldwin fbi whistleblower informed cantor of petraeus affair in oct fbi employee tipped off house majority lead httptco3oowri3y benghazi
+268118999232028673	business	rt biggovt fbi whistleblower informed cantor of petraeus affair in october an fbi employee tipped off house majority lead httptcoajicxt0k
+268118992642777090	business	employee appreciation lovemyjob httptco6jsqmood
+268118733501898754	business	rt harrietbaldwin fbi whistleblower informed cantor of petraeus affair in oct fbi employee tipped off house majority lead httptco3oowri3y benghazi
+268118548960923648	business	waldo employee shenanigans there were 227 packets of mints if you were wondering gambling wager mints httptcopfzjz5wc
+268118287127285761	business	interestingsstill useful info on employee motivation understanding employee motivation httptcowcwbw22v
+268118038266662912	business	officially an employee at tillys sohappy
+268117491132268547	business	rt harrietbaldwin fbi whistleblower informed cantor of petraeus affair in oct fbi employee tipped off house majority lead httptco3oowri3y benghazi
+268117303147757569	business	rt harrietbaldwin fbi whistleblower informed cantor of petraeus affair in oct fbi employee tipped off house majority lead httptco3oowri3y benghazi
+268117084091850752	business	i think when i am able my first employee will be someone to write up the reports for my thirdparty food safety httptcokb2qkqug
+268116949605703680	business	rt harrietbaldwin fbi whistleblower informed cantor of petraeus affair in oct fbi employee tipped off house majority lead httptco3oowri3y benghazi
+268116787399360512	business	fbi whistleblower informed cantor of petraeus affair in oct fbi employee tipped off house majority lead httptco3oowri3y benghazi
+268116496570523648	business	rt biggovt fbi whistleblower informed cantor of petraeus affair in october an fbi employee tipped off house majority lead httptcoajicxt0k
+268116223764619264	business	fbi whistleblower informed cantor of petraeus affair in october an fbi employee tipped off house majority lead httptcoajicxt0k
+268115823074349056	business	i just became the mayor of slc international terminal employee bus pickup on foursquare httptcosiiz6pvr
+268114600296345601	business	6070 of employee time is spent on exceptions this session feels like a repeat of yamjam12 spc12
+268113874627223552	business	rt blogging4jobs getting payrollsemployee schedules is really hard ur vendor must be committed to helping u get solution kronosworks12
+268113507336208385	business	getting payrollsemployee schedules is really hard ur vendor must be committed to helping u get solution kronosworks12
+268113038769541120	business	our newest employee started today welcome to claire joyce
+268112279936049152	business	your employee is an onlinecelebrity personalbrandingssocialmedia now what do you do httptcouqtp0nsm
+268112279847960576	business	your employee is an onlinecelebrity personalbrandingssocialmedia now what do you do httptcowbhaq6xx
+268112120191795202	business	laura benjamin on postelection employee relations httptcokndougrd
+268111778850934785	business	glorianatheband papajohns bad idea since their in such bad shape their slashing employee salaries and benefits
+268111460511666177	business	last shift as an employee for a whilesthanh truc httptcotlss9sa8
+268110720695169024	business	employee engagement vital to business successsfresh business thinkingsscoopit httptcoxhru8eae
+268110708464570369	business	rt brainzooming leaders common sense doesnt actually exist via katenassershttptcok0128lja leadership
+268110698431803392	business	rt brainzooming leaders common sense doesnt actually exist via katenassershttptcok0128lja leadership
+268110250828259329	business	leaders common sense doesnt actually exist via katenassershttptcok0128lja leadership
+268110062030045186	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268109995793588225	business	act like a new employee every day httptcorhxs2ww7
+268109897449746433	business	i should get an employee of the month award for giving a persuasive speech on joining the y publicspeaking lovemyjob
+268109507123630080	business	google employee drops possible hint regarding timing of nexus 4 and nexus 10 release httptco2kqfmani
+268109443055640576	business	rt johnshid1 businesses see increase in governmentmandated peremployee cost businesses make cuts libs who have never owned businesses cry outrage
+268109071205429248	business	djjdub89 qdbofa uniquegeorge smh i can see the headlines now massacre at mazzios an employee and a local were found dead lmao bitch
+268108980943978496	business	nooooosolivegarden youre cutting hours instead of paying employee healthcare benefits now i must boycott you should reconsider
+268108295833808897	business	amsharif thank you employee and customer engagements are the keys to any innovation program we can help you
+268108108608450560	business	poison mushroom soup kills 2 elderly women two residents of an elderly care center are dead after an employee a httptcox05dwsli
+268108108298063872	business	poison mushroom soup kills 2 elderly women two residents of an elderly care center are dead after an employee a httptcokwdmjgac
+268107160905469952	business	rt johnshid1 businesses see increase in governmentmandated peremployee cost businesses make cuts libs who have never owned businesses cry outrage
+268106957695614976	business	lol denied at the employee gym closed for carpet cleaning
+268106777516716033	business	rt savitz novells bob flynn on navigating it in the era of the entitled employeesforbes httptcoeaxc7hlfsnovell forbes
+268106685443362817	business	rt johnshid1 businesses see increase in governmentmandated peremployee cost businesses make cuts libs who have never owned businesses cry outrage
+268105976920543232	business	here are the major signs that an employee is losing motivation httptcobti985f9 via bicareers
+268105950580310016	business	big romney donors crying poor mouth over employee health insurance is an insult to every working american americangreed
+268105513735168000	business	waffle house chairman allegedly required employee to perform sex actssabc news httptco9t24vczt via abc
+268105248546111488	business	you know youre a regular cariboucoffee when an employee from one store recognizes you at another store
+268104825621860353	business	hiring your first employee use this interactive infographic to make sure you tick every httptcoie1dnnyk
+268104777743888384	business	rt agjobnetwork free employee training best practices consultation register for the showcase to be eligible httptcohd5kiu8e
+268104761637744642	business	hiring your first employee use this interactive infographic to make sure you tick every box httptcoo9az2onw via simplybusiness
+268104557777784833	business	kcrg as a retail employeenot a fan on the upside it does get me away from my slightly odd extended family dinner
+268104208379703296	business	rt carsonmacc i wanna work at urban outfitters just for the employee discount
+268104098765733888	business	rt johnshid1 businesses see increase in governmentmandated peremployee cost businesses make cuts libs who have never owned businesses cry outrage
+268103903571222528	business	online retailers shud b closed on holidays 2 allow employees 2 b wtheir family where is the loyalty 2 the employeeshttptcopi2iaqqu
+268103851901587456	business	now is the best time for an esop httptcotz73bryy
+268102861769019393	business	rt johnshid1 businesses see increase in governmentmandated peremployee cost businesses make cuts libs who have never owned businesses cry outrage
+268102829657427968	business	rt carsonmacc i wanna work at urban outfitters just for the employee discount
+268102766650605568	business	rt carsonmacc i wanna work at urban outfitters just for the employee discount
+268102541596819456	business	rt johnshid1 businesses see increase in governmentmandated peremployee cost businesses make cuts libs who have never owned businesses cry outrage
+268102288671916034	business	i wanna work at urban outfitters just for the employee discount
+268102281667424256	business	rt santisicko she gave me employee discount shewantsthed httptcorc5ze5yh
+268102019674423296	business	rt 41actionnews papa johns ceo blames obamacare for employee changes httptconiemufzp
+268101404793651200	business	antiobama ceo gives employees a raise instead of a pink slip david siegel the ceo who had warned his employee httptco0m1qvvtz
+268101397671710721	business	antiobama ceo gives employees a raise instead of a pink slip david siegel the ceo who had warned his employee httptcor9wibgyw
+268101397550075906	business	antiobama ceo gives employees a raise instead of a pink slip david siegel the ceo who had warned his employee httptcocpat7vqk
+268101379933999104	business	antiobama ceo gives employees a raise instead of a pink slip david siegel the ceo who had warned his employee httptco9tlvm2ae
+268101332022489088	business	antiobama ceo gives employees a raise instead of a pink slip david siegel the ceo who had warned his employee httptcoej6oig4s
+268100593996951552	business	walmart hikes employee rates to offset medical costs httptcoti1ze1qg ibdblogs economy walmart employees medical costs
+268099861637906432	business	rt johnshid1 businesses see increase in governmentmandated peremployee cost businesses make cuts libs who have never owned businesses cry outrage
+268099742339317760	business	aul hires sales leaders to employee benefits division httptcock7orjzj
+268099552219914241	business	rt johnshid1 businesses see increase in governmentmandated peremployee cost businesses make cuts libs who have never owned businesses cry outrage
+268099513460342786	business	unlimited bus pass must show studentemployee id or passes confiscatedshttptcowlaroslx httptcopupeaplj
+268099493206040576	business	product tester joe testing a new buffer and buffing compound on an employee bmw eastwood eastseastwood htt httptcosf1cxpta
+268098534971162624	business	attending preview as a parent instead of an employeesinteresting
+268098456311185408	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268097701265170432	business	hollister has themselves a new employee
+268097629601275904	business	an interesting articlesyour employee is an online celebrity now what do you do httptcogbvcvuri
+268097292345696256	business	kerry bodine on designing the employee experience httptcoxvegxrcc xd socbiz ux
+268096911762923520	business	its a u of u employee details 5p rt fox13now man charged with kidnapping aggravated sexual assault details httptcoyqg2hjoc utah
+268096501044101120	business	aequitas expands tops 100 employees aequitas capital has hired its 100th employee an alltime high for the la httptcodpud09ot
+268095889833332737	business	leaders common sense doesnt actually exist httptcoxpu6jbca via katenasser
+268095267465748480	business	danasargent i have to say thats better than papa johns cutting employee hours in the face of obama care
+268094725666512897	business	effective employee training in a multigenerational workforce free live webinars1 hour ce credit for hr httptcon25au1b9
+268094692837707777	business	rt joseppisitalian we had a little fun raising money among our employee team for the harvest ii food drive employees bought pies httptcolghnu6h7
+268094264070766592	business	rt netnewsbuzz walmart raises employee healthcare premiums by up to 36 places further restrictions on eligibility httpstcoua9x4f5z
+268094166595162113	business	employee motivation showing recognition can boost morale showing recognition and appreciation is one of the be httptcoxerzbwkg
+268094004074266624	business	ragerocc must be nice to be a tribal employee
+268093527194497024	business	top need an employee need a jobs dairy producers and dairy companies looking for employees with undergraduate httptco6wgdn4py
+268093048636989440	business	i know i had one too many drinks last night becausei forgot to close my tabs employee holiday party
+268092648718467072	business	barrow county commission chairman danny yearwood gender and race discrimination lawsuit barrow county employeeshttptcocj7sf6av
+268091544924459008	business	welcome heather jinkerson to our employee directory httptco9cz3v8f4
+268091152572489728	business	i pledge to boycott targetwalmart on thanksgiving in support of its employees keep black friday on friday please retweet
+268091094061957121	business	had to cover anotha employee today because he wanted to spend time with their veterans i gladly said yes proudusarmy
+268090990999531520	business	facebook insiders could sell 773 million shares wednesday the largest set of employee stock shares since the co httptcocol7aael
+268090819070812161	business	we had a little fun raising money among our employee team for the harvest ii food drive employees bought pies httptcolghnu6h7
+268090097046528000	business	we had a little fun raising money among our employee team for the harvest ii food drive employees bought pies httptcotkvjwlna
+268089671484047360	business	rt santisicko she gave me employee discount shewantsthed httptcorc5ze5yh
+268089640358133760	business	representing drcogorg ridearrangers at unison medical technologies and answering employee questions about west line light rail coming 412
+268089590307495936	business	paying tribute today to our employee military veterans in veterans day parade
+268088989158883329	business	u employee allegedly raped his estranged wife over the weekend httptcolmrzmkut
+268088987535671296	business	power went out ina office thats better than sex to a salary employee lol
+268088819528646657	business	now an employee at bandanas bbq
+268088556646457344	business	thats why i dont eat papajohns anymore 41actionnews papa johns ceo blames obamacare for employee changes httptcohoablgks
+268088527508615169	business	papa johns forced to cut employee hrs thanks to obamacare read at httptcowx1n25jssgop lnyhbt teaparty tcot ocra sgp wahm sot
+268087546133770241	business	papa johns raises prices 50pizza in defiance of obamacare just seems like an ahole who couldve provided employee healthcare years ago
+268087342747770882	business	rt jazminedenae emilytaylor04 the employee hopper got put on blast
+268086721139310592	business	while leaving work i walked through an aisle that the smelly employee had recently traversed increasing my lung capacity is in order gag
+268086681448640512	business	hyvee is employee owned many full time workers w benefits and give very very good service food is good too
+268086479174123520	business	instant employee manualshttptco4xq0gaoi
+268086270167769088	business	rt santisicko she gave me employee discount shewantsthed httptcorc5ze5yh
+268086018639540224	business	vision high beam ldrshp employee growth digital plumbing datadatadatasedtech integration bradfordgs mwgs make each other great
+268085888267993088	business	she gave me employee discount shewantsthed httptcorc5ze5yh
+268085712824434688	business	talk about going above and beyond in an employee giving campaignslockton kickedoff their piratethemed httptcoomzzbqu9
+268085685339160576	business	rt netnewsbuzz walmart raises employee healthcare premiums by up to 36 places further restrictions on eligibility httpstcoua9x4f5z
+268085469420589056	business	cold stone creamery manager fired for racists hiphop wired a cold stone creamery employee was fired for m httptcogcyvj2ux
+268085426177310721	business	lindsayladon no i dont have a receipt anymore and i was an employee when i purchased it so i didnt put it on an anthro card
+268085108211343360	business	walmart raises employee healthcare premiums by up to 36 places further restrictions on eligibility httpstcoua9x4f5z
+268084526243278848	business	mattheworian director says the employee notified him immediately and that our product on the shelf is not affected by the recallsthanks
+268084395737509889	business	rt maxwe13 song number 13sfaaip de oiad recording from ex area 51 employee that was freaking on the radioshas some wild info
+268082784789221376	business	getting called to the bosses office to hear how awesome of an employee you are farmboy workethic
+268081796934168576	business	officially a pro image employeesd httptcodm0bappy
+268081379449909248	business	httptcopjxndtkz work flex as a turnover reductionsemployee retention tool
+268080819149615104	business	11 ways leaders can encourage employee job referrals httptcotnjkopb4 via sbleaders
+268080796072550400	business	song number 13sfaaip de oiad recording from ex area 51 employee that was freaking on the radioshas some wild info
+268079817583386624	business	project managerslexmarksshawneesks httptcowdoqo4pp engineering lexmark job jobs tweetmyjobs
+268079787413737473	business	shawneesks engineering job technical writer at lexmark httptcotboyzky1 lexmark jobs tweetmyjobs
+268079721475092480	business	rt garybcohen employee engagementsleadershipsbusiness results httptcow2zpzd9f coaching leadership business
+268079554558566400	business	10 questions the boss should ask every employee httptcokz9wwwxf fb
+268079345694814210	business	if youre into running a really cool 5k check out httptcodxi3omn3 use my employee code corp0861 for 5 off commitmentday
+268078918576246785	business	a new staff member rachel olohan ends up as kuhnenagle employee of 2012 on 101112 shessyears old on tues13 nov 2012 happy birthday
+268078744512647168	business	your employee is an online celebrity now what do you do httptcopaiji8tc
+268078739613704192	business	put your money where your mouth is rmspos supports independent pharmacy with special employee benefit read thisshttptcod146ng53
+268078615101579264	business	shortly after closing bourbon street strip club robbed and employee shotsnov 12s251 pm et httptcoksfoqw4w
+268078320921505792	business	oh god isnt that just like a government employee to be useless said the government employeeshmm
+268078244266385409	business	olive garden papa johns cutting employee hours due to obamacare
+268077474234134528	business	free employee training best practices consultation register for the showcase to be eligible httptcohd5kiu8e
+268076353407045632	business	rt jewelhernandez are you sure youre from kentucky cause i dont see you on the menu only works for kfc employee gotgame statedropping
+268076197894819841	business	4 tips on how to conduct a successful salary negotiation when hiring a new employee httptcobikzqb0h
+268075935503376384	business	you are looking at the newest hollister employee d
+268074764151693312	business	rt injusticefacts in 2008 a walmart employee was killed by a stampede of black friday shoppers company refused to compensate his family
+268074141654085632	business	university of utah employee accused of raping woman on campus httptcovuxttn1r
+268074067284873218	business	rt nwafound have you heard about the employee discretionary grants nwafound has made httptco8cmymmaksphilanthropy
+268074005230129152	business	papa johns missed opportunity to speak in favor of its employees health care would have looked like a champ now he looks like a chump
+268073535644241920	business	have you heard about the employee discretionary grants nwafound has made httptco8cmymmaksphilanthropy
+268073357394718720	business	do u supervise a fleet of steam cleaning vehicles want 2 know when an employee turns the vacuum on we can monitor ur power take offs
+268073292471078912	business	business owners can keep their health insurance premiums down with these office health tips httptco76ywtuya successmagazine
+268072665066139649	business	act like a new employee every dayslinkedin httptcouqkrjfc5
+268072500632633344	business	i was dreaming that i was at a hot tub shindig flirting with a star bucks employee about bread and the rock was my best friend
+268072211456331776	business	facebook insiders could sell 773 million shares wednesday the largest set of employee stock shares since the co httptconizzlaht
+268072210500038656	business	facebook insiders could sell 773 million shares wednesday the largest set of employee stock shares since the co httptcozgqc1ttb
+268071760015024128	business	okc businesses youre invited to a lunch n learn to see how you can provide employees health care for 49 a month httptcoc19go1qf
+268071310230437889	business	rt mpf2011 i just called papa johns pizza they sounded flustered i was asked if i was an employee or customer i said i was a customerno more
+268071181054267392	business	whoa rt gnuman1979 this is what a papajohn employee had to say httptcoqzcld27p
+268070945904803841	business	evilprguy there is so much damage i talked to a fema employee today she said theres 6k femas there on docked ships
+268070256726142976	business	google how do you become the 9th employee at googleshuffington post blog how do you become the 9th employ httptco7hve00sa
+268070000949096448	business	rt mpf2011 i just called papa johns pizza they sounded flustered i was asked if i was an employee or customer i said i was a customerno more
+268069929650106368	business	local hospital giving employees mandatory furlough dayin an effort to remain transparent to the community it httptcox7ju5sxw
+268069640356388865	business	cleaning out the turkey coop what to do after you get rid of an incompetent employee httptco0xgj0inc by rickcookwriter hpio
+268069270691385344	business	i just called papa johns pizza they sounded flustered i was asked if i was an employee or customer i said i was a customerno more
+268069223144775682	business	papa johns ceo blames obamacare for employee changes httptcownjon8x1
+268069199472103424	business	former ui employee peter gray linked to report involving improper use of complementary tickets httptcotjxpjqtd
+268069162709045248	business	if i got employee of the month next monthtalk about dream come true lol
+268068876057710592	business	rt worstroommate dear mall shoppers go the fuck home sincerely every mall employee here today
+268068831333842944	business	rt mountmercy mount mercy recognizes employee veterans and we say thank you to all veterans for your service veteransdayhttptcot9qczfmt
+268068423748186112	business	dear mall shoppers go the fuck home sincerely every mall employee here today
+268066538676948994	business	zachkim21 let me get that employee discount brah
+268066116969050112	business	here are the major signs that an employee is losing motivation httptcoclfldaud via bicareers
+268065878472536064	business	heres a talk you need to have with your least engaged employee httptco7zg3rg4p via tlntcom
+268065643541192704	business	congrats to our november employee of the month elizabeth yuschalkselizabeth joined our team over a year httptcova7aspjn
+268065230196727808	business	great tips for maximizing or energizing employee referral programs motivating employees to make referralssde httptcowwyrzysi
+268065165205979137	business	employeelabor relations analyst san jose downtown sf bay area career opportunitynbsp8232san jose stat httptcolu8uftp1
+268064827207991296	business	coroners office continues investigation into kaycee school death httptco3wruon3y
+268064431429267456	business	great tips for maximizing and creating employee referral programs httptcon5frqs1g
+268064250398900225	business	rt menverist literally just fired someone for not getting any work done because he was constantly masturbating in the employee bathroom
+268064121717657600	business	literally just fired someone for not getting any work done because he was constantly masturbating in the employee bathroom
+268063910765154304	business	i love sees candy employee uniforms
+268063901810298880	business	workplace email is like a wonderful legal popcorn trail of truth have you addressed its use in your employee manualshttptcomioocwtu
+268062889670217728	business	morgandriggers hell yeah hook me up with that employee discount bishhh
+268062198834806784	business	free lifetime saralpayroll account with unlimited employee management and free technical support httptcoiru4ie4h
+268061734739255297	business	lizzieliz95 do i have to put my own name on the front of the employee discount cardx
+268061717626490880	business	mr schroeder at gewkc keynote takes our model of focusing on customer and employee experience at instinct to a global perspective
+268061159335280640	business	enjoying my day off as a government employeethank you veterans for your sacrifice and service
+268060753171464193	business	gibearden hey there i am so sorry that happened to you which location was this perhaps the employee was unaware of the promotion
+268059618318618626	business	fired employee badmouthing company to former coworkers what should i say httptcoxmxzgt9t
+268058144175951872	business	caldodge barackobama calvin look at balance sheet 4 papa johns and ask how much profit is too muchsthese employee cuts reflect ideology
+268057584030846978	business	rt gopherhole hawkeyes ath dept employee accused of trading ticketssmoney for sexual favorssinappropriately touching athletes httptco57vlkyic
+268056638110453761	business	this is going to be a longgggg week of studying gotta start cutting back on working no more full time student and full time employee
+268056389274968064	business	overhead in the toronto raptors press room as one catering employee trains a newbie theyre reporters so they drink a lot of coffee
+268056332756725760	business	it must be great to be a government employee how many days off a year to they get
+268056254977560578	business	pleaseexplain newmath number 1 employeremployee pay a combined total of 10k for annual hlth insurance obamacare itbegins oland
+268056253559889920	business	pleaseexplain newmath number 1 employeremployee pay a combined total of 10k for annual hlth insurance obamacare itbegins oland
+268055873958604800	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268055440049459200	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268054416064663552	business	subwaysemployee handled my change then my toppings with the same gloves not cool
+268054186376187905	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268053907022954496	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268053863993577473	business	the avg company uses 4 to 6 seperate systems to manage the life cycle of an employeesi fix this with 1 ultimatesoftwarehcm
+268053513207181312	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268053341559468032	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268053226002186240	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268053198839902209	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268053086948433920	business	are you sure youre from kentucky cause i dont see you on the menu only works for kfc employee gotgame statedropping
+268053005276958721	business	rudyhuxatable can i get it today with an employee hookup lol
+268052995508412416	business	cocacola unveils brand journalism website the company recast its employee magazine as a consumerfacing websit httptcorkpc79qp
+268052797377900544	business	i cant wait to see which dominos employee is making my pizza
+268052631044386816	business	rt onlineresume 9 crazy employee meltdowns httptcod1ad5fgh
+268052513834532864	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268052373128232960	business	know what employee records you must destroy httptconj5nmza8 via thehrcafe
+268052076658057216	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268052059536891906	business	9 crazy employee meltdowns httptcod1ad5fgh
+268052026871664640	business	as promised the 1000 stroke roll at rupps drums performed by rupps employee alex simpson4 notes two httptcomuh6wtvs
+268052012766216194	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268051884735094785	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268051876979830785	business	as promised the 1000 stroke roll at rupps drums performed by rupps employee alex simpson 4 notes two httptcolloh3n5w
+268051847690993664	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268051704518410240	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268051240439664641	business	rt resumebear employers blocking employees from social media access httptcoanaoquqd
+268050643393073152	business	welcome rick gary to our employee directory httptcoccnxrckt
+268050448404062210	business	rt natestollhudson new research how employee engagement hits the bottom line httptco0yq25ewt
+268050350186037249	business	rt uapcitizen if we paid health for 100 employees that would increase r costs by 15 per employee with no increase revenue
+268050239817142272	business	start off every month like youre a new employee to keep ideas fresh httptcowzh7hfsk
+268049950582128640	business	i love getting employee of the month parking as a customer
+268049539141881856	business	welcome karla baalman to our employee directory httptcovnkb4enn
+268049528739987456	business	working on employee benefit plans this fall dont confuse sensitive information with what means legally protected httptconojvxeic
+268049317422583810	business	new research how employee engagement hits the bottom line httptco3nlsbfmi
+268049108865007616	business	everything i will buy with my finish line employee discount will be for bryce
+268048291088965632	business	employers blocking employees from social media access httptcoanaoquqd
+268048208440213504	business	im a part time seasonal employee at universal studios orlando i easily work more then 30 hours a week but dont httptcocwgcjj9z
+268047766507356160	business	dalt44 typical government employee
+268047414110347264	business	rt scott617 chinalov3syou word i would vote for u stephanie for employee of the month p
+268047272275767296	business	chinalov3syou word i would vote for u stephanie for employee of the month p
+268047188813295616	business	if we paid health for 100 employees that would increase r costs by 15 per employee with no increase revenue
+268046273704251393	business	are you currently employeed but looking for a new position youre not alone read on to see if youve checked out httptco9ixdgnio
+268045565508583424	business	rt emergemd hospitality and healthcare have many common traits see what one luxury hotelier does to improve employee engagementshttptcoiyltpw5c
+268045211144425472	business	rt scott617 chinalov3syou employee of the month lols
+268045198595067906	business	does money buy happiness check out this list of happiestunhappiest jobs denverjobs hiring networking httptco8e6hyikr
+268044881656676353	business	chinalov3syou employee of the month lols
+268044200463978499	business	dirkfriel i think our trainingpeaks employee members are growing love to catch up sometime love your product
+268044128556818434	business	employee or independent contractor the stakes are high for getting the answer right on your taxesshttptco1ugs7veh
+268043563969941505	business	metrorail employee found dead on trackssnov 12s1232 pm et httptcodlp3q8xx
+268042945641472000	business	rt johnshid1 businesses see increase in governmentmandated peremployee cost businesses make cuts libs who have never owned businesses cry outrage
+268042726212243458	business	papa johns and apple bs have already said they would lay off employees and change employee classifications to httptcoaifc1aiq
+268042242248302593	business	fried chicken day at employee dining room getting ready to chow
+268042177874124800	business	start off every month like youre a new employee to keep ideas fresh httptco25kg8wxc tech
+268041890300059648	business	until then teams have a responsibility to their employee to be almost absurdly protective when it comes to head injuries
+268041795689132032	business	how to become more valuable at your job httptcowmjmadhm work success
+268041517850046464	business	blog featured employee stephanie machin httptco5dicez9n
+268040931620569089	business	start off every month like youre a new employee to keep ideas fresh httptcowja4q048
+268040919641640961	business	sherihill fullofbalogna just calledfromaz were notallignorant told switchboardoperatoremployee assigned2calls call2save their jobs2
+268040904286285824	business	seriously contemplating falling asleep on the couch in the employee lounge breaktime
+268040875718877184	business	5 ways youre wasting time and how to be more productive when i was an employee i used to shoot the bull quiteshttptcocra2mywc
+268040615802068994	business	realjoshhowell i wish by state employee you were talking about state gym missyouboo
+268040188914196480	business	swy news safeway inc nyseswy former employee alert lawsuit over overtime andshttptcogtuxo5r5 alert employee former
+268038537096593408	business	rt toyotaequipment employee engagement brand new engage for success site is awesome httptcouvsddpjt workplace
+268038244074127361	business	blockbuster employee of the month httptcoxkadeprr
+268037715038183425	business	federal exchanges have no mandate or 59 employee rulescould bankrupt obamacare before it startsswould be at the mercy of the house
+268037707148713984	business	11 ways leaders can encourage employee job referralsssmartblogs smartblogs httptcogu3hxfvt
+268037451187113984	business	xtina1229 lmfao a song ever menards employee can relate to
+268037221263765504	business	start off every month like youre a new employee to keep ideas fresh httptcoaxtfkelr creativity
+268036856598368256	business	new research how employee engagement hits the bottom line hbr httptcojje9imdx
+268036682882883584	business	start off every month like youre a new employee to keep ideas freshsssits always good to approach a diffic httptco9thnhhwf
+268036661974294528	business	start off every month like youre a new employee to keep ideas freshsssits always good to approach a diffic httptcoia8temj3
+268035671480991746	business	life in publishing a publishing employees perspective on a gifladen tumblr httptcoxotydy1a thanks to bookriot for sharing
+268035625763098625	business	rt newsupdate25 quebec worker dies of burns in brp lab blast bombardier recreational products says one of its employees has die httptcoi1fl4oiy
+268035453733728256	business	quebec worker dies of burns in brp lab blast bombardier recreational products says one of its employees has die httptcoi1fl4oiy
+268035372636831744	business	sounds like paulabroadwell should b charged wsomething petraus was a fed employee saw her on booktv dont trust her facial xpresns
+268035252302249985	business	employee engagement survey faq is my survey feedback really confidentialshttptcoh51uwj1t rt knowthendecide
+268035212653506560	business	rt jeremyhubbard so papa johns ceo can afford to give away 2 million free pizzas but may cut employee hours due to obamacare costs httptcovwhixa36
+268034971497795584	business	every time an employee dies we get an email about it with a corporation of this size we get these emails about someone at lease once a week
+268034492063686656	business	an idiots guide to employee engagement httptcocj80khef
+268034316611776512	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268034196411404288	business	employee
+268034058532040705	business	starving i hope wherever i stop to get food has a fat female employee i always lean inswhisper and make it tasty she know what i want
+268033799672193026	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268033440660725761	business	rt onlineresume resumebear signs an employee is job hunting dont get caught httptcoqaq0mbcp
+268033192508944384	business	we are always looking for ways to influence everyone to have a positive approach to healthssafetysj pickering ch2mhill employee
+268033012619436034	business	employee engagement survey faq is my survey feedback really confidentialshttptco3ces46zy
+268032949247684608	business	my favorite ex boyfriendex target employee hehe httptcovzrxjkt6
+268032682053738498	business	i am now officially a target employeethank ya lord
+268032638743367680	business	rt stevekarol zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268031477374128128	business	rt ladygunn barackobama rt rosannebk laying off 8 people to get below the 50 employee mandateor pay the fine obamacare youbuiltthat
+268031376480145408	business	rt hfit 2 steps that can steer employees toward healthier food choices httptcoy5xcmzh4 dthr shrm hr
+268031305885818880	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268031060665831424	business	enforced password policies help protect customer and employee person httptcoyvneqnrd privacy
+268030528895217665	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268030485945532416	business	startup employee stock options httptcojm8qjwrl entrepreneur
+268030248027815936	business	rt jeremyhubbard so papa johns ceo can afford to give away 2 million free pizzas but may cut employee hours due to obamacare costs httptcovwhixa36
+268029446798311425	business	guy at the supplier customer not employee said when i walked in you dont look like a carpet layer i said looks can be deceiving
+268028742339792896	business	2 steps that can steer employees toward healthier food choices httptcoy5xcmzh4 dthr shrm hr
+268027610339102720	business	blame it on the brain a deeper dive into emotional intelligence httptcovsarrcbj
+268026892110667776	business	resumebear this is why you need a pay raise prove it httptcokt57pbt5
+268026179229982722	business	turck employee health and human capital management program achieves bronze level healthlead accreditation httptcocmpbuvtj
+268025940850925569	business	saintlouissmo marketing job directorsemployee communicationsworkforce solutionssother at equifax httptcotnfdz3kt
+268025765201838080	business	mpcbroadcast employee webinar staying healthy through the holidaysa practical approach to stress eating exercise 112812s1pm
+268025686344757249	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268025184160735233	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268024256393273344	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268024126269186049	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268023895716667392	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268023734848331776	business	jobs store seasonal employeeplumbing at lowes naples fl httptcoa4q5mmee plumbing
+268023506380398592	business	full time employee on part time paystory of my life
+268023086438285313	business	great ideas to think about if you are about ready to add an employee to your company httptcoawh7gxi2
+268023043413123072	business	rt themnproject the minnesota project encouraging businesses to plant fruit trees and employee run gardens tomorrow httptco7mpelrb7
+268022904409698304	business	rt ltjongivens if you are a federal postal or military employee you can give to life teen through the combined federal campaign httptco0lhqcgnh
+268022723295461376	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268022674293420032	business	employeebenefits benefitsspopular employee benefits questionsshttptcoak3todyz
+268022663379812352	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268022405652430848	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268022390976573440	business	employee motivation is binary the risesfall of engagementshttptcov2zybr0s httptcov2zybr0s
+268022101154344960	business	guess who is the newest employee at eddie bauer clothing too bad work is 50 minutes away
+268022028961984513	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268021912297435136	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268021565508165632	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268021340932550656	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268021307982090241	business	zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268021148271382529	business	the minnesota project encouraging businesses to plant fruit trees and employee run gardens tomorrow httptco7mpelrb7
+268021128050667520	business	debsnm stupid phonesits been a 15 year cyclesleave wife for employee employee has kid goes on leavenew woman hired cheats repeat
+268021121507528704	business	rt ltjongivens if you are a federal postal or military employee you can give to life teen through the combined federal campaign httptco0lhqcgnh
+268020931132272640	business	major signs that an employee is losing motivationstips httptcodrktolj6 motivation
+268020758826065921	business	cash flow employeesscarcity
+268019440761851905	business	thank you veteransscheck out this tcc employee who serves in the oklahoma national guardhttptco6kj15tt5
+268018970290946048	business	jefferies doesnt just have employees it has employee partners significant distinctionsthere httptcol08kzdbd
+268017820028260352	business	53person company saves 76 on employee health benefits tellmemore httptcocoblkjsb
+268017230837587970	business	employee retention the key to productivity and growthsthe nectir edge httptcowqr9d5ms
+268014984607432705	business	jbtservice thanks for blog httptcoxlplc7ez and benefits httptcogaz2qq5q links in the jbt service daily httptcotqjjrlqp
+268014229586575360	business	im employee of the month nigga lol
+268013307770834945	business	when the customer is nicer than the employee lt
+268013063511351296	business	what if we regularly conciously gave ourselves a fresh perspectiveshttptcobho5cqjn
+268012733117636608	business	fair work australia urine testing an unreasonable intrusion in employee privacy httptcorimgtqst
+268012659339837441	business	fair work australia urine testing an unreasonable intrusion in employee privacy httptcolaqqyfe9
+268012063329222658	business	blogsexecutive coachingsco2 partners employee engagementsleadershipsbusiness results part 2 httptcoxan9hgqk
+268011655894532097	business	have an employee hold all my stuff and follow me throughout the store
+268010845756350465	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268010489332768768	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268010413738840066	business	bourbon street strip club robbed at gunpoint employee shot in kneesnov 12s1020 am et httptco0jlqhop0
+268010059861196800	business	airassault3187 his own actions indicate harm httptco37288ofuraise costsscut hours to below 30 sounds like employee abuse
+268009672831823873	business	whats the difference between a household employee and an independent contractor httptcogk8wdsq6
+268009671124725760	business	whats the difference between a household employee and an independent contractor httptcogqfsslms
+268009669581217792	business	whats the difference between a household employee and an independent contractor httptcov8ced8d6
+268009668029317121	business	whats the difference between a household employee and an independent contractor httptcoo0fngmr3
+268009660139847680	business	whats the difference between a household employee and an independent contractor httptcolguilrvr
+268009251438473216	business	im already the worst employee in the world
+268008994390556673	business	no work this morning for this government employee
+268008342893494273	business	liberalphenomsi read an fbi employee leaked to cantor identity unk
+268007986381873152	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268007779514601472	business	mount mercy honors employee veteranssmount mercy university httptcovqyzzozc
+268007766977818624	business	employee of the month waaaa hmmmmeee httptco0t05vush
+268007715639541760	business	knezy312lp well a bestbuy employee saidif u go on the midnight launch its possible but u need a good spot on line i thought you preordered1
+268007146615095296	business	rt okcbarry why are we investigating the sex life of a govt employee more than the murder of 4 govt employees
+268006760688783360	business	resumebear signs an employee is job hunting dont get caught httptcoqaq0mbcp
+268006596561477632	business	federal employee bills on plate of lame duck congresshttpstcobzzk2gpe
+268006557126627328	business	higher accountability leads to higher employee engagementshttptcog5b3avmd
+268006020020858881	business	are you a great employeesfind out why it matterssbecause it doessand see how you rateshttptcoz0tztwql
+268005984688037889	business	rt lockton rt himagazine exclusive new innovative exciting mike tyler on why lockton is set to take the world of employee health co
+268005799828283392	business	thejammer15 you already know son i didnt know you were a sonic employee
+268005721403170816	business	fired apple executive scott forstall was the best approximation of steve jobs that apple had left httptcox1at2hle tech technology
+268005211291930624	business	billion cut is looming over sequestrationstevens said an employee came forward about the
+268004977459478528	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268004836413415426	business	rt ahahospitals the hurricane sandy health care employee relief fund is providing help 2 hospital employees httptcofizzb9jf
+268004321365463041	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+268004104536731648	business	close personal relationship with a subordinate employeekubasik left the company friday after lockheed conducted an ethics
+268004102011752450	business	twangnation coming from a former employee of the arena thats not the venue best suited for georges farewell
+268003875141865472	business	if you are a federal postal or military employee you can give to life teen through the combined federal campaign httptco0lhqcgnh
+268003452976762880	business	court reviews what type of job search is required of terminatedshttptco0srykrq4
+268001697736048640	business	the making of warcraft part 3 arenanet cofounder and former blizzard employee patrick wyatt recounts the chao httptcolnpzgreo
+268001615477350400	business	mount mercy recognizes employee veterans and we say thank you to all veterans for your service veteransdayhttptcot9qczfmt
+268000963791581184	business	emilytaylor04 the employee hopper got put on blast
+267999518346334209	business	this former employee of coldstone creamery put the company in a tough spot eliminating intolerance social integrity httptcog7hegycg
+267998980884013056	business	what do you think centro peeps are any of you celebrities your employee is an online celebrity now wha via wsj httptcotuoyr3dl
+267997942898638848	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267997880726478848	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267997663042097152	business	former apple employee says tim cook isnt passionate about tech video httptcof5jmhyuy via mashable
+267996949611954177	business	ohhh no big deal just employee of the month last monthsfeelinspecial httptcojqywfc9a
+267996921963085824	business	ready for my orientation as a blackveatch employeesblacksveatch corporation w 4 others httptcopxdrqdbf
+267996711966875650	business	leorising humility not one of leo strong trait they would rather own the store than work as a humble employeetrue
+267995415004184577	business	rt leaderchat study employee recognition pays off httptco9xldah60 employee recognition maturity model by bersin
+267995345290670080	business	your tax dollars are being spent on my federal employee roommates naptime today america veterans httptcohs5lcshw
+267995098929852416	business	just realized its a government holiday and im a government employee d
+267994347734171648	business	employee benefits trends to watch in 2013 httptco4ipelvwg
+267993204459184128	business	kdog is talking about this girl hes gonna ask to go out on a date to texas roadhouse because he gets a 30 employee discount there
+267993139531374593	business	why are we investigating the sex life of a govt employee more than the murder of 4 govt employees
+267992940075438081	business	employee of the month httptcokua6houa
+267992888267378688	business	keep it freshact like a new employee every day httptcogwrsczey
+267991847807361024	business	hr magazinesemployee engagement report the evidence stacks up httptcokrht0a7n
+267991817021186048	business	nigeria policemen shoot robbed banker security guard in lagos an employee of access bank plc mr femi badejo httptcolmzlntdi
+267991721974050816	business	your employee is an online celebrity now what do you doshttptcoh8ipvh8w httptcoly8mfokx via wsj
+267990380438491137	business	just saw a fellow employee state only 7 days until thanksgiving break it could not come soon enough
+267990264809922560	business	please take a moment to nominate a mvhs teacher or other school employee for the 13 apple awards deadline nov 21 httpstcogt2zbnox
+267988910674681856	business	your employee is an online celebrity now what do you doshttptcosmvrzzwcsvia noahsparks
+267988462467162112	business	news nigeria policemen shoot robbed banker security guard in lagos an employee of access httptcofxnism2p
+267987910492553217	business	the key to employee morale httptcok7cnanqk via fastcompany
+267987215844511744	business	man robs bourbon street business shoots employee monday morningsnov 12s848 am et httptcokkaqz78v
+267986777107738624	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267986543984115712	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267986502615699456	business	np nigeria policemen shoot robbed banker security guard in lagos an employee of access httptcoi13sh2sz
+267985832751808513	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267984967169093632	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267984940501704704	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267984166665203712	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267983097960730625	business	obamacare likely to raise costs result in papajohns employees hours being cut httptcovxir0bpz
+267982051913891840	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267981383861948419	business	httptcopuxrjihf bbc changing employee relationships in tax row httptcojdlzrifw
+267980878238580736	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267980603817869312	business	rescue policemen in lagos shoot banker guard after they were robbed double tragedy struck an employee of acce httptcodowxxcxt
+267980601771053056	business	rescue policemen in lagos shoot banker guard after they were robbed double tragedy struck an employee of acce httptcouhrof8ez
+267980194319593472	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267980016200085505	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267979280959561728	business	hot hmvtweets employee made hotter by being friendly helpful and cheerygoodcustomerservicegivesmefannybuzz
+267979194531721216	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267978475925798912	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267977908776206336	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267977566923653121	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267977547717951489	business	tired of managing employee health with paper demo the only 100 paperless solutionsreadyset httptconfkjlrar digitalhealth
+267977369682329600	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267977188136079360	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267977095962058752	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267975224300011522	business	provocative insight on employee engagement httptcodhwlh2ez
+267975224253874176	business	provocative insight on employee engagement httptco1tob6qdm
+267975097124524034	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267974866060341248	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267974526724362240	business	pc spy softwaresgreat convertion computer monitoring software spy on cheating spouce children and employee httptcodmvkylut
+267974508521082880	business	apple makes peace with htc airlines facing pilot shortage business news from around the nation employee ti httptcotjkj34b3
+267974430637031425	business	apple makes peace with htc airlines facing pilot shortage business news from around the nationsemployee tip led httptcoyjdxxl0n
+267974288424984577	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267973376251949056	business	renee is such a shitty employee lol
+267973336959696896	business	schwatz makes some great observations with employers and employees truly valuing and investing in one another httptcogdcifrum
+267972923531345920	business	act like a new employee every dayslinkedin httptcoce07vm5n
+267972852152664064	business	hunter walk act like a new employee every day httptcoeop9lfsu
+267972830451355648	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267971477746380800	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267970810159976448	business	brittanyyyc ok cuz i cant get into employee parking anyways lol i lost my parking pass so i park at signature
+267970589828997121	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267970189499441152	business	katherinee92 what a top employeeshow much is it
+267970174148280321	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267969750846558208	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267969746765488128	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267969167876030464	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267968691352768512	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267968494203715584	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267965486891945984	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267963882159603712	business	msmaggie38 if having the employee costs more than he produces then hes not valuabl and hes fired or laid off
+267963670343073792	business	when a business person has more work than they can do themselves they hire an employee
+267960837032005632	business	wozniak then an hp employee sold his hewlettpackard 65 scientific calculator for 500 to raise capital
+267959930730971136	business	sr business support coordinator hr employee services job general support services at novo n httptcoivbbiquv healthcare jobs
+267958928330088448	business	so i got employee of the year last year but have been shit this year do you think my work would just sweep it under the carpet
+267957368036397057	business	policemen shoot robbed banker security guard in lagos an employee of access bank plc mr femi badejo andshttptcomwj47axe
+267947867103195136	business	good tip to the point and takes only 60 seconds to readslink building with the employee roster httptco54xfg3kv
+267947368190713856	business	court rules that walgreens employees long term disability claim lawsuit shall not be httptcor4z5uxqu
+267946785945817088	business	fundraiser for the lady shotsthe k fox4 eight weeks ago a royals parking lot employees life changed forev httptcox607ppk3
+267942507495702528	business	controllersemployee benefit plans at central states manufacturing lowell ar httptcokruzxgmj jobs
+267938782077140992	business	trademark owner any agent or employee of the foundation anyone
+267933326688542720	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267932229102096384	business	rt ryerye everybody cant be bosses somebody gotta be a damn employee lol
+267930214917603329	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267925222643085312	business	policemen shoot robbed banker security guard in lagos an employee of access bank plc mr femi badejo and his httptcokrzbdhqf
+267925178326061056	business	policemen shoot robbed banker security guard in lagos an employee of access bank plc mr femi badejo and his httptcoljmupb5l
+267922895110537216	business	wake up calldan able a 58yearold state employee who lives across the street from the two homes that exploded httptcoxgwkd759
+267922359430828034	business	netoffice dwins for mac 14p4 freeware you can use netoffice dwins for time tracking employee timesheets an httptcobgsehlnf
+267921969775779840	business	that last rt is exactly wht i wantsi refuse to be an employee imma be the bossshave ppl working for
+267917696195239936	business	what if we fired every government employee you want a smaller government okay suppose we just fire every httptcoqgfffwbs
+267915072221892608	business	los angeles employee benefit consultant 8s culver city httptcojvgpdpqv ebc jobs
+267914298414739456	business	new blog posting human resources compliance amp employee training systemshttptcoxpej4ts9
+267914233012948992	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267908873195778048	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267906006569328640	business	abq deployed employee praises real heroessreservist lauds those back home during his tour in afghanistan httptcoxuy6pmvm
+267904034164326400	business	rt disabilitygov learn your rights as an employee or a job applicant federal laws prohibit employment discrimination httptconkrwoehw
+267903281844604929	business	pc spy softwaresgreat convertion computer monitoring software spy on cheating spouce children and employee httptcop8dsudga
+267901722926669824	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267900150461132801	business	work stops at sugar mill after employee killed httptcoeomsefiw sugar trading
+267899744775442432	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267899692107583488	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267897735984852993	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267896567497891840	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267895602539528192	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267894844930793472	business	kingman police arrest school employee for allegedly luring a minor for sexual exploitationsnov 12s241 am et httptcomwfffjuh
+267893353536962562	business	employee shot in drivethru robberysnov 12s235 am et httptcobxv6oemo
+267890345520549889	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267888277254709249	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267887846822662145	business	rt unitedwemust rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267887104606994432	business	rt unitedwemust rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267886781003866113	business	kanchangupta will minted take notice of their employee trolling around abusinghurting the faithssentiment of a billion crock o shit
+267886345706414081	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267885961411694592	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267885556749438976	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267885456463626240	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267885408862498816	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267885316852051968	business	jackattack i knowid be their best employee imma keep trying though
+267884606378893312	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267884313549361152	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267884165825982464	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267884092454993920	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267884040076525569	business	rt unitedwemust rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267883798660800512	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267883674526171136	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267883598185644034	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267883414621941761	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267882639493578752	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267882379987795969	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267882043176800256	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267881946141556736	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267881870325325824	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267881846916935680	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267881764918263808	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267881763752251393	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267881587633430528	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267881538643972097	business	advanced computer data on varying plug ins that shot out employee over all ratings in a small company that i ran yes i would just realize
+267881505446043649	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267881334125498370	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267880933506568192	business	usc football notebook athletic department employee knew abouts long beach presstelegram httptcoebe7mow4 athletic
+267880705470631936	business	rt zpg410 applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267880570443419648	business	applebees you donated enough to romney campaign to pay for 10 years of employee health care shame shame boycottapplebees
+267879761781604353	business	lemme get a mcflurry mcfries mcnapkin a employee sir why are you me mcshut the fuck up im not done employee this is wendys damnit
+267877436002299904	business	niecydoesit lls im sayin lemme use yur employee discounts to buy cards
+267876343960702976	business	after this bread bash i realize i am the most hated employee
+267876113601142784	business	wow exciting and scary yes rt knitterbird today is the beginng of my last week as an employee freelancecountdown
+267875783681376256	business	niecydoesit wassgood wit that employee discount
+267873859724795907	business	dot worker killed in dump truck crash on outer banks nc 12 according to state troopers dot employee ronnie an httptcovdmnhcwe
+267872802953117696	business	getting chipotle when they are closed and having an employee meeting only with aeboxoxo9 peruvianperks
+267872786217832448	business	you dont own the books on your kindlessson a dark and stormy night an employee of your local bookstore str httptco6j25zztr
+267872391722569728	business	dumbitdownforliberals bus pays an employee 50k in salaryafter taxessbenefits total costs62570kthe govt then takes 25 income taxes
+267872317462425600	business	iowa advisor faces sexual harassment allegations the university of iowa athletics employee who resigned last we httptcoxswxeyvi
+267871401111863296	business	georgegamard when i see an employee at some store hesitating i just help him out saying go ahead its ok to say merry christmas
+267871051868954624	business	always that one employee i work with that is trying to holla no thanks
+267870817168273408	business	more moneysask kindly so i might be easier to manage manage a challenging and valuable employee httptcozmxsc7dd via timebusiness
+267869688946630658	business	opportunity for java software leadsrt 128mass pike jct employeeorientedsjava natick jobs httptcob6la8raq
+267869675667472385	business	pc spy softwaresgreat convertion computer monitoring software spy on cheating spouce children and employee httptcoyl6fwuhw
+267868894067302400	business	employee free choice acthttptco2818l5s1
+267866844235456512	business	245 staff members who have been promoted fromsthe company are not required to attend the newemployee orientation
+267861568031703040	business	rt formosaiowacity thank u vets and thank you to our employee jon for your service jonbjerke httptco9qx3pzhz
+267860161731895296	business	my own personal starbucks employee making me some homemade hot chocolate
+267859986716184576	business	prestonleigh papajohns the owner of papajohns declared he was cutting employee hoursfiring people because obama got elected
+267859041328451584	business	arbys employee fired after fleeing armed robbery rtlaw httptcogqgkpnwt via rsullivanlaw
+267858843864809472	business	margbrennan unpaid social liaison sure doesnt sound like an employee suspicious as if petraeus was cheating on his mistressswife
+267857437787308032	business	boomersoonerz to put it simply if a biz w 50 employees that work 30 hrswk doesnt provide ins they must pay a 2k fine per employee
+267857146664861697	business	os2hankh to put it simply if a biz w 50 employees that work 30 hrswk doesnt provide ins they must pay a 2k fine per employee
+267856129659383809	business	adams county fair vendor fired after video shows improper hygiene a foodvendor employee was fired thursday after a httptcotukfg8vw
+267854270550921216	business	hey everybody university of iowa athletics employee allegedly traded football tickets forsthe univer httptcolxjrywoa kristi
+267851096716886017	business	foot locker employee was dumb as hell me can i have the smallest size in this him what size go see n you tell me dumb ass
+267850812917682177	business	remember that time when nicolei found papa jonassjoe when someone opened the employee only door at the ahtsno one could close it same
+267850393952845824	business	mrdaveyd coinkydinkexact same moment papa johns ceo decided 2 cut employee hrs 2 avoid healthcarei chose not 2 eat his pizza 4 my health
+267849826945888256	business	missedconnections trh employeesm4w mesa httptcojayqm4ml phx phoenix
+267849628769189889	business	rt stellarblue we want to extend a warm welcome to our newest employee brittany farrell excited to have you on our team httptcogie5hkyq
+267848064868421632	business	tomorrow is my super official first day as a real employee im excited and all but ive already been doing the job for 25 years
+267847700958023681	business	leaders common sense doesnt actually exist httptcogdk0c0du via katenasser
+267847236262699008	business	rt jeremyhubbard so papa johns ceo can afford to give away 2 million free pizzas but may cut employee hours due to obamacare costs httptcovwhixa36
+267847102980321280	business	employee mindset for business httptcojmsxykrb
+267846628885532672	business	rt meirl rogerburton got caught making out with a sandwich in the bathroomsburger king three times in the same day check his employee record
+267846577631141888	business	rogerburton got caught making out with a sandwich in the bathroomsburger king three times in the same day check his employee record
+267846396462391296	business	rt hell0krissy lacedupfoams are you the employee that walks around in the chuck e costume
+267845326201823233	business	walmart on ipadthrowing employee video it made us winceshttptcorerzlkhn
+267845031153508353	business	lacedupfoams are you the employee that walks around in the chuck e costume
+267844666911768576	business	trav an apple employee did
+267843680667324416	business	its not my business is honestly the best reply you can ever get from an employee
+267843424189829120	business	so i have my eye on a nice movado watch at work and with my employee discount oh yea im getting it
+267843206962626561	business	in 1896 1 out of every 11 steel workers dies on the job employee cutbacks longer working hours lower pay all for higher profits unions
+267842455725023232	business	just listened to mandy shapansky president and ceo talk about employee empowerment thanks women of influence and deloitte
+267841390963212288	business	rt valaafshar dear manager when an employee asks you a questionsu dont know the answer the worst reaction is to be defensive
+267839954837704705	business	rt new0rleanslady boom rt lefth00k haha my neighbor 15 yr employee geshuge obama supporter got laid off last day of work frisp2 tcot regulations
+267838910074343424	business	a woman is fired for a facebook post and i applaud her employer httptcovac56n3c via leaderswest
+267838343637762048	business	working at gordmans and getting an employee discount
+267837845983604737	business	rt onlineresume employers blocking employees from social media access httptcoxvelh1im
+267837764073046016	business	ere1968 dphaw in a word no olive garden employee hrs have been cut my daughters included
+267835686567161857	business	rt new0rleanslady boom rt lefth00k haha my neighbor 15 yr employee geshuge obama supporter got laid off last day of work frisp2 tcot regulations
+267835404735115265	business	rt collegekidd asedeyhot policemen shoot robbed banker security guard in lagos an employee of access bank httptconjajxhlj asedeyhotcom rt
+267834387247296513	business	rt new0rleanslady boom rt lefth00k haha my neighbor 15 yr employee geshuge obama supporter got laid off last day of work frisp2 tcot regulations
+267834360919638016	business	asedeyhot policemen shoot robbed banker security guard in lagos an employee of access bank httptconjajxhlj asedeyhotcom rt
+267833839651524609	business	rt new0rleanslady boom rt lefth00k haha my neighbor 15 yr employee geshuge obama supporter got laid off last day of work frisp2 tcot regulations
+267832534732247043	business	martar73 originally reported that she was state dept employee but walked back by msm probably cia agent or covert state dept spy
+267831580377112577	business	busheagle1 wowswhat kind of things do they assign yousi am a on call employee for the feds dmort
+267831345198272512	business	california jobssemployee services managersthousand oaks c at sbm management services thousand oaks cashttptcodcjjbl42
+267830598566023169	business	employers blocking employees from social media access httptcoxvelh1im
+267829756819566592	business	rt jeremyhubbard so papa johns ceo can afford to give away 2 million free pizzas but may cut employee hours due to obamacare costs httptcovwhixa36
+267829713169416193	business	its been a great week of vacay but excited to yet back to the office at prairiebandsgreat employee events planned this week
+267829191532220416	business	thedailyedge whats a papa johns employee supposed to do if she eats a papajohns pizza and it makes her sick juskasking go2mittser
+267829030676475904	business	thedailyedge whats a papa johns employee supposed to do if she eats a papajohns pizza and it makes her sick juskaskingstop working
+267828764745035778	business	rt mervinj rt democrat4life4e if billionaires can afford to blow millions on election they can afford tax increase amp employee healthcare p2
+267827124155604992	business	papa john said hes going to have to raise pizza prices andor cutback employee hours because of the affordable healthcare act
+267826636823613441	business	thank u vets and thank you to our employee jon for your service jonbjerke httptco9qx3pzhz
+267826155648860160	business	rt jeremyhubbard so papa johns ceo can afford to give away 2 million free pizzas but may cut employee hours due to obamacare costs httptcovwhixa36
+267825721899098112	business	check out this story from windsor star httptcoueicguuo
+267824607153750016	business	lemme get a mcflurry mcfries mcnapkin a employee sir why are you me mcshut the heck up im not done employee this is wendys sir
+267824606054842371	business	spying cell phonessvideo bluetooth mobile phone spy softwares track every move your partner employee or httptcojbhnhubp
+267824339087392768	business	almost stabbed the target employee with my keys because i thought he was trying to attack me turns out he was just taking my cartsooops
+267824336952496130	business	bmoc98 then y have a business and employee middleclass if you cant make aprofit
+267824203158392833	business	rt dolphinwebsites press release realtime employee time tracking yields better results httptcodtfpnhzc
+267823719307689985	business	we will be closing at 800pm on monday november 12 for an employee eventsall other punch locations will be open regular hours
+267823592589365248	business	lilyiveth no an employee haha
+267822765946597376	business	hurricane sandy how can you help httptconwotgsvt via profilesintl
+267822556302680064	business	southwestverity either in kc or austin a sw employee took a belt out of an outside pocket on our suitcase why would they do that
+267822441785606146	business	i got voted employee of the month for octoberslol yay me
+267821873960742912	business	rt deepfriedcouch cash was flowin in the grizz store post game employee at door was trash talking heat fans what a great night
+267821873495158785	business	rt new0rleanslady boom rt lefth00k haha my neighbor 15 yr employee geshuge obama supporter got laid off last day of work frisp2 tcot regulations
+267821354290659328	business	usps worker ignores body on porch delivers mail httptcodl4hedal via newserconscientious and dedicated employee just not too bright
+267819834853715968	business	im a terrible employee
+267819411631656961	business	fightlinkersubo what if its the difference in keeping one more employee on at your small business ive lived that scenerio
+267819218299400192	business	rt deepfriedcouch cash was flowin in the grizz store post game employee at door was trash talking heat fans what a great night
+267818835879538688	business	rt toyotaequipment employee engagement brand new engage for success site is awesome httptcouvsddpjt workplace
+267818835166511104	business	getting free employee meals at chipotleseverything youve ever done
+267818594845478912	business	bekahbadell oh well that was hannahs job shes a bad employee
+267818268197273600	business	rt jeremyhubbard so papa johns ceo can afford to give away 2 million free pizzas but may cut employee hours due to obamacare costs httptcovwhixa36
+267817936935321600	business	top edocs brewing employee commitment at starbucks coffee rewarding employees newslettersvolu httptco56napmkp college class
+267817772791263233	business	184 a employable b employs c employment d employees get this ios app httptcoiz0mrxyn
+267817123609464833	business	rt democrat4life4e if billionaires can afford to blow millions on election they can afford tax increase amp employee healthcare p2
+267816591662661632	business	rt jeremyhubbard so papa johns ceo can afford to give away 2 million free pizzas but may cut employee hours due to obamacare costs httptcovwhixa36
+267815790399590402	business	thsgolferlane i dont gotta pay nothing im an employee of walters golf
+267814466715013120	business	rt jeremyhubbard so papa johns ceo can afford to give away 2 million free pizzas but may cut employee hours due to obamacare costs httptcovwhixa36
+267814355259764736	business	for sale on ebayslot of 5 mcdonalds employee lapel pinssmonopoly 6 month service ronald 099 0 bidsen httptco8ui8k13b
+267814259323449347	business	here are the major signs that an employee is losing motivation httptcovftitkru via bicareers
+267814213156761600	business	arky870 bjmaack how much is the average cost for healthcare for an employee
+267814083007496192	business	rt huntermadole this employee meeting right now jesus
+267813587387564034	business	googles healthy employee strategy hiding the mmsshttptcovkogubiz
+267813046750179329	business	papa johns ceo obamacare to raise costs forcing employees hours to be cut httptcoqtuzenxy
+267811696603701249	business	erinhaust does that mean that you on principle you stand against food safety gender equity and employee safety too cc s4xton
+267811401848995840	business	christiandub i like to bash them as their walking away to the employee loud enough so they can hear
+267811123921821696	business	employee game night at bby wichitafalls bestbuys best buy httptco32rby255
+267811063213486081	business	its so weird that no one else is here at the hardware store on a sat night lots of employee assistance tho
+267810954186743808	business	rt new0rleanslady boom rt lefth00k haha my neighbor 15 yr employee geshuge obama supporter got laid off last day of work frisp2 tcot regulations
+267810888818495488	business	rt jeremyhubbard so papa johns ceo can afford to give away 2 million free pizzas but may cut employee hours due to obamacare costs httptcovwhixa36
+267810489176817664	business	cash was flowin in the grizz store post game employee at door was trash talking heat fans what a great night
+267810028285734913	business	papajohns how about instead of giving away 2 million free pizzas you stop slashing employee hours so you dont have to buy them insurance
+267809940599627777	business	so papa johns ceo can afford to give away 2 million free pizzas but may cut employee hours due to obamacare costs httptcovwhixa36
+267809647094804480	business	rt new0rleanslady boom rt lefth00k haha my neighbor 15 yr employee geshuge obama supporter got laid off last day of work frisp2 tcot regulations
+267809530736439297	business	boom rt lefth00k haha my neighbor 15 yr employee geshuge obama supporter got laid off last day of work frisp2 tcot regulations
+267806114974953473	business	walmart employee you gotta keep putting it in me thats what she said walmart employee who said that lmao
+267805732089499648	business	employee discount
+267805165048963073	business	job wecare program support specialist at hradept of social services via jobaware for ipad httptco26dj6nv9
+267804586474098689	business	employee meeting this ish is about to be hilariousness
+267804457125965824	business	fingerprinting and level 2 background check for employeesadmin httptcoppdjkglj
+267804080351629312	business	job background investigator opmsemployee at keypoint government solutions via jobaware for ipad httptcobl3ri0tg
+267803756253569025	business	job director procurement unit at office of probation via jobaware for ipad httptcog7uzxwy6
+267803394209619969	business	rt jtmalone i want to encourage everyone to stop buying papa johns pizzassthe founder is cutting employee hours because of acassay no 2 papa johns
+267803064826753025	business	papa johns ceo obamacare to raise costs employees hours being cut httptcotodgnbva
+267802915274649600	business	since papajohns is cutting employee hours because of obamacare i will no longer purchase anything from papajohns boycottpapajohns
+267802535945981952	business	rt jtmalone i want to encourage everyone to stop buying papa johns pizzassthe founder is cutting employee hours because of acassay no 2 papa johns
+267802241027690497	business	i want to encourage everyone to stop buying papa johns pizzassthe founder is cutting employee hours because of acassay no 2 papa johns
+267801625958154240	business	i won employee of the month aw i feel special
+267801203189108736	business	day after day week after week an article is retweeted asking if beer in the workplace is an employee benefit the answer is yes
+267800330866151426	business	these businesses have cut employee hours to save a buck yet they often charge us more for a smaller product httptcogbbj7wz3
+267800297777291264	business	employee engagement brand new engage for success site is awesome httptcouvsddpjt workplace
+267799983460347904	business	specialk913 16000 employees at papa johns as much as 250 cost per month per employee for obamacare its not racist to stay in business
+267798198289068032	business	forbes can windows 8 save best buy httptcovyxqxjjzwhat will save jcpenny
+267797936895819778	business	woman alleges waffle house ceo demanded sex actsshttptcovkk66t0n
+267797637170876416	business	for sale on ebaysmcdonalds vintage employee service award lapel pinsmonopoly 399 0 bidsend date sunda httptco94pr6nfo
+267796241365209089	business	ay girl i like yo pink in yo hair dats fresh thank you ghetto walmart employee
+267795979602890752	business	forbes can windows 8 save best buy httptcoiqo1uhqy balladman galmaguer
+267794906104344580	business	your employee is an online celebrity now what do you dohttptco49kaaqat
+267794734901256192	business	strategic objectives are key to seeing a full return on your training investment httptcosnb2mo9z via raytheonrps employee learning
+267794353462845440	business	that one time a target employee followed me in the restroom and he peed next to me creeeeper target can be a really scary place
+267792763020529665	business	last rt each employee will receive 104 personal days a yearsthey are called saturday and sunday norespect
+267792612998664192	business	rt soncase2 an employee with the least requisite skill means they can perform at the minimum level of competence and have room to reach the maximum
+267790886316945408	business	walmart employee
+267789043574644736	business	weve sold your flat and put ur things in storage standard procedure for an unmarried employee with no next of kin skyfall
+267788808760721408	business	guys seriously my life was a romantic comedy for like 30secs just now attractive new employee spilled a drink and i helped him clean it
+267788169070645248	business	fox news special report 111112jill kelley not dos or dod employee httptcowhi9itj5 news conservative
+267788009523515393	business	this employee meeting right now jesus
+267783107288113153	business	rt lindagann coldstone thank you for responding in this way this ex employee needs to wake up to get actions and their consequences bravo cold stonea
+267781270455611393	business	coldstone thank you for responding in this way this ex employee needs to wake up to get actions and their consequences bravo cold stonea
+267780712386682880	business	ourtimematthew hed be able to afford employee insurance right i wouldnt even take all 2 mill of his pizza giveaways prick
+267780312241668096	business	gyozafox if they charged a penny for each of those toppings one pizzas worth would approximate the cost of one employees healthcare
+267780092825059332	business	rt intoxikated9 itsemilylong is the best buckle employee there has ever been
+267779805506834433	business	kctacoparty is not a govt employee but has tomorrow off for vets day what kind of fucked up bullshit is that
+267777587709874176	business	just got bitched at by an employee
+267777014692470784	business	rt obamamerican48 jobcreators papajohn dont want to pay more for employee health insurancessupport single payer public option
+267776639885275136	business	when you hire a contract employee do you have that person sign a contract
+267776542740987904	business	jobs store seasonal employeesplumbing at lowes farmingdale ny httptcoozrl3izf plumbing
+267776336276357120	business	rt nanceleem rt democrat4life4e if billionaires can afford to blow millions on election they can afford tax increasesemployee healthcare p2
+267775000034033664	business	rt nanceleem rt democrat4life4e if billionaires can afford to blow millions on election they can afford tax increasesemployee healthcare p2
+267774153204051968	business	if a subway employee ever have a bad opinion on my sandwich ima turnup on they ass
+267772870699130880	business	rt nanceleem rt democrat4life4e if billionaires can afford to blow millions on election they can afford tax increasesemployee healthcare p2
+267772579450871808	business	rt nanceleem rt democrat4life4e if billionaires can afford to blow millions on election they can afford tax increasesemployee healthcare p2
+267771942860369920	business	jboy56john you have to be the worst employee at sunshine
+267771756574568448	business	our newest employee monkeygotajob httptco7yvjiojx
+267771394476101633	business	the newsiest sonic employee bawxhead httptco59wdoifn
+267771383168245760	business	twistermc they should be made part of the standard employee package fresh ipads every year i really like diet coda
+267770399306178560	business	rt democrat4life4e if billionaires can afford to blow millions on election they can afford tax increasesemployee healthcare p2
+267770381971095552	business	maverynthia various language learning software about 50 discount for the employeesi know its not the most common but some
+267770339885473792	business	i get to be a grizz fan todaysnot an employee with erinmay7 httptcodxlgbt1h
+267768102316539905	business	rt obamamerican48 jobcreators papajohn dont want to pay more for employee health insurancessupport single payer public option
+267767987229036545	business	top edocs workplace substanceuse norms as predictors of employee substance use and impairmentshttptcogk1usx27 college class
+267766745715056640	business	best buy sinks 50000 hours into windows 8 employee traininghttptco7a111c2x
+267766160374779904	business	first thing my manager said to me yesterday was him calling me fat the later another employee mocking me excessively i just didnt have any
+267765633834434560	business	in the middle of a robbery facing a 53 guy with a shotgun store employee thinks to himself i can take this httptcosvcqsytz
+267765512405151745	business	also rap game showing a publix employee where something is in publix
+267763983107371008	business	revoking full time benefits yes you can change the employees status but be careful of a claim for retaliatio httptco6rf751no
+267761384543096833	business	meto the staffbe nice to customers i dont want cust complaintscustomermoments laterthat employee is a huge bitchyep fuckretail
+267760030487543808	business	rt vintageprecious john schnatter papa johns ceo obamacare likely to raise costs employees hours being cut httptco9bk9jan4
+267759792444018688	business	john schnatter papa johns ceo obamacare likely to raise costs employees hours being cut httptco9bk9jan4
+267758682622803968	business	like every employee looks so clean
+267757827634917376	business	employee benefits trends to watch in 2013 httptco4ipelvwg
+267757515687735297	business	omg had to treat a lady employee at tjmaxx because she tried to give my mom attitudesswervehoe
+267756690139656193	business	rt paulthomas91 heres a bonus the poppy factory will pay my whole years wages to the right employee who will take me on free12 mnths wages please dm and rt
+267756185153835009	business	what employee benefits are available to todays professional truck drivers trucker truckdrivershttptcouwkuuztb
+267755863299747840	business	evamarie they let the employee of the month tweet at work these days
+267752195380883456	business	lockheed chief fired for relationship with employee httptcobztvc8qw insecurestuff
+267752001964740608	business	yahboybreezy you have to get it from an employee
+267751558941401088	business	ceo of papa johns say employees hours will be cut due to obamacare you were forwarded dont start crying now i dont want to hear it
+267751002889932800	business	hre r the mjr signs that an employee is losin motivation httptcoiultpx35 employee employees interview signs
+267748883797528576	business	rt paulthomas91 heres a bonus the poppy factory will pay my whole years wages to the right employee who will take me on free12 mnths wages please dm and rt
+267748356820983808	business	getting 50 jeans 60 off love that employee discount
+267747618401157122	business	employee relations training and the lawsarticle 65882 myartsubmit
+267747417984733186	business	john schnatter papa johns ceo obamacare likely to raise costs and result in employees hours being cuta day httptco7feawgff
+267745572897824768	business	afraid an employee is stealing from you contact us
+267744798608343040	business	chinese company infamous for employee suicides looks to detroit los angeles for cheap laborshttptcoscpy4cp9
+267744595725676544	business	hey walmart employee wearing a fanny pack two wrongs dont make a right
+267744233912401920	business	obamacare forces papa johns to cut employee hours read at httptcowx1n25jssgop lnyhbt teaparty tcot ocra sgp cowboys wahm
+267744109517758467	business	rt paulthomas91 heres a bonus the poppy factory will pay my whole years wages to the right employee who will take me on free12 mnths wages please dm and rt
+267743012157812736	business	rt paulthomas91 poppy factory will fund 12 mths wages to a employee who will take me on merthyr and surrounding areas please dm and rt 1 free year of work
+267742855785771009	business	rt paulthomas91 poppy factory will fund 12 mths wages to a employee who will take me on merthyr and surrounding areas please dm and rt 1 free year of work
+267742620766334976	business	evamarie employee of the month for sure scanningitems cashingchecks should of went to your line
+267742558317322241	business	rt paulthomas91 heres a bonus the poppy factory will pay my whole years wages to the right employee who will take me on free12 mnths wages please dm and rt
+267742445062742016	business	rt paulthomas91 poppy factory will fund 12 mths wages to a employee who will take me on merthyr and surrounding areas please dm and rt 1 free year of work
+267742258793697280	business	leaders common sense doesnt actually exist httptcoh4xum8ut via katenasser
+267742071882924032	business	rt paulthomas91 poppy factory will fund 12 mths wages to a employee who will take me on merthyr and surrounding areas please dm and rt 1 free year of work
+267742040379494401	business	rt paulthomas91 heres a bonus the poppy factory will pay my whole years wages to the right employee who will take me on free12 mnths wages please dm and rt
+267741770631237632	business	rt paulthomas91 heres a bonus the poppy factory will pay my whole years wages to the right employee who will take me on free12 mnths wages please dm and rt
+267741447262973954	business	rt paulthomas91 heres a bonus the poppy factory will pay my whole years wages to the right employee who will take me on free12 mnths wages please dm and rt
+267741052058882048	business	rt mdradcliff new research how employee engagement hits the bottom line harvardbiz httptco1fdfjfya
+267741049827512321	business	rt paulthomas91 poppy factory will fund 12 mths wages to a employee who will take me on merthyr and surrounding areas please dm and rt 1 free year of work
+267741008580718592	business	rt paulthomas91 poppy factory will fund 12 mths wages to a employee who will take me on merthyr and surrounding areas please dm and rt 1 free year of work
+267740852049301504	business	itsemilylong is the best buckle employee there has ever been
+267740784219013120	business	rt paulthomas91 poppy factory will fund 12 mths wages to a employee who will take me on merthyr and surrounding areas please dm and rt 1 free year of work
+267740614085451776	business	rt paulthomas91 poppy factory will fund 12 mths wages to a employee who will take me on merthyr and surrounding areas please dm and rt 1 free year of work
+267740185742155778	business	rt paulthomas91 poppy factory will fund 12 mths wages to a employee who will take me on merthyr and surrounding areas please dm and rt 1 free year of work
+267740129295212544	business	im currently an employee for more fireworks companies in mo than the total amt of fireworks companies that exist in boston nosummerjob
+267740089327693824	business	poppy factory will fund 12 mths wages to a employee who will take me on merthyr and surrounding areas please dm and rt 1 free year of work
+267740021300269057	business	rt paulthomas91 heres a bonus the poppy factory will pay my whole years wages to the right employee who will take me on free12 mnths wages please dm and rt
+267739756153155584	business	former law school employee says in sworn statement she was pressured to inflate graduates job stats httptcoiikdq9su
+267739523738378240	business	rt paulthomas91 heres a bonus the poppy factory will pay my whole years wages to the right employee who will take me on free12 mnths wages please dm and rt
+267739125594071041	business	rt paulthomas91 heres a bonus the poppy factory will pay my whole years wages to the right employee who will take me on free12 mnths wages please dm and rt
+267739088910704640	business	sales manager customer service business management in irvine ca employee benefits lynch investorshttptcoxmyqlumu
+267738990214524928	business	rt paulthomas91 heres a bonus the poppy factory will pay my whole years wages to the right employee who will take me on free12 mnths wages please dm and rt
+267738765336932354	business	heres a bonus the poppy factory will pay my whole years wages to the right employee who will take me on free12 mnths wages please dm and rt
+267738202545197056	business	lol got sticker star for just about 20 because of gift card and 10 off from being an employee d
+267737954762498048	business	hre r the mjr signs that an employee is losin motivation httptcoybmpdysg
+267737351365750786	business	fortunemagazine well saidtaking a break allows people to unwindsthink more clearlywhich can lead to much greater employee ingenuity
+267736835017539584	business	rt obamamerican48 jobcreators papajohn dont want to pay more for employee health insurancessupport single payer public option
+267736584072347648	business	officially a bathsbody works employee d pumped excited
+267736194215968768	business	did i mention im cashier how is it good for your employee to run outside and vomit in trash can while she is with a customer
+267736057557172224	business	rt laurastack an employee who works 12 hours a day can be more unproductive than one who works 6 hr productivity training
+267735362674245632	business	jenluit equipment and started a small business i am the only employee
+267735229953892352	business	former law school employee says in sworn statement she was pressured to inflate graduates job stats httptcoofox5rmn
+267735119387836418	business	future walmart employee httptcoeelynhoo
+267734488853934081	business	former law school employee says in sworn statement she was pressured to inflate graduates job stats httptcom4txuoui
+267733767010021376	business	missedconnections spinatos in tempespixie haircut employeesm4w tempe 99yr httptco5bkjoclw phx phoenix
+267732976832487428	business	had a ten minute conversation with a walmart employee about my 9s
+267732579078254593	business	i hate being the only spanish speaking employee right now wherescarlos
+267732113221095424	business	xoahubeachx also see how ppl treat each otherwhen they think only an employee is watchingin lines or on a sales floor
+267730571709530112	business	boycott these bastard companies who would rather cut benefitssemployees to avoid paying for employee healthcareshttptcozvomzoye
+267729078566670336	business	rt rightminority papa johns pizza to cut employee hours in wake of obamas reelection httptcomxz8hm1n teaparty tcot tiot gop ocra sgp resist44
+267728467032961025	business	papa johns pizza to cut employee hours in wake of obamas reelection httptcomxz8hm1n teaparty tcot tiot gop ocra sgp resist44
+267728285906128898	business	straightedge5l 3mmuh you sound like a google employee
+267728114036113408	business	eventually the employee quitshuffpostbiz papa johns ceo says he may reduce workers hours in response to obamacare httptcoettyefd1
+267727941969014784	business	i got awarded employee of the month unexpected
+267727641623265280	business	gretawires nosanother sleezy government employeesmust be a typo
+267726770646691843	business	an idiots guide to employee engagement httptcoixcfcwp9
+267725380113285122	business	rt gbmegafan report fbi employee told rep cantor about david petraeus affairs httptco0fm5hec2 tcot
+267725092094623744	business	today has been so awful i think we just enacted a cafe employee suicide pact
+267724615202250753	business	slone look for an ex order outlawing employee firings or layoffs
+267724546612809728	business	engaged employees add value to products and services httptcoapq8wgia
+267723546359386113	business	jamiehoad benjymoore19 such a loyal employee
+267723017696710656	business	i added a video to a youtube playlist httptcofkldzhyh nasa employee speaks about nibiru
+267722477751369728	business	dtribs122 i see how it is ill just keep my employee discount to myself then
+267722437762879489	business	are we to pay travel time down time at a convention travel that keeps an employee away from home overnight is httptco71bbdhbq
+267719824367570944	business	new research how employee engagement hits the bottom line httptcomegevr7v
+267719212603162625	business	fire the bastardssfederal employees make significantly more than private workers now federal employee union is demanding pay hikes
+267718531582418945	business	how employee tenure has changed in the past decade infographic httptcouoweeopr
+267718016115023873	business	dear raveim not paid enough for 60 of what im asked to deal withsincerely every rmp employee ever
+267716884722483200	business	rt obamamerican48 jobcreators papajohn dont want to pay more for employee health insurancessupport single payer public option
+267716540181405696	business	john schnatter papa johns ceo obamacare likely to raise costs employees hours being cut call me shocked no httptcovobvygip
+267715892274667521	business	rt gopherhole hawkeyes ath dept employee accused of trading ticketssmoney for sexual favorssinappropriately touching athletes httptco57vlkyic
+267715049068589057	business	if youre my employee and you lie to me and say you cant make it to work cause of some event and you just didnt want to come youre inshit
+267714956458340352	business	heb employee wins rock n roll san antonio marathon httptco8tbittls rock
+267714954331836416	business	heb employee wins rock n roll san antonio marathon httptcoz1q704iz rock
+267714342621954049	business	rt obamamerican48 jobcreators papajohn dont want to pay more for employee health insurancessupport single payer public option
+267714254013087744	business	jobcreators papajohn dont want to pay more for employee health insurancessupport single payer public option
+267712782189883392	business	boycott rt thenewdeal millionaire papa johns ceo john schnatter will cut employee hours bc obama won httptcoa11gvtwy soreloser
+267712090800791552	business	ways to improve employee engagement httptcogsz3ah9d
+267711448334094336	business	overheard taco bell employee how are you today me crunchwrap supreme httptcop4rtkpzx
+267711325101248512	business	taco bell employee how are you todayme crunchwrap supreme
+267710875962580992	business	do u supervise a fleet of steam cleaning vehicles want 2 know when an employee turns the vacuum on we can monitor ur power take offs
+267709308714745857	business	gift ideas school board to discuss graduation success employee moraleshttptcoa4gshywa httptcoskezrs5f
+267708581560852480	business	emilybrownssas a customer or executive employee
+267708393203064832	business	and this is why your iphone sucks and stupid wanna be mapssformer apple employee says timcookvideo httptcoihh2qzsj
+267707377397153792	business	rt jewishjobs waterbury connecticut seeking a property manager wrelevant experience also seeking office employee email favoriteinvestmentsgmailcom
+267706877545160704	business	got some monayyyy hitting up aeropostale tomorrow ya know since i got that employee discountsemployed partoftheaeroteam
+267706584900202496	business	lunch time on sunday only one employee at abp come on kentcenter really looonnngggwait
+267706368394412033	business	rt evangoudy txretnavychief my mom took her off the schedule completely shes looking for another employee willing to work full time
+267705364353519616	business	waterbury connecticut seeking a property manager wrelevant experience also seeking office employee email favoriteinvestmentsgmailcom
+267704356340633600	business	rt seeker2b franchise owners should be allowed to get full refund from rw companies who play politics with employees livesboycott them now
+267704239738978305	business	jenngrover every single govt employee shopseatslives like we do
+267704074982539264	business	former apple employee says tim cook isnt passionate about tech video httptcowk36kvtb va mashable
+267704074093330433	business	rt thenewdeal millionaire papa johns ceo john schnatter will cut employee hours bc obama won cont httptcotglftouv
+267703935542886401	business	i liked a youtube video httptcoynizymsp return of the disney employee
+267703613256790018	business	special thanks 2 our employeeveterans serving our communities locallysour country abroad ems heroes veteransday httptcogdgv2fvn
+267702465875562496	business	best thing about not having a license platenot having to park in employee parking
+267702462977298432	business	frontier employee giving grief to an older gentleman who is hard of hearing frontier gatekeeper warrior i kept calling your name jerk
+267701856040546304	business	rt seeker2b franchise owners should be allowed to get full refund from rw companies who play politics with employees livesboycott them now
+267701671411478528	business	franchise owners should be allowed to get full refund from rw companies who play politics with employees livesboycott them now
+267698481177694208	business	rt pragobots andersoncooper ac360 u said wh knew abt petraeus b4 electionspurposely withheld info wrong eric cantor knew httptcoqcas250d p2
+267698222439489536	business	screwthechew thebravobitch black friday sales on thanksgiving causes employee backlash httptcowv4kvtyf via yahoonews
+267698005203894273	business	why your employee engagement survey isnt paying off by jasonlauritsen switchandshift tchat httptcolcvfdncb tchat
+267697877256650754	business	tawnykitaen thereallyndadc susanblakely black friday sales on thanksgiving causes employee backlash httptcowv4kvtyf via yahoonews
+267697876023529472	business	well we started wine production 1042012shere are the fruits of our labor so farunbelievablesemployee httptcov9ko2sid
+267697617524371456	business	black friday sales on thanksgiving causes employee backlash httptcowv4kvtyf via yahoonews
+267697242486472704	business	report fbi employee told rep cantor about david petraeus affairs httptco0fm5hec2 tcot
+267697078283669505	business	i liked a youtube video httptcoho96z2zl confessions of a disney employee pt2
+267697052987838465	business	there is only one employee in this att meh
+267696798611685378	business	improve productivity by embracing employee emotions httptcotufh5jfz
+267696331261374465	business	rt gopherhole hawkeyes ath dept employee accused of trading ticketssmoney for sexual favorssinappropriately touching athletes httptco57vlkyic
+267695537476747264	business	rt muckraker62 listening to mallory factor author of shadowbosses speak on the topic of public employee unions fcretreat
+267694677774446593	business	rt pragobots andersoncooper ac360 u said wh knew abt petraeus b4 electionspurposely withheld info wrong eric cantor knew httptcoqcas250d p2
+267694485092302848	business	rt preciousliberty john schnatter papa johns ceo obamacare likely to raise costs employees hours being cut httptcohmiwllo4 teaparty p2
+267694465840451584	business	rt chazmooney id close my business before id be complicit in the abortion of my employees child endabortion
+267693763772690433	business	rt eltonstanley i sure would hate to be the 51st employee of a company
+267693401384812544	business	target employee at odds over black fridayshttptconmcdjces httptcoyd6kjv33 blackfriday
+267693035649892353	business	rt jasonlauritsen rt tedcoine mustread why your employee engagement survey isnt paying off by jasonlauritsen switchandshift tchat httptcow2fkwsk7
+267692944008568832	business	report fbi employee told rep cantor about david petraeus affairsthe hills defcon hill httptcopf51y3bc
+267692910240210945	business	being an employee at skagwayskillme
+267692366004117504	business	john schnatter papa johns ceo says company cutting back employee hours because of obamacare httptcol6tymygn
+267692169278676993	business	for someone who cant afford employee health insurance papa john sure is giving away a lot of free pizzas
+267691842634661888	business	rt gopherhole hawkeyes ath dept employee accused of trading ticketssmoney for sexual favorssinappropriately touching athletes httptco57vlkyic
+267691827627429889	business	rt teapartyorg ceo obamacare likely to raise costs employees hours being cut httptcokd1dyndx teaparty
+267691695301349376	business	there are some good ppl left in this world saw a teenage target employee help an elderly blind woman to the bus that was picking her up
+267691317604265984	business	markjekyllhyde kurtschlichter chuckwoolery my teen had tough time finding job youth need these jobs to learn how to just be an employee
+267691295798071297	business	listening to mallory factor author of shadowbosses speak on the topic of public employee unions fcretreat
+267689979143151616	business	j crew employee with a flannel shirt thick cardigan plaid scarf and wool pants in the store sweat running down his face
+267689563017867264	business	rt gopherhole hawkeyes ath dept employee accused of trading ticketssmoney for sexual favorssinappropriately touching athletes httptco57vlkyic
+267689412316516352	business	hawkeyes ath dept employee accused of trading ticketssmoney for sexual favorssinappropriately touching athletes httptco57vlkyic
+267688415816994818	business	happy veterans day thank you for all that you have done and thanks our dedicated employee paige for serving the country all summer 3
+267687174420430849	business	i believe people need to stop shopping at family dollar and i am a employee a employee cut youtube httptcohtbkigij
+267686840658694145	business	i sure would hate to be the 51st employee of a company
+267686751101911041	business	a resource for companies dealing with criminal and amoral employee behavior online httptcosb4xxalx
+267686021058134018	business	rt uapcitizen starting jan 1 its the 29 hr work week 30 hrs or more companies have to provide health ins under 30hrs employee provides or pays fine
+267685932554153984	business	starting jan 1 its the 29 hr work week 30 hrs or more companies have to provide health ins under 30hrs employee provides or pays fine
+267684016893874177	business	intel im very proud to be an intel employee
+267682917671636993	business	rt jamesonvoss employer costs from unhealthy employee behaviorssthe business case for worksite wellness healthaffairs httptcognj0ah24 roi
+267682914328780803	business	rt jamesonvoss employer costs from unhealthy employee behaviorssthe business case for worksite wellness healthaffairs httptcognj0ah24 roi
+267681114544562178	business	rt ksconservative1 rbrucemorgan biz fundamentals are changedsvalueper employee has changedsbiz will shift the political world watch
+267679753962676224	business	veterans day as an applebees employee
+267679483878842368	business	one way to retain employees is to encourage employee connectionsshelp foster loyalty to the company a paycheck cant do this
+267679012237762560	business	liberals to boycott papa johns bc they may cut employee hours bc of obamacareshow will boycott help employeesselectionsconsequences
+267678758176178176	business	just listened to mandy shapansky president and ceo talk about employee empowerment thanks women of influence and deloitte
+267678257506299904	business	jackass fort knox it employee aquaintance attempted 2 school me that ptsd isnt whats its called anymore bigdope govisitaveteran
+267677660979802112	business	i just asked a lowes employee why unfinished cabinets dont have choice of doorssyou would think i whizzed in her corn flakes
+267677470738747392	business	id close my business before id be complicit in the abortion of my employees child endabortion
+267677061391450112	business	rt laurastack an employee who works 12 hours a day can be more unproductive than one who works 6 hr productivity training
+267675034611494912	business	world war z 2013a un employee is racing against time and fate as he travels the world trying to stop th httptcoyyx26z8v
+267674857846755328	business	oh and if you are of the football watching varietysorder pizza on sundaysspapa johns has cut their employee hours to protest obamacare
+267674635808694274	business	rbrucemorgan biz fundamentals are changedsvalueper employee has changedsbiz will shift the political world watch
+267674312981499904	business	law school falsified jobs data exemployee says httptco5anuc31a
+267673929236242432	business	only american eagle could make employee meetings the most exciting thing ever ae
+267673834054889473	business	bolivia armed robber flees store after struggle with employee httptcos6jlz1eh news
+267673120696061953	business	law school falsified jobs data exemployee says httptcowlht9gbr
+267672919562403840	business	any ceo who would cut employee hours and fire people instead of raising prices a few cents is a crooked bastard who deserves to go down
+267672617715134464	business	life of a wendys employeep httptcom0uyvwgo
+267672116638388225	business	mayor karl dean seeks approval for metro employee buyout program httptcojyep4da3 via tennessean
+267669340902522880	business	the ultimate comment any fellow employee would love to hearshello hard working associate im an idiot that feels httptcocg37ywxt
+267667719338467330	business	daniel got employee of the month daniel if you can see this ill fuck you and your crew up
+267667533916684288	business	law school falsified jobs data exemployee says httptco6hgdxygh
+267666360631451648	business	safritts dont feel bad we dont get the stipend either i feel like an unwanted employee
+267666196294410240	business	watchsblack friday sales on thanksgiving causes employee backlash tanya rivero reports retail workers anger o httptcobimgwvnp
+267666174421131264	business	rt pragobots andersoncooper ac360 u said wh knew abt petraeus b4 electionspurposely withheld info wrong eric cantor knew httptcoqcas250d p2
+267666130011836417	business	loan broker employee relationship httptco6pte4i9b
+267665575734542336	business	manage a challenging and valuable employee httptcoilkwgiqm via harvardbiz
+267664845996974080	business	jaceec ashleighs employee discount and they were 30 off already
+267662328206589953	business	rt pragobots andersoncooper ac360 u said wh knew abt petraeus b4 electionspurposely withheld info wrong eric cantor knew httptcoqcas250d p2
+267662175584256000	business	rt pragobots andersoncooper ac360 u said wh knew abt petraeus b4 electionspurposely withheld info wrong eric cantor knew httptcoqcas250d p2
+267662058131189760	business	depression leads a list of ten modifiable risk factors accounting for more than onefifth of employer and employee heahttptco3nknnipf
+267661728148516865	business	a woman is fired for a facebook post and i applaud her employer httptcon5el1uvy via leaderswest
+267661128551780353	business	new research how employee engagement hits the bottom linesharvardbiz httptcoggsvf9l3
+267661033659830273	business	observed dunkindonuts employee chewing on fingernails through his serving glovesnasty
+267660386436788224	business	job part time employee by dmlamos want 1 dedicated employee to work with me to build several wordpress si httptcoovykssu8 php
+267659914388840448	business	businesses see increase in governmentmandated peremployee cost businesses make cuts libs who have never owned businesses cry outrage
+267659795899772929	business	1thingicantbuythisyear are cinnamon scented pine cones because im still the only campus employee not getting the campuswidestipend
+267659201139048448	business	a great employee engagement article that never mentions employee engagement httptcowrlsxr5p httptcocihhsot8
+267658204752789504	business	straight a student and a full time employee top 15 in the division
+267657286187634690	business	rhynofart cause shes your employee can anot lol
+267657161096712193	business	rt mashabletech a former apple exec says ceo tim cook isnt passionate about tech nehapk has more httptcob6ltkfl2
+267656032111718400	business	exemplary leadership practice often overlooked accelerate employee engagement alignmentsaccountability the phttpstcoaydnct32
+267655984770588672	business	rt askkim a woman is fired for a facebook post and i applaud her employer httptcoywzde75j via leaderswest
+267655432376565760	business	andersoncooper ac360 u said wh knew abt petraeus b4 electionspurposely withheld info wrong eric cantor knew httptcoqcas250d p2
+267654111166599168	business	rt teapartyorg ceo obamacare likely to raise costs employees hours being cut httptcokd1dyndx teaparty
+267653239036592129	business	john schnatter papa johns ceo obamacare likely to raise costs employees hours being cutread more httptconnkvvgew
+267652696360771584	business	rt amsterdamred to all denver broncos fans manning just bought 21 papp johns think hes not going to cut hours for his employees boycott pappa johns
+267652271007993857	business	rt hralternative improve employee engagement by improving communication and investments in career development
+267652150841188353	business	job part time employee by dmlamos want 1 dedicated employee to work with me to build sever httptcolhtlrkwx mysql programming
+267652071883415552	business	job part time employee by dmlamos want 1 dedicated employee to work with me to build several wordpr httptcoer2aapkz wordpress
+267651358197424128	business	rt teapartyorg ceo obamacare likely to raise costs employees hours being cut httptcokd1dyndx teaparty
+267650187097407489	business	getting 92 coat for 2013 oh how i love my employee discounts
+267648869364539392	business	rt teapartyorg ceo obamacare likely to raise costs employees hours being cut httptcokd1dyndx teaparty
+267648735163592705	business	rt teapartyorg ceo obamacare likely to raise costs employees hours being cut httptcokd1dyndx teaparty
+267648698689912832	business	hurricane sandy how can you helpsguest post by kurt jensenhurricane sandy one of the largest atlantic tropicalshttptcoabo9takk
+267648691194703873	business	rt teapartyorg ceo obamacare likely to raise costs employees hours being cut httptcokd1dyndx teaparty
+267648597955317762	business	ceo obamacare likely to raise costs employees hours being cut httptcokd1dyndx teaparty
+267648184510185474	business	a woman is fired for a facebook post and i applaud her employer httptcoywzde75j via leaderswest
+267647349453627393	business	an employee who works 12 hours a day can be more unproductive than one who works 6 hr productivity training
+267647074026266626	business	obama charges 2000 to employers per employee who is not ensured only for businesses with 50 or more employees bye bye job growth
+267646534965944321	business	twitchyteam yes because that will encourage the company to not cut employee hours
+267643403993493504	business	good morning sometimes when a restaurant employee tries to say something then i correct he or her with the correctsthey get overwhelmed
+267642663535263745	business	the people tweetingfreaking about papa johns know that the ceo isnt controlling franchise employee hours right
+267639209504944128	business	to all denver broncos fans manning just bought 21 papp johns think hes not going to cut hours for his employees boycott pappa johns
+267638897339691009	business	rt resumebear 7 signs your rockstar employee is looking for a new job httptcof00iwokb
+267638134571945984	business	pc spy softwaresgreat convertion computer monitoring software spy on cheating spouce children and employee httptcowhrzxchj
+267637662188445697	business	jimcramer says ceos will layoff and fire employees until they see solution for fiscal cliff this is reallife politics
+267636639164162048	business	heygeno contribution to employee healthcare yeah well i dont know what is wrong with thatswhats your point
+267636532062593024	business	rt onlineresume 7 signs your rockstar employee is looking for a new job httptcozpow8kca
+267635566810652674	business	7 signs your rockstar employee is looking for a new job httptcof00iwokb
+267635420257480705	business	im at delta employee lot 2nd stop minneapolis mn httptcoj3ggpkcn
+267634597133697024	business	rt firstworldfacts research suggests that taking ones dog to work reduces stress in workplace and increases satisfaction of employee
+267632620429508608	business	have employee management and other hr issues in franchising this blogs for you httptconj9bmjhz
+267632078185717762	business	mechfed cspanwj nothing to stop the public employee unions from taking more for themselves now no market force to interrupt them
+267631085029052418	business	hotb0xing ahaha such a great employeesnahh cant ring in sick my manager went to loads of trouble to swap a day so ill be nice haha
+267628489077837824	business	i must be the best employee cos i love work and will work for ages without a rest cos i just love working so much
+267627900864434176	business	happy birthday to purozone employee gary ward
+267624240616992768	business	7 signs your rockstar employee is looking for a new job httptcozpow8kca
+267621885104226304	business	lol we workin on itssigned an ecay employee rt kerrsz try need an ecaytrade app
+267620244217028608	business	to be the employee of the month coincidence overachiever
+267618506466549762	business	whos investigating cantor thehill report fbi employee told rep cantor about petraeus affair httptcohzp6damn
+267614766367911936	business	rt pc911ofkansas happy birthday to our employee daryl
+267613533896859651	business	tonybennett175 awwweekend dues i paid mine for years im a blessed employee
+267612924086988801	business	top 6 rules of employee engagement httptcob5e3c4me
+267608872804548608	business	wish you could chart employee encounters electronically on an ipad with readyset its that easy find out how nov 14 httptcoryh4ijyr
+267606351935578112	business	teletech is looking for senior manager global employee communicationshttptcomwsbpuvj job
+267604514134163456	business	rt informedblackmn exemployee wrote me from company i sold months ago bye bye full time jobbenefitsspart time or go home brutal i built that not this
+267604496102875136	business	official employee of the patriots httptcodyx9g1wb
+267603563985895424	business	rt informedblackmn exemployee wrote me from company i sold months ago bye bye full time jobbenefitsspart time or go home brutal i built that not this
+267602680615170048	business	rt informedblackmn exemployee wrote me from company i sold months ago bye bye full time jobbenefitsspart time or go home brutal i built that not this
+267598487523307522	business	exemployee wrote me from company i sold months ago bye bye full time jobbenefitsspart time or go home brutal i built that not this
+267594583561601025	business	peter johansson us customs officers theyre the only federal employee that i can think of that at any point httptcomfli8w1a
+267592461847781376	business	suggestion at work implement for each employees anniversary co workers hand write a contribution theyve made secret on desk
+267589403449384960	business	rt seolatta fired coal mine employee shares letter from evil coal boss with the world httptco5tto9qyg
+267588078351314944	business	tesco employee loans httptcowlcyx4mp
+267588013771616256	business	tesco employee loans httptcoixhjqmje
+267584018621534208	business	rt preciousliberty john schnatter papa johns ceo obamacare likely to raise costs employees hours being cut httptcohmiwllo4 teaparty p2
+267580389286092800	business	ambisagrus pretty sure they just listed every employee at ubisoft
+267577729896050690	business	rt nclinch msnnow papa john says hes cutting job hours because obama won httptco2hf4tmzpschickfila now papa johns who next to boycott
+267577036128784384	business	john schnatter papa johns ceo obamacare likely to raise costs employees hours being cut httptcohmiwllo4 teaparty p2
+267576795837108224	business	john schnatter papa johns ceo obamacare likely to raise costs employees hours being cut httptcoivqyepip
+267576205430116353	business	rt mrjamiemelton las vegas businessowner laysoff 22 employees due to election warned all employee it would be due to obamacare if obama was reelected
+267575848809406464	business	mrssabchaleb yuuuuup took off last night and tonight even got another employee to bake them a cake rolls eyes
+267572915271254016	business	noysh well its not fair to employees to stop buyingshes claiming hes going to hurt his own employees cause now they get insurance
+267570558072389632	business	john schnatter papa johns ceo obamacare likely to raise costs employees hours being cut httptcohvzp4uyv
+267556138260758528	business	iampapajohn is it true the rumor that your co will reduce employee hrs to avoid health care
+267553897193803777	business	rt seolatta fired coal mine employee shares letter from evil coal boss with the world httptco5tto9qyg
+267553480166760449	business	fired coal mine employee shares letter from evil coal boss with the world httptco5tto9qyg
+267552622523842560	business	rt toorealtrill jcpenney employee in his 20s stabbed in the chest
+267552005801795584	business	dont just engage energize rt leadercoachwjh how employee engagement hits the bottom line harvardbiz httptcotxi7cuf9
+267549991747338241	business	jcpenney employee in his 20s stabbed in the chest
+267549592055324672	business	damn it was a mall employee
+267547536007503874	business	kid has a full page in the u news but is my employee lol sit down httptcoyigw77ih
+267546245759893504	business	assclown papa john says hes cutting job hours because obama won httptco26eat5nd outrageous hornswaggle whitepawnews
+267543680724905984	business	rt jbstrick johnehoover in most work environments if a boss smacks an employee that boss would be fired think what would happen at the world
+267543290138746881	business	cisco vp mike quinn promises to hunt down whistleblower after a cisco employee anonymously leaked an internal c httptcobsa3nzzc
+267543288553283584	business	ebosswatch cisco vp mike quinn promises to hunt down whistleblower after a cisco employee anonymously leaked an httptcocucdz6ak
+267543032637829120	business	johnehoover in most work environments if a boss smacks an employee that boss would be fired think what would happen at the world
+267540238153424896	business	rt sistertoldjah rt msnnow papa john says hes cutting job hours because obama won httptcoqokqhior
+267539253234372608	business	rt nclinch msnnow papa john says hes cutting job hours because obama won httptco2hf4tmzpschickfila now papa johns who next to boycott
+267537445678108672	business	opportunity for java software leadsrt 128mass pike jct employeeorientedsjava natick jobs httptcob6la8raq
+267536344958517248	business	clumsymeatball convince her to let me borrow it for a few days and ill buy her jewelry for her with my employee discount mwaha
+267533937222488064	business	danmerker shit i hope no one got him on the sprint employee advantage plan
+267531178653925376	business	might not some trusted employee return to the
+267529843527282688	business	the best employee at the smokehouse httptco2nedeowz
+267529446066630656	business	rt aubreymclendon during the fall and spring all female chk employees are required to wear yoga pants
+267528875972632576	business	boss found out im mormon so what im still the chillest hard working employee you have proud
+267525822234107904	business	politicians and cricketers on black money list exswiss bank employeeshttptcoagvvqzd3
+267525642034233344	business	rt jbbauersfeld mizzou athletic department employee puts 7600 on a university credit card at a strip club cant make this stuff up
+267525597616537600	business	rt jbbauersfeld mizzou athletic department employee puts 7600 on a university credit card at a strip club cant make this stuff up
+267524641352994816	business	my favorite ex boyfriendex target employee hehe httptcovzrxjkt6
+267524062635491329	business	john schnatter papa johns ceo obamacare likely to raise costs employees hours being cutshttptcohgaghjcm
+267522931419144192	business	i wish there was a job that revolved around maydayparade i would be employee of the year lol
+267522733510889473	business	rt xxojuustanthony so one of our employees quitsnow the new girl has to close kitchen its her first night
+267521029809782784	business	a gac physical plant employees vehicle ornamentshttptcokxypztbl
+267520282460299266	business	former apple employee says tim cook isnt passionate about tech video shared by feedswire ios app httptcotqeneixv
+267518884314226688	business	hoy former apple employee says tim cook isnt passionate about tech video httptco9toyb69c see more httptcomdehvthf
+267517496188362752	business	mall employee hospitalized after stabbing httptcoh8arsvr0
+267516825305239552	business	new blog posting employee gets revenge and tells all credit card reward secretsshttptcolmdqdncp
+267511301071323136	business	rt popfreeradio papa johns is cutting employee hours to avoid paying for insurance in order to avoid a 14cent per pizza priceincreasesmaintain profits
+267509751410208769	business	answer employeeslets follow me and share more questions by you
+267509495490551808	business	268 a employing b employment c employed d employees get this ios app httptcoiz0mrxyn
+267508266307833856	business	finally no longer a mcdonalds employee
+267504856980402176	business	so one of our employees quitsnow the new girl has to close kitchen its her first night
+267504130661154816	business	richcasa um if their sales drop from a boycott employee hours will get cut more ceos arent impacted workers will take brunt
+267501568805441537	business	rt popfreeradio papa johns is cutting employee hours to avoid paying for insurance in order to avoid a 14cent per pizza priceincreasesmaintain profits
+267500575606857729	business	rt popfreeradio papa johns is cutting employee hours to avoid paying for insurance in order to avoid a 14cent per pizza priceincreasesmaintain profits
+267497028874014720	business	txretnavychief my mom took her off the schedule completely shes looking for another employee willing to work full time
+267496425208807424	business	any socalled liberty loving patriot who would fire an employee 4 voting 4 obama has no concept of freedom or liberty
+267496399082512386	business	rt popfreeradio papa johns is cutting employee hours to avoid paying for insurance in order to avoid a 14cent per pizza priceincreasesmaintain profits
+267496181360381952	business	if a socalled patriot told me they would fire any employee who voted 4 obama i would simply laugh at them 4 being such a total fake why
+267495059329519616	business	rt popfreeradio papa johns is cutting employee hours to avoid paying for insurance in order to avoid a 14cent per pizza priceincreasesmaintain profits
+267494896254996481	business	oh an employee who worked here 6 years ago has a cousin who got married and moved to quebec better send em a card everyone sign it
+267494637453852673	business	rt popfreeradio papa johns is cutting employee hours to avoid paying for insurance in order to avoid a 14cent per pizza priceincreasesmaintain profits
+267494347161866240	business	that awkward moment when someone mistakes you for a store employee
+267493906181128192	business	rt popfreeradio papa johns is cutting employee hours to avoid paying for insurance in order to avoid a 14cent per pizza priceincreasesmaintain profits
+267492322244173824	business	this is a perfect depiction of the typical ratchet mcdonald employee snl
+267491870165327872	business	a former female employee claims waffle house ceo allegedly demanded sex acts in exchange for job httptcozdqi4tvm httptcohbo4a4qx
+267491581051944960	business	rt trainman1405 to the club penguin employee that searched cp memories on google hi
+267490622234050560	business	arguing over facebook with my little brother because he thinks this is still a free country go figure hes a government employee
+267490096947793920	business	john schnatter papa john8217s ceo obamacare likely to raise costs employee8217s hours beingnbspcut httptco70s6wl8h
+267489196996952065	business	bophiesurch in mcdonalds drive thru she misses the window pulls back turning her wheel and the employee opens the window can you drive
+267486201395683329	business	so to eastonreece for being the next hays employee codybarnett95
+267485617871532032	business	rt jbbauersfeld mizzou athletic department employee puts 7600 on a university credit card at a strip club cant make this stuff up
+267485580663873536	business	politicians and cricketers on black money list exswiss bank employeesibnlive ibnlivepoliticians and cricket httptcont7umrsf
+267484593601511424	business	john schnatter papa johns ceo obamacare likely to raise costs employees hours being cut httptcouq9c347j
+267484451292991490	business	i made a taco bell employee cry tonightbest birthday ever denied
+267483098378285058	business	missedconnections walmart employees m4m elliot rd and priestshttptco1obwy4bq phx phoenix
+267481307825700866	business	to the club penguin employee that searched cp memories on google hi
+267481259352158208	business	rt dakbrockmann1 shitnoonesayss that walmart employee was really attractive frahmsquad
+267481254012788737	business	27 years of technological bliss interesting article from okumaamerica from longtime employee ken buechele httptcoizdim51s mfg
+267481131098726400	business	msnnow papa john says hes cutting job hours because obama won httptco2hf4tmzpschickfila now papa johns who next to boycott
+267481070545555456	business	i liked a youtube video from natesvlogs httptcoxrvdltwd employee evaluation how to get on world star
+267480574837534721	business	rt rockymntnmike every employee fired because of obama victory must be allowed to dip their balls in david kochs mouth
+267479216608661506	business	kayysunglasses they named you employee of the month smh lol
+267478215751245824	business	rt futcongressman papa johns ceo obamacare likely to raise costs employees hours being cutread here httptcofsls7qsq libertariantcot
+267476912182554626	business	did a fellow employee just charge me 5 cents for a bag how dare this bitch
+267475640452780033	business	httptco3vu0ogvu john schnatter papa johns ceo obamacare likely to raise costs employees hours being cut
+267475482839220225	business	boosting employee compensation without raises httptcodsrbrmlg
+267475019569967105	business	laurawalltx ceos being angry that obama won some ceos actually threatened layoffs if an employee voted for obama that is voter
+267474307389722624	business	how did i forget my employee id number i only type it 500 times per night ugh i need another 5 day break haha
+267474191866023936	business	coldstone you did the right thing in regards to that employee
+267474177064321027	business	cimtrbl2 i have served america my whole life in the military and as a dod employee its hard to watch her die
+267471390213558272	business	7039 south memorial tulsahorrible experiencesthe employee said too bad we are going out of businesssorangeleaf httptcobwayzv4i
+267469572322500608	business	id rather lose a person entirely in my life than to have them play part time employee like its a job for them to stick by my side
+267468096514699265	business	papa johns ceo obamacare likely to raise costs employees hours being cutread here httptcofsls7qsq libertariantcot
+267467163927990274	business	shitnoonesayss that walmart employee was really attractive frahmsquad
+267466977231122432	business	my best friend is now an employee at american eagle at moa beast desireerae3
+267466949800386560	business	if you clog a toilet please unclog itsincerely grossed out employee
+267466753213362178	business	rt biglogs1018 mlbmmamatt jslach jillyanhamer marcellrb mandyworrell guess who the newest employee at herbs is
+267466147534868480	business	i hate the put the espn employeealum of the school were covering in the booth for the 3rd quarter game
+267465988562374657	business	harvard business review new research how employee engagement hits the bottom line httptcoyeeaavah
+267465395601039360	business	former apple employee says tim cook isnt passionate about tech video httptcogkmvha2j via mashable
+267465188612132864	business	rt scottaengle winning analysis by evansilva nbc employee and uninformed idiot probably thinks golson should win the heisman too what a clown
+267464878267195392	business	winning analysis by evansilva nbc employee and uninformed idiot probably thinks golson should win the heisman too what a clown
+267464751372705792	business	rt patdollard if u r an employer u owe it to ur country to fire any obama voter employeesshire nonobama voter employee replacements
+267463186121379840	business	taco bell employee of the month you are so hot right now
+267463057687576578	business	rt firstworldfacts research suggests that taking ones dog to work reduces stress in workplace and increases satisfaction of employee
+267462646851330050	business	saint francis all employee partyshttptcobiexddvh
+267462410082873344	business	cnn employee on huffpost my son wore a dress for halloween httptcojdejxznv rwnjalert
+267461459175411714	business	former employee alleges waffle house ceo demanded sexual actssfox news httptcoo6clxzqs via foxnews
+267460865744314368	business	mommachambs well look at you employee of the month material
+267459888081424384	business	lickystickypickywe shawnblogjohn schnatter papa johns ceo says company cutting back employee hours bec httptcobbne4snm
+267459117919113216	business	rt cramermarc watching employee of the month bestmovieever
+267458885290442753	business	watching employee of the month bestmovieever
+267458780772581377	business	spending the rest of my shift at work writing employee reviews and listening to spotify 9togo
+267455540609822720	business	politicians and cricketers on black money list exswiss bank employeesibnlive ibnlivepoliticians and cricket httptcoyb9webvy
+267454822251380736	business	httptcol2bxm3ep papa johns cutting employee hours due to obama care
+267454473268514816	business	316ict mall employee in critical condition after stabbing two other people are in custody httptco8wilil3f wichita kansas
+267452875171569664	business	apple store employee has cut off jorts on
+267452620090773505	business	graffiti removal co arrested for creating graffiti to juice city contract funds httptcoeuwllbxd
+267452427505123328	business	theres cute sunglasses too omg welcome to goodwill employee bathroom
+267452380478570496	business	mlbmmamatt jslach jillyanhamer marcellrb mandyworrell guess who the newest employee at herbs is
+267452145958264832	business	just got told by an employee that id probably rather be taking shots spoton i feel like a ksrich47 right now
+267451152696754177	business	need a land surveying jobsneed a land surveying employee land surveying jobssscoopit httptco7twdxaqr
+267451092189712384	business	overview of labor laws on sexual harassment at the workplacesthe civil rights act of 1964 protects employee httptcoipmtkl0d
+267451039580561408	business	theres a nice jacket in the employee bathroom at outback i wanna take it
+267450621655937025	business	rt avonwalter rt carminegallo best buy execs explain their aggressive windows 8 launch 50k hours of employee training httptcoeddfvlrw custserv
+267450336573288448	business	top story former apple employee says tim cook isnt passionate about tech video httptcos0ikfizc see more httptco6qj5rjto
+267450243568771072	business	brookeskipper victorias secret has their 7 for 25 sale plus i had a ten dollar card ans i get an employee discount so it was like 2perf
+267450130066706432	business	john schnatter papa johns ceo obamacare likely to raise costs employees hours being cut httptcowdvorfc9
+267446656839065600	business	shitnoonesayss that walmart employee was really attractive fitzybitzyspidr youre the exception of course
+267444807188762625	business	i fail 2 see the shock value over papa johns dropping employee hours just so it wont shock anyone more businesses will be doing the same
+267444468083482624	business	rt avonwalter rt carminegallo best buy execs explain their aggressive windows 8 launch 50k hours of employee training httptcoeddfvlrw custserv
+267444237321261056	business	rt janegozenpud romney fyi cancels employee credit cards tues nightsthank the heavens above this guy is not the next president httptcolrhu4zzy
+267444084891848706	business	i was kidding about the obamacare thing but employee benefit costs is one reason to outsource instead of hiring internally
+267443920751968256	business	reececooper101 i started fangurling over that thing the employees were like wtf is wrng with him lmao classic
+267443741890052098	business	when your sister gets you an employee discount on the british vogue magazine onedirectionsis featured in at barnes and noble ermahgerd
+267443508414144512	business	rt sgtpolite welcome to barackcarterstan obamacare likely to raise costs employees hours being cut httptco53leiswq tcot tlot p2
+267443315648118784	business	welcome to barackcarterstan obamacare likely to raise costs employees hours being cut httptco53leiswq tcot tlot p2
+267442681741975552	business	rt caroleblancot infographicsmobile workerssemployee mobile preferences httptcodrpoz7og
+267442476141379584	business	rt kirbhogan papa johns ceo says he cant afford to not reduce employee hrs due to obamacare yet is giving away 2 million free pizzas helloirony
+267441585833250816	business	former apple employee says tim cook isnt passionate about tech httptcomev8flw9
+267438834244009985	business	deancasper146 businesses with 50 employees not willing to pay a 750 fine per employee per year is greed
+267438013133504512	business	manage a challenging and valuable employee httptcotywhtz8y
+267437800285171713	business	hi cute employee from zumiez i liked our convo lets have some more somewhere else sometime
+267437222385577984	business	so im sitting here watching lion king with my daughter izabel and realized that my employee nick was about a year old when it came out
+267437146829357056	business	work 17 tomorrow checking instead of bagging hope theres no employee incidents tomorrow
+267436499354669056	business	rt carminegallo best buy execs explain their aggressive windows 8 launch 50k hours of employee training httptcoeddfvlrw custserv
+267433462078791682	business	top need an employee need a jobs dairy producers and dairy companies looking for employees with undergraduate httptco6wgdn4py
+267433436636139521	business	httptcon8vexxsa notice how quickly sleazy lib ap reporter is to id rogers as a romney contributor
+267433019198017536	business	lolall the employees are referring to me as the jazz master in the employee store haha
+267433015792238594	business	the previous prohibitions also apply to your employee agent student or any personnel under your direction or control
+267432287686258689	business	shitnoonesayss that walmart employee was really attractiveseathgatlinslmao
+267432015354290176	business	wozniak then an hp employee sold his hewlettpackard 65 scientific calculator for 500 to raise capital
+267430686384877568	business	timemillion what traits do you look for when hiring an employee non smoker
+267429654879670272	business	joeprguy dear unitedairlines your employee at the counter in sfo is a mega bitch and needs to learn how to treat people yousuck
+267429613955866625	business	shitnoonesayss that walmart employee was really attractive
+267429313626918913	business	infographicsmobile workerssemployee mobile preferences httptcodrpoz7og
+267429106713522177	business	like2sayfukalot i watch your latest video and see walmart employees throwing ipads in related vids you really are paying rent haha
+267429092784218112	business	shitnoonesayss that walmart employee was really attractive hahahaha
+267428536514654210	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcoorbqi18v
+267428517220851712	business	former apple employee says tim cook isnt passionate about tech video httptcoo1sdrpa3 via mashable
+267428514960130048	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcoljql2psy
+267428417211883521	business	rt mashable former apple employee says tim cook isnt passionate about tech video httptcogbfx9fhg mashable tech
+267427537662140416	business	kelseyybabi lol such a good employee
+267427483027136512	business	having a former student raid the secret nugget employee stash
+267426613627609088	business	ashmg17 lmfao i bet it would be whats your employee discount have you bought any cool makeup yet
+267426537492602880	business	two factory workers compete for employee of the month monstersinc badmoviesummary
+267425725953474560	business	nerd news former apple employee says tim cook isnt passionate about tech video httptco7mxmkwk9
+267425512073334784	business	former apple employee says tim cook isnt passionate about tech video httptcouqwzyfgt
+267425465663377409	business	charged my phone for a half hour at a best buy and not a single employee asked if i need help lame
+267425154064343040	business	former apple employee says tim cook isnt passionate about tech video httptcoc2vujh0a
+267425125278822400	business	former apple employee says tim cook isnt passionate about tech video httptcomfxyzplf
+267425125241065472	business	former apple employee says tim cook isnt passionate about tech video httptcorht73kwa
+267425109692792833	business	techupdate former apple employee says tim cook isnt passionate about tech video httptcoyfrpogqg
+267425065837158400	business	techupdate former apple employee says tim cook isnt passionate about tech video httptcowr7jnbyc
+267424967879168000	business	rt bridgetayers former apple employee says tim cook isnt passionate about tech video httptcour2mr2tt
+267424925835460608	business	former apple employee says tim cook isnt passionate about tech video httptco96qyq6pm
+267424809577750529	business	former apple employee says tim cook isnt passionate about tech video httptco7yt3jqe9
+267424794927038464	business	the smo update former apple employee says tim cook isnt passionate about tech video httptcoiapttzda
+267424766128959489	business	former apple employee says tim cook isnt passionate about tech video httptcofwv75ytf
+267424714912305152	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcoqtjhlvem
+267424714438369280	business	former apple employee says tim cook isnt passionate about tech video httptcooj9u4gkk
+267424714157334530	business	former apple employee says tim cook isnt passionate about tech video httptco8muk9qxc
+267424707341582337	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david httptco57cwoswz rt
+267424687036977153	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcova4e7muj
+267424661925666816	business	former apple employee says tim cook isnt passionate about tech video httptconmciwub8 via mashable
+267424637166682112	business	former apple employee says tim cook isnt passionate about tech video httptcoagcwfgns
+267424523081633792	business	mashable former apple employee says tim cook isnt passionate about tech video httptco5t6mc0fy
+267424503326441473	business	former apple employee says tim cook isnt passionate about tech video httptcocnnqqbxi
+267424499329277952	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcoedplxyvu
+267424423563370496	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcoa4h5tuen
+267424395855814657	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcokrvxtyxn
+267424279015067649	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcocsptfcad
+267424164825145344	business	psychonews former apple employee says tim cook isnt passionate about tech video httptcomryckp7d
+267423982154833920	business	john schnatter papa johns ceo obamacare likely to raise costs employees hours being cut httptcolkuq9pnp
+267423930501963776	business	former apple employee says tim cook isnt passionate about tech video httptcoegsdw6vh
+267423795835457536	business	former apple employee says tim cook isnt passionate about tech video httptcoo35pyvql
+267423729578037249	business	news former apple employee says tim cook isnt passionate about tech video httptcojrnjcv1w
+267423367106269184	business	former apple employee says tim cook isnt passionate about tech video httptcoimq5ajuk
+267423365474697216	business	former apple employee says tim cook isnt passionate about tech video httptco6zg8vhmw
+267423355840393216	business	mashable update former apple employee says tim cook isnt passionate about tech video httptcoerjrfqnh
+267423339910406144	business	rt mashable former apple employee says tim cook isnt passionate about tech video httptconff6p3vx
+267423299670274048	business	social news former apple employee says tim cook isnt passionate about tech video httptcozwamjbb0
+267423161451163648	business	former apple employee says tim cook isnt passionate about tech video httptcoc0llanpu
+267423137354878976	business	rt mashable former apple employee says tim cook isnt passionate about tech video httptco92bcanyt
+267422630490025986	business	help with home buying as an employee benefit yes you heard correctly httptcogu2dxasi
+267422480623337472	business	when i get off work at logans and go straight to wetseal to use my employee discountsperks of having no social life
+267421969673248768	business	graffiti removal company employee arrested for creating over 100 tags he later removed at a profit httptcol5yy69xa
+267421616198283264	business	former apple employee says tim cook isnt passionate about tech video httptco9mkwhdiz
+267421243211411457	business	dear starbucks noob employee please learn to make my coffee right i didnt pay 5 for a cup of crapsmeh
+267420712745177088	business	vern is the best whelan employeeshandsdown
+267420612547469312	business	walmart on ipadthrowing employee video it made us wince httptcoeldfrp4c via nbcnewstech
+267419752731906048	business	shitnoonesayss that walmart employee was really attractive courtneyelise15
+267419265156657157	business	former apple employee says tim cook isnt passionate about tech videoshttptcouybpniwb httptcoxubsv4lu
+267419260215779329	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david sobo httptcollbdzhrj
+267418761332666368	business	this piece on obamacare is just wrongsright httptcorbjocc04 help sarahkliff less than 50 employee cos are exempted no hcr
+267418573700485121	business	tylerlbl as a side note that outfit costs 17938 and i can get it for 3588 xd yay employee discount stacking
+267418115590193153	business	my blog site shaw capital management financial newsexemployee sues boulders flatirons bank after httptcolcn6k9v8 my blog site
+267417504324927488	business	i give props to whatever gallagher employee did this one httptcozgtu49wf
+267417416479436800	business	former apple employee says tim cook isnt passionate about tech video httptcoh04vtcpz
+267417175755730944	business	socialmedia previous apple employee says tim cook isnt passionate about tech video former apple sales exe httptcohgoxmxti
+267417112430145539	business	former apple employee says tim cook isnt passionate about tech video httptcobb73s2cf mashable
+267416295325171713	business	that awkward moment when a hotel employee follows you and your friends around the hotel
+267415838125088768	business	former apple employee says tim cook isnt passionate about tech video former apple sales exe httptco8hsg152r anthonymoliva
+267415830088798208	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptco4gzukmuz
+267415796370776064	business	former apple employee says tim cook isnt passionate about tech video former apple sales exe httptcoxvbak5j1svia mashable
+267415774459736064	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcoxoqoefpg
+267415768583507968	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcoukmzhh5a
+267415764187885569	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcowjfbucya
+267415733426872321	business	fanability reports former apple employee says tim cook isnt passionate about tech videoshttptcoiishqvlf mashable delivers
+267415726623690752	business	former apple employee says tim cook isnt passionate about tech video httptco8uq7boya
+267415721351446528	business	former apple employee says tim cook isnt passionate about tech video httptcolpzshiay traffic
+267415703093653505	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcoi9wzcjvg
+267415696781234177	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptco3tizqexu
+267415692352049152	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcoyunffggr
+267415672634626049	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcopr5js2jt
+267415563893104640	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcow0ebdbhi
+267415386662768640	business	rt benjaminhike well i guess im done with papa johnssobamacare likely to raise costs result in employees hours being cutshttptcoyfvdsduy
+267415109956161536	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcomkrtbiaw
+267415108181950464	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcottlua1su
+267414998823866370	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcouhpfwnae
+267414962954190848	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcokygwzgn5
+267414945715609600	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcouy3bgdsh
+267414943157063680	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptco0xeigmfz
+267414928946761729	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcoguvc85ys
+267414928317620224	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptco886qzeix
+267414926639890432	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptco9nnnrp07
+267414926350495744	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcopknhfecj
+267414924127531008	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcobdopz7tp
+267414923452223488	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptco7oruev63
+267414922617552898	business	former apple employee says tim cook isnt passionate about tech video former apple sales executive david so httptcoftiexiso
+267414748658810880	business	si vede rt mashable previous apple employee says tim cook isnt passionate about tech video httptcos4mghvz5
+267414661698318336	business	previous apple employee says tim cook isnt passionate about tech video former apple s httptcowrnnd6i2 httptcownc8vepb
+267414653217431553	business	startup tips previous apple employee says tim cook isnt passionate about tech video former apple sales e httptcophyppcav
+267414565732638720	business	previous apple employee says tim cook isnt passionate about tech video httptcojqyihe7l nomadmediallc
+267414520471879680	business	previous apple employee says tim cook isnt passionate about tech video former apple sales executive davidshttptcoe2nad7ue
+267414515849773056	business	previous apple employee says tim cook isnt passionate about tech video httptcoyvbgbx75 via mashable
+267414476066787328	business	previous apple employee says tim cook isnt passionate about tech video former apple sales executive davidshttptcot6rfubpu
+267414411147370497	business	previous apple employee says tim cook isnt passionate about tech video former apple sales executive davidshttptcompzyuhls
+267414395364184064	business	previous apple employee says tim cook isnt passionate about tech video former apple sales executive davidshttptcoen5vlypv
+267414264657084416	business	mashable previous apple employee says tim cook isnt passionate about tech video former apple sa httptco1uinjsr3 mashable
+267414263809847296	business	mashable previous apple employee says tim cook isnt passionate about tech video former apple sa httptcon57se6l7 mashable
+267414151163420672	business	previous apple employee says tim cook isnt passionate about tech video former apple sales executive davidshttptcoy0fneprt
+267414143177457666	business	previous apple employee says tim cook isnt passionate about tech video httptcoaxwflslg socialmedia sm
+267414123208404992	business	previous apple employee says tim cook isnt passionate about tech video httptcoslsyec9h
+267414095974764544	business	previous apple employee says tim cook isnt passionate about tech video httptcobmtu0a6k
+267414087577788416	business	previous apple employee says tim cook isnt passionate about tech video httptcoipcofaea
+267414087460323328	business	previous apple employee says tim cook isnt passionate about tech video httptcozsovfgb1
+267414002102071296	business	previous apple employee says tim cook isnt passionate about tech video former apple sales executive davidshttptco0erjnq4e
+267413987308761088	business	previous apple employee says tim cook isnt passionate about tech video httptco6iupjoow
+267413986713169920	business	previous apple employee says tim cook isnt passionate about tech video httptco8dljnczk uncategorized
+267413973232656386	business	previous apple employee says tim cook isnt passionate about tech video httptcotxlzskks
+267413878487539712	business	previous apple employee says tim cook isnt passionate about tech video former apple sales executive davidshttptco1ghydmmb
+267413865946570752	business	previous apple employee says tim cook isnt passionate about tech video former apple sales executive davidshttptcoargijqog
+267413824443936768	business	previous apple employee says tim cook isnt passionate about tech video httptcooov2udzj
+267413753270767616	business	previous apple employee says tim cook isnt passionate about tech video former apple sales executive davidshttptcoy2rtgcxz
+267413687688634368	business	4 pointssa video with the hickory farms employee showing a gift box and saying happy birthday paige
+267413087794102274	business	rt xaron4 applebees will cut employee hours to avoid obamacare any vets theres a big thank you from applebees to their employees
+267411849266475008	business	richardjmurphy does every md resign when an employee messes up
+267411697831129088	business	work day went so slow happy to be done got somesand a sweet spiderman umbrella for under 20 bucks though yay employee discounts
+267410440970194944	business	gettin that employee discount at punch
+267409243869675520	business	httptcon6brdyuk i like that one michaelsshave employees dedicated to pm fulltimestoo much is the mentality in our
+267406856270520321	business	career management consultant project employee portland or atsright management is hiringshttptcosjbupslv thelipsmethod
+267406262562590720	business	rt popfreeradio papa johns is cutting employee hours to avoid paying for insurance in order to avoid a 14cent per pizza priceincreasesmaintain profits
+267405770868535297	business	rt samstanky32 when stiffonme doesnt park in the assigned employee parking spots badgirl
+267404332943675392	business	rt willowcreekjlry papajohn says he cant afford 14 centspizza 2 cover employee health care reallyhe has 40000sf house22 car garage httptcoe6zgcbp5
+267403978973790209	business	shout out to the erc employee who scheduled me to work tonight fuckyou
+267403751785127936	business	a new employee at victorias secret
+267403509366931457	business	my job be tripping u gotta go around the corner and across the street to the employee parking lot smh
+267400042950840320	business	papa johns is cutting employee hours to avoid paying for insurance in order to avoid a 14cent per pizza priceincreasesmaintain profits
+267399816131252224	business	just curious is it a requirement that every male employee at thecurtishotelshas to be hots damn good looking staff
+267398990637707266	business	when stiffonme doesnt park in the assigned employee parking spots badgirl
+267398965861957634	business	this mcdonalds employee wont take my money it may be because im handing it to her clinched between my asscheecks
+267398823410806784	business	woman alleges waffle house ceo demanded sex actsshttptcozqmjwxen fox news an247
+267396495635005440	business	courtney17p laurencampbel31 you are a shit new look employee itsacape
+267396000073793536	business	maryland is basically playing a wawa employee at quarterback now
+267395818976317440	business	loved seeing the tigers pull it out the bit kmiz did in memory of my cuz sheila an employee of theirs was a very cool tribute too miz
+267393978272473088	business	damn employee didnt show upsback to the storesgrrr
+267392757881004032	business	rt benjaminhike well i guess im done with papa johnssobamacare likely to raise costs result in employees hours being cutshttptcoyfvdsduy
+267392476476743680	business	applebeess in pbg is showing all school board employees appreciation eachsevery friday from 410pm show school board idsget 50
+267391693953847297	business	st louis mo kmox jury rules in madison county employee suit
+267391316684595200	business	tross13 now that youre admin can you put me under tarsier employee group p
+267391215253737473	business	redneck computer term superconductor amtraks employee of the year
+267389294707101696	business	me do you have the movie the way in stockbest buy employee can you spell that for mepause blinkblinkme umtheway
+267388327139876865	business	dougbremer lol you know i use those words just not at work im a good employee
+267386300527689728	business	swear i put the song on and an employee called me to run an errand listening to the song now though
+267385357425848320	business	whoo 50 employee discount d
+267384736882769920	business	whiskeys face alcohol crackdown in russia steve leauhman a jim beam brands co employee fills httptconrwu0pcp topshelfdirect
+267382412311396352	business	rtfilthyrichmond papa johns cutting back employee hours to avoid obamacare if anyones hungry for a pizza made by desperate sick people
+267382369135239168	business	piersmorgan garylineker a former employee of the sun preaching about ethical journalism talk about selective memory gobshite liars
+267381558820880385	business	maaallorynicole remembered my own employee id ad i didnt haha thank god someone did
+267381148865421312	business	184 a employable b employee c employment d employss get this ios app httptcoiz0mrxyn
+267380446776655872	business	cocktails and guns whatfun dillards employee
+267379677759418368	business	rt willowcreekjlry papajohn says he cant afford 14 centspizza 2 cover employee health care reallyhe has 40000sf house22 car garage httptcoe6zgcbp5
+267378989943894016	business	leaders dont blind themselves to the employee noise they check it make note of it and do not panderleaders
+267378683935875072	business	watching a sams club employee hit on a customer high up on the list of most awkward things ever
+267378578923081728	business	an employee replied umm noo try mcdonalds or burger king
+267378566826708993	business	rt willowcreekjlry papajohn says he cant afford 14 centspizza 2 cover employee health care reallyhe has 40000sf house22 car garage httptcoe6zgcbp5
+267378515127721987	business	willgmcd highest paid state employee right there overachiever fireferentz
+267378354104180737	business	rt willowcreekjlry papajohn says he cant afford 14 centspizza 2 cover employee health care reallyhe has 40000sf house22 car garage httptcoe6zgcbp5
+267377939925061633	business	working on employee benefit plans this fall dont confuse sensitive information with what means legally protected httptconojvxeic
+267377826582372353	business	rt willowcreekjlry papajohn says he cant afford 14 centspizza 2 cover employee health care reallyhe has 40000sf house22 car garage httptcoe6zgcbp5
+267377625205452802	business	wow some people are so stupidstalking to an employee reminding them they use to work 4 u then running out of the store with cigars smfh
+267377234795454465	business	rt willowcreekjlry papajohn says he cant afford 14 centspizza 2 cover employee health care reallyhe has 40000sf house22 car garage httptcoe6zgcbp5
+267376656828735489	business	rt willowcreekjlry papajohn says he cant afford 14 centspizza 2 cover employee health care reallyhe has 40000sf house22 car garage httptcoe6zgcbp5
+267375082882621440	business	cohockeycamps no that was my employee number at an old job
+267374856914472960	business	184 a employment b employee c employable d employss get this ios app httptcoiz0mrxyn
+267374750249152512	business	cold stone creamery employee fired after wishing obama dead on facebooksthe raw story httptcokgj7ss83
+267374277886615552	business	rt willowcreekjlry papajohn says he cant afford 14 centspizza 2 cover employee health care reallyhe has 40000sf house22 car garage httptcoe6zgcbp5
+267373988844548096	business	rt willowcreekjlry papajohn says he cant afford 14 centspizza 2 cover employee health care reallyhe has 40000sf house22 car garage httptcoe6zgcbp5
+267373010586058752	business	rt willowcreekjlry papajohn says he cant afford 14 centspizza 2 cover employee health care reallyhe has 40000sf house22 car garage httptcoe6zgcbp5
+267372928243478528	business	am conflicted about the papa johns kerfuffle regarding limiting employee hours to avoid obamacare because it is rumored my company will
+267372417100435456	business	new blog from the ed once again why benchmarking does not help with employee survey work httptcoop2sarc0
+267372354731122688	business	rt cheeseboy22 my friend warned me that his radio shack employee parties get crazy but i was not expecting to wake up covered in cords and calculators
+267372278759710720	business	rt willowcreekjlry papajohn says he cant afford 14 centspizza 2 cover employee health care reallyhe has 40000sf house22 car garage httptcoe6zgcbp5
+267371812730572800	business	httptcojeccd1kn a georgia woman is accusing the chairman of waffle house her employer of demanding that she httptcojtofa0rd
+267371092455329792	business	rt willowcreekjlry papajohn says he cant afford 14 centspizza 2 cover employee health care reallyhe has 40000sf house22 car garage httptcoe6zgcbp5
+267369748206084096	business	rt lovusa4 mattcampbell14 bluegrasspundit massive lay off biz holding on4newpotus now they wont risk the liability of employee insur lawsuits cot
+267369410275180544	business	fire the bastardssfederal employees make significantly more than private workers now federal employee union is demanding pay hikes
+267368911304011776	business	kbaxter it is greed if they have two better viable choices that keep money in employee pockets or maybe execs can eat some of cost
+267368535985119234	business	need a car asap tnms hello i am a fulltime studentemployee displaced by hurricane sandy seeking vehicle httptco3fd9s8jo
+267368139883413505	business	amberjade20 i love you too lets go fucking ham on a mcdonalds drive thru employee again soon fucking egg nog are u fucking kidding xo
+267368075375030272	business	peifferel exactly this is not what iowa expects from the highest paid employee in the state of iowa
+267367065344684035	business	might be a new employee of greenmill soon dishwasher duty
+267366799295778817	business	if employers like olive garden dont want to pay for employee health insurance then the govt should bill them for their medicaidsbillthem
+267365700421693441	business	iampapajohn says he cant afford 14 centspizza 2 cover employee healthsreallyhe has 40000sf house22 car garage httptcoe6zgcbp5
+267365337283059712	business	dilemma13 hahaha where did you find this turns out the employee just cant spell fajita hahaha
+267365279288393728	business	papajohn says he cant afford 14 centspizza 2 cover employee health care reallyhe has 40000sf house22 car garage httptcoe6zgcbp5
+267364672863338496	business	chinese company infamous for employee suicides looks to detroit los angeles for cheap laborshttptcoscpy4cp9
+267364663182888962	business	employee safety newsletters need great safety cartoons httptcotk0sxjcc
+267362716111491074	business	markschlabach hes signed thru 2020 as a state employee cant justify the buyout he should be in trouble though not willing to adapt
+267362542068842498	business	rt juliawiens92 according to the first watch employeeshaving trouble calculating a tip means we had a late night drinking uhno maggeekane11
+267362320701857792	business	thats another loss for the hawkeyes and the highest paid state of iowa employee coach ferentz
+267361987523141632	business	rt oliviadesimone abbyjordan27 is the best employee at mcdonaldss
+267361558814941184	business	according to the first watch employeeshaving trouble calculating a tip means we had a late night drinking uhno maggeekane11
+267361094685822976	business	rt trishcuit gen petraeus chose btwn having 2 give truthful testimony as a govt employee undr oathspersonal profl destruction httptcom8covziy
+267360974313496576	business	rt chuckrunyon looking for a jobsseeking a promotionsbq body intelligence matters every bit as much as iq and eqswhysshttptco3qvgeoti
+267360613020344320	business	billmcl steelworkers they work you overtime because of office cost per employee insurance benefits ect gov and unions should correct
+267360124966957056	business	saw the cute employee at freshly squeezed today
+267358924670382080	business	httptcoqk49uogp lead employees to successsnot out the door work employee empowerment handbook reading
+267358252579307520	business	companies should harness the power of the digital socialsphere with customer and employee engagement
+267357305153142784	business	myocuaudition prospective ocu student and current ocu grad and employee both from harrisonville mo smalltown httptcoir1rvxak
+267357148244213760	business	working on employee benefit plans this fall dont confuse sensitive information with what means legally protected httptconojvxeic
+267356482075492353	business	modest mouse cold war kids and jack white on at work todayshappy employee
+267356222771044352	business	jury rules in madison county employee suit httptcotf8mjbdy
+267355609911943169	business	liznvinny youd think a mental health center would have compassion for an employee struggling with mental health issuessnotsomuch
+267354123018567681	business	matthayessn if a university employee did that to his subordinate wouldnt he be firedswhy are coaches different
+267354003124412416	business	i know the differencesthis definitely is pork sad a dickeys employee doesnt know the difference eatstreettulsa
+267353592736911361	business	i am now the newest employee at forever young shoes whaddup 2jobs
+267353014036226049	business	candourlove as my employee at aero lol
+267352541396881408	business	rt hyken just as you the customer might enjoy when a customer service rep uses your name the employee may enjoy the same custserv
+267352061585281024	business	excellent article must read if you are in management rt harvardbiz how employee engagement hits the bottom line httptcofgbpl9mj
+267351747985567744	business	rt trishcuit gen petraeus chose btwn having 2 give truthful testimony as a govt employee undr oathspersonal profl destruction httptcom8covziy
+267351214931472384	business	rt trishcuit gen petraeus chose btwn having 2 give truthful testimony as a govt employee undr oathspersonal profl destruction httptcom8covziy
+267350819014320129	business	gen petraeus chose btwn having 2 give truthful testimony as a govt employee undr oathspersonal profl destruction httptcom8covziy
+267350817516965888	business	your employee is an online celebrity now what do you dohttptcoygrckcz4
+267350352813232128	business	i hate when people think im an employee so they ask me all these questionssim looking like ummm
+267349702536732673	business	just as you the customer might enjoy when a customer service rep uses your name the employee may enjoy the same custserv
+267348655957241857	business	do u supervise a fleet of steam cleaning vehicles want 2 know when an employee turns the vacuum on we can monitor ur power take offs
+267348433403256835	business	employee of the month you cant tell me nothingspops collarslol
+267345858301943808	business	rt oneupshroom coldstone thank you for standing up for whats right and getting rid of suck a toxic employee you have my respect
+267344878768365569	business	applebees papajohns boycott wont pay for employee health care shame obamacare ctl dineequity owns applebees
+267344525926731776	business	employee union to demonstrate springfield ilsthe largest employee union in illinois is planning to stag httptcoqkxe1rqz
+267344286910124032	business	why are democrats surprised that businesses are laying off workers or reducing employee hours to avoid costly compliance with obamacare
+267343216255307776	business	coldstone thank you for standing up for whats right and getting rid of suck a toxic employee you have my respect
+267342719347744768	business	officially an employee back at pacsun even if its only for black fridayyyyyy honey im homeeee 3
+267342585599774720	business	chatty guy gives up on us and strikes up convo with employee behind counter opener sure isnt jiffy today jiffylubelivetweets
+267341965853593600	business	rt taigacompany walt disney cfo and csostwo titles one employee httptconkpeiam2
+267341673649016833	business	fate brewing companys youngest employee like this photo and make this lil builder a hoppy boy httptcoqhhdh98x
+267340640289976320	business	so i just saw rachelmachowicz on the employee list welcome to hell haha runnn
+267339236292837377	business	rt consumerrumor coldstone fires racist employee denisehelms httptcoatrkg7vk and facebook deletes her account coldstone is awesome obama2012
+267338903319621632	business	advance cash employee hour loan wage httptcobtj5ptyg
+267338589342429184	business	at least i have the attractive new employee to look forward to
+267338404709150720	business	i guess im just a regular old construction employee lol hardwork construction physical httptcoc3xthd0l
+267338308475039744	business	rt filthyrichmond papa johns cutting back employee hrs 2 avoid obamacare if anyones hungry 4 a pizza made by desperate sick ppl
+267337941641224192	business	abbyjordan27 is the best employee at mcdonaldss
+267337131163283456	business	jcrudess theyve been a big hit at my store almost every employee has oneshaha
+267335058589880322	business	jessica09lock haha sainsburys employee doing his job well
+267334686299275264	business	3 questions to motivate any employeeshttptcodocnbg6t
+267333490276696065	business	walt disney cfo and csostwo titles one employee httptconkpeiam2
+267332656218394624	business	rt rockymntnmike every employee fired because of obama victory must be allowed to dip their balls in david kochs mouth
+267332390878334977	business	garrettpete says the former wendys employee lol
+267332353960062977	business	papa john founder cant afford 14 cents an hour for employee health care he would have to shut down 20 of the 40 httptcowtpl6j9s
+267331899108757504	business	rt livemuchdienone everybody has an opinion on the lakers if youre not a fan or an employee then mind your business
+267331228078854144	business	i swear if this employee ruins my hat before i wear it we gonna have probs lidssfanzz anyday
+267329405242724352	business	rt livemuchdienone everybody has an opinion on the lakers if youre not a fan or an employee then mind your business
+267329219288240129	business	rt noriegaaaa our employee discount on groceries is in effect now pelvic thrust
+267328772070588416	business	longtime american fork employee retires httptcocwco7cp2
+267328594001424384	business	everybody has an opinion on the lakers if youre not a fan or an employee then mind your business
+267328033852104705	business	papa johns ceo says he cant afford to not reduce employee hrs due to obamacare yet is giving away 2 million free pizzas helloirony
+267326808561692673	business	walmart announces massive rollback on employee wages httptcoqi0iouxs via theonion walmart
+267326766740295680	business	officially eligible for health insurance because im considered a full time employee lol hollllaaa
+267326221417861120	business	the government works for you do you balance your budgetsshouldnt your employee
+267325410780536832	business	rt sunrizzecorp blackstaremory nsacareers personnel research psychology intern programsnational security agencysfortmeade md httptcobz6wqjh9
+267324502843744256	business	rt resumebear does moving up mean moving on httptcos0itiky5
+267324249977544705	business	longtime american fork employee retires american forksafter more than 31 years of smiling and helping others to httptco7gl3unfh
+267323817393786880	business	really hope i get that job at gapthe 50 employee discount is just so unf f
+267323619665911808	business	rt resumebear does moving up mean moving on httptcos0itiky5
+267323507065643008	business	the best thing about working at a cafe is the employee discount
+267321856573440000	business	blackstaremory nsacareers personnel research psychology intern programsnational security agencysfortmeade md httptcobz6wqjh9
+267320784219934721	business	pitkin county co oks property buy for county employee housing promises no flophouse httptcosgvkq6fx via theaspentimes neighbor
+267320743426158592	business	does moving up mean moving on httptcos0itiky5
+267320326038364163	business	how employee engagement hits the bottom line httptcornjoe4iw
+267319475248959488	business	rt blackdiamondusa bd employee tj kolanko reports on the 37th annual banff mountain film and book festival black diamond was one o httptco9jltosq9
+267319063468965888	business	oh by the way im officially an under armour employee 50 off everything uh oh
+267318744404074496	business	coldstone fires racist employee denisehelms httptcoatrkg7vk and facebook deletes her account coldstone is awesome obama2012
+267318204743946240	business	as a creatis employee youre part of a tightknit company enjoying longterm career opportunities servicing many fortune 500 companies
+267317598725742592	business	rt roleplayeve ladies and gentlemen welcome wwrpe newest employee littlemissaries
+267317531386212353	business	chinese company infamous for employee suicides looks to detroit los angeles for cheap laborshttptcoscpy4cp9
+267317409550049280	business	rt roleplayeve ladies and gentlemen welcome wwrpe newest employee littlemissaries
+267317233997447171	business	rt roleplayeve ladies and gentlemen welcome wwrpe newest employee littlemissaries
+267316986193772544	business	rt roleplayeve ladies and gentlemen welcome wwrpe newest employee littlemissaries
+267316876676304896	business	ladies and gentlemen welcome wwrpe newest employee littlemissaries
+267316482931830785	business	10 year old caught on camera stealing 900 httptcogjibbsgf
+267315982480048128	business	so i got a pin for being employee of the mouthsnobody was as surprised as me haha
+267315700425715712	business	not only does every employee at my starbucks knows me by name but i am now good friends with the other regulars
+267315493071904769	business	tullisrussellemployee owned in fife show how power n determination of the people in scotland can make success httptco5lsumpz1 indy
+267315381209796608	business	updated walmart on ipadthrowing employee video it made us winceshttptcooktjm76i blog httptco5sog5mbv
+267314303256903680	business	it was employee of the month when they sold the car in the store lol
+267314173564825600	business	couldnt do work today now i feelslike a bad employee
+267312794397990912	business	smilin after donating 6 for mcdonaldssbought a meal for some tbd employee of the restaurant to support the store httptco0hlikkt2
+267312612390359041	business	im employee of tf month i dont know what poohzilla talm bout
+267312011560505344	business	wrong to say but she should not lose her jobsemployee fired after wishing obama dead on facebooksthe raw story httptcobn8t1dj4
+267312009387855872	business	snowy in s ogden picture sent from an nws employee httptcog6pcpwblsutwx utsnow snow
+267311540724695041	business	employee relations specialistslakesaintlouissmo httptcog8ntqd91 get hr manager jobs hrmanager jobs job getalljobs
+267310586386337792	business	rt coloradostateu todays veteransday 5k is in honor of former csu employee staff sgt mike parrott colostate httptcox8o8ik58
+267310043156852738	business	employee of the day rachyroraa
+267309594173390848	business	alexleah5 you should be more like employee of the forever
+267309394268676096	business	tired of managing employee health with paper demo the only 100 paperless solutionsreadyset httptcogccfgirf digitalhealth
+267307973888602113	business	we have to cut employee hoursrotate schedules assistants reduced to part time no raisesbenefits 2013 no new adult medicaid pts
+267307045999505408	business	got way too tired after work last night originally planned on talking about petraeussresignation and govt employee cheating this am but
+267306915355295744	business	it sucks whenever you find a new employee attractive because everyone else does too and you will never get a chance to talk to them
+267306243469766656	business	our employee discount on groceries is in effect now pelvic thrust
+267306208279527424	business	tennessee graduate approaches us ends up explaining how hes a wal mart employee now selfexplanatory welcometotn
+267305753193353216	business	seriously i should get employee off the month for this
+267305693558751232	business	cabelas honors hometown heroes nov 11s12smilitary veterans law enforcement firefighters and ems personnel receive employee
+267305136618078208	business	former employee alleges waffle house ceo demanded sexual acts a former female employee has filed a httptcoc6ycviaj trending news
+267303787662807040	business	rt rockymntnmike every employee fired because of obama victory must be allowed to dip their balls in david kochs mouth
+267303439137140736	business	a woman is fired for a facebook post and i applaud her employer httptcosmtiurw5
+267303237592416257	business	rt firstworldfacts research suggests that taking ones dog to work reduces stress in workplace and increases satisfaction of employee
+267302330683256832	business	boosting employee compensation without raises httptcoxl0zcsfe
+267302225360068610	business	manage a challenging and valuable employee httptcoc7fet8wv
+267302194741649409	business	employee engagementsdont be intimidatedcheck this out httptcohwhja4pu
+267302003309436928	business	davidvonderhaar at the very least as a gamestop employee i should be able to play it early in order to build up some more hype in store
+267301840192958465	business	meet caseysthe newest employee of the iowa state fire marshalls office the 4 year old tan lab is the third httptcowy5kv4p8
+267301827249319936	business	employee engagementsdont be intimidatedsthere are great tools out there to help you heres one
+267301777597165569	business	rt rockymntnmike every employee fired because of obama victory must be allowed to dip their balls in david kochs mouth
+267301668411039744	business	just encountered an extremely normal employee at deliasso strange
+267300970004901889	business	successful employee engagementmotivation stories from the archives httptcoat1ibpmq
+267300824038912000	business	rt rockymntnmike every employee fired because of obama victory must be allowed to dip their balls in david kochs mouth
+267299884292521984	business	rt rockymntnmike every employee fired because of obama victory must be allowed to dip their balls in david kochs mouth
+267299596001226752	business	our newest employeesshe starts in 21 years httptcocl4z1isd
+267299024120471552	business	the deer better thank god that im a fulltime employee of walmart
+267298124198977537	business	every employee fired because of obama victory must be allowed to dip their balls in david kochs mouth
+267297652574670849	business	robthenext ronmarz but the new costs due to new regulations are generally employee basedsie obamacare
+267297120988565504	business	awh a target employee just told me hes going to get wasted before he goes to work on black friday looks like ill be going thru his line
+267296418069356546	business	rt duoarnc council to consider new employee health benefit plan existing
+267295756636004353	business	abc waffle house chairman accused of requiring sex acts httptcoydunnxzw
+267295239755141121	business	rt magatopia former employee alleges waffle house ceo demanded sexual acts a former female employee has filed ashttptcoqzjpx82asfox news
+267295002135252992	business	former employee alleges waffle house ceo demanded sexual acts a former female employee has filed ashttptcoqzjpx82asfox news
+267294198137516032	business	woman alleges waffle house ceo demanded sex acts httptcoej6g4cvz
+267293092158251008	business	fox news former employee alleges waffle house ceo demanded sexual acts
+267292910154821632	business	might as well give me the worst employee ever award i am so terrible at this part
+267291954625273856	business	todays veteransday 5k is in honor of former csu employee staff sgt mike parrott colostate httptcox8o8ik58
+267290962374569985	business	went to my moms employee appreciation dinner with her last night not only were awards handed out folks got checks for 1k
+267289682893746176	business	employee union to demonstrate the largest employee union in illinois is planning to stage workplace demonstrat httptcokij16yqj
+267289673485926400	business	rt flipsville motherjones in response to ceos who dont want to give their employees health insuranceswhy not bill them for the employees medicaid
+267289438462296064	business	motherjones in response to ceos who dont want to give their employees health insuranceswhy not bill them for the employees medicaid
+267288884621238272	business	guess what you get fired the first time if you share your employee discount oh my
+267288615627943936	business	duplication media is looking for a parttime employee in des moines please let me know if you or anyone you know may be interested pls rt
+267288255177834497	business	are you a federal employee if so you may want to follow uhcfeds for more health and wellness tips
+267286824983076865	business	council to consider new employee health benefit plan existing
+267286466516905985	business	hot in hrswhat you missed this weeksmake sure to share with us in the comment section your favorite news storyshttptcopsfwbtqb
+267286206176448512	business	say a prayer for every sdc employee today its saturday which means one heck of a busy day oldtimechristmas
+267286010524745728	business	of course this charming woman isnt racist hell she probably even has a black friend httptcosqqni5v6
+267285849333440512	business	rt erine a woman is fired for a facebook post httptcosfxbxdvm via zite
