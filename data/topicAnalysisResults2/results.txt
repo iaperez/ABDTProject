@@ -1,0 +1,805 @@
+54048188499369900	sports	1.6160050910066687E-4	54048188499369900	technology, apps, books	adventures of a literary mind: mind mapping mark twain http://bit.ly/fgtx27
+54048188499369900	fashion	0.0011456424439064755	54048188499369900	technology, apps, books	adventures of a literary mind: mind mapping mark twain http://bit.ly/fgtx27
+54048188499369900	science	0.009747272077834566	54048188499369900	technology, apps, books	adventures of a literary mind: mind mapping mark twain http://bit.ly/fgtx27
+54048188499369900	business	0.019830510769000373	54048188499369900	technology, apps, books	adventures of a literary mind: mind mapping mark twain http://bit.ly/fgtx27
+54048188499369900	politics	0.01826210267847758	54048188499369900	technology, apps, books	adventures of a literary mind: mind mapping mark twain http://bit.ly/fgtx27
+54048188499369900	technology	1.0	54048188499369900	technology, apps, books	adventures of a literary mind: mind mapping mark twain http://bit.ly/fgtx27
+54048188499369900	socialmedia	1.4667668968803134E-4	54048188499369900	technology, apps, books	adventures of a literary mind: mind mapping mark twain http://bit.ly/fgtx27
+54229515056062400	business	0.007082171956244017	54229515056062400	technology, apps, socialmedia	visual thinking, mind mapping, design and more: a new way to ... http://bit.ly/gesibg
+54229515056062400	sports	1.6328232623947827E-6	54229515056062400	technology, apps, socialmedia	visual thinking, mind mapping, design and more: a new way to ... http://bit.ly/gesibg
+54229515056062400	fashion	0.15509538739778167	54229515056062400	technology, apps, socialmedia	visual thinking, mind mapping, design and more: a new way to ... http://bit.ly/gesibg
+54229515056062400	science	0.002198121397095836	54229515056062400	technology, apps, socialmedia	visual thinking, mind mapping, design and more: a new way to ... http://bit.ly/gesibg
+54229515056062400	politics	1.2456022122681456E-5	54229515056062400	technology, apps, socialmedia	visual thinking, mind mapping, design and more: a new way to ... http://bit.ly/gesibg
+54229515056062400	technology	0.006648215302469844	54229515056062400	technology, apps, socialmedia	visual thinking, mind mapping, design and more: a new way to ... http://bit.ly/gesibg
+54229515056062400	socialmedia	0.8806962645659542	54229515056062400	technology, apps, socialmedia	visual thinking, mind mapping, design and more: a new way to ... http://bit.ly/gesibg
+226558668781531000	sports	0.018597739182141627	226558668781531000	other	@00_dominic @ http://t.co/2iulsify
+226558668781531000	fashion	0.027719406768985957	226558668781531000	other	@00_dominic @ http://t.co/2iulsify
+226558668781531000	science	0.018063549585848042	226558668781531000	other	@00_dominic @ http://t.co/2iulsify
+226558668781531000	business	0.7099432204798809	226558668781531000	other	@00_dominic @ http://t.co/2iulsify
+226558668781531000	politics	0.011666731818910293	226558668781531000	other	@00_dominic @ http://t.co/2iulsify
+226558668781531000	technology	0.0358388658352294	226558668781531000	other	@00_dominic @ http://t.co/2iulsify
+226558668781531000	socialmedia	0.014143045566383457	226558668781531000	other	@00_dominic @ http://t.co/2iulsify
+233349385939984000	business	2.3020601332268335E-5	233349385939984000	technology, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/hsexhkb8 #emarketing #li report
+233349385939984000	sports	1.0611640901908114E-9	233349385939984000	technology, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/hsexhkb8 #emarketing #li report
+233349385939984000	fashion	2.5656633475811896E-8	233349385939984000	technology, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/hsexhkb8 #emarketing #li report
+233349385939984000	science	7.149230783960077E-8	233349385939984000	technology, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/hsexhkb8 #emarketing #li report
+233349385939984000	politics	3.9490043774293446E-8	233349385939984000	technology, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/hsexhkb8 #emarketing #li report
+233349385939984000	technology	1.0	233349385939984000	technology, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/hsexhkb8 #emarketing #li report
+233349385939984000	socialmedia	1.0	233349385939984000	technology, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/hsexhkb8 #emarketing #li report
+233362011239628000	fashion	6.818061048862253E-7	233362011239628000	technology, socialmedia	users that auto-publish to social media produce 50% more leads http://t.co/oblrkn9e
+233362011239628000	science	9.385438884012846E-8	233362011239628000	technology, socialmedia	users that auto-publish to social media produce 50% more leads http://t.co/oblrkn9e
+233362011239628000	business	1.633009936386986E-4	233362011239628000	technology, socialmedia	users that auto-publish to social media produce 50% more leads http://t.co/oblrkn9e
+233362011239628000	sports	1.3584129997436572E-7	233362011239628000	technology, socialmedia	users that auto-publish to social media produce 50% more leads http://t.co/oblrkn9e
+233362011239628000	politics	6.173000872389525E-7	233362011239628000	technology, socialmedia	users that auto-publish to social media produce 50% more leads http://t.co/oblrkn9e
+233362011239628000	technology	6.582103464660181E-6	233362011239628000	technology, socialmedia	users that auto-publish to social media produce 50% more leads http://t.co/oblrkn9e
+233362011239628000	socialmedia	1.0	233362011239628000	technology, socialmedia	users that auto-publish to social media produce 50% more leads http://t.co/oblrkn9e
+237688777076781000	business	8.933681096222602E-5	237688777076781000	technology, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/t43ptqkn #infoprapich #stats
+237688777076781000	sports	1.889151300563373E-8	237688777076781000	technology, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/t43ptqkn #infoprapich #stats
+237688777076781000	fashion	1.3467782279938433E-7	237688777076781000	technology, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/t43ptqkn #infoprapich #stats
+237688777076781000	science	4.135757001608128E-8	237688777076781000	technology, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/t43ptqkn #infoprapich #stats
+237688777076781000	politics	1.219358801042002E-7	237688777076781000	technology, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/t43ptqkn #infoprapich #stats
+237688777076781000	technology	2.779212002733248E-6	237688777076781000	technology, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/t43ptqkn #infoprapich #stats
+237688777076781000	socialmedia	1.0	237688777076781000	technology, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/t43ptqkn #infoprapich #stats
+238893706848112000	sports	9.760032579627464E-10	238893706848112000	technology, socialmedia	burst brands on social media sites  http://t.co/4sk9avfb #twitter #facebook #marketing
+238893706848112000	fashion	1.0648802807614038E-6	238893706848112000	technology, socialmedia	burst brands on social media sites  http://t.co/4sk9avfb #twitter #facebook #marketing
+238893706848112000	science	1.5625053756145662E-9	238893706848112000	technology, socialmedia	burst brands on social media sites  http://t.co/4sk9avfb #twitter #facebook #marketing
+238893706848112000	business	1.3211452234459339E-8	238893706848112000	technology, socialmedia	burst brands on social media sites  http://t.co/4sk9avfb #twitter #facebook #marketing
+238893706848112000	politics	2.5008114263613036E-12	238893706848112000	technology, socialmedia	burst brands on social media sites  http://t.co/4sk9avfb #twitter #facebook #marketing
+238893706848112000	technology	7.631282469387099E-7	238893706848112000	technology, socialmedia	burst brands on social media sites  http://t.co/4sk9avfb #twitter #facebook #marketing
+238893706848112000	socialmedia	1.0	238893706848112000	technology, socialmedia	burst brands on social media sites  http://t.co/4sk9avfb #twitter #facebook #marketing
+241237909586448000	sports	7.429160262187441E-8	241237909586448000	technology, socialmedia	manageflitter rocks. find all those peeps who have unfollowed or no longer tweet. http://t.co/zggvzwhq
+241237909586448000	fashion	2.3846268553711267E-5	241237909586448000	technology, socialmedia	manageflitter rocks. find all those peeps who have unfollowed or no longer tweet. http://t.co/zggvzwhq
+241237909586448000	science	4.934864345805515E-4	241237909586448000	technology, socialmedia	manageflitter rocks. find all those peeps who have unfollowed or no longer tweet. http://t.co/zggvzwhq
+241237909586448000	business	1.0	241237909586448000	technology, socialmedia	manageflitter rocks. find all those peeps who have unfollowed or no longer tweet. http://t.co/zggvzwhq
+241237909586448000	politics	1.0	241237909586448000	technology, socialmedia	manageflitter rocks. find all those peeps who have unfollowed or no longer tweet. http://t.co/zggvzwhq
+241237909586448000	technology	1.4327952555385841E-6	241237909586448000	technology, socialmedia	manageflitter rocks. find all those peeps who have unfollowed or no longer tweet. http://t.co/zggvzwhq
+241237909586448000	socialmedia	0.9302482117635512	241237909586448000	technology, socialmedia	manageflitter rocks. find all those peeps who have unfollowed or no longer tweet. http://t.co/zggvzwhq
+243361506480246000	fashion	4.8444478313996835E-5	243361506480246000	fashion	here's the new 032c issue w/ @joansmalls cover in the hands of tyler the creator &amp; ofwgkta.  http://t.co/5eukb7lk
+243361506480246000	science	0.042567176064127576	243361506480246000	fashion	here's the new 032c issue w/ @joansmalls cover in the hands of tyler the creator &amp; ofwgkta.  http://t.co/5eukb7lk
+243361506480246000	business	0.0692925096063103	243361506480246000	fashion	here's the new 032c issue w/ @joansmalls cover in the hands of tyler the creator &amp; ofwgkta.  http://t.co/5eukb7lk
+243361506480246000	sports	1.8070140082754418E-8	243361506480246000	fashion	here's the new 032c issue w/ @joansmalls cover in the hands of tyler the creator &amp; ofwgkta.  http://t.co/5eukb7lk
+243361506480246000	politics	6.9288905794718854E-9	243361506480246000	fashion	here's the new 032c issue w/ @joansmalls cover in the hands of tyler the creator &amp; ofwgkta.  http://t.co/5eukb7lk
+243361506480246000	technology	1.0	243361506480246000	fashion	here's the new 032c issue w/ @joansmalls cover in the hands of tyler the creator &amp; ofwgkta.  http://t.co/5eukb7lk
+243361506480246000	socialmedia	1.0749244977722626E-7	243361506480246000	fashion	here's the new 032c issue w/ @joansmalls cover in the hands of tyler the creator &amp; ofwgkta.  http://t.co/5eukb7lk
+243625444321140000	business	0.0019229608131923414	243625444321140000	fashion	this is #rambazamba @032c @joansmalls @imgmodels (via @peterwknell)
+243625444321140000	sports	0.0012468651836585265	243625444321140000	fashion	this is #rambazamba @032c @joansmalls @imgmodels (via @peterwknell)
+243625444321140000	fashion	0.00140279194937801	243625444321140000	fashion	this is #rambazamba @032c @joansmalls @imgmodels (via @peterwknell)
+243625444321140000	science	0.00709625746673535	243625444321140000	fashion	this is #rambazamba @032c @joansmalls @imgmodels (via @peterwknell)
+243625444321140000	politics	0.12341918715193635	243625444321140000	fashion	this is #rambazamba @032c @joansmalls @imgmodels (via @peterwknell)
+243625444321140000	technology	0.0074385002288620775	243625444321140000	fashion	this is #rambazamba @032c @joansmalls @imgmodels (via @peterwknell)
+243625444321140000	socialmedia	0.008217361022961743	243625444321140000	fashion	this is #rambazamba @032c @joansmalls @imgmodels (via @peterwknell)
+243741683819356000	sports	3.3468226675073065E-10	243741683819356000	fashion	turn up the music &amp; share like crazy, here's 032c for autum/winter 2012/12. video flip-through http://t.co/crxfqx33 #rambazamba
+243741683819356000	fashion	2.9825029254215875E-7	243741683819356000	fashion	turn up the music &amp; share like crazy, here's 032c for autum/winter 2012/12. video flip-through http://t.co/crxfqx33 #rambazamba
+243741683819356000	science	3.3303401664648055E-7	243741683819356000	fashion	turn up the music &amp; share like crazy, here's 032c for autum/winter 2012/12. video flip-through http://t.co/crxfqx33 #rambazamba
+243741683819356000	business	0.002330289823466976	243741683819356000	fashion	turn up the music &amp; share like crazy, here's 032c for autum/winter 2012/12. video flip-through http://t.co/crxfqx33 #rambazamba
+243741683819356000	politics	4.506432207055614E-9	243741683819356000	fashion	turn up the music &amp; share like crazy, here's 032c for autum/winter 2012/12. video flip-through http://t.co/crxfqx33 #rambazamba
+243741683819356000	technology	1.311082503242474E-4	243741683819356000	fashion	turn up the music &amp; share like crazy, here's 032c for autum/winter 2012/12. video flip-through http://t.co/crxfqx33 #rambazamba
+243741683819356000	socialmedia	2.3346810802808248E-8	243741683819356000	fashion	turn up the music &amp; share like crazy, here's 032c for autum/winter 2012/12. video flip-through http://t.co/crxfqx33 #rambazamba
+243993526331916000	sports	3.909813247347451E-6	243993526331916000	fashion	a fantastic history lesson on 10 years of opening ceremony. can't wait to see the book. http://t.co/zftptugf
+243993526331916000	fashion	3.083047580987516E-7	243993526331916000	fashion	a fantastic history lesson on 10 years of opening ceremony. can't wait to see the book. http://t.co/zftptugf
+243993526331916000	science	2.3768904290451004E-8	243993526331916000	fashion	a fantastic history lesson on 10 years of opening ceremony. can't wait to see the book. http://t.co/zftptugf
+243993526331916000	business	1.0	243993526331916000	fashion	a fantastic history lesson on 10 years of opening ceremony. can't wait to see the book. http://t.co/zftptugf
+243993526331916000	politics	2.6289842402246075E-6	243993526331916000	fashion	a fantastic history lesson on 10 years of opening ceremony. can't wait to see the book. http://t.co/zftptugf
+243993526331916000	technology	3.055032678004305E-6	243993526331916000	fashion	a fantastic history lesson on 10 years of opening ceremony. can't wait to see the book. http://t.co/zftptugf
+243993526331916000	socialmedia	4.183243309899436E-6	243993526331916000	fashion	a fantastic history lesson on 10 years of opening ceremony. can't wait to see the book. http://t.co/zftptugf
+245099321551360000	sports	4.043010878436649E-9	245099321551360000	fashion	hans ulrich obrist drops by for a pre-opening photo shoot of michelle elie's jewelry at 032c workshop.  http://t.co/ffsli3s7
+245099321551360000	fashion	0.029264519008686256	245099321551360000	fashion	hans ulrich obrist drops by for a pre-opening photo shoot of michelle elie's jewelry at 032c workshop.  http://t.co/ffsli3s7
+245099321551360000	science	3.3301024146448694E-7	245099321551360000	fashion	hans ulrich obrist drops by for a pre-opening photo shoot of michelle elie's jewelry at 032c workshop.  http://t.co/ffsli3s7
+245099321551360000	business	1.0	245099321551360000	fashion	hans ulrich obrist drops by for a pre-opening photo shoot of michelle elie's jewelry at 032c workshop.  http://t.co/ffsli3s7
+245099321551360000	politics	1.8484906494241172E-9	245099321551360000	fashion	hans ulrich obrist drops by for a pre-opening photo shoot of michelle elie's jewelry at 032c workshop.  http://t.co/ffsli3s7
+245099321551360000	technology	2.868309179507128E-7	245099321551360000	fashion	hans ulrich obrist drops by for a pre-opening photo shoot of michelle elie's jewelry at 032c workshop.  http://t.co/ffsli3s7
+245099321551360000	socialmedia	7.280465123610412E-6	245099321551360000	fashion	hans ulrich obrist drops by for a pre-opening photo shoot of michelle elie's jewelry at 032c workshop.  http://t.co/ffsli3s7
+245150272463175000	sports	0.0012464586250216887	245150272463175000	other	@katikrause .because it simply works for us.
+245150272463175000	fashion	0.011862996686797425	245150272463175000	other	@katikrause .because it simply works for us.
+245150272463175000	science	0.014942816318924523	245150272463175000	other	@katikrause .because it simply works for us.
+245150272463175000	business	0.08075216928401686	245150272463175000	other	@katikrause .because it simply works for us.
+245150272463175000	politics	0.08401485490266894	245150272463175000	other	@katikrause .because it simply works for us.
+245150272463175000	technology	0.7393244852399288	245150272463175000	other	@katikrause .because it simply works for us.
+245150272463175000	socialmedia	0.006063832633164488	245150272463175000	other	@katikrause .because it simply works for us.
+245434605740642000	sports	0.01634316811713845	245434605740642000	other	let's get radical.
+245434605740642000	fashion	0.13481622456351958	245434605740642000	other	let's get radical.
+245434605740642000	science	0.24060903593243987	245434605740642000	other	let's get radical.
+245434605740642000	business	0.17615486681230066	245434605740642000	other	let's get radical.
+245434605740642000	politics	0.043570470938905016	245434605740642000	other	let's get radical.
+245434605740642000	technology	0.5913759162953709	245434605740642000	other	let's get radical.
+245434605740642000	socialmedia	0.04390883930723834	245434605740642000	other	let's get radical.
+245496696241545000	science	0.2785928512923992	245496696241545000	fashion	rt @ballardian "jannick storm: what do you think of the so-called new wave?  jg ballard: i am the new wave!" (1968)
+245496696241545000	business	4.068442357484524E-5	245496696241545000	fashion	rt @ballardian "jannick storm: what do you think of the so-called new wave?  jg ballard: i am the new wave!" (1968)
+245496696241545000	sports	2.9255490178507912E-5	245496696241545000	fashion	rt @ballardian "jannick storm: what do you think of the so-called new wave?  jg ballard: i am the new wave!" (1968)
+245496696241545000	fashion	1.0	245496696241545000	fashion	rt @ballardian "jannick storm: what do you think of the so-called new wave?  jg ballard: i am the new wave!" (1968)
+245496696241545000	politics	3.216728529708758E-5	245496696241545000	fashion	rt @ballardian "jannick storm: what do you think of the so-called new wave?  jg ballard: i am the new wave!" (1968)
+245496696241545000	technology	2.0292527250278145E-7	245496696241545000	fashion	rt @ballardian "jannick storm: what do you think of the so-called new wave?  jg ballard: i am the new wave!" (1968)
+245496696241545000	socialmedia	1.0	245496696241545000	fashion	rt @ballardian "jannick storm: what do you think of the so-called new wave?  jg ballard: i am the new wave!" (1968)
+246267770214440000	business	5.240566977974725E-6	246267770214440000	fashion	dear @ebcampbell, @joansmalls, @anais_pouliot, @nimue_smit, @larastone, thank you for your great stories in 032c magazine! #rambazamba
+246267770214440000	sports	1.9505423187028657E-8	246267770214440000	fashion	dear @ebcampbell, @joansmalls, @anais_pouliot, @nimue_smit, @larastone, thank you for your great stories in 032c magazine! #rambazamba
+246267770214440000	fashion	5.090628525006743E-6	246267770214440000	fashion	dear @ebcampbell, @joansmalls, @anais_pouliot, @nimue_smit, @larastone, thank you for your great stories in 032c magazine! #rambazamba
+246267770214440000	science	0.00738133429847853	246267770214440000	fashion	dear @ebcampbell, @joansmalls, @anais_pouliot, @nimue_smit, @larastone, thank you for your great stories in 032c magazine! #rambazamba
+246267770214440000	politics	3.649274099858949E-4	246267770214440000	fashion	dear @ebcampbell, @joansmalls, @anais_pouliot, @nimue_smit, @larastone, thank you for your great stories in 032c magazine! #rambazamba
+246267770214440000	technology	1.5836315569832724E-4	246267770214440000	fashion	dear @ebcampbell, @joansmalls, @anais_pouliot, @nimue_smit, @larastone, thank you for your great stories in 032c magazine! #rambazamba
+246267770214440000	socialmedia	1.0	246267770214440000	fashion	dear @ebcampbell, @joansmalls, @anais_pouliot, @nimue_smit, @larastone, thank you for your great stories in 032c magazine! #rambazamba
+246561339642880000	sports	1.1827566531915551E-5	246561339642880000	fashion	have you seen the lara stone 032c cover? http://t.co/u0evcr5z
+246561339642880000	fashion	1.0	246561339642880000	fashion	have you seen the lara stone 032c cover? http://t.co/u0evcr5z
+246561339642880000	science	0.0030903930397236518	246561339642880000	fashion	have you seen the lara stone 032c cover? http://t.co/u0evcr5z
+246561339642880000	business	0.11345408275337975	246561339642880000	fashion	have you seen the lara stone 032c cover? http://t.co/u0evcr5z
+246561339642880000	politics	0.003501343304091725	246561339642880000	fashion	have you seen the lara stone 032c cover? http://t.co/u0evcr5z
+246561339642880000	technology	0.0019435344287437237	246561339642880000	fashion	have you seen the lara stone 032c cover? http://t.co/u0evcr5z
+246561339642880000	socialmedia	2.78412844652129E-4	246561339642880000	fashion	have you seen the lara stone 032c cover? http://t.co/u0evcr5z
+247627707729465000	sports	1.4967298822075817E-5	247627707729465000	fashion	032c is growing. we are currently accepting applications for three exciting positions in our berlin office. check http://t.co/uoxjywqp
+247627707729465000	fashion	1.8656799545199127E-6	247627707729465000	fashion	032c is growing. we are currently accepting applications for three exciting positions in our berlin office. check http://t.co/uoxjywqp
+247627707729465000	science	0.26105881855073737	247627707729465000	fashion	032c is growing. we are currently accepting applications for three exciting positions in our berlin office. check http://t.co/uoxjywqp
+247627707729465000	business	1.0	247627707729465000	fashion	032c is growing. we are currently accepting applications for three exciting positions in our berlin office. check http://t.co/uoxjywqp
+247627707729465000	politics	1.0	247627707729465000	fashion	032c is growing. we are currently accepting applications for three exciting positions in our berlin office. check http://t.co/uoxjywqp
+247627707729465000	technology	1.0	247627707729465000	fashion	032c is growing. we are currently accepting applications for three exciting positions in our berlin office. check http://t.co/uoxjywqp
+247627707729465000	socialmedia	1.0	247627707729465000	fashion	032c is growing. we are currently accepting applications for three exciting positions in our berlin office. check http://t.co/uoxjywqp
+247692177625448000	sports	2.0403603689938553E-6	247692177625448000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/be9x71l0 #marketing #socialmedia #infographic
+247692177625448000	fashion	0.02591726105726838	247692177625448000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/be9x71l0 #marketing #socialmedia #infographic
+247692177625448000	science	1.660246181396351E-4	247692177625448000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/be9x71l0 #marketing #socialmedia #infographic
+247692177625448000	business	1.0	247692177625448000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/be9x71l0 #marketing #socialmedia #infographic
+247692177625448000	politics	1.5524422721649154E-8	247692177625448000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/be9x71l0 #marketing #socialmedia #infographic
+247692177625448000	technology	1.8567274910892763E-5	247692177625448000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/be9x71l0 #marketing #socialmedia #infographic
+247692177625448000	socialmedia	1.0	247692177625448000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/be9x71l0 #marketing #socialmedia #infographic
+247705899605557000	sports	1.5529983721804938E-8	247705899605557000	fashion	lara stone for 032c cover,  autumn/winter 2012/13 (photo karim sadli). #rambazamba http://t.co/yeadzqno
+247705899605557000	fashion	1.0	247705899605557000	fashion	lara stone for 032c cover,  autumn/winter 2012/13 (photo karim sadli). #rambazamba http://t.co/yeadzqno
+247705899605557000	science	1.0373789528349768E-6	247705899605557000	fashion	lara stone for 032c cover,  autumn/winter 2012/13 (photo karim sadli). #rambazamba http://t.co/yeadzqno
+247705899605557000	business	9.613728478857863E-5	247705899605557000	fashion	lara stone for 032c cover,  autumn/winter 2012/13 (photo karim sadli). #rambazamba http://t.co/yeadzqno
+247705899605557000	politics	5.400306862026645E-7	247705899605557000	fashion	lara stone for 032c cover,  autumn/winter 2012/13 (photo karim sadli). #rambazamba http://t.co/yeadzqno
+247705899605557000	technology	3.567847202651375E-5	247705899605557000	fashion	lara stone for 032c cover,  autumn/winter 2012/13 (photo karim sadli). #rambazamba http://t.co/yeadzqno
+247705899605557000	socialmedia	5.8470948669460554E-6	247705899605557000	fashion	lara stone for 032c cover,  autumn/winter 2012/13 (photo karim sadli). #rambazamba http://t.co/yeadzqno
+247816337576054000	business	0.002570276543010759	247816337576054000	technology	banned iphone 5 promo http://t.co/bb63smof via @9gag
+247816337576054000	sports	2.9682501792813765E-6	247816337576054000	technology	banned iphone 5 promo http://t.co/bb63smof via @9gag
+247816337576054000	fashion	1.547713553714428E-5	247816337576054000	technology	banned iphone 5 promo http://t.co/bb63smof via @9gag
+247816337576054000	science	1.3184529067299323E-4	247816337576054000	technology	banned iphone 5 promo http://t.co/bb63smof via @9gag
+247816337576054000	politics	1.872467794315917E-5	247816337576054000	technology	banned iphone 5 promo http://t.co/bb63smof via @9gag
+247816337576054000	technology	0.9857071644102222	247816337576054000	technology	banned iphone 5 promo http://t.co/bb63smof via @9gag
+247816337576054000	socialmedia	1.0	247816337576054000	technology	banned iphone 5 promo http://t.co/bb63smof via @9gag
+249861514096427000	fashion	0.12868897035446691	249861514096427000	other	@nanda_bryele good morning! :)
+249861514096427000	science	0.12575607820604107	249861514096427000	other	@nanda_bryele good morning! :)
+249861514096427000	business	0.9702273378298347	249861514096427000	other	@nanda_bryele good morning! :)
+249861514096427000	sports	0.45576442822637403	249861514096427000	other	@nanda_bryele good morning! :)
+249861514096427000	politics	0.005965316060673989	249861514096427000	other	@nanda_bryele good morning! :)
+249861514096427000	technology	0.046787794516831176	249861514096427000	other	@nanda_bryele good morning! :)
+249861514096427000	socialmedia	0.09654287418658061	249861514096427000	other	@nanda_bryele good morning! :)
+249861668039966000	business	1.0	249861668039966000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/xywvk4ss #social #media #emarkeing #ln #infographic
+249861668039966000	sports	1.3046179822663949E-8	249861668039966000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/xywvk4ss #social #media #emarkeing #ln #infographic
+249861668039966000	fashion	2.628863182564797E-4	249861668039966000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/xywvk4ss #social #media #emarkeing #ln #infographic
+249861668039966000	science	1.8917591478100462E-7	249861668039966000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/xywvk4ss #social #media #emarkeing #ln #infographic
+249861668039966000	politics	4.504271304543906E-11	249861668039966000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/xywvk4ss #social #media #emarkeing #ln #infographic
+249861668039966000	technology	3.799099251489905E-7	249861668039966000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/xywvk4ss #social #media #emarkeing #ln #infographic
+249861668039966000	socialmedia	0.9968313249943893	249861668039966000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/xywvk4ss #social #media #emarkeing #ln #infographic
+250172119789477000	sports	2.6618993825464086E-6	250172119789477000	technology, socialmedia	people are making money at seoclerks, why aren't you? go to http://t.co/vrtofbas http://t.co/45phlsjw v.a @seoclerks
+250172119789477000	fashion	2.5227790985749206E-6	250172119789477000	technology, socialmedia	people are making money at seoclerks, why aren't you? go to http://t.co/vrtofbas http://t.co/45phlsjw v.a @seoclerks
+250172119789477000	science	1.9297950618695054E-5	250172119789477000	technology, socialmedia	people are making money at seoclerks, why aren't you? go to http://t.co/vrtofbas http://t.co/45phlsjw v.a @seoclerks
+250172119789477000	business	1.0	250172119789477000	technology, socialmedia	people are making money at seoclerks, why aren't you? go to http://t.co/vrtofbas http://t.co/45phlsjw v.a @seoclerks
+250172119789477000	politics	4.4005572626186843E-7	250172119789477000	technology, socialmedia	people are making money at seoclerks, why aren't you? go to http://t.co/vrtofbas http://t.co/45phlsjw v.a @seoclerks
+250172119789477000	technology	6.191468629983543E-8	250172119789477000	technology, socialmedia	people are making money at seoclerks, why aren't you? go to http://t.co/vrtofbas http://t.co/45phlsjw v.a @seoclerks
+250172119789477000	socialmedia	3.8381870208833654E-4	250172119789477000	technology, socialmedia	people are making money at seoclerks, why aren't you? go to http://t.co/vrtofbas http://t.co/45phlsjw v.a @seoclerks
+250255406906101000	sports	1.4190075830811295E-10	250255406906101000	fashion	celebrating 10 years of proenza schouler in the october issue of @wmag. click here to read more: http://t.co/724re4k7 (via @proenzaschouler)
+250255406906101000	fashion	9.515852105270837E-8	250255406906101000	fashion	celebrating 10 years of proenza schouler in the october issue of @wmag. click here to read more: http://t.co/724re4k7 (via @proenzaschouler)
+250255406906101000	science	2.6090461759881883E-6	250255406906101000	fashion	celebrating 10 years of proenza schouler in the october issue of @wmag. click here to read more: http://t.co/724re4k7 (via @proenzaschouler)
+250255406906101000	business	1.0	250255406906101000	fashion	celebrating 10 years of proenza schouler in the october issue of @wmag. click here to read more: http://t.co/724re4k7 (via @proenzaschouler)
+250255406906101000	politics	0.007241444387814553	250255406906101000	fashion	celebrating 10 years of proenza schouler in the october issue of @wmag. click here to read more: http://t.co/724re4k7 (via @proenzaschouler)
+250255406906101000	technology	1.1634382454419392E-7	250255406906101000	fashion	celebrating 10 years of proenza schouler in the october issue of @wmag. click here to read more: http://t.co/724re4k7 (via @proenzaschouler)
+250255406906101000	socialmedia	0.005049682247211906	250255406906101000	fashion	celebrating 10 years of proenza schouler in the october issue of @wmag. click here to read more: http://t.co/724re4k7 (via @proenzaschouler)
+252197182332084000	sports	8.051183136887384E-5	252197182332084000	fashion	@cgpurple and @032c talking relationships over rihanna at paris fashion week.
+252197182332084000	fashion	1.0	252197182332084000	fashion	@cgpurple and @032c talking relationships over rihanna at paris fashion week.
+252197182332084000	science	3.7377367219189645E-5	252197182332084000	fashion	@cgpurple and @032c talking relationships over rihanna at paris fashion week.
+252197182332084000	business	1.4905606963977062E-5	252197182332084000	fashion	@cgpurple and @032c talking relationships over rihanna at paris fashion week.
+252197182332084000	politics	1.0160492740899222E-4	252197182332084000	fashion	@cgpurple and @032c talking relationships over rihanna at paris fashion week.
+252197182332084000	technology	1.861572023224233E-5	252197182332084000	fashion	@cgpurple and @032c talking relationships over rihanna at paris fashion week.
+252197182332084000	socialmedia	0.002379833007330195	252197182332084000	fashion	@cgpurple and @032c talking relationships over rihanna at paris fashion week.
+252853741118701000	sports	4.4850299272924916E-4	252853741118701000	other	http://t.co/a7w12bsx read the comments
+252853741118701000	fashion	0.00914359513000592	252853741118701000	other	http://t.co/a7w12bsx read the comments
+252853741118701000	science	0.002806903230665505	252853741118701000	other	http://t.co/a7w12bsx read the comments
+252853741118701000	business	0.4321212241038635	252853741118701000	other	http://t.co/a7w12bsx read the comments
+252853741118701000	politics	0.40116144806847603	252853741118701000	other	http://t.co/a7w12bsx read the comments
+252853741118701000	technology	0.04799242327599973	252853741118701000	other	http://t.co/a7w12bsx read the comments
+252853741118701000	socialmedia	0.0463924649270005	252853741118701000	other	http://t.co/a7w12bsx read the comments
+253565578290286000	business	1.0	253565578290286000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/yjdrzdwd #ln #marketing #news #infographic
+253565578290286000	sports	3.53579507380652E-7	253565578290286000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/yjdrzdwd #ln #marketing #news #infographic
+253565578290286000	fashion	0.012540711362837947	253565578290286000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/yjdrzdwd #ln #marketing #news #infographic
+253565578290286000	science	3.9776492092653254E-5	253565578290286000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/yjdrzdwd #ln #marketing #news #infographic
+253565578290286000	politics	7.900215243917211E-9	253565578290286000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/yjdrzdwd #ln #marketing #news #infographic
+253565578290286000	technology	1.1093012547124546E-4	253565578290286000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/yjdrzdwd #ln #marketing #news #infographic
+253565578290286000	socialmedia	0.004275869914428909	253565578290286000	technology, socialmedia	linkedin the best site for professionals 2012 stats  http://t.co/yjdrzdwd #ln #marketing #news #infographic
+253867818175590000	science	0.0012351003384455234	253867818175590000	other	rt @internazionale:la versione maschile di "sex and the city". le strisce di mr. wiggles su internazionale. http://t.co/cgrx9rpn
+253867818175590000	business	4.379787815773127E-5	253867818175590000	other	rt @internazionale:la versione maschile di "sex and the city". le strisce di mr. wiggles su internazionale. http://t.co/cgrx9rpn
+253867818175590000	sports	8.859674156074957E-7	253867818175590000	other	rt @internazionale:la versione maschile di "sex and the city". le strisce di mr. wiggles su internazionale. http://t.co/cgrx9rpn
+253867818175590000	fashion	4.779729494041879E-4	253867818175590000	other	rt @internazionale:la versione maschile di "sex and the city". le strisce di mr. wiggles su internazionale. http://t.co/cgrx9rpn
+253867818175590000	politics	6.3965276284682E-7	253867818175590000	other	rt @internazionale:la versione maschile di "sex and the city". le strisce di mr. wiggles su internazionale. http://t.co/cgrx9rpn
+253867818175590000	technology	3.5675945483839604E-5	253867818175590000	other	rt @internazionale:la versione maschile di "sex and the city". le strisce di mr. wiggles su internazionale. http://t.co/cgrx9rpn
+253867818175590000	socialmedia	1.2586376669729136E-7	253867818175590000	other	rt @internazionale:la versione maschile di "sex and the city". le strisce di mr. wiggles su internazionale. http://t.co/cgrx9rpn
+253912781630361000	business	1.0	253912781630361000	other	@ayuda en configuraci.n -&gt; pa.s. no esta inclu.do uruguay .. es por algo en especial?
+253912781630361000	sports	1.841437247146696E-5	253912781630361000	other	@ayuda en configuraci.n -&gt; pa.s. no esta inclu.do uruguay .. es por algo en especial?
+253912781630361000	fashion	0.06434806913207172	253912781630361000	other	@ayuda en configuraci.n -&gt; pa.s. no esta inclu.do uruguay .. es por algo en especial?
+253912781630361000	science	1.0	253912781630361000	other	@ayuda en configuraci.n -&gt; pa.s. no esta inclu.do uruguay .. es por algo en especial?
+253912781630361000	politics	1.1528350809585397E-4	253912781630361000	other	@ayuda en configuraci.n -&gt; pa.s. no esta inclu.do uruguay .. es por algo en especial?
+253912781630361000	technology	0.001957888324201399	253912781630361000	other	@ayuda en configuraci.n -&gt; pa.s. no esta inclu.do uruguay .. es por algo en especial?
+253912781630361000	socialmedia	1.4813253355921588E-5	253912781630361000	other	@ayuda en configuraci.n -&gt; pa.s. no esta inclu.do uruguay .. es por algo en especial?
+253913985865375000	sports	9.786510179969105E-4	253913985865375000	technology	managed dedicated servers in south america http://t.co/00xnedfz
+253913985865375000	fashion	3.6243737956412456E-4	253913985865375000	technology	managed dedicated servers in south america http://t.co/00xnedfz
+253913985865375000	science	0.013407408113366921	253913985865375000	technology	managed dedicated servers in south america http://t.co/00xnedfz
+253913985865375000	business	0.3286302216801565	253913985865375000	technology	managed dedicated servers in south america http://t.co/00xnedfz
+253913985865375000	politics	0.0018938954403261985	253913985865375000	technology	managed dedicated servers in south america http://t.co/00xnedfz
+253913985865375000	technology	0.03160107213848555	253913985865375000	technology	managed dedicated servers in south america http://t.co/00xnedfz
+253913985865375000	socialmedia	8.936123378276086E-4	253913985865375000	technology	managed dedicated servers in south america http://t.co/00xnedfz
+254308756211511000	business	0.052060360782129736	254308756211511000	other	invitacion recibida para el resellerclub hosting summit  http://t.co/zyoerufk
+254308756211511000	sports	0.0011865517611096667	254308756211511000	other	invitacion recibida para el resellerclub hosting summit  http://t.co/zyoerufk
+254308756211511000	fashion	0.0063462829692383675	254308756211511000	other	invitacion recibida para el resellerclub hosting summit  http://t.co/zyoerufk
+254308756211511000	science	0.0033636149797349854	254308756211511000	other	invitacion recibida para el resellerclub hosting summit  http://t.co/zyoerufk
+254308756211511000	politics	8.517757584738887E-5	254308756211511000	other	invitacion recibida para el resellerclub hosting summit  http://t.co/zyoerufk
+254308756211511000	technology	0.004112112756236681	254308756211511000	other	invitacion recibida para el resellerclub hosting summit  http://t.co/zyoerufk
+254308756211511000	socialmedia	2.3610569881882452E-4	254308756211511000	other	invitacion recibida para el resellerclub hosting summit  http://t.co/zyoerufk
+254485682054119000	fashion	3.628817299509264E-4	254485682054119000	technology, socialmedia	@kevinroose i thought frustration gets one horny  :o
+254485682054119000	science	0.06278959497742889	254485682054119000	technology, socialmedia	@kevinroose i thought frustration gets one horny  :o
+254485682054119000	business	0.008423518559475715	254485682054119000	technology, socialmedia	@kevinroose i thought frustration gets one horny  :o
+254485682054119000	sports	0.2775827837027604	254485682054119000	technology, socialmedia	@kevinroose i thought frustration gets one horny  :o
+254485682054119000	politics	0.031624184887242654	254485682054119000	technology, socialmedia	@kevinroose i thought frustration gets one horny  :o
+254485682054119000	technology	0.0019070612230997575	254485682054119000	technology, socialmedia	@kevinroose i thought frustration gets one horny  :o
+254485682054119000	socialmedia	1.0	254485682054119000	technology, socialmedia	@kevinroose i thought frustration gets one horny  :o
+254613691767603000	business	0.4137752158467879	254613691767603000	other	https://t.co/quxp9dn2  cc @fat
+254613691767603000	sports	0.007306824967183576	254613691767603000	other	https://t.co/quxp9dn2  cc @fat
+254613691767603000	fashion	0.02894272108213639	254613691767603000	other	https://t.co/quxp9dn2  cc @fat
+254613691767603000	science	0.01216164422753417	254613691767603000	other	https://t.co/quxp9dn2  cc @fat
+254613691767603000	politics	0.0017127396739153324	254613691767603000	other	https://t.co/quxp9dn2  cc @fat
+254613691767603000	technology	0.008490756885829306	254613691767603000	other	https://t.co/quxp9dn2  cc @fat
+254613691767603000	socialmedia	0.015800385859614397	254613691767603000	other	https://t.co/quxp9dn2  cc @fat
+255368426917351000	sports	0.4334636448860346	255368426917351000	other	@pacoid yes this is the one on question
+255368426917351000	fashion	0.006366061879243688	255368426917351000	other	@pacoid yes this is the one on question
+255368426917351000	science	0.22586562154965786	255368426917351000	other	@pacoid yes this is the one on question
+255368426917351000	business	1.0	255368426917351000	other	@pacoid yes this is the one on question
+255368426917351000	politics	0.15245597932584426	255368426917351000	other	@pacoid yes this is the one on question
+255368426917351000	technology	0.23161038951385512	255368426917351000	other	@pacoid yes this is the one on question
+255368426917351000	socialmedia	0.021918811081571378	255368426917351000	other	@pacoid yes this is the one on question
+255737902573699000	sports	1.0	255737902573699000	technology, socialmedia	@pacoid i advanced some #quora credits in good faith and genuine intent to find the answer , it ll be great if you could a2a fwd 2 right ppl
+255737902573699000	fashion	1.5324819375990045E-7	255737902573699000	technology, socialmedia	@pacoid i advanced some #quora credits in good faith and genuine intent to find the answer , it ll be great if you could a2a fwd 2 right ppl
+255737902573699000	science	4.31897265281965E-4	255737902573699000	technology, socialmedia	@pacoid i advanced some #quora credits in good faith and genuine intent to find the answer , it ll be great if you could a2a fwd 2 right ppl
+255737902573699000	business	1.0	255737902573699000	technology, socialmedia	@pacoid i advanced some #quora credits in good faith and genuine intent to find the answer , it ll be great if you could a2a fwd 2 right ppl
+255737902573699000	politics	1.030436155460291E-5	255737902573699000	technology, socialmedia	@pacoid i advanced some #quora credits in good faith and genuine intent to find the answer , it ll be great if you could a2a fwd 2 right ppl
+255737902573699000	technology	1.0	255737902573699000	technology, socialmedia	@pacoid i advanced some #quora credits in good faith and genuine intent to find the answer , it ll be great if you could a2a fwd 2 right ppl
+255737902573699000	socialmedia	9.332380849688854E-5	255737902573699000	technology, socialmedia	@pacoid i advanced some #quora credits in good faith and genuine intent to find the answer , it ll be great if you could a2a fwd 2 right ppl
+256033138474635000	fashion	4.052126418994789E-8	256033138474635000	technology, apps, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/zhntl7cb #marketing #news #infographic
+256033138474635000	science	4.441081507957837E-9	256033138474635000	technology, apps, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/zhntl7cb #marketing #news #infographic
+256033138474635000	business	1.0	256033138474635000	technology, apps, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/zhntl7cb #marketing #news #infographic
+256033138474635000	sports	4.649929027250332E-9	256033138474635000	technology, apps, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/zhntl7cb #marketing #news #infographic
+256033138474635000	politics	4.235058314282144E-10	256033138474635000	technology, apps, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/zhntl7cb #marketing #news #infographic
+256033138474635000	technology	2.097445367933877E-6	256033138474635000	technology, apps, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/zhntl7cb #marketing #news #infographic
+256033138474635000	socialmedia	1.0	256033138474635000	technology, apps, socialmedia	users that auto-publish to social media produce 50% more leads  http://t.co/zhntl7cb #marketing #news #infographic
+256643177946181000	business	1.0	256643177946181000	technology, apps, socialmedia	the social media strategy cheat sheet reference [infographic]  #emarketing http://t.co/u56e9fw5
+256643177946181000	sports	1.0623239026427615E-6	256643177946181000	technology, apps, socialmedia	the social media strategy cheat sheet reference [infographic]  #emarketing http://t.co/u56e9fw5
+256643177946181000	fashion	1.5283851339543127E-6	256643177946181000	technology, apps, socialmedia	the social media strategy cheat sheet reference [infographic]  #emarketing http://t.co/u56e9fw5
+256643177946181000	science	7.568612590880095E-7	256643177946181000	technology, apps, socialmedia	the social media strategy cheat sheet reference [infographic]  #emarketing http://t.co/u56e9fw5
+256643177946181000	politics	1.224479572119418E-9	256643177946181000	technology, apps, socialmedia	the social media strategy cheat sheet reference [infographic]  #emarketing http://t.co/u56e9fw5
+256643177946181000	technology	1.0	256643177946181000	technology, apps, socialmedia	the social media strategy cheat sheet reference [infographic]  #emarketing http://t.co/u56e9fw5
+256643177946181000	socialmedia	1.0	256643177946181000	technology, apps, socialmedia	the social media strategy cheat sheet reference [infographic]  #emarketing http://t.co/u56e9fw5
+256715255319764000	sports	0.025784129975040215	256715255319764000	other	@jtcrashed next time :) there will be more. keep watching @freeformers_uk for details xx
+256715255319764000	fashion	0.01943725036989023	256715255319764000	other	@jtcrashed next time :) there will be more. keep watching @freeformers_uk for details xx
+256715255319764000	science	0.09389649112884277	256715255319764000	other	@jtcrashed next time :) there will be more. keep watching @freeformers_uk for details xx
+256715255319764000	business	1.0	256715255319764000	other	@jtcrashed next time :) there will be more. keep watching @freeformers_uk for details xx
+256715255319764000	politics	0.005780272343395713	256715255319764000	other	@jtcrashed next time :) there will be more. keep watching @freeformers_uk for details xx
+256715255319764000	technology	1.621283991056051E-4	256715255319764000	other	@jtcrashed next time :) there will be more. keep watching @freeformers_uk for details xx
+256715255319764000	socialmedia	0.09119315505121961	256715255319764000	other	@jtcrashed next time :) there will be more. keep watching @freeformers_uk for details xx
+256732576595714000	sports	6.7322548455936205E-6	256732576595714000	technology, apps, socialmedia	the social media strategy cheatsheet reference [infographic] http://t.co/wl4440dg
+256732576595714000	fashion	7.737401698616721E-6	256732576595714000	technology, apps, socialmedia	the social media strategy cheatsheet reference [infographic] http://t.co/wl4440dg
+256732576595714000	science	1.5267327235732905E-6	256732576595714000	technology, apps, socialmedia	the social media strategy cheatsheet reference [infographic] http://t.co/wl4440dg
+256732576595714000	business	9.60872117453829E-4	256732576595714000	technology, apps, socialmedia	the social media strategy cheatsheet reference [infographic] http://t.co/wl4440dg
+256732576595714000	politics	4.3259754437069837E-10	256732576595714000	technology, apps, socialmedia	the social media strategy cheatsheet reference [infographic] http://t.co/wl4440dg
+256732576595714000	technology	1.4883037608377028E-5	256732576595714000	technology, apps, socialmedia	the social media strategy cheatsheet reference [infographic] http://t.co/wl4440dg
+256732576595714000	socialmedia	1.0	256732576595714000	technology, apps, socialmedia	the social media strategy cheatsheet reference [infographic] http://t.co/wl4440dg
+256789056271314000	sports	6.321051387949469E-4	256789056271314000	technology	i'm not going to be one of the many that have "tweet-sworn" at @o2 today for going down, but sort it out!! #thankgodihave2phones!
+256789056271314000	fashion	9.296404552347346E-6	256789056271314000	technology	i'm not going to be one of the many that have "tweet-sworn" at @o2 today for going down, but sort it out!! #thankgodihave2phones!
+256789056271314000	science	9.804741755560335E-4	256789056271314000	technology	i'm not going to be one of the many that have "tweet-sworn" at @o2 today for going down, but sort it out!! #thankgodihave2phones!
+256789056271314000	business	1.0	256789056271314000	technology	i'm not going to be one of the many that have "tweet-sworn" at @o2 today for going down, but sort it out!! #thankgodihave2phones!
+256789056271314000	politics	0.01107228748039925	256789056271314000	technology	i'm not going to be one of the many that have "tweet-sworn" at @o2 today for going down, but sort it out!! #thankgodihave2phones!
+256789056271314000	technology	1.871384635402975E-7	256789056271314000	technology	i'm not going to be one of the many that have "tweet-sworn" at @o2 today for going down, but sort it out!! #thankgodihave2phones!
+256789056271314000	socialmedia	0.7206820056923459	256789056271314000	technology	i'm not going to be one of the many that have "tweet-sworn" at @o2 today for going down, but sort it out!! #thankgodihave2phones!
+258130278231445000	sports	2.8209282329637458E-8	258130278231445000	technology	yahoo ceo marissa mayer fills coo role with former google colleague: henrique de castro http://t.co/fd9aerwj
+258130278231445000	fashion	1.4286345852227072E-6	258130278231445000	technology	yahoo ceo marissa mayer fills coo role with former google colleague: henrique de castro http://t.co/fd9aerwj
+258130278231445000	science	1.784351401300675E-7	258130278231445000	technology	yahoo ceo marissa mayer fills coo role with former google colleague: henrique de castro http://t.co/fd9aerwj
+258130278231445000	business	1.0	258130278231445000	technology	yahoo ceo marissa mayer fills coo role with former google colleague: henrique de castro http://t.co/fd9aerwj
+258130278231445000	politics	1.0	258130278231445000	technology	yahoo ceo marissa mayer fills coo role with former google colleague: henrique de castro http://t.co/fd9aerwj
+258130278231445000	technology	3.4902224140299734E-6	258130278231445000	technology	yahoo ceo marissa mayer fills coo role with former google colleague: henrique de castro http://t.co/fd9aerwj
+258130278231445000	socialmedia	4.0547433575305145E-6	258130278231445000	technology	yahoo ceo marissa mayer fills coo role with former google colleague: henrique de castro http://t.co/fd9aerwj
+258165741122101000	sports	3.64081012198639E-9	258165741122101000	technology,business	insider trading case: bill gates, kofi annan show sentencing support for rajat gupta http://t.co/7a0rog1z via @archivedigger
+258165741122101000	fashion	1.0278375543988024E-7	258165741122101000	technology,business	insider trading case: bill gates, kofi annan show sentencing support for rajat gupta http://t.co/7a0rog1z via @archivedigger
+258165741122101000	science	4.0766796737401617E-8	258165741122101000	technology,business	insider trading case: bill gates, kofi annan show sentencing support for rajat gupta http://t.co/7a0rog1z via @archivedigger
+258165741122101000	business	1.0	258165741122101000	technology,business	insider trading case: bill gates, kofi annan show sentencing support for rajat gupta http://t.co/7a0rog1z via @archivedigger
+258165741122101000	politics	3.8632117300237037E-7	258165741122101000	technology,business	insider trading case: bill gates, kofi annan show sentencing support for rajat gupta http://t.co/7a0rog1z via @archivedigger
+258165741122101000	technology	2.542910042890073E-6	258165741122101000	technology,business	insider trading case: bill gates, kofi annan show sentencing support for rajat gupta http://t.co/7a0rog1z via @archivedigger
+258165741122101000	socialmedia	1.5688323752250697E-8	258165741122101000	technology,business	insider trading case: bill gates, kofi annan show sentencing support for rajat gupta http://t.co/7a0rog1z via @archivedigger
+258167653926068000	science	8.287841942159726E-4	258167653926068000	technology	q&amp;a with frans johansson: how 'luck' can be used to enhance success (wired uk) http://t.co/gpx4nlj4
+258167653926068000	business	1.0	258167653926068000	technology	q&amp;a with frans johansson: how 'luck' can be used to enhance success (wired uk) http://t.co/gpx4nlj4
+258167653926068000	sports	2.641972507139103E-6	258167653926068000	technology	q&amp;a with frans johansson: how 'luck' can be used to enhance success (wired uk) http://t.co/gpx4nlj4
+258167653926068000	fashion	5.605339598591523E-7	258167653926068000	technology	q&amp;a with frans johansson: how 'luck' can be used to enhance success (wired uk) http://t.co/gpx4nlj4
+258167653926068000	politics	1.6418325689052008E-8	258167653926068000	technology	q&amp;a with frans johansson: how 'luck' can be used to enhance success (wired uk) http://t.co/gpx4nlj4
+258167653926068000	technology	0.7774375539184835	258167653926068000	technology	q&amp;a with frans johansson: how 'luck' can be used to enhance success (wired uk) http://t.co/gpx4nlj4
+258167653926068000	socialmedia	8.40108153232741E-7	258167653926068000	technology	q&amp;a with frans johansson: how 'luck' can be used to enhance success (wired uk) http://t.co/gpx4nlj4
+258241086177284000	business	1.0	258241086177284000	other	@vikas_inferno quoraed you my new phone no
+258241086177284000	sports	4.695416295492648E-4	258241086177284000	other	@vikas_inferno quoraed you my new phone no
+258241086177284000	fashion	0.01086211958124751	258241086177284000	other	@vikas_inferno quoraed you my new phone no
+258241086177284000	science	0.036011793405182735	258241086177284000	other	@vikas_inferno quoraed you my new phone no
+258241086177284000	politics	8.556365598437038E-4	258241086177284000	other	@vikas_inferno quoraed you my new phone no
+258241086177284000	technology	0.7361308293367923	258241086177284000	other	@vikas_inferno quoraed you my new phone no
+258241086177284000	socialmedia	0.505385556872223	258241086177284000	other	@vikas_inferno quoraed you my new phone no
+258501138431758000	sports	1.2276554059984185E-10	258501138431758000	technology, apps, socialmedia	learning how to build an app in a day with @freeformers_uk ! check out my app so far!! #geekmoment http://t.co/jkxyzvdm
+258501138431758000	fashion	7.213799616152616E-7	258501138431758000	technology, apps, socialmedia	learning how to build an app in a day with @freeformers_uk ! check out my app so far!! #geekmoment http://t.co/jkxyzvdm
+258501138431758000	science	1.4638686298699043E-5	258501138431758000	technology, apps, socialmedia	learning how to build an app in a day with @freeformers_uk ! check out my app so far!! #geekmoment http://t.co/jkxyzvdm
+258501138431758000	business	9.939226269945659E-6	258501138431758000	technology, apps, socialmedia	learning how to build an app in a day with @freeformers_uk ! check out my app so far!! #geekmoment http://t.co/jkxyzvdm
+258501138431758000	politics	2.4022658660540776E-8	258501138431758000	technology, apps, socialmedia	learning how to build an app in a day with @freeformers_uk ! check out my app so far!! #geekmoment http://t.co/jkxyzvdm
+258501138431758000	technology	1.0	258501138431758000	technology, apps, socialmedia	learning how to build an app in a day with @freeformers_uk ! check out my app so far!! #geekmoment http://t.co/jkxyzvdm
+258501138431758000	socialmedia	0.1801704683201029	258501138431758000	technology, apps, socialmedia	learning how to build an app in a day with @freeformers_uk ! check out my app so far!! #geekmoment http://t.co/jkxyzvdm
+258510152469188000	sports	3.876268694753117E-5	258510152469188000	technology, apps, socialmedia	just about to add the facebook like button code! woop! @freeformers_uk http://t.co/meqysvtl
+258510152469188000	fashion	6.664980419062266E-4	258510152469188000	technology, apps, socialmedia	just about to add the facebook like button code! woop! @freeformers_uk http://t.co/meqysvtl
+258510152469188000	science	3.0039125735526395E-4	258510152469188000	technology, apps, socialmedia	just about to add the facebook like button code! woop! @freeformers_uk http://t.co/meqysvtl
+258510152469188000	business	1.0	258510152469188000	technology, apps, socialmedia	just about to add the facebook like button code! woop! @freeformers_uk http://t.co/meqysvtl
+258510152469188000	politics	5.758703288720019E-5	258510152469188000	technology, apps, socialmedia	just about to add the facebook like button code! woop! @freeformers_uk http://t.co/meqysvtl
+258510152469188000	technology	4.180192106967697E-4	258510152469188000	technology, apps, socialmedia	just about to add the facebook like button code! woop! @freeformers_uk http://t.co/meqysvtl
+258510152469188000	socialmedia	0.9533435690879796	258510152469188000	technology, apps, socialmedia	just about to add the facebook like button code! woop! @freeformers_uk http://t.co/meqysvtl
+258532018613272000	sports	0.0028893223493005192	258532018613272000	technology, apps, socialmedia	@johnny_mcc a facebook app :)
+258532018613272000	fashion	0.024065307208289508	258532018613272000	technology, apps, socialmedia	@johnny_mcc a facebook app :)
+258532018613272000	science	2.7430913125007996E-4	258532018613272000	technology, apps, socialmedia	@johnny_mcc a facebook app :)
+258532018613272000	business	0.005062566395818883	258532018613272000	technology, apps, socialmedia	@johnny_mcc a facebook app :)
+258532018613272000	politics	0.002169207482293377	258532018613272000	technology, apps, socialmedia	@johnny_mcc a facebook app :)
+258532018613272000	technology	0.6048682718394356	258532018613272000	technology, apps, socialmedia	@johnny_mcc a facebook app :)
+258532018613272000	socialmedia	1.0	258532018613272000	technology, apps, socialmedia	@johnny_mcc a facebook app :)
+258956672037429000	sports	0.33580895355650536	258956672037429000	other	@vikas_inferno i am about to be a negative thinker :p
+258956672037429000	fashion	0.2906289296248376	258956672037429000	other	@vikas_inferno i am about to be a negative thinker :p
+258956672037429000	science	0.4061145381756704	258956672037429000	other	@vikas_inferno i am about to be a negative thinker :p
+258956672037429000	business	0.04945197539286239	258956672037429000	other	@vikas_inferno i am about to be a negative thinker :p
+258956672037429000	politics	1.0	258956672037429000	other	@vikas_inferno i am about to be a negative thinker :p
+258956672037429000	technology	0.0016839842532670173	258956672037429000	other	@vikas_inferno i am about to be a negative thinker :p
+258956672037429000	socialmedia	0.06583824028990239	258956672037429000	other	@vikas_inferno i am about to be a negative thinker :p
+259031229662375000	business	1.0	259031229662375000	other	the point of being alive, by rachel stafford http://t.co/9g8etj5k via @sharethis
+259031229662375000	sports	1.6393030871752255E-6	259031229662375000	other	the point of being alive, by rachel stafford http://t.co/9g8etj5k via @sharethis
+259031229662375000	fashion	7.454468464189066E-5	259031229662375000	other	the point of being alive, by rachel stafford http://t.co/9g8etj5k via @sharethis
+259031229662375000	science	0.03825187160306243	259031229662375000	other	the point of being alive, by rachel stafford http://t.co/9g8etj5k via @sharethis
+259031229662375000	politics	1.0	259031229662375000	other	the point of being alive, by rachel stafford http://t.co/9g8etj5k via @sharethis
+259031229662375000	technology	8.047266080852136E-5	259031229662375000	other	the point of being alive, by rachel stafford http://t.co/9g8etj5k via @sharethis
+259031229662375000	socialmedia	0.013449744574116542	259031229662375000	other	the point of being alive, by rachel stafford http://t.co/9g8etj5k via @sharethis
+259467554496581000	fashion	1.5331757471270877E-4	259467554496581000	other	i'm at 5 hertford street http://t.co/fv4oybsx
+259467554496581000	science	9.474160601322746E-4	259467554496581000	other	i'm at 5 hertford street http://t.co/fv4oybsx
+259467554496581000	business	0.5405838204233507	259467554496581000	other	i'm at 5 hertford street http://t.co/fv4oybsx
+259467554496581000	sports	0.005091368045010466	259467554496581000	other	i'm at 5 hertford street http://t.co/fv4oybsx
+259467554496581000	politics	2.6511104311007542E-5	259467554496581000	other	i'm at 5 hertford street http://t.co/fv4oybsx
+259467554496581000	technology	1.0	259467554496581000	other	i'm at 5 hertford street http://t.co/fv4oybsx
+259467554496581000	socialmedia	0.009428265052183365	259467554496581000	other	i'm at 5 hertford street http://t.co/fv4oybsx
+259717070776852000	business	0.10878530296639828	259717070776852000	other	@vikas_inferno duh
+259717070776852000	sports	0.712411657269912	259717070776852000	other	@vikas_inferno duh
+259717070776852000	fashion	0.22857142857142868	259717070776852000	other	@vikas_inferno duh
+259717070776852000	science	0.3314340794687803	259717070776852000	other	@vikas_inferno duh
+259717070776852000	politics	0.4982860974813865	259717070776852000	other	@vikas_inferno duh
+259717070776852000	technology	0.13669451497621454	259717070776852000	other	@vikas_inferno duh
+259717070776852000	socialmedia	0.22857142857142868	259717070776852000	other	@vikas_inferno duh
+260520929472434000	sports	0.01352514013125922	260520929472434000	other	ladies and gentlemen, welcome to the oakland state: http://t.co/jiz2p86r
+260520929472434000	fashion	0.002129884492209777	260520929472434000	other	ladies and gentlemen, welcome to the oakland state: http://t.co/jiz2p86r
+260520929472434000	science	1.6066806918958078E-4	260520929472434000	other	ladies and gentlemen, welcome to the oakland state: http://t.co/jiz2p86r
+260520929472434000	business	1.0	260520929472434000	other	ladies and gentlemen, welcome to the oakland state: http://t.co/jiz2p86r
+260520929472434000	politics	0.009688457347764573	260520929472434000	other	ladies and gentlemen, welcome to the oakland state: http://t.co/jiz2p86r
+260520929472434000	technology	0.001007708361493028	260520929472434000	other	ladies and gentlemen, welcome to the oakland state: http://t.co/jiz2p86r
+260520929472434000	socialmedia	0.002991206464356378	260520929472434000	other	ladies and gentlemen, welcome to the oakland state: http://t.co/jiz2p86r
+260818686649188000	sports	1.0	260818686649188000	other	the new silver skull pullover will keep you warm when the autumn wind blows in: http://t.co/br7vvtvf #raiders
+260818686649188000	fashion	2.8623660468174444E-4	260818686649188000	other	the new silver skull pullover will keep you warm when the autumn wind blows in: http://t.co/br7vvtvf #raiders
+260818686649188000	science	1.0970283011650783E-4	260818686649188000	other	the new silver skull pullover will keep you warm when the autumn wind blows in: http://t.co/br7vvtvf #raiders
+260818686649188000	business	4.1791094056326435E-5	260818686649188000	other	the new silver skull pullover will keep you warm when the autumn wind blows in: http://t.co/br7vvtvf #raiders
+260818686649188000	politics	1.3310602887381366E-7	260818686649188000	other	the new silver skull pullover will keep you warm when the autumn wind blows in: http://t.co/br7vvtvf #raiders
+260818686649188000	technology	1.0	260818686649188000	other	the new silver skull pullover will keep you warm when the autumn wind blows in: http://t.co/br7vvtvf #raiders
+260818686649188000	socialmedia	1.0	260818686649188000	other	the new silver skull pullover will keep you warm when the autumn wind blows in: http://t.co/br7vvtvf #raiders
+261555254775136000	sports	0.0035404759763342764	261555254775136000	other	think about it, it would go backwards http://t.co/solh4eco via @9gag
+261555254775136000	fashion	0.003255048711126504	261555254775136000	other	think about it, it would go backwards http://t.co/solh4eco via @9gag
+261555254775136000	science	0.0017363898497932489	261555254775136000	other	think about it, it would go backwards http://t.co/solh4eco via @9gag
+261555254775136000	business	0.011014943101296979	261555254775136000	other	think about it, it would go backwards http://t.co/solh4eco via @9gag
+261555254775136000	politics	0.11399486254656668	261555254775136000	other	think about it, it would go backwards http://t.co/solh4eco via @9gag
+261555254775136000	technology	6.214605128243893E-4	261555254775136000	other	think about it, it would go backwards http://t.co/solh4eco via @9gag
+261555254775136000	socialmedia	1.0	261555254775136000	other	think about it, it would go backwards http://t.co/solh4eco via @9gag
+261572084734517000	sports	1.0	261572084734517000	other	@oak_allday nice! we're guessing it must have been the elechamps shirt.
+261572084734517000	fashion	0.005920709138250665	261572084734517000	other	@oak_allday nice! we're guessing it must have been the elechamps shirt.
+261572084734517000	science	0.05126450131848124	261572084734517000	other	@oak_allday nice! we're guessing it must have been the elechamps shirt.
+261572084734517000	business	3.5778914589331497E-4	261572084734517000	other	@oak_allday nice! we're guessing it must have been the elechamps shirt.
+261572084734517000	politics	0.03733054559160503	261572084734517000	other	@oak_allday nice! we're guessing it must have been the elechamps shirt.
+261572084734517000	technology	1.0	261572084734517000	other	@oak_allday nice! we're guessing it must have been the elechamps shirt.
+261572084734517000	socialmedia	0.002625432269136489	261572084734517000	other	@oak_allday nice! we're guessing it must have been the elechamps shirt.
+261572519302156000	business	3.520472307106591E-5	261572519302156000	other	arctic explorer admiral byrd, just before leaving for the south pole on the ss bear of oakland. http://t.co/ybsq0iuk
+261572519302156000	sports	1.2855379306042096E-4	261572519302156000	other	arctic explorer admiral byrd, just before leaving for the south pole on the ss bear of oakland. http://t.co/ybsq0iuk
+261572519302156000	fashion	1.1032710124491947E-6	261572519302156000	other	arctic explorer admiral byrd, just before leaving for the south pole on the ss bear of oakland. http://t.co/ybsq0iuk
+261572519302156000	science	0.03285798982889935	261572519302156000	other	arctic explorer admiral byrd, just before leaving for the south pole on the ss bear of oakland. http://t.co/ybsq0iuk
+261572519302156000	politics	1.0	261572519302156000	other	arctic explorer admiral byrd, just before leaving for the south pole on the ss bear of oakland. http://t.co/ybsq0iuk
+261572519302156000	technology	2.823487533653236E-4	261572519302156000	other	arctic explorer admiral byrd, just before leaving for the south pole on the ss bear of oakland. http://t.co/ybsq0iuk
+261572519302156000	socialmedia	3.7270726368091965E-7	261572519302156000	other	arctic explorer admiral byrd, just before leaving for the south pole on the ss bear of oakland. http://t.co/ybsq0iuk
+261611016176144000	business	1.0	261611016176144000	finance	@antonkreil can you teach me how to trade pls! i need a personal trader too! i need to buy apple asap!
+261611016176144000	sports	2.0714411922931657E-8	261611016176144000	finance	@antonkreil can you teach me how to trade pls! i need a personal trader too! i need to buy apple asap!
+261611016176144000	fashion	4.663995242942149E-6	261611016176144000	finance	@antonkreil can you teach me how to trade pls! i need a personal trader too! i need to buy apple asap!
+261611016176144000	science	0.001701069141099358	261611016176144000	finance	@antonkreil can you teach me how to trade pls! i need a personal trader too! i need to buy apple asap!
+261611016176144000	politics	1.9119519835403305E-9	261611016176144000	finance	@antonkreil can you teach me how to trade pls! i need a personal trader too! i need to buy apple asap!
+261611016176144000	technology	1.0	261611016176144000	finance	@antonkreil can you teach me how to trade pls! i need a personal trader too! i need to buy apple asap!
+261611016176144000	socialmedia	1.645553766464968E-5	261611016176144000	finance	@antonkreil can you teach me how to trade pls! i need a personal trader too! i need to buy apple asap!
+261897486770270000	business	0.001205924655205214	261897486770270000	community, oakland	@peter_hegarty we're psyched to learn more about it - apparently that ship got around!
+261897486770270000	sports	1.5154816632655837E-4	261897486770270000	community, oakland	@peter_hegarty we're psyched to learn more about it - apparently that ship got around!
+261897486770270000	fashion	0.0019145702715789312	261897486770270000	community, oakland	@peter_hegarty we're psyched to learn more about it - apparently that ship got around!
+261897486770270000	science	0.08141051960558204	261897486770270000	community, oakland	@peter_hegarty we're psyched to learn more about it - apparently that ship got around!
+261897486770270000	politics	0.001054989668219845	261897486770270000	community, oakland	@peter_hegarty we're psyched to learn more about it - apparently that ship got around!
+261897486770270000	technology	9.256539782314457E-4	261897486770270000	community, oakland	@peter_hegarty we're psyched to learn more about it - apparently that ship got around!
+261897486770270000	socialmedia	0.011688460732396289	261897486770270000	community, oakland	@peter_hegarty we're psyched to learn more about it - apparently that ship got around!
+261898735817203000	sports	0.0030842711850019625	261898735817203000	community, oakland	welcome to oakland, baby boy! http://t.co/wglwgqlf
+261898735817203000	fashion	0.01404171230753328	261898735817203000	community, oakland	welcome to oakland, baby boy! http://t.co/wglwgqlf
+261898735817203000	science	8.828846578923077E-4	261898735817203000	community, oakland	welcome to oakland, baby boy! http://t.co/wglwgqlf
+261898735817203000	business	0.10340802808127521	261898735817203000	community, oakland	welcome to oakland, baby boy! http://t.co/wglwgqlf
+261898735817203000	politics	0.005269468303857345	261898735817203000	community, oakland	welcome to oakland, baby boy! http://t.co/wglwgqlf
+261898735817203000	technology	0.038673162476379634	261898735817203000	community, oakland	welcome to oakland, baby boy! http://t.co/wglwgqlf
+261898735817203000	socialmedia	0.017162516164683297	261898735817203000	community, oakland	welcome to oakland, baby boy! http://t.co/wglwgqlf
+262217474597060000	business	0.04933559550502836	262217474597060000	other	its hear, not here http://t.co/nlal2zny via @9gag
+262217474597060000	sports	7.89193949351039E-4	262217474597060000	other	its hear, not here http://t.co/nlal2zny via @9gag
+262217474597060000	fashion	0.001582824051707889	262217474597060000	other	its hear, not here http://t.co/nlal2zny via @9gag
+262217474597060000	science	0.02797377668722758	262217474597060000	other	its hear, not here http://t.co/nlal2zny via @9gag
+262217474597060000	politics	0.1468595042291664	262217474597060000	other	its hear, not here http://t.co/nlal2zny via @9gag
+262217474597060000	technology	0.0011506001908822446	262217474597060000	other	its hear, not here http://t.co/nlal2zny via @9gag
+262217474597060000	socialmedia	1.0	262217474597060000	other	its hear, not here http://t.co/nlal2zny via @9gag
+262535625377452000	fashion	3.544753570647847E-5	262535625377452000	other	the one on the right is a drawing http://t.co/lxokvijf via @9gag
+262535625377452000	science	0.17651691187929314	262535625377452000	other	the one on the right is a drawing http://t.co/lxokvijf via @9gag
+262535625377452000	business	0.13032992078670663	262535625377452000	other	the one on the right is a drawing http://t.co/lxokvijf via @9gag
+262535625377452000	sports	5.729894294417238E-4	262535625377452000	other	the one on the right is a drawing http://t.co/lxokvijf via @9gag
+262535625377452000	politics	0.0017124622419499279	262535625377452000	other	the one on the right is a drawing http://t.co/lxokvijf via @9gag
+262535625377452000	technology	0.0013159598484012176	262535625377452000	other	the one on the right is a drawing http://t.co/lxokvijf via @9gag
+262535625377452000	socialmedia	1.0	262535625377452000	other	the one on the right is a drawing http://t.co/lxokvijf via @9gag
+262890734280138000	business	1.0	262890734280138000	other	oh yes finally moving into our shiny new office on the strand! woop! #hackerdiy http://t.co/7wdn7guv
+262890734280138000	sports	2.606467421732863E-7	262890734280138000	other	oh yes finally moving into our shiny new office on the strand! woop! #hackerdiy http://t.co/7wdn7guv
+262890734280138000	fashion	1.760629820911768E-4	262890734280138000	other	oh yes finally moving into our shiny new office on the strand! woop! #hackerdiy http://t.co/7wdn7guv
+262890734280138000	science	0.0027752849838846294	262890734280138000	other	oh yes finally moving into our shiny new office on the strand! woop! #hackerdiy http://t.co/7wdn7guv
+262890734280138000	politics	3.2076859683510113E-7	262890734280138000	other	oh yes finally moving into our shiny new office on the strand! woop! #hackerdiy http://t.co/7wdn7guv
+262890734280138000	technology	2.200767566275601E-6	262890734280138000	other	oh yes finally moving into our shiny new office on the strand! woop! #hackerdiy http://t.co/7wdn7guv
+262890734280138000	socialmedia	1.1162251142950765E-6	262890734280138000	other	oh yes finally moving into our shiny new office on the strand! woop! #hackerdiy http://t.co/7wdn7guv
+262990811787038000	sports	1.165844773397754E-5	262990811787038000	other	stomping, shoving, and terrorizing his way to glory . godzilla should have been a raider. http://t.co/ne77vbta
+262990811787038000	fashion	1.5192237953093145E-7	262990811787038000	other	stomping, shoving, and terrorizing his way to glory . godzilla should have been a raider. http://t.co/ne77vbta
+262990811787038000	science	4.087539504918482E-5	262990811787038000	other	stomping, shoving, and terrorizing his way to glory . godzilla should have been a raider. http://t.co/ne77vbta
+262990811787038000	business	0.026808259660888435	262990811787038000	other	stomping, shoving, and terrorizing his way to glory . godzilla should have been a raider. http://t.co/ne77vbta
+262990811787038000	politics	7.79826321860054E-4	262990811787038000	other	stomping, shoving, and terrorizing his way to glory . godzilla should have been a raider. http://t.co/ne77vbta
+262990811787038000	technology	8.812217201822334E-7	262990811787038000	other	stomping, shoving, and terrorizing his way to glory . godzilla should have been a raider. http://t.co/ne77vbta
+262990811787038000	socialmedia	1.0	262990811787038000	other	stomping, shoving, and terrorizing his way to glory . godzilla should have been a raider. http://t.co/ne77vbta
+263035830447247000	sports	1.0	263035830447247000	community, oakland	meanwhile, back in oakland, this is the only baseball-related fire in town... #athletics http://t.co/dnlss65x
+263035830447247000	fashion	9.20936601898978E-4	263035830447247000	community, oakland	meanwhile, back in oakland, this is the only baseball-related fire in town... #athletics http://t.co/dnlss65x
+263035830447247000	science	5.031356088725605E-5	263035830447247000	community, oakland	meanwhile, back in oakland, this is the only baseball-related fire in town... #athletics http://t.co/dnlss65x
+263035830447247000	business	1.0	263035830447247000	community, oakland	meanwhile, back in oakland, this is the only baseball-related fire in town... #athletics http://t.co/dnlss65x
+263035830447247000	politics	1.55438359325381E-5	263035830447247000	community, oakland	meanwhile, back in oakland, this is the only baseball-related fire in town... #athletics http://t.co/dnlss65x
+263035830447247000	technology	1.0	263035830447247000	community, oakland	meanwhile, back in oakland, this is the only baseball-related fire in town... #athletics http://t.co/dnlss65x
+263035830447247000	socialmedia	1.3507511137547632E-6	263035830447247000	community, oakland	meanwhile, back in oakland, this is the only baseball-related fire in town... #athletics http://t.co/dnlss65x
+263389509234876000	fashion	1.0432432366431344E-4	263389509234876000	community, oakland	what's going on in oakland? this first friday, @youthradio has the answer: http://t.co/jucnd2t6
+263389509234876000	science	3.2829666252887765E-6	263389509234876000	community, oakland	what's going on in oakland? this first friday, @youthradio has the answer: http://t.co/jucnd2t6
+263389509234876000	business	1.0	263389509234876000	community, oakland	what's going on in oakland? this first friday, @youthradio has the answer: http://t.co/jucnd2t6
+263389509234876000	sports	1.483805975701548E-4	263389509234876000	community, oakland	what's going on in oakland? this first friday, @youthradio has the answer: http://t.co/jucnd2t6
+263389509234876000	politics	4.6590725368934004E-4	263389509234876000	community, oakland	what's going on in oakland? this first friday, @youthradio has the answer: http://t.co/jucnd2t6
+263389509234876000	technology	1.0	263389509234876000	community, oakland	what's going on in oakland? this first friday, @youthradio has the answer: http://t.co/jucnd2t6
+263389509234876000	socialmedia	6.425430755654261E-6	263389509234876000	community, oakland	what's going on in oakland? this first friday, @youthradio has the answer: http://t.co/jucnd2t6
+263436540242456000	business	0.39096257803736345	263436540242456000	community, oakland	after a decade of hard work, west oakland is getting is own grocery store! http://t.co/o1pzcc9s
+263436540242456000	sports	2.4930712305342412E-5	263436540242456000	community, oakland	after a decade of hard work, west oakland is getting is own grocery store! http://t.co/o1pzcc9s
+263436540242456000	fashion	1.677765411952802E-5	263436540242456000	community, oakland	after a decade of hard work, west oakland is getting is own grocery store! http://t.co/o1pzcc9s
+263436540242456000	science	4.322354385711305E-4	263436540242456000	community, oakland	after a decade of hard work, west oakland is getting is own grocery store! http://t.co/o1pzcc9s
+263436540242456000	politics	5.3100808805629116E-5	263436540242456000	community, oakland	after a decade of hard work, west oakland is getting is own grocery store! http://t.co/o1pzcc9s
+263436540242456000	technology	1.0	263436540242456000	community, oakland	after a decade of hard work, west oakland is getting is own grocery store! http://t.co/o1pzcc9s
+263436540242456000	socialmedia	2.3171300366277517E-6	263436540242456000	community, oakland	after a decade of hard work, west oakland is getting is own grocery store! http://t.co/o1pzcc9s
+263715844096413000	sports	1.285075801560283E-8	263715844096413000	art	local artist sarah clark made free mask patterns for last-minute costumes. just print, fold and spook! http://t.co/1cbuc3mj
+263715844096413000	fashion	1.5165937804080097E-5	263715844096413000	art	local artist sarah clark made free mask patterns for last-minute costumes. just print, fold and spook! http://t.co/1cbuc3mj
+263715844096413000	science	0.06798208374381069	263715844096413000	art	local artist sarah clark made free mask patterns for last-minute costumes. just print, fold and spook! http://t.co/1cbuc3mj
+263715844096413000	business	1.0	263715844096413000	art	local artist sarah clark made free mask patterns for last-minute costumes. just print, fold and spook! http://t.co/1cbuc3mj
+263715844096413000	politics	4.562503229038288E-6	263715844096413000	art	local artist sarah clark made free mask patterns for last-minute costumes. just print, fold and spook! http://t.co/1cbuc3mj
+263715844096413000	technology	0.9458624942421039	263715844096413000	art	local artist sarah clark made free mask patterns for last-minute costumes. just print, fold and spook! http://t.co/1cbuc3mj
+263715844096413000	socialmedia	7.195967540409491E-5	263715844096413000	art	local artist sarah clark made free mask patterns for last-minute costumes. just print, fold and spook! http://t.co/1cbuc3mj
+263749162636570000	sports	1.0	263749162636570000	sports	off to abu dhabi for the f1! woohoo can't wait !! :) (@ dubai international airport (dxb) | . . .) http://t.co/gyiqjdmn
+263749162636570000	fashion	6.032959244536455E-7	263749162636570000	sports	off to abu dhabi for the f1! woohoo can't wait !! :) (@ dubai international airport (dxb) | . . .) http://t.co/gyiqjdmn
+263749162636570000	science	0.0032568415947064108	263749162636570000	sports	off to abu dhabi for the f1! woohoo can't wait !! :) (@ dubai international airport (dxb) | . . .) http://t.co/gyiqjdmn
+263749162636570000	business	1.0	263749162636570000	sports	off to abu dhabi for the f1! woohoo can't wait !! :) (@ dubai international airport (dxb) | . . .) http://t.co/gyiqjdmn
+263749162636570000	politics	1.1641844235097327E-6	263749162636570000	sports	off to abu dhabi for the f1! woohoo can't wait !! :) (@ dubai international airport (dxb) | . . .) http://t.co/gyiqjdmn
+263749162636570000	technology	1.0	263749162636570000	sports	off to abu dhabi for the f1! woohoo can't wait !! :) (@ dubai international airport (dxb) | . . .) http://t.co/gyiqjdmn
+263749162636570000	socialmedia	1.036905854442761E-4	263749162636570000	sports	off to abu dhabi for the f1! woohoo can't wait !! :) (@ dubai international airport (dxb) | . . .) http://t.co/gyiqjdmn
+263779974996164000	sports	0.015687909083749032	263779974996164000	other	once a #raider, always a raider. even in the afterlife: http://t.co/k8jqjggc
+263779974996164000	fashion	4.5298485912625367E-4	263779974996164000	other	once a #raider, always a raider. even in the afterlife: http://t.co/k8jqjggc
+263779974996164000	science	0.007677940839730497	263779974996164000	other	once a #raider, always a raider. even in the afterlife: http://t.co/k8jqjggc
+263779974996164000	business	0.004174880083780838	263779974996164000	other	once a #raider, always a raider. even in the afterlife: http://t.co/k8jqjggc
+263779974996164000	politics	0.002160984530959424	263779974996164000	other	once a #raider, always a raider. even in the afterlife: http://t.co/k8jqjggc
+263779974996164000	technology	0.0035214470432602583	263779974996164000	other	once a #raider, always a raider. even in the afterlife: http://t.co/k8jqjggc
+263779974996164000	socialmedia	0.002390628958562619	263779974996164000	other	once a #raider, always a raider. even in the afterlife: http://t.co/k8jqjggc
+264090585256828000	sports	0.013708002732766265	264090585256828000	sports	f1 weekend ! (@ cipriani) http://t.co/4g3vmnes
+264090585256828000	fashion	0.002440516101996288	264090585256828000	sports	f1 weekend ! (@ cipriani) http://t.co/4g3vmnes
+264090585256828000	science	0.0017762605292147924	264090585256828000	sports	f1 weekend ! (@ cipriani) http://t.co/4g3vmnes
+264090585256828000	business	0.6837298476649581	264090585256828000	sports	f1 weekend ! (@ cipriani) http://t.co/4g3vmnes
+264090585256828000	politics	2.1183103841811783E-4	264090585256828000	sports	f1 weekend ! (@ cipriani) http://t.co/4g3vmnes
+264090585256828000	technology	1.0	264090585256828000	sports	f1 weekend ! (@ cipriani) http://t.co/4g3vmnes
+264090585256828000	socialmedia	0.0027259858394080828	264090585256828000	sports	f1 weekend ! (@ cipriani) http://t.co/4g3vmnes
+264091116419313000	sports	1.0	264091116419313000	other	a golden tree for a golden state. the new limited-edition classic is in the store for one month only! http://t.co/rjsc6bqw
+264091116419313000	fashion	8.037253385823204E-7	264091116419313000	other	a golden tree for a golden state. the new limited-edition classic is in the store for one month only! http://t.co/rjsc6bqw
+264091116419313000	science	1.5897084004267133E-4	264091116419313000	other	a golden tree for a golden state. the new limited-edition classic is in the store for one month only! http://t.co/rjsc6bqw
+264091116419313000	business	1.0	264091116419313000	other	a golden tree for a golden state. the new limited-edition classic is in the store for one month only! http://t.co/rjsc6bqw
+264091116419313000	politics	1.457979679319636E-8	264091116419313000	other	a golden tree for a golden state. the new limited-edition classic is in the store for one month only! http://t.co/rjsc6bqw
+264091116419313000	technology	1.0	264091116419313000	other	a golden tree for a golden state. the new limited-edition classic is in the store for one month only! http://t.co/rjsc6bqw
+264091116419313000	socialmedia	1.0	264091116419313000	other	a golden tree for a golden state. the new limited-edition classic is in the store for one month only! http://t.co/rjsc6bqw
+264109459729686000	science	0.344501971520825	264109459729686000	other	@sarah_stierch nice! now we actually feel like we know ourselves a little better...
+264109459729686000	business	1.0	264109459729686000	other	@sarah_stierch nice! now we actually feel like we know ourselves a little better...
+264109459729686000	sports	0.5919395557848773	264109459729686000	other	@sarah_stierch nice! now we actually feel like we know ourselves a little better...
+264109459729686000	fashion	0.007990528549054644	264109459729686000	other	@sarah_stierch nice! now we actually feel like we know ourselves a little better...
+264109459729686000	politics	0.039662066860663266	264109459729686000	other	@sarah_stierch nice! now we actually feel like we know ourselves a little better...
+264109459729686000	technology	1.0	264109459729686000	other	@sarah_stierch nice! now we actually feel like we know ourselves a little better...
+264109459729686000	socialmedia	0.23840002495715873	264109459729686000	other	@sarah_stierch nice! now we actually feel like we know ourselves a little better...
+264119281300692000	business	1.0	264119281300692000	other	@thegooddeath i've met so many people like that attached to barstools.
+264119281300692000	sports	0.05382242846487327	264119281300692000	other	@thegooddeath i've met so many people like that attached to barstools.
+264119281300692000	fashion	0.0107186617137024	264119281300692000	other	@thegooddeath i've met so many people like that attached to barstools.
+264119281300692000	science	0.4586040565528079	264119281300692000	other	@thegooddeath i've met so many people like that attached to barstools.
+264119281300692000	politics	0.013434979731638633	264119281300692000	other	@thegooddeath i've met so many people like that attached to barstools.
+264119281300692000	technology	1.1941564636529426E-4	264119281300692000	other	@thegooddeath i've met so many people like that attached to barstools.
+264119281300692000	socialmedia	0.7043499429400201	264119281300692000	other	@thegooddeath i've met so many people like that attached to barstools.
+264135424606343000	sports	0.45990307291086824	264135424606343000	other	@cal__steele ha don't lie
+264135424606343000	fashion	1.0	264135424606343000	other	@cal__steele ha don't lie
+264135424606343000	science	0.09595901973637878	264135424606343000	other	@cal__steele ha don't lie
+264135424606343000	business	0.04921188792759712	264135424606343000	other	@cal__steele ha don't lie
+264135424606343000	politics	0.009243283831868128	264135424606343000	other	@cal__steele ha don't lie
+264135424606343000	technology	0.07840299082700512	264135424606343000	other	@cal__steele ha don't lie
+264135424606343000	socialmedia	0.0055777630424270076	264135424606343000	other	@cal__steele ha don't lie
+264138358584909000	sports	3.617943871682668E-5	264138358584909000	politics	@jeevanjones went to a debate at cambridge union about obama tonight. it was the most pointless thing ever to be honest lol
+264138358584909000	fashion	6.702247921328363E-5	264138358584909000	politics	@jeevanjones went to a debate at cambridge union about obama tonight. it was the most pointless thing ever to be honest lol
+264138358584909000	science	1.0	264138358584909000	politics	@jeevanjones went to a debate at cambridge union about obama tonight. it was the most pointless thing ever to be honest lol
+264138358584909000	business	1.0	264138358584909000	politics	@jeevanjones went to a debate at cambridge union about obama tonight. it was the most pointless thing ever to be honest lol
+264138358584909000	politics	0.9996124219115115	264138358584909000	politics	@jeevanjones went to a debate at cambridge union about obama tonight. it was the most pointless thing ever to be honest lol
+264138358584909000	technology	8.581113598943212E-11	264138358584909000	politics	@jeevanjones went to a debate at cambridge union about obama tonight. it was the most pointless thing ever to be honest lol
+264138358584909000	socialmedia	1.1246609844249739E-5	264138358584909000	politics	@jeevanjones went to a debate at cambridge union about obama tonight. it was the most pointless thing ever to be honest lol
+264149417777561000	sports	0.0010203903405531728	264149417777561000	politics	@jeevanjones the republican nomination race for 2016 (should romney lose on the 6th) will be fascinating
+264149417777561000	fashion	1.4047962817826693E-5	264149417777561000	politics	@jeevanjones the republican nomination race for 2016 (should romney lose on the 6th) will be fascinating
+264149417777561000	science	5.766395822835391E-8	264149417777561000	politics	@jeevanjones the republican nomination race for 2016 (should romney lose on the 6th) will be fascinating
+264149417777561000	business	1.0	264149417777561000	politics	@jeevanjones the republican nomination race for 2016 (should romney lose on the 6th) will be fascinating
+264149417777561000	politics	1.0	264149417777561000	politics	@jeevanjones the republican nomination race for 2016 (should romney lose on the 6th) will be fascinating
+264149417777561000	technology	1.625462765120204E-9	264149417777561000	politics	@jeevanjones the republican nomination race for 2016 (should romney lose on the 6th) will be fascinating
+264149417777561000	socialmedia	1.1675279223413002E-7	264149417777561000	politics	@jeevanjones the republican nomination race for 2016 (should romney lose on the 6th) will be fascinating
+264149576775258000	sports	1.0	264149576775258000	politics	@jeevanjones ryan, portman, pawlenty, christie, bush, rubio, jindal... there's some big potential names in there
+264149576775258000	fashion	2.552300414222735E-5	264149576775258000	politics	@jeevanjones ryan, portman, pawlenty, christie, bush, rubio, jindal... there's some big potential names in there
+264149576775258000	science	1.0	264149576775258000	politics	@jeevanjones ryan, portman, pawlenty, christie, bush, rubio, jindal... there's some big potential names in there
+264149576775258000	business	3.1646090460462224E-4	264149576775258000	politics	@jeevanjones ryan, portman, pawlenty, christie, bush, rubio, jindal... there's some big potential names in there
+264149576775258000	politics	1.0	264149576775258000	politics	@jeevanjones ryan, portman, pawlenty, christie, bush, rubio, jindal... there's some big potential names in there
+264149576775258000	technology	1.0716590987012964E-6	264149576775258000	politics	@jeevanjones ryan, portman, pawlenty, christie, bush, rubio, jindal... there's some big potential names in there
+264149576775258000	socialmedia	4.906181666250509E-6	264149576775258000	politics	@jeevanjones ryan, portman, pawlenty, christie, bush, rubio, jindal... there's some big potential names in there
+264152148500176000	business	0.05473174356448218	264152148500176000	other	@jeevanjones lest we forget bachmann
+264152148500176000	sports	0.05798694716326698	264152148500176000	other	@jeevanjones lest we forget bachmann
+264152148500176000	fashion	0.016543826515757757	264152148500176000	other	@jeevanjones lest we forget bachmann
+264152148500176000	science	0.04409964105382853	264152148500176000	other	@jeevanjones lest we forget bachmann
+264152148500176000	politics	0.08266012211230382	264152148500176000	other	@jeevanjones lest we forget bachmann
+264152148500176000	technology	1.0	264152148500176000	other	@jeevanjones lest we forget bachmann
+264152148500176000	socialmedia	0.0491608429830995	264152148500176000	other	@jeevanjones lest we forget bachmann
+264403013790224000	fashion	6.152384156774641E-5	264403013790224000	technology	hmm @nasa new #spotthestation service signup is not working! i get an error when entering canada - ontario - toronto
+264403013790224000	science	1.0	264403013790224000	technology	hmm @nasa new #spotthestation service signup is not working! i get an error when entering canada - ontario - toronto
+264403013790224000	business	2.943122745017967E-4	264403013790224000	technology	hmm @nasa new #spotthestation service signup is not working! i get an error when entering canada - ontario - toronto
+264403013790224000	sports	7.997206962193321E-7	264403013790224000	technology	hmm @nasa new #spotthestation service signup is not working! i get an error when entering canada - ontario - toronto
+264403013790224000	politics	1.7920691127441037E-4	264403013790224000	technology	hmm @nasa new #spotthestation service signup is not working! i get an error when entering canada - ontario - toronto
+264403013790224000	technology	0.0023602852787237764	264403013790224000	technology	hmm @nasa new #spotthestation service signup is not working! i get an error when entering canada - ontario - toronto
+264403013790224000	socialmedia	1.1504755419517736E-4	264403013790224000	technology	hmm @nasa new #spotthestation service signup is not working! i get an error when entering canada - ontario - toronto
+264443778365022000	business	1.0	264443778365022000	socialmedia	social signals, quality content, and search marketing will merge in 2013 http://t.co/mpti6yn7
+264443778365022000	sports	1.5455668711402765E-9	264443778365022000	socialmedia	social signals, quality content, and search marketing will merge in 2013 http://t.co/mpti6yn7
+264443778365022000	fashion	0.0018047359790127786	264443778365022000	socialmedia	social signals, quality content, and search marketing will merge in 2013 http://t.co/mpti6yn7
+264443778365022000	science	9.572236429264738E-7	264443778365022000	socialmedia	social signals, quality content, and search marketing will merge in 2013 http://t.co/mpti6yn7
+264443778365022000	politics	1.5262393460264003E-10	264443778365022000	socialmedia	social signals, quality content, and search marketing will merge in 2013 http://t.co/mpti6yn7
+264443778365022000	technology	0.00100894567888283	264443778365022000	socialmedia	social signals, quality content, and search marketing will merge in 2013 http://t.co/mpti6yn7
+264443778365022000	socialmedia	1.0	264443778365022000	socialmedia	social signals, quality content, and search marketing will merge in 2013 http://t.co/mpti6yn7
+264458168334172000	sports	1.0	264458168334172000	technology	did you miss the #mars telecon about its atmosphere &amp; methane? here's the complete telecon with reporters questions. http://t.co/rzmt14yp
+264458168334172000	fashion	2.016515897137834E-6	264458168334172000	technology	did you miss the #mars telecon about its atmosphere &amp; methane? here's the complete telecon with reporters questions. http://t.co/rzmt14yp
+264458168334172000	science	2.5354874515130292E-5	264458168334172000	technology	did you miss the #mars telecon about its atmosphere &amp; methane? here's the complete telecon with reporters questions. http://t.co/rzmt14yp
+264458168334172000	business	7.385417234258876E-6	264458168334172000	technology	did you miss the #mars telecon about its atmosphere &amp; methane? here's the complete telecon with reporters questions. http://t.co/rzmt14yp
+264458168334172000	politics	3.060906843872915E-7	264458168334172000	technology	did you miss the #mars telecon about its atmosphere &amp; methane? here's the complete telecon with reporters questions. http://t.co/rzmt14yp
+264458168334172000	technology	1.0	264458168334172000	technology	did you miss the #mars telecon about its atmosphere &amp; methane? here's the complete telecon with reporters questions. http://t.co/rzmt14yp
+264458168334172000	socialmedia	9.737537992550036E-7	264458168334172000	technology	did you miss the #mars telecon about its atmosphere &amp; methane? here's the complete telecon with reporters questions. http://t.co/rzmt14yp
+264461159363657000	sports	2.327249551739696E-7	264461159363657000	socialmedia	captivate your audience by telling a story in your advertising http://t.co/tdldva01
+264461159363657000	fashion	1.0	264461159363657000	socialmedia	captivate your audience by telling a story in your advertising http://t.co/tdldva01
+264461159363657000	science	0.0038318620807853074	264461159363657000	socialmedia	captivate your audience by telling a story in your advertising http://t.co/tdldva01
+264461159363657000	business	0.5476793961584766	264461159363657000	socialmedia	captivate your audience by telling a story in your advertising http://t.co/tdldva01
+264461159363657000	politics	1.3965984888825917E-6	264461159363657000	socialmedia	captivate your audience by telling a story in your advertising http://t.co/tdldva01
+264461159363657000	technology	1.0	264461159363657000	socialmedia	captivate your audience by telling a story in your advertising http://t.co/tdldva01
+264461159363657000	socialmedia	0.4827944406130679	264461159363657000	socialmedia	captivate your audience by telling a story in your advertising http://t.co/tdldva01
+264471871746080000	sports	6.361567075939555E-10	264471871746080000	politics	what an egotistical moron: conrad black keeps fighting to make personal plea to keep order of canada http://t.co/b66cihbw @torontostar
+264471871746080000	fashion	7.280473264659899E-5	264471871746080000	politics	what an egotistical moron: conrad black keeps fighting to make personal plea to keep order of canada http://t.co/b66cihbw @torontostar
+264471871746080000	science	1.2938827136023298E-5	264471871746080000	politics	what an egotistical moron: conrad black keeps fighting to make personal plea to keep order of canada http://t.co/b66cihbw @torontostar
+264471871746080000	business	1.0	264471871746080000	politics	what an egotistical moron: conrad black keeps fighting to make personal plea to keep order of canada http://t.co/b66cihbw @torontostar
+264471871746080000	politics	1.0	264471871746080000	politics	what an egotistical moron: conrad black keeps fighting to make personal plea to keep order of canada http://t.co/b66cihbw @torontostar
+264471871746080000	technology	1.8727284169051058E-5	264471871746080000	politics	what an egotistical moron: conrad black keeps fighting to make personal plea to keep order of canada http://t.co/b66cihbw @torontostar
+264471871746080000	socialmedia	9.07492356417881E-7	264471871746080000	politics	what an egotistical moron: conrad black keeps fighting to make personal plea to keep order of canada http://t.co/b66cihbw @torontostar
+264476805648510000	sports	7.375474194509739E-7	264476805648510000	socialmedia	i gave @theerinryan +k about social media strategy on @klout. http://t.co/h838xqub
+264476805648510000	fashion	8.433711776667352E-7	264476805648510000	socialmedia	i gave @theerinryan +k about social media strategy on @klout. http://t.co/h838xqub
+264476805648510000	science	7.72981067316163E-6	264476805648510000	socialmedia	i gave @theerinryan +k about social media strategy on @klout. http://t.co/h838xqub
+264476805648510000	business	9.454057228054425E-10	264476805648510000	socialmedia	i gave @theerinryan +k about social media strategy on @klout. http://t.co/h838xqub
+264476805648510000	politics	4.0895508474284147E-10	264476805648510000	socialmedia	i gave @theerinryan +k about social media strategy on @klout. http://t.co/h838xqub
+264476805648510000	technology	8.642134657005967E-11	264476805648510000	socialmedia	i gave @theerinryan +k about social media strategy on @klout. http://t.co/h838xqub
+264476805648510000	socialmedia	1.0	264476805648510000	socialmedia	i gave @theerinryan +k about social media strategy on @klout. http://t.co/h838xqub
+264501402682916000	business	1.0	264501402682916000	other	anyone can give you advice. surround yourself with people who give you wisdom, make you laugh, or simply make you feel good.
+264501402682916000	sports	1.789370168613333E-6	264501402682916000	other	anyone can give you advice. surround yourself with people who give you wisdom, make you laugh, or simply make you feel good.
+264501402682916000	fashion	0.04836656123937309	264501402682916000	other	anyone can give you advice. surround yourself with people who give you wisdom, make you laugh, or simply make you feel good.
+264501402682916000	science	0.2736537717860726	264501402682916000	other	anyone can give you advice. surround yourself with people who give you wisdom, make you laugh, or simply make you feel good.
+264501402682916000	politics	2.8800668160054245E-6	264501402682916000	other	anyone can give you advice. surround yourself with people who give you wisdom, make you laugh, or simply make you feel good.
+264501402682916000	technology	6.2798766189828796E-6	264501402682916000	other	anyone can give you advice. surround yourself with people who give you wisdom, make you laugh, or simply make you feel good.
+264501402682916000	socialmedia	0.7232530846721926	264501402682916000	other	anyone can give you advice. surround yourself with people who give you wisdom, make you laugh, or simply make you feel good.
+264504396266733000	science	0.0035700355462853174	264504396266733000	other	@howardnick glad you approve! oakland can always use more stylish ambassadors.
+264504396266733000	business	5.245762967908929E-4	264504396266733000	other	@howardnick glad you approve! oakland can always use more stylish ambassadors.
+264504396266733000	sports	0.04475698002600063	264504396266733000	other	@howardnick glad you approve! oakland can always use more stylish ambassadors.
+264504396266733000	fashion	5.299095583035161E-4	264504396266733000	other	@howardnick glad you approve! oakland can always use more stylish ambassadors.
+264504396266733000	politics	0.4878764648735672	264504396266733000	other	@howardnick glad you approve! oakland can always use more stylish ambassadors.
+264504396266733000	technology	0.5200131601356225	264504396266733000	other	@howardnick glad you approve! oakland can always use more stylish ambassadors.
+264504396266733000	socialmedia	1.0	264504396266733000	other	@howardnick glad you approve! oakland can always use more stylish ambassadors.
+264506785455546000	business	1.0	264506785455546000	politics,sports	right decision with so many in need, essential services unavailable: marathon canceled with nyc still recovering http://t.co/mzf7ers8 #sandy
+264506785455546000	sports	5.192260552695882E-5	264506785455546000	politics,sports	right decision with so many in need, essential services unavailable: marathon canceled with nyc still recovering http://t.co/mzf7ers8 #sandy
+264506785455546000	fashion	2.141118289774874E-6	264506785455546000	politics,sports	right decision with so many in need, essential services unavailable: marathon canceled with nyc still recovering http://t.co/mzf7ers8 #sandy
+264506785455546000	science	4.97555598573441E-5	264506785455546000	politics,sports	right decision with so many in need, essential services unavailable: marathon canceled with nyc still recovering http://t.co/mzf7ers8 #sandy
+264506785455546000	politics	1.3885640641894982E-6	264506785455546000	politics,sports	right decision with so many in need, essential services unavailable: marathon canceled with nyc still recovering http://t.co/mzf7ers8 #sandy
+264506785455546000	technology	7.20213743247585E-5	264506785455546000	politics,sports	right decision with so many in need, essential services unavailable: marathon canceled with nyc still recovering http://t.co/mzf7ers8 #sandy
+264506785455546000	socialmedia	0.014585363135503253	264506785455546000	politics,sports	right decision with so many in need, essential services unavailable: marathon canceled with nyc still recovering http://t.co/mzf7ers8 #sandy
+264515043301933000	sports	3.2815350489853296E-10	264515043301933000	socialmedia	how to serve a balanced social content diet on facebook and google+ http://t.co/8yaelkzm
+264515043301933000	fashion	2.6015556516766954E-6	264515043301933000	socialmedia	how to serve a balanced social content diet on facebook and google+ http://t.co/8yaelkzm
+264515043301933000	science	4.5223703864671533E-10	264515043301933000	socialmedia	how to serve a balanced social content diet on facebook and google+ http://t.co/8yaelkzm
+264515043301933000	business	1.0	264515043301933000	socialmedia	how to serve a balanced social content diet on facebook and google+ http://t.co/8yaelkzm
+264515043301933000	politics	6.556011895487717E-11	264515043301933000	socialmedia	how to serve a balanced social content diet on facebook and google+ http://t.co/8yaelkzm
+264515043301933000	technology	4.373948600468486E-4	264515043301933000	socialmedia	how to serve a balanced social content diet on facebook and google+ http://t.co/8yaelkzm
+264515043301933000	socialmedia	0.9998973711492589	264515043301933000	socialmedia	how to serve a balanced social content diet on facebook and google+ http://t.co/8yaelkzm
+264526838754324000	business	0.006974587113178216	264526838754324000	other	content wasn't always king, but now it finally is http://t.co/yavwa3pk
+264526838754324000	sports	5.95489646978627E-4	264526838754324000	other	content wasn't always king, but now it finally is http://t.co/yavwa3pk
+264526838754324000	fashion	7.247566878121917E-5	264526838754324000	other	content wasn't always king, but now it finally is http://t.co/yavwa3pk
+264526838754324000	science	1.2791628009887964E-4	264526838754324000	other	content wasn't always king, but now it finally is http://t.co/yavwa3pk
+264526838754324000	politics	3.4006413666550476E-5	264526838754324000	other	content wasn't always king, but now it finally is http://t.co/yavwa3pk
+264526838754324000	technology	0.004874864553318221	264526838754324000	other	content wasn't always king, but now it finally is http://t.co/yavwa3pk
+264526838754324000	socialmedia	1.0	264526838754324000	other	content wasn't always king, but now it finally is http://t.co/yavwa3pk
+264538406992896000	fashion	8.134133092629702E-5	264538406992896000	other	i gave @prospectingking +k about auto industry on @klout. http://t.co/y4o4xd3j
+264538406992896000	science	1.0	264538406992896000	other	i gave @prospectingking +k about auto industry on @klout. http://t.co/y4o4xd3j
+264538406992896000	business	4.809319943969181E-7	264538406992896000	other	i gave @prospectingking +k about auto industry on @klout. http://t.co/y4o4xd3j
+264538406992896000	sports	5.126369255057506E-5	264538406992896000	other	i gave @prospectingking +k about auto industry on @klout. http://t.co/y4o4xd3j
+264538406992896000	politics	1.0	264538406992896000	other	i gave @prospectingking +k about auto industry on @klout. http://t.co/y4o4xd3j
+264538406992896000	technology	1.7197899304365154E-6	264538406992896000	other	i gave @prospectingking +k about auto industry on @klout. http://t.co/y4o4xd3j
+264538406992896000	socialmedia	0.9999948344133688	264538406992896000	other	i gave @prospectingking +k about auto industry on @klout. http://t.co/y4o4xd3j
+264549232818671000	business	1.0	264549232818671000	other	if you aren't satisfied with your job right now, don't wait until tomorrow to start making a change. you're only stuck in your own mind.
+264549232818671000	sports	1.3999291921053539E-5	264549232818671000	other	if you aren't satisfied with your job right now, don't wait until tomorrow to start making a change. you're only stuck in your own mind.
+264549232818671000	fashion	1.0	264549232818671000	other	if you aren't satisfied with your job right now, don't wait until tomorrow to start making a change. you're only stuck in your own mind.
+264549232818671000	science	1.0	264549232818671000	other	if you aren't satisfied with your job right now, don't wait until tomorrow to start making a change. you're only stuck in your own mind.
+264549232818671000	politics	8.998617299914697E-9	264549232818671000	other	if you aren't satisfied with your job right now, don't wait until tomorrow to start making a change. you're only stuck in your own mind.
+264549232818671000	technology	1.5924050077955185E-7	264549232818671000	other	if you aren't satisfied with your job right now, don't wait until tomorrow to start making a change. you're only stuck in your own mind.
+264549232818671000	socialmedia	9.901889497101428E-6	264549232818671000	other	if you aren't satisfied with your job right now, don't wait until tomorrow to start making a change. you're only stuck in your own mind.
+264559555348922000	sports	0.21988359064675939	264559555348922000	other	the fattest squirrel you'll see all day http://t.co/eqvdlizu
+264559555348922000	fashion	5.13078994810587E-5	264559555348922000	other	the fattest squirrel you'll see all day http://t.co/eqvdlizu
+264559555348922000	science	0.002100206729573389	264559555348922000	other	the fattest squirrel you'll see all day http://t.co/eqvdlizu
+264559555348922000	business	0.0018917654958467557	264559555348922000	other	the fattest squirrel you'll see all day http://t.co/eqvdlizu
+264559555348922000	politics	0.16598287775074347	264559555348922000	other	the fattest squirrel you'll see all day http://t.co/eqvdlizu
+264559555348922000	technology	1.5107277742818905E-4	264559555348922000	other	the fattest squirrel you'll see all day http://t.co/eqvdlizu
+264559555348922000	socialmedia	0.0018924146738861806	264559555348922000	other	the fattest squirrel you'll see all day http://t.co/eqvdlizu
+264569351666032000	sports	3.5795566540060013E-6	264569351666032000	socialmedia	half-listening to people means you aren't really hearing them at all. pay attention to your kids, spouse, family, friends... everybody.
+264569351666032000	fashion	1.1589994324371521E-6	264569351666032000	socialmedia	half-listening to people means you aren't really hearing them at all. pay attention to your kids, spouse, family, friends... everybody.
+264569351666032000	science	0.015876028050374046	264569351666032000	socialmedia	half-listening to people means you aren't really hearing them at all. pay attention to your kids, spouse, family, friends... everybody.
+264569351666032000	business	1.0	264569351666032000	socialmedia	half-listening to people means you aren't really hearing them at all. pay attention to your kids, spouse, family, friends... everybody.
+264569351666032000	politics	2.2682184591673397E-4	264569351666032000	socialmedia	half-listening to people means you aren't really hearing them at all. pay attention to your kids, spouse, family, friends... everybody.
+264569351666032000	technology	2.938064514748147E-6	264569351666032000	socialmedia	half-listening to people means you aren't really hearing them at all. pay attention to your kids, spouse, family, friends... everybody.
+264569351666032000	socialmedia	1.0	264569351666032000	socialmedia	half-listening to people means you aren't really hearing them at all. pay attention to your kids, spouse, family, friends... everybody.
+264583202667130000	fashion	9.298638381566647E-6	264583202667130000	socialmedia	6 simple tips for distributing an infographic - by @neomammalian http://t.co/ver19nui via @senginepeople
+264583202667130000	science	4.1619743363271846E-5	264583202667130000	socialmedia	6 simple tips for distributing an infographic - by @neomammalian http://t.co/ver19nui via @senginepeople
+264583202667130000	business	1.0	264583202667130000	socialmedia	6 simple tips for distributing an infographic - by @neomammalian http://t.co/ver19nui via @senginepeople
+264583202667130000	sports	5.1730202392012975E-8	264583202667130000	socialmedia	6 simple tips for distributing an infographic - by @neomammalian http://t.co/ver19nui via @senginepeople
+264583202667130000	politics	3.538577452480039E-6	264583202667130000	socialmedia	6 simple tips for distributing an infographic - by @neomammalian http://t.co/ver19nui via @senginepeople
+264583202667130000	technology	1.0	264583202667130000	socialmedia	6 simple tips for distributing an infographic - by @neomammalian http://t.co/ver19nui via @senginepeople
+264583202667130000	socialmedia	0.018549112712757734	264583202667130000	socialmedia	6 simple tips for distributing an infographic - by @neomammalian http://t.co/ver19nui via @senginepeople
+264594551279333000	business	1.0	264594551279333000	socialmedia	beware of techniques that are too proprietary to be shared http://t.co/fmcwe7qg
+264594551279333000	sports	8.405186342971024E-4	264594551279333000	socialmedia	beware of techniques that are too proprietary to be shared http://t.co/fmcwe7qg
+264594551279333000	fashion	0.0019591626188257432	264594551279333000	socialmedia	beware of techniques that are too proprietary to be shared http://t.co/fmcwe7qg
+264594551279333000	science	0.006722610680471949	264594551279333000	socialmedia	beware of techniques that are too proprietary to be shared http://t.co/fmcwe7qg
+264594551279333000	politics	0.007659637054148273	264594551279333000	socialmedia	beware of techniques that are too proprietary to be shared http://t.co/fmcwe7qg
+264594551279333000	technology	4.4382071495564286E-4	264594551279333000	socialmedia	beware of techniques that are too proprietary to be shared http://t.co/fmcwe7qg
+264594551279333000	socialmedia	0.30059548004186076	264594551279333000	socialmedia	beware of techniques that are too proprietary to be shared http://t.co/fmcwe7qg
+264605114147405000	sports	3.775241503890064E-5	264605114147405000	technology	google declares existing web metrics obsolete http://t.co/ekc0v10n v/ @admcommunity
+264605114147405000	fashion	0.0010658653518837696	264605114147405000	technology	google declares existing web metrics obsolete http://t.co/ekc0v10n v/ @admcommunity
+264605114147405000	science	1.7519986981749902E-5	264605114147405000	technology	google declares existing web metrics obsolete http://t.co/ekc0v10n v/ @admcommunity
+264605114147405000	business	0.9522926171182341	264605114147405000	technology	google declares existing web metrics obsolete http://t.co/ekc0v10n v/ @admcommunity
+264605114147405000	politics	1.881328410478157E-8	264605114147405000	technology	google declares existing web metrics obsolete http://t.co/ekc0v10n v/ @admcommunity
+264605114147405000	technology	1.0	264605114147405000	technology	google declares existing web metrics obsolete http://t.co/ekc0v10n v/ @admcommunity
+264605114147405000	socialmedia	1.305755218277392E-5	264605114147405000	technology	google declares existing web metrics obsolete http://t.co/ekc0v10n v/ @admcommunity
+264610017301381000	sports	4.303370876416618E-6	264610017301381000	travel,books	the only way to fly if you.re a hobbit http://t.co/0zrgmxls via @techiblog
+264610017301381000	fashion	1.0259656694628457E-4	264610017301381000	travel,books	the only way to fly if you.re a hobbit http://t.co/0zrgmxls via @techiblog
+264610017301381000	science	0.0012662419105051361	264610017301381000	travel,books	the only way to fly if you.re a hobbit http://t.co/0zrgmxls via @techiblog
+264610017301381000	business	1.0	264610017301381000	travel,books	the only way to fly if you.re a hobbit http://t.co/0zrgmxls via @techiblog
+264610017301381000	politics	0.014945968715478855	264610017301381000	travel,books	the only way to fly if you.re a hobbit http://t.co/0zrgmxls via @techiblog
+264610017301381000	technology	1.2748990491528915E-6	264610017301381000	travel,books	the only way to fly if you.re a hobbit http://t.co/0zrgmxls via @techiblog
+264610017301381000	socialmedia	0.0017084822241524122	264610017301381000	travel,books	the only way to fly if you.re a hobbit http://t.co/0zrgmxls via @techiblog
+264628758949019000	sports	2.2301334045733124E-5	264628758949019000	socialmedia	i gave @imacsweb +k about customer service on @klout. http://t.co/pwpphaf8
+264628758949019000	fashion	4.642040730069117E-5	264628758949019000	socialmedia	i gave @imacsweb +k about customer service on @klout. http://t.co/pwpphaf8
+264628758949019000	science	8.728142675290467E-4	264628758949019000	socialmedia	i gave @imacsweb +k about customer service on @klout. http://t.co/pwpphaf8
+264628758949019000	business	1.5196984992437022E-6	264628758949019000	socialmedia	i gave @imacsweb +k about customer service on @klout. http://t.co/pwpphaf8
+264628758949019000	politics	1.0	264628758949019000	socialmedia	i gave @imacsweb +k about customer service on @klout. http://t.co/pwpphaf8
+264628758949019000	technology	1.4903018696861577E-6	264628758949019000	socialmedia	i gave @imacsweb +k about customer service on @klout. http://t.co/pwpphaf8
+264628758949019000	socialmedia	0.9999998853450116	264628758949019000	socialmedia	i gave @imacsweb +k about customer service on @klout. http://t.co/pwpphaf8
+264642834961936000	sports	3.63342159195382E-6	264642834961936000	technology	life is like wifi. the further you get away from the source, the weaker your signal gets.
+264642834961936000	fashion	2.3699797209445812E-4	264642834961936000	technology	life is like wifi. the further you get away from the source, the weaker your signal gets.
+264642834961936000	science	0.9906888942536652	264642834961936000	technology	life is like wifi. the further you get away from the source, the weaker your signal gets.
+264642834961936000	business	1.0	264642834961936000	technology	life is like wifi. the further you get away from the source, the weaker your signal gets.
+264642834961936000	politics	1.213561140958315E-4	264642834961936000	technology	life is like wifi. the further you get away from the source, the weaker your signal gets.
+264642834961936000	technology	0.12714040989954886	264642834961936000	technology	life is like wifi. the further you get away from the source, the weaker your signal gets.
+264642834961936000	socialmedia	5.525274963308097E-4	264642834961936000	technology	life is like wifi. the further you get away from the source, the weaker your signal gets.
+264727159942283000	sports	9.683575220694747E-8	264727159942283000	politics	rae says giving medals to anti-abortion activist crosses the line #cdnpoli http://t.co/1elnv8gt via @huffpostcanada #cdnpoli
+264727159942283000	fashion	3.1163691220264486E-4	264727159942283000	politics	rae says giving medals to anti-abortion activist crosses the line #cdnpoli http://t.co/1elnv8gt via @huffpostcanada #cdnpoli
+264727159942283000	science	2.312367789873449E-6	264727159942283000	politics	rae says giving medals to anti-abortion activist crosses the line #cdnpoli http://t.co/1elnv8gt via @huffpostcanada #cdnpoli
+264727159942283000	business	1.0259766746984448E-4	264727159942283000	politics	rae says giving medals to anti-abortion activist crosses the line #cdnpoli http://t.co/1elnv8gt via @huffpostcanada #cdnpoli
+264727159942283000	politics	0.009144017745752776	264727159942283000	politics	rae says giving medals to anti-abortion activist crosses the line #cdnpoli http://t.co/1elnv8gt via @huffpostcanada #cdnpoli
+264727159942283000	technology	6.982488815866077E-5	264727159942283000	politics	rae says giving medals to anti-abortion activist crosses the line #cdnpoli http://t.co/1elnv8gt via @huffpostcanada #cdnpoli
+264727159942283000	socialmedia	2.0364296596926474E-6	264727159942283000	politics	rae says giving medals to anti-abortion activist crosses the line #cdnpoli http://t.co/1elnv8gt via @huffpostcanada #cdnpoli
+264727965689053000	science	3.685356077668029E-11	264727965689053000	sports	he's at it again, showing real leadership, our mayor (ugh): ttc buses pulled off routes to pick up fords football team http://t.co/zswryfgv
+264727965689053000	business	1.0	264727965689053000	sports	he's at it again, showing real leadership, our mayor (ugh): ttc buses pulled off routes to pick up fords football team http://t.co/zswryfgv
+264727965689053000	sports	0.9994799302765504	264727965689053000	sports	he's at it again, showing real leadership, our mayor (ugh): ttc buses pulled off routes to pick up fords football team http://t.co/zswryfgv
+264727965689053000	fashion	2.583414215877863E-9	264727965689053000	sports	he's at it again, showing real leadership, our mayor (ugh): ttc buses pulled off routes to pick up fords football team http://t.co/zswryfgv
+264727965689053000	politics	2.5119318984237273E-9	264727965689053000	sports	he's at it again, showing real leadership, our mayor (ugh): ttc buses pulled off routes to pick up fords football team http://t.co/zswryfgv
+264727965689053000	technology	9.983323825050564E-12	264727965689053000	sports	he's at it again, showing real leadership, our mayor (ugh): ttc buses pulled off routes to pick up fords football team http://t.co/zswryfgv
+264727965689053000	socialmedia	4.1732353649780756E-7	264727965689053000	sports	he's at it again, showing real leadership, our mayor (ugh): ttc buses pulled off routes to pick up fords football team http://t.co/zswryfgv
+264728354425548000	business	1.0837996265755055E-5	264728354425548000	business,music	now if only other retailers would follow suit: too soon? shoppers drug mart yanks christmas music after complaints http://t.co/f4khygfu
+264728354425548000	sports	4.0556214663716275E-9	264728354425548000	business,music	now if only other retailers would follow suit: too soon? shoppers drug mart yanks christmas music after complaints http://t.co/f4khygfu
+264728354425548000	fashion	1.4119962695087343E-4	264728354425548000	business,music	now if only other retailers would follow suit: too soon? shoppers drug mart yanks christmas music after complaints http://t.co/f4khygfu
+264728354425548000	science	2.914144953357792E-7	264728354425548000	business,music	now if only other retailers would follow suit: too soon? shoppers drug mart yanks christmas music after complaints http://t.co/f4khygfu
+264728354425548000	politics	0.002031640986013618	264728354425548000	business,music	now if only other retailers would follow suit: too soon? shoppers drug mart yanks christmas music after complaints http://t.co/f4khygfu
+264728354425548000	technology	2.292547837906082E-4	264728354425548000	business,music	now if only other retailers would follow suit: too soon? shoppers drug mart yanks christmas music after complaints http://t.co/f4khygfu
+264728354425548000	socialmedia	6.645556278854827E-8	264728354425548000	business,music	now if only other retailers would follow suit: too soon? shoppers drug mart yanks christmas music after complaints http://t.co/f4khygfu
+264728776066351000	sports	1.6167342783668897E-6	264728776066351000	politics	she just can't stay out of trouble: video: veterans upset over quebec premier's poppy http://t.co/x3ee3lsm #qcpoli
+264728776066351000	fashion	6.421986126175325E-7	264728776066351000	politics	she just can't stay out of trouble: video: veterans upset over quebec premier's poppy http://t.co/x3ee3lsm #qcpoli
+264728776066351000	science	1.4604928596655005E-6	264728776066351000	politics	she just can't stay out of trouble: video: veterans upset over quebec premier's poppy http://t.co/x3ee3lsm #qcpoli
+264728776066351000	business	1.0	264728776066351000	politics	she just can't stay out of trouble: video: veterans upset over quebec premier's poppy http://t.co/x3ee3lsm #qcpoli
+264728776066351000	politics	1.0	264728776066351000	politics	she just can't stay out of trouble: video: veterans upset over quebec premier's poppy http://t.co/x3ee3lsm #qcpoli
+264728776066351000	technology	9.266091878197292E-5	264728776066351000	politics	she just can't stay out of trouble: video: veterans upset over quebec premier's poppy http://t.co/x3ee3lsm #qcpoli
+264728776066351000	socialmedia	5.246327925996785E-7	264728776066351000	politics	she just can't stay out of trouble: video: veterans upset over quebec premier's poppy http://t.co/x3ee3lsm #qcpoli
+264729352288223000	sports	8.085833353812946E-9	264729352288223000	travel	read the 1st sentence, it's all about "moi": conrad black: my london adventure http://t.co/razgrhhv via @fullcomment
+264729352288223000	fashion	5.169978812724684E-6	264729352288223000	travel	read the 1st sentence, it's all about "moi": conrad black: my london adventure http://t.co/razgrhhv via @fullcomment
+264729352288223000	science	1.0	264729352288223000	travel	read the 1st sentence, it's all about "moi": conrad black: my london adventure http://t.co/razgrhhv via @fullcomment
+264729352288223000	business	4.474530491572886E-5	264729352288223000	travel	read the 1st sentence, it's all about "moi": conrad black: my london adventure http://t.co/razgrhhv via @fullcomment
+264729352288223000	politics	1.0	264729352288223000	travel	read the 1st sentence, it's all about "moi": conrad black: my london adventure http://t.co/razgrhhv via @fullcomment
+264729352288223000	technology	5.2941582181358E-7	264729352288223000	travel	read the 1st sentence, it's all about "moi": conrad black: my london adventure http://t.co/razgrhhv via @fullcomment
+264729352288223000	socialmedia	2.6320135514254592E-6	264729352288223000	travel	read the 1st sentence, it's all about "moi": conrad black: my london adventure http://t.co/razgrhhv via @fullcomment
+264730042557399000	sports	1.6920100708468163E-5	264730042557399000	politics,technology	an interesting idea: why israel should trade its nukes http://t.co/hkvcpka6 via @foreignaffairs
+264730042557399000	fashion	1.3835758984853394E-5	264730042557399000	politics,technology	an interesting idea: why israel should trade its nukes http://t.co/hkvcpka6 via @foreignaffairs
+264730042557399000	science	8.797117746473512E-5	264730042557399000	politics,technology	an interesting idea: why israel should trade its nukes http://t.co/hkvcpka6 via @foreignaffairs
+264730042557399000	business	1.0	264730042557399000	politics,technology	an interesting idea: why israel should trade its nukes http://t.co/hkvcpka6 via @foreignaffairs
+264730042557399000	politics	0.027864410779432754	264730042557399000	politics,technology	an interesting idea: why israel should trade its nukes http://t.co/hkvcpka6 via @foreignaffairs
+264730042557399000	technology	2.330069062651677E-5	264730042557399000	politics,technology	an interesting idea: why israel should trade its nukes http://t.co/hkvcpka6 via @foreignaffairs
+264730042557399000	socialmedia	0.001290445055093807	264730042557399000	politics,technology	an interesting idea: why israel should trade its nukes http://t.co/hkvcpka6 via @foreignaffairs
+264752787580125000	sports	0.17101925336490648	264752787580125000	music	wish i could get to the tom lehrer review, opening today in seattle. http://t.co/ynxbnv2r makes me long for spring! http://t.co/bq1ohxsc
+264752787580125000	fashion	1.7587306746915994E-5	264752787580125000	music	wish i could get to the tom lehrer review, opening today in seattle. http://t.co/ynxbnv2r makes me long for spring! http://t.co/bq1ohxsc
+264752787580125000	science	1.3339407503528336E-4	264752787580125000	music	wish i could get to the tom lehrer review, opening today in seattle. http://t.co/ynxbnv2r makes me long for spring! http://t.co/bq1ohxsc
+264752787580125000	business	1.0	264752787580125000	music	wish i could get to the tom lehrer review, opening today in seattle. http://t.co/ynxbnv2r makes me long for spring! http://t.co/bq1ohxsc
+264752787580125000	politics	9.764358973799159E-10	264752787580125000	music	wish i could get to the tom lehrer review, opening today in seattle. http://t.co/ynxbnv2r makes me long for spring! http://t.co/bq1ohxsc
+264752787580125000	technology	8.449360551036283E-7	264752787580125000	music	wish i could get to the tom lehrer review, opening today in seattle. http://t.co/ynxbnv2r makes me long for spring! http://t.co/bq1ohxsc
+264752787580125000	socialmedia	2.544905587371785E-7	264752787580125000	music	wish i could get to the tom lehrer review, opening today in seattle. http://t.co/ynxbnv2r makes me long for spring! http://t.co/bq1ohxsc
+264776405252964000	business	0.05901011656409081	264776405252964000	other	@toeface_  i dont care
+264776405252964000	sports	0.7823009758367885	264776405252964000	other	@toeface_  i dont care
+264776405252964000	fashion	0.43712838010217675	264776405252964000	other	@toeface_  i dont care
+264776405252964000	science	0.9499569399313934	264776405252964000	other	@toeface_  i dont care
+264776405252964000	politics	0.31611788560407955	264776405252964000	other	@toeface_  i dont care
+264776405252964000	technology	0.001957438609678295	264776405252964000	other	@toeface_  i dont care
+264776405252964000	socialmedia	0.2681930402213183	264776405252964000	other	@toeface_  i dont care
+264781162428395000	fashion	0.3810204266563791	264781162428395000	other	go follow  @toeface_
+264781162428395000	science	0.016732189167361997	264781162428395000	other	go follow  @toeface_
+264781162428395000	business	0.04170874694219862	264781162428395000	other	go follow  @toeface_
+264781162428395000	sports	0.827591068649821	264781162428395000	other	go follow  @toeface_
+264781162428395000	politics	0.7236911291379945	264781162428395000	other	go follow  @toeface_
+264781162428395000	technology	0.16923251692857336	264781162428395000	other	go follow  @toeface_
+264781162428395000	socialmedia	0.5409493053255968	264781162428395000	other	go follow  @toeface_
+264808384044343000	business	1.0	264808384044343000	technology	i will announce news on monday about @spaceref. hint, part of the announcement already happened. oh, i love to tease. can you figure it out?
+264808384044343000	sports	0.0027133330732919676	264808384044343000	technology	i will announce news on monday about @spaceref. hint, part of the announcement already happened. oh, i love to tease. can you figure it out?
+264808384044343000	fashion	0.9039393010091873	264808384044343000	technology	i will announce news on monday about @spaceref. hint, part of the announcement already happened. oh, i love to tease. can you figure it out?
+264808384044343000	science	1.0	264808384044343000	technology	i will announce news on monday about @spaceref. hint, part of the announcement already happened. oh, i love to tease. can you figure it out?
+264808384044343000	politics	1.6857454366556589E-6	264808384044343000	technology	i will announce news on monday about @spaceref. hint, part of the announcement already happened. oh, i love to tease. can you figure it out?
+264808384044343000	technology	1.0	264808384044343000	technology	i will announce news on monday about @spaceref. hint, part of the announcement already happened. oh, i love to tease. can you figure it out?
+264808384044343000	socialmedia	2.5571861870263713E-4	264808384044343000	technology	i will announce news on monday about @spaceref. hint, part of the announcement already happened. oh, i love to tease. can you figure it out?
+264817218150359000	sports	5.3628698319632414E-5	264817218150359000	technology	video: this week at nasa recap: endeavour's parade, mars and more http://t.co/22yrrfne
+264817218150359000	fashion	0.011721623231259925	264817218150359000	technology	video: this week at nasa recap: endeavour's parade, mars and more http://t.co/22yrrfne
+264817218150359000	science	5.121851046574589E-4	264817218150359000	technology	video: this week at nasa recap: endeavour's parade, mars and more http://t.co/22yrrfne
+264817218150359000	business	2.0831100648918454E-5	264817218150359000	technology	video: this week at nasa recap: endeavour's parade, mars and more http://t.co/22yrrfne
+264817218150359000	politics	1.0	264817218150359000	technology	video: this week at nasa recap: endeavour's parade, mars and more http://t.co/22yrrfne
+264817218150359000	technology	1.0	264817218150359000	technology	video: this week at nasa recap: endeavour's parade, mars and more http://t.co/22yrrfne
+264817218150359000	socialmedia	0.0017576247954332084	264817218150359000	technology	video: this week at nasa recap: endeavour's parade, mars and more http://t.co/22yrrfne
+264821160737398000	sports	2.6289073795252447E-13	264821160737398000	politics	rt @ajelive: a retiree in #florida tells @ajenglish's @andygaje he is confident with #obama's direction for the #us | http://t.co/wzliwirk
+264821160737398000	fashion	3.2976351443774246E-8	264821160737398000	politics	rt @ajelive: a retiree in #florida tells @ajenglish's @andygaje he is confident with #obama's direction for the #us | http://t.co/wzliwirk
+264821160737398000	science	1.0	264821160737398000	politics	rt @ajelive: a retiree in #florida tells @ajenglish's @andygaje he is confident with #obama's direction for the #us | http://t.co/wzliwirk
+264821160737398000	business	1.0	264821160737398000	politics	rt @ajelive: a retiree in #florida tells @ajenglish's @andygaje he is confident with #obama's direction for the #us | http://t.co/wzliwirk
+264821160737398000	politics	0.4485956502137289	264821160737398000	politics	rt @ajelive: a retiree in #florida tells @ajenglish's @andygaje he is confident with #obama's direction for the #us | http://t.co/wzliwirk
+264821160737398000	technology	3.1276913785019254E-9	264821160737398000	politics	rt @ajelive: a retiree in #florida tells @ajenglish's @andygaje he is confident with #obama's direction for the #us | http://t.co/wzliwirk
+264821160737398000	socialmedia	3.105088071452764E-9	264821160737398000	politics	rt @ajelive: a retiree in #florida tells @ajenglish's @andygaje he is confident with #obama's direction for the #us | http://t.co/wzliwirk
+264821208216903000	sports	4.4820807926300987E-8	264821208216903000	technology	rt @sofiatelescope: at the bay area science festival at at&amp;t park? come to our booth and see yourself in infrared. http://t.co/csalkcws
+264821208216903000	fashion	2.653067099539634E-5	264821208216903000	technology	rt @sofiatelescope: at the bay area science festival at at&amp;t park? come to our booth and see yourself in infrared. http://t.co/csalkcws
+264821208216903000	science	0.005411449310589212	264821208216903000	technology	rt @sofiatelescope: at the bay area science festival at at&amp;t park? come to our booth and see yourself in infrared. http://t.co/csalkcws
+264821208216903000	business	1.618279021658729E-4	264821208216903000	technology	rt @sofiatelescope: at the bay area science festival at at&amp;t park? come to our booth and see yourself in infrared. http://t.co/csalkcws
+264821208216903000	politics	1.853402514115091E-10	264821208216903000	technology	rt @sofiatelescope: at the bay area science festival at at&amp;t park? come to our booth and see yourself in infrared. http://t.co/csalkcws
+264821208216903000	technology	0.041424866507548515	264821208216903000	technology	rt @sofiatelescope: at the bay area science festival at at&amp;t park? come to our booth and see yourself in infrared. http://t.co/csalkcws
+264821208216903000	socialmedia	2.024296885842964E-7	264821208216903000	technology	rt @sofiatelescope: at the bay area science festival at at&amp;t park? come to our booth and see yourself in infrared. http://t.co/csalkcws
+264821613235695000	sports	5.508810759041608E-10	264821613235695000	politics	lol mt .@brianweeden: republicans lay groundwork for legal battle to obama victory arguing the opposite did in 2000: http://t.co/1f4facma.
+264821613235695000	fashion	4.0115387431522473E-7	264821613235695000	politics	lol mt .@brianweeden: republicans lay groundwork for legal battle to obama victory arguing the opposite did in 2000: http://t.co/1f4facma.
+264821613235695000	science	8.748952839201073E-9	264821613235695000	politics	lol mt .@brianweeden: republicans lay groundwork for legal battle to obama victory arguing the opposite did in 2000: http://t.co/1f4facma.
+264821613235695000	business	1.0	264821613235695000	politics	lol mt .@brianweeden: republicans lay groundwork for legal battle to obama victory arguing the opposite did in 2000: http://t.co/1f4facma.
+264821613235695000	politics	1.0	264821613235695000	politics	lol mt .@brianweeden: republicans lay groundwork for legal battle to obama victory arguing the opposite did in 2000: http://t.co/1f4facma.
+264821613235695000	technology	1.8648164060295175E-6	264821613235695000	politics	lol mt .@brianweeden: republicans lay groundwork for legal battle to obama victory arguing the opposite did in 2000: http://t.co/1f4facma.
+264821613235695000	socialmedia	3.307866322459756E-9	264821613235695000	politics	lol mt .@brianweeden: republicans lay groundwork for legal battle to obama victory arguing the opposite did in 2000: http://t.co/1f4facma.
