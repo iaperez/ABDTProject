@@ -1,0 +1,508 @@
+	<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Impactweets</title>
+		<style type="text/css">
+			ul.column {
+				width: 100%;
+				padding: 0;
+				margin: 10px 0;
+				list-style: none;
+			}
+			ul.column li {
+				float: left;
+				width: 600px; /*Set default width*/
+				padding: 0;
+				margin: 5px 0;
+				display: inline;
+				word-wrap: break-word;
+			}
+			
+			ul.cclist {
+				text-align:left;
+				vertical-align:top;
+				padding: 0;
+				margin: 0px 0;
+				list-style: none;
+				word-wrap: break-word;
+			}
+			ul.cclist li {
+				width: 200px;
+				text-align:left;
+				vertical-align:top;
+				padding: 0;
+				margin: 1px 0;
+				display: inline;
+				word-wrap: break-word;
+			}
+			.block {
+				font-size: 62.5%;
+				margin-right: 10px; /*Creates the 10px gap between each column*/
+				padding: 20px;
+				font-family: Verdana, sans-serif;
+			}
+			.block h2 {
+				font-size: 1.8em;
+			}
+			.block img {
+				/*Flexible image size with border*/
+				width: 89%; /*Took 1% off of the width to prevent IE6 bug*/
+				padding: 5%;
+				margin: 0 auto;
+				display: block;
+				-ms-interpolation-mode: bicubic; /*prevents image pixelation for IE 6/7 */
+			}
+			
+			table.conversationslist {
+				border-collapse: collapse;
+				padding: 1px;
+				width: 100%;
+				text-align:left;
+				vertical-align:top;
+			}
+			
+			table.conversationslist td {
+				width: 50%;
+				text-align:left;
+				vertical-align:top;
+				word-wrap:break-word;
+			}
+			
+			table.conversationslist {
+				border-collapse: collapse;
+				padding: 1px;
+				width: 100%;
+				text-align:left;
+				vertical-align:top;
+			}
+			
+			table.topicslist td {
+				text-align:left;
+				vertical-align:top;
+				word-wrap:break-word;
+			}
+			
+			table.conversationslist th {
+				width: 50%;
+				text-align:left;
+				vertical-align:top;
+				font-size:larger;
+				border-bottom: 1px solid #000;
+			}
+			
+			table.conversation {
+				border-collapse: collapse;
+				padding: 0px;
+				text-align:left;
+				vertical-align:top;
+				word-wrap: break-word;
+			}
+			
+			table.conversation td {
+				border-collapse: collapse;
+				padding: 5px;
+				text-align:left;
+				vertical-align:top;
+				word-wrap: break-word;
+			}
+			
+			table.datatable {
+				border-collapse: collapse;
+				width: 100%;
+				line-height: 1.2em;
+			}
+			table.datatable th {
+				border-bottom: 2px solid #000;
+				color: #000;
+				text-align: left;
+				padding: 2px;
+				height: 25px;
+			}
+			table.datatable thead {
+				border-bottom: 2px solid #000;
+				color: #000;
+				text-align: left;
+				padding: 2px;
+				height: 25px;
+			}
+			
+			table.datatable tbody{
+				color: #002084;
+				padding: 5px;
+				text-align: left;
+			}
+			table.datatable  td {
+				color: #002084;
+				padding: 5px;
+				text-align: left;
+			}
+			div.block {
+				background-color: #fff;
+				font-family: Verdana, sans-serif;
+				font-size: small;
+			}
+
+			div.summary {
+				font-family: Verdana, sans-serif;
+				font-size: medium;
+			}
+
+		</style>
+
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		
+		
+		<script type="text/javascript">
+			function loadXMLConversations(dname)
+				{
+				if (window.XMLHttpRequest)
+				  {
+				  xhttp=new XMLHttpRequest();
+				  }
+				else
+				  {
+				  xhttp=new ActiveXObject("Microsoft.XMLHTTP");
+				  }
+				xhttp.open("GET",dname,false);
+				xhttp.send("");
+				return xhttp.responseXML;
+				}
+				
+				function displayResult()
+				{
+				xml=loadXMLDoc("cdcatalog.xml");
+				xsl=loadXMLDoc("cdcatalog.xsl");
+				// code for IE
+				if (window.ActiveXObject)
+				  {
+				  ex=xml.transformNode(xsl);
+				  document.getElementById("conversations").innerHTML=ex;
+				  }
+				// code for Mozilla, Firefox, Opera, etc.
+				else if (document.implementation && document.implementation.createDocument)
+				  {
+				  xsltProcessor=new XSLTProcessor();
+				  xsltProcessor.importStylesheet(xsl);
+				  resultDocument = xsltProcessor.transformToFragment(xml,document);
+				  document.getElementById("conversations").appendChild(resultDocument);
+				  }
+				}
+			
+			function smartColumns() {//Create a function that calculates the smart columns
+/*
+				//Reset column size to a 100% once view port has been adjusted
+				$("ul.column").css({
+					'width' : "100%"
+				});
+
+				var colWrap = $("ul.column").width();
+				//Get the width of row
+				var colNum = Math.floor(colWrap / 200);
+				//Find how many columns of 200px can fit per row / then round it down to a whole number
+				var colFixed = Math.floor(colWrap / colNum);
+				//Get the width of the row and divide it by the number of columns it can fit / then round it down to a whole number. This value will be the exact width of the re-adjusted column
+
+				$("ul.column").css({
+					'width' : colWrap
+				});
+				//Set exact width of row in pixels instead of using % - Prevents cross-browser bugs that appear in certain view port resolutions.
+				$("ul.column li").css({
+					'width' : colFixed
+				});
+				//Set exact width of the re-adjusted column
+*/
+			}
+
+			//smartColumns();
+			//Execute the function when page loads
+
+			$(window).resize(function() {//Each time the viewport is adjusted/resized, execute the function
+				smartColumns();
+			});
+		</script>
+		<script type="text/javascript">
+			$(function () {
+    var chart;
+    $(document).ready(function() {
+        chart = new Highcharts.Chart({
+            chart: {
+                renderTo: 'container',
+                type: 'column'
+            },
+            title: {
+                text: 'Impactweets'
+            },
+            xAxis: {
+                categories: ['2012-11-29','2012-11-30','2012-12-01','2012-12-02','2012-12-03','2012-12-04','2012-12-05']
+            },
+            yAxis: {
+                min: 0,
+                title: {
+                    text: 'Tweets'
+                },
+                stackLabels: {
+                    enabled: true,
+                    style: {
+                        fontWeight: 'bold',
+                        color: (Highcharts.theme && Highcharts.theme.textColor) || 'gray'
+                    }
+                }
+            },
+            legend: {
+                align: 'right',
+                x: -100,
+                verticalAlign: 'top',
+                y: 20,
+                floating: true,
+                backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColorSolid) || 'white',
+                borderColor: '#CCC',
+                borderWidth: 1,
+                shadow: false
+            },
+            tooltip: {
+                formatter: function() {
+                    return '<b>'+ this.x +'</b><br/>'+
+                        this.series.name +': '+ this.y +'<br/>'+
+                        'Total: '+ this.point.stackTotal;
+                }
+            },
+            plotOptions: {
+                column: {
+                    stacking: 'normal',
+                    dataLabels: {
+                        enabled: true,
+                        color: (Highcharts.theme && Highcharts.theme.dataLabelsColor) || 'white'
+                    }
+                },
+                series : {
+								cursor : 'pointer',
+								point : {
+									events : {
+										click : function() {
+											//alert ('Category: '+ this.category +', value: '+ this.y);
+											document.getElementById("DaySummary").innerHTML = 'Day: ' + this.category + ' Category '+this.series.name+' Totals of tweet: ' + this.y;
+											//document.getElementById("conversations").innerHTML = 'Day: ' + this.category + ' ... these are conversations';
+											//document.getElementById("hashtags").innerHTML = 'Day: ' + this.category + ' ... these are the hashtags';
+											//document.getElementById("categories").innerHTML = 'Day: ' + this.category + ' ... these are the categories';
+											$("#conversations").empty();
+											$("#conversations").load("Day"+this.category+".html");
+											$("#tweets").empty();
+											$("#tweets").load("tweetsperday"+this.category+this.series.name.toLowerCase()+".html");
+										}
+									}
+								}
+							}
+            },
+            series: [{
+                name: 'Business',
+                data: [89,103,68,57,129,119,162]
+            }, {
+                name: 'Fashion',
+                data: [15,13,4,13,8,15,16]
+            }, {
+                name: 'Politics',
+                data: [37,51,28,34,50,54,84]
+            }, {
+                name: 'Science',
+                data: [35,41,28,22,52,57,68]    
+            }, {
+                name: 'Social Media',
+                data: [34,50,29,29,58,59,78]
+            }, {
+                name: 'Sports',
+                data: [25,33,19,16,33,45,52]
+            }, {
+                name: 'Technology',
+                data: [51,71,45,38,83,62,96]
+            }, {
+                name: 'Other',
+                data: [56,23,67,43,32,33,100]    
+            }]
+        });
+    });
+    
+});
+		</script>
+	</head>
+	<body>
+		<script src="../../js/highcharts.js"></script>
+		<script src="../../js/modules/exporting.js"></script>
+
+		<div id="container" style="min-width: 400px; height: 400px; margin: 0 auto; background-color: #dedede"></div>
+		<br>
+		<div id="DaySummary" class = "summary">
+
+
+<table class="topiclist" style="margin-left: auto;margin-right: auto; font-family: Verdana, sans-serif; font-size: smaller" >
+				
+				<tr>
+					<td><b>stopcdv </b><td>29412<td><td style="color:white;background-color:#16365C">http://t.co/EDEePJ0F,14705<td style="color:white;background-color:#16365C">http://t.co/tiDvGFTg,14705
+				</tr>
+				
+				<tr>
+					<td><b>depressingchristmassongs</b><td>20624
+				</tr>
+				<tr>
+					<td><b>worldaidsday</b><td>18313<td><td style="color:white;background-color:#16365C">http://t.co/Wr0oQe4I,1075<td style="color:white;background-color:#16365C">http://t.co/MoXM3j69,759<td style="color:white;background-color:#234874">http://t.co/VIgJY0U9,728<td style="color:white;background-color:#234874">http://t.co/ajrljZjz,448<td style="color:white;background-color:#93B8E5">http://t.co/YRyew2GQ,342
+				</tr>
+				<tr>
+					<td><b>nextchapter</b><td>17085<td><td style="color:white;background-color:#16365C">http://t.co/G43Re962,245
+				</tr>
+				<tr>
+					<td><b>thevoice</b><td>15637<td><td style="color:white;background-color:#16365C">http://t.co/UVxfX0bY,1598<td style="color:white;background-color:#16365C">http://t.co/b0iN7l7C,1548<td style="color:white;background-color:#234874">http://t.co/cbWVb431,1074<td style="color:white;background-color:#234874">http://t.co/29zmZD1o,627<td style="color:white;background-color:#93B8E5">http://t.co/tbTEUiQW,542
+				</tr>
+				<tr>
+					<td><b>xfactorusa</b><td>15252<td></td><td style="color:white;background-color:#4D85C9">http://t.co/P6xyY263,0
+				</tr>
+				<tr>
+					<td><b>givingtuesday</b><td>14546<td><td style="color:white;background-color:#16365C">http://t.co/O65VPMnx,8879<td style="color:white;background-color:#4376B5">http://t.co/lzS15QgN,719<td style="color:white;background-color:#4376B5">http://t.co/eezMJcHc,151<td style="color:white;background-color:#4376B5">http://t.co/vaa6G9AH,108<td style="color:white;background-color:#93B8E5">http://t.co/mzNVL8zn,97
+				</tr>
+				
+				<tr>
+					<td><b>tihimi</b><td>13921<td><td style="color:white;background-color:#16365C">http://t.co/CftWNmzJ,6930
+				</tr>
+				<tr>
+					<td><b>spreadlovenotwar</b><td>12996
+				</tr>
+				<tr>
+					<td><b>cybermonday</b><td>11603<td><td style="color:white;background-color:#16365C">http://t.co/O65VPMnx,8879<td style="color:white;background-color:#4376B5">http://t.co/s1FtniwR,165<td style="color:white;background-color:#4376B5">http://t.co/a1bbOPmY,164<td style="color:white;background-color:#4376B5">http://t.co/a1bbOPmY,161<td style="color:white;background-color:#93B8E5">http://t.co/pX3vlfE7,160
+				</tr>
+				<tr>
+					<td><b>blackfriday</b><td>11396<td><td style="color:white;background-color:#16365C">http://t.co/O65VPMnx,8879<td style="color:white;background-color:#4376B5">http://t.co/zzHjKdMg,536<td style="color:white;background-color:#4376B5">http://t.co/R5AmuNXC,164<td style="color:white;background-color:#4376B5">http://t.co/67RYTnj9,161<td style="color:white;background-color:#93B8E5">http://t.co/Y6jjf0Za,160
+				</tr>
+				<tr>
+					<td><b>alexa</b><td>10901<td><td style="color:white;background-color:#16365C">http://t.co/Wmxcgs6k,10900
+				</tr>
+				<tr>
+					<td><b>forward</b><td>9639<td><td style="color:white;background-color:#16365C">http://t.co/BQMGrKfU,246<td style="color:white;background-color:#4376B5">http://t.co/M39GQDUd,237<td style="color:white;background-color:#234874">http://t.co/u1dtBYHw,81<td style="color:white;background-color:#234874">http://t.co/zH0JVQcg,2<td style="color:white;background-color:#93B8E5">http://t.co/mHDrMngi,1
+				</tr>
+				<tr>
+					<td><b>my2k</b><td>8971<td><td style="color:white;background-color:#16365C">http://t.co/O3zsNiIO,485<td style="color:white;background-color:#4376B5">http://t.co/0yNiLO4P,342<td style="color:white;background-color:#4376B5">http://t.co/DB0lGpUE,341<td style="color:white;background-color:#4376B5">http://t.co/lRq0554n,319<td style="color:white;background-color:#93B8E5">http://t.co/TggK8Uek,310
+				</tr>
+				<tr>
+					<td><b>golakers</b><td>8458<td><td style="color:white;background-color:#16365C">http://t.co/lKH00XsG,1129<td style="color:white;background-color:#234874">http://t.co/wJvP4QOW,522<td style="color:white;background-color:#4376B5">http://t.co/Dr7j3lIk,193<td style="color:white;background-color:#93B8E5">http://t.co/3Upxo8BR,0
+				</tr>
+				<tr>
+					<td><b>israel</b><td>7899<td><td style="color:white;background-color:#16365C">http://t.co/0jtWXDrb,1371<td style="color:white;background-color:#4376B5">http://t.co/xa0rT3sM,483<td style="color:white;background-color:#4376B5">http://t.co/Jv0Zdjn8,311<td style="color:white;background-color:#4376B5">http://t.co/gZdOY0hX,228<td style="color:white;background-color:#93B8E5">http://t.co/UUk53d3v,153
+				</tr>
+				<tr>
+					<td><b>bama</b><td>7226<td><td style="color:white;background-color:#4D85C9">http://t.co/orTqjwPJ,1<td style="color:white;background-color:#4376B5">http://t.co/A1tnLFk1,0<td style="color:white;background-color:#93B8E5">http://t.co/BDjmiFai,0<td style="color:white;background-color:#93B8E5">http://t.co/VeewE4t3,0<td style="color:white;background-color:#93B8E5">http://t.co/hk5AVjIp,0
+				</tr>
+				<tr>
+					<td><b>starwars</b><td>6980<td><td style="color:white;background-color:#16365C">http://t.co/YMsdKJcX,643<td style="color:white;background-color:#16365C">http://t.co/jfLK2694,457<td style="color:white;background-color:#4376B5">http://t.co/rtUdfs6R,126<td style="color:white;background-color:#93B8E5">http://t.co/749Kpqrd,6<td style="color:white;background-color:#93B8E5">http://t.co/TmmPjnON,4
+				</tr>
+				<tr>
+					<td><b>voteobama</b><td>50616<td><td style="color:white;background-color:#16365C">http://t.co/Jf8Fmz13,92<td  style="color:white;background-color:#234874">http://t.co/DNST7cyN,76<td style="color:white;background-color:#234874">http://t.co/aiVge1bA,69<td style="color:white;background-color:#234874">http://t.co/p47yH1Dw,33<td style="color:white;background-color:#93B8E5">http://t.co/M4k3Amsj,11
+				</tr>
+				<tr>
+					<td><b>election2012</b><td>358<td><td style="color:white;background-color:#4D85C9">http://t.co/oxvUz3X9,64<td style="color:white;background-color:#4376B5">http://t.co/pUy2eVIo,53<td style="color:white;background-color:#4376B5">http://t.co/F7ZEsQYF,51<td style="color:white;background-color:#93B8E5">http://t.co/oyLq85B7,30<td style="color:white;background-color:#93B8E5">http://t.co/A3d29LvM,20
+				</tr>
+				<tr>
+					<td><b>vote2012</b><td>26208<td><td style="color:white;background-color:#93B8E5">http://t.co/pQMOppTJ,2<td style="color:white;background-color:#93B8E5">http://t.co/ROOMukoh,0<td style="color:white;background-color:#93B8E5">http://t.co/42ZC9kJf,0<td style="color:white;background-color:#93B8E5">http://t.co/50CeVm1Y,0
+				</tr>
+				<tr>
+					<td><b>sandy</b><td>14130<td><td style="color:white;background-color:#16365C">http://t.co/a0wU8vSf,773<td style="color:white;background-color:#4376B5">http://t.co/gSjRmP2I,135<td style="color:white;background-color:#4376B5">http://t.co/tfSd1FrX,135<td style="color:white;background-color:#4376B5">http://t.co/qjruAAhg,119<td style="color:white;background-color:#93B8E5">http://t.co/G7iJ1Ztw,72
+				</tr>
+				<tr>
+					<td><b>election</b><td>26877<td><td style="color:white;background-color:#4D85C9">http://t.co/hs260Oud,72<td style="color:white;background-color:#4376B5">http://t.co/7jMM4jEG,21<td style="color:white;background-color:#93B8E5">http://t.co/au2b6tp8,9<td style="color:white;background-color:#93B8E5">http://t.co/J52Djvgc,7<td style="color:white;background-color:#93B8E5">http://t.co/9TflB2j6,2
+				</tr>
+</table>
+
+
+
+		</div>
+		<ul class="column">
+			<!--Repeating list item-->
+			<li>
+				<div class="block" >
+					<div id="conversations" style="margin-left: auto; margin-right: auto"></div>
+				</div>
+			</li>
+			<li>
+				<div class="block" >
+					<div id="tweets" style="margin-left: auto; margin-right: auto"></div>
+				</div>
+			</li>
+			
+			<li>
+				<div class="block" style="visibility:hidden">
+					<table id="datatable" >
+						<thead>
+							<tr>
+								<th>Date</th>
+								<th>Number of tweets</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th>2012-11-29</th>
+								<td>286</td>
+							</tr>
+							<tr>
+								<th>2012-11-30</th>
+								<td>362</td>
+							</tr>
+							<tr>
+								<th>2012-12-01</th>
+								<td>221</td>
+							</tr>
+							<tr>
+								<th>2012-12-02</th>
+								<td>209</td>
+							</tr>
+							<tr>
+								<th>2012-12-03</th>
+								<td>413</td>
+							</tr>
+							<tr>
+								<th>2012-12-04</th>
+								<td>511</td>
+							</tr>
+							<tr>
+								<th>2012-12-05</th>
+								<td>556</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</li>
+		</ul>
+	<div id="2hashtags" class="block" style="visibility:hidden">
+			<table>
+				<tr>
+					<thead>
+						<tr>
+							<th>Common hashtags for the whole dataset</th>
+							<th>Common Links</th>
+							<th>Common Categories</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th>ht1</th>
+							<th>link1</th>
+							<th>cat1</th>
+						</tr>
+						<tr>
+							<th>ht2</th>
+							<th>link2</th>
+							<th>cat1</th>
+						</tr>
+						<tr>
+							<th>ht3</th>
+							<th>link3</th>
+							<th>cat2</th>
+						</tr>
+						<tr>
+							<th>ht4</th>
+							<th>link4</th>
+							<th>cat1</th>
+						</tr>
+					</tbody>
+			</table>
+		</div>
+		
+	</body>
+
+</html>
