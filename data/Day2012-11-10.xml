@@ -1,0 +1,274 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-11-10">
+<conversation ID="267216606122364928">
+<tweet ID="267216606122364928">
+<text>ultraculture a little late to the party here but i loved your sweary little bit about the cinematic experience</text>
+<tweetDate>2012-11-10 10:46:18</tweetDate>
+<tweetUser>ollymoss</tweetUser>
+</tweet>
+<tweet ID="267216767024254976">
+<text>ollymoss thanks olzsvery excited to pick up your book</text>
+<tweetDate>2012-11-10 10:46:18</tweetDate>
+<tweetUser>ultraculture</tweetUser>
+</tweet>
+<tweet ID="267217074982625280">
+<text>ultraculture we still need to bottle our natural chemistry and release it as some sort of podcasty type thing</text>
+<tweetDate>2012-11-10 10:46:18</tweetDate>
+<tweetUser>ollymoss</tweetUser>
+</tweet>
+<tweet ID="267217153994932224">
+<text>ollymoss when are you in london next</text>
+<tweetDate>2012-11-10 10:46:18</tweetDate>
+<tweetUser>ultraculture</tweetUser>
+</tweet>
+<entities>
+<topic>sports</topic>
+<topic>science</topic>
+<topic>business</topic>
+<topic>socialmedia</topic>
+<user>ollymoss</user>
+<user>ultraculture</user>
+<ConvoScore>45</ConvoScore>
+</entities>
+</conversation>
+<conversation ID="267161718902386688">
+<tweet ID="267161718902386688">
+<text>saileshkrish well can be surprising the sum of an empty set of numbers is also 0</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>neil_conway</tweetUser>
+</tweet>
+<tweet ID="266699301630144512">
+<text>i wish nosql databases would not use the term column when they really mean field or keyvalue pair in a map column implies always there</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>markmadsen</tweetUser>
+</tweet>
+<tweet ID="266973605450113024">
+<text>markmadsen it doesnt bug me as much a column whose value might be not present not necessarily the same as null works fine for me</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>julianhyde</tweetUser>
+</tweet>
+<tweet ID="266992297802076160">
+<text>julianhyde and that can make a difference to a person who is not steeped in such things as they read both presence and persistence into it</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>markmadsen</tweetUser>
+</tweet>
+<tweet ID="267005938072973313">
+<text>markmadsen i agree a column is structural its there even if there are no rows records that demonstrate it julianhyde</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>rolandbouman</tweetUser>
+</tweet>
+<tweet ID="267041721794297857">
+<text>rolandbouman markmadsen my optiq driver for splunk puts sql on top of splunks virtual columns they exist if you ask for them</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>julianhyde</tweetUser>
+</tweet>
+<tweet ID="267042227518316546">
+<text>julianhyde i think a long conversation on optiq splunk is in order to understand how one does agg fns over possibly missing elementsrows</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>markmadsen</tweetUser>
+</tweet>
+<tweet ID="267043293337104387">
+<text>markmadsen would enjoy that til then did you know that in the sql spec agg funs are not called on values that are null</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>julianhyde</tweetUser>
+</tweet>
+<tweet ID="267057275867373570">
+<text>julianhyde markmadsen doesnt it depend on whether the function is defined with called on null input</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>saileshkrish</tweetUser>
+</tweet>
+<tweet ID="267125327011127298">
+<text>saileshkrish markmadsen true but original and imho more natural behavior is call only with notnull values count etc all work that way</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>julianhyde</tweetUser>
+</tweet>
+<tweet ID="267127311525109760">
+<text>julianhyde markmadsen wait a secsare you saying natural behavior is call only w notnull valuesscount wouldnt givesright results</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>saileshkrish</tweetUser>
+</tweet>
+<tweet ID="267139818549542912">
+<text>saileshkrish julianhyde markmadsen countf only counts thesof rows with nonnull values in column f</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>neil_conway</tweetUser>
+</tweet>
+<tweet ID="267141130989228032">
+<text>neilconway julianhyde markmadsen but count looks at all rows right</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>saileshkrish</tweetUser>
+</tweet>
+<tweet ID="267141339907489792">
+<text>saileshkrish julianhyde markmadsen yep a foolish consistency is the hobgoblin of little minds</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>neil_conway</tweetUser>
+</tweet>
+<tweet ID="267141857660788736">
+<text>neilconway julianhyde markmadsen now now control yourself there</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>saileshkrish</tweetUser>
+</tweet>
+<tweet ID="267158234568220673">
+<text>saileshkrish neilconway it is consistent and not foolish in countsacts as a notnull value just like count1</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>julianhyde</tweetUser>
+</tweet>
+<tweet ID="267160134248169472">
+<text>julianhyde saileshkrish sure i was being glib that said sql aggs have quirks eg sum of empty table is null count of empty is 0</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>neil_conway</tweetUser>
+</tweet>
+<tweet ID="267161443672137728">
+<text>neilconway julianhyde more acc to say thatsrefers to record variable and not attribute count of empty being 0 feels right why quirk</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>saileshkrish</tweetUser>
+</tweet>
+<tweet ID="267162699417403393">
+<text>neilconway dont think i agree with that its an empty set surely we have had this debate earliersdejavu</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>saileshkrish</tweetUser>
+</tweet>
+<tweet ID="267163262938906625">
+<text>saileshkrish i think we likely have</text>
+<tweetDate>2012-11-10 07:08:12</tweetDate>
+<tweetUser>neil_conway</tweetUser>
+</tweet>
+<entities>
+<topic>sports</topic>
+<topic>fashion</topic>
+<topic>science</topic>
+<topic>business</topic>
+<topic>politics</topic>
+<topic>technology</topic>
+<topic>socialmedia</topic>
+<user>neil_conway</user>
+<user>markmadsen</user>
+<user>julianhyde</user>
+<user>rolandbouman</user>
+<hashtag>optiq</hashtag>
+<hashtag>splunk</hashtag>
+<user>saileshkrish</user>
+<hashtag>dejavu</hashtag>
+<ConvoScore>46</ConvoScore>
+</entities>
+</conversation>
+<conversation ID="267163262938906625">
+<tweet ID="267163262938906625">
+<text>saileshkrish i think we likely have</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>neil_conway</tweetUser>
+</tweet>
+<tweet ID="266699301630144512">
+<text>i wish nosql databases would not use the term column when they really mean field or keyvalue pair in a map column implies always there</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>markmadsen</tweetUser>
+</tweet>
+<tweet ID="266973605450113024">
+<text>markmadsen it doesnt bug me as much a column whose value might be not present not necessarily the same as null works fine for me</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>julianhyde</tweetUser>
+</tweet>
+<tweet ID="266992297802076160">
+<text>julianhyde and that can make a difference to a person who is not steeped in such things as they read both presence and persistence into it</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>markmadsen</tweetUser>
+</tweet>
+<tweet ID="267005938072973313">
+<text>markmadsen i agree a column is structural its there even if there are no rows records that demonstrate it julianhyde</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>rolandbouman</tweetUser>
+</tweet>
+<tweet ID="267041721794297857">
+<text>rolandbouman markmadsen my optiq driver for splunk puts sql on top of splunks virtual columns they exist if you ask for them</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>julianhyde</tweetUser>
+</tweet>
+<tweet ID="267042227518316546">
+<text>julianhyde i think a long conversation on optiq splunk is in order to understand how one does agg fns over possibly missing elementsrows</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>markmadsen</tweetUser>
+</tweet>
+<tweet ID="267043293337104387">
+<text>markmadsen would enjoy that til then did you know that in the sql spec agg funs are not called on values that are null</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>julianhyde</tweetUser>
+</tweet>
+<tweet ID="267057275867373570">
+<text>julianhyde markmadsen doesnt it depend on whether the function is defined with called on null input</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>saileshkrish</tweetUser>
+</tweet>
+<tweet ID="267125327011127298">
+<text>saileshkrish markmadsen true but original and imho more natural behavior is call only with notnull values count etc all work that way</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>julianhyde</tweetUser>
+</tweet>
+<tweet ID="267127311525109760">
+<text>julianhyde markmadsen wait a secsare you saying natural behavior is call only w notnull valuesscount wouldnt givesright results</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>saileshkrish</tweetUser>
+</tweet>
+<tweet ID="267139818549542912">
+<text>saileshkrish julianhyde markmadsen countf only counts thesof rows with nonnull values in column f</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>neil_conway</tweetUser>
+</tweet>
+<tweet ID="267141130989228032">
+<text>neilconway julianhyde markmadsen but count looks at all rows right</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>saileshkrish</tweetUser>
+</tweet>
+<tweet ID="267141339907489792">
+<text>saileshkrish julianhyde markmadsen yep a foolish consistency is the hobgoblin of little minds</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>neil_conway</tweetUser>
+</tweet>
+<tweet ID="267141857660788736">
+<text>neilconway julianhyde markmadsen now now control yourself there</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>saileshkrish</tweetUser>
+</tweet>
+<tweet ID="267158234568220673">
+<text>saileshkrish neilconway it is consistent and not foolish in countsacts as a notnull value just like count1</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>julianhyde</tweetUser>
+</tweet>
+<tweet ID="267160134248169472">
+<text>julianhyde saileshkrish sure i was being glib that said sql aggs have quirks eg sum of empty table is null count of empty is 0</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>neil_conway</tweetUser>
+</tweet>
+<tweet ID="267161443672137728">
+<text>neilconway julianhyde more acc to say thatsrefers to record variable and not attribute count of empty being 0 feels right why quirk</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>saileshkrish</tweetUser>
+</tweet>
+<tweet ID="267161718902386688">
+<text>saileshkrish well can be surprising the sum of an empty set of numbers is also 0</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>neil_conway</tweetUser>
+</tweet>
+<tweet ID="267162699417403393">
+<text>neilconway dont think i agree with that its an empty set surely we have had this debate earliersdejavu</text>
+<tweetDate>2012-11-10 07:14:20</tweetDate>
+<tweetUser>saileshkrish</tweetUser>
+</tweet>
+<entities>
+<topic>sports</topic>
+<topic>fashion</topic>
+<topic>science</topic>
+<topic>business</topic>
+<topic>politics</topic>
+<topic>technology</topic>
+<topic>socialmedia</topic>
+<user>neil_conway</user>
+<user>markmadsen</user>
+<user>julianhyde</user>
+<user>rolandbouman</user>
+<hashtag>optiq</hashtag>
+<hashtag>splunk</hashtag>
+<user>saileshkrish</user>
+<hashtag>dejavu</hashtag>
+<ConvoScore>46</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

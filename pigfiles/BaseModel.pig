@@ -131,7 +131,9 @@ bm = FOREACH basemodeldata
 basemodel =  DISTINCT bm;	
 
 describe basemodel;
-STORE  basemodel INTO '../data/basemodel' USING PigStorage ('\t');
+dump basemodel;
+STORE  basemodel INTO '../data/basemodel.txt' USING PigStorage ('\t');
+
 
 
 

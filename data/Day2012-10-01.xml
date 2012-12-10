@@ -1,0 +1,24 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-10-01">
+<conversation ID="252776267911409665">
+<tweet ID="252776267911409665">
+<text>jurisnaturalist if you would please contact tech support with your question at httptco4e8x6inx they can assist you further</text>
+<tweetDate>2012-10-01 14:25:33</tweetDate>
+<tweetUser>Stata</tweetUser>
+</tweet>
+<tweet ID="250961270520573953">
+<text>stata im want to include a nonparametric fit in a twoway plot stata10not workingtwoway scatter y xlfit y xqfit y xnpfit y x</text>
+<tweetDate>2012-10-01 14:25:33</tweetDate>
+<tweetUser>jurisnaturalist</tweetUser>
+</tweet>
+<entities>
+<topic>business</topic>
+<topic>technology</topic>
+<topic>socialmedia</topic>
+<url>http://www.stata.com/support/tech-support</url>
+<user>Stata</user>
+<user>jurisnaturalist</user>
+<ConvoScore>21</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

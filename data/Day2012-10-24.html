@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><table class="conversationslist"><tr><th>Conversations</th><th>Entities List</th></tr><tr><td><table class="conversation"><tr><td><ul class="cclist"><li><b>neil_conway
+													:
+												</b>strlen interesting also that system r did something quite similar in the 70s httptcotiwlfi3t</li></ul></td></tr><tr><td><ul class="cclist"><li><b>strlen
+													:
+												</b>interesting thing about impala looks like sql queries are compiled down to llvm ir executed with llvm jit eg httpstcomqiuw69x</li></ul></td></tr><tr><td><ul class="cclist"><li><b>strlen
+													:
+												</b>neilconway i also wondered why voltdb doesnt just precompile sql to jvm bytecode as opposed to using java stored procedures</li></ul></td></tr><tr><td><ul class="cclist"><li><b>edward_ribeiro
+													:
+												</b>strlen neilconway voltdb execution engine is c java is mainly used as messaging layer but not only</li></ul></td></tr><tr><td><ul class="cclist"><li><b>mallipeddi
+													:
+												</b>strlen henryr the db that ive been working on generates c code for query plan fragments and gets compiledsrun</li></ul></td></tr><tr><td><ul class="cclist"><li><b>strlen
+													:
+												</b>mallipeddi what db is that are you still at aws or elsewhere</li></ul></td></tr><tr><td><ul class="cclist"><li><b>johnhugg
+													:
+												</b>strlen neilconway edwardribeiro voltdb will happily compile sql to our native plans without stored procs need to get the word out</li></ul></td></tr><tr><td><ul class="cclist"><li><b>strlen
+													:
+												</b>johnhugg neilconway edwardribeiro oops missed that had it always done this or was this only added recently</li></ul></td></tr><tr><td><ul class="cclist"><li><b>johnhugg
+													:
+												</b>mallipeddi strlen henryr fyi ram is so slow that voltdb is almost never bottlenecked on instruction count might matter more for olap</li></ul></td></tr><tr><td><ul class="cclist"><li><b>johnhugg
+													:
+												</b>strlen neilconway edwardribeiro always supported singlestmt procs without java recently supports adhocjdbc at up to 100ksec</li></ul></td></tr><tr><td><ul class="cclist"><li><b>johnhugg
+													:
+												</b>strlen neilconway edwardribeiro still requires one clientserver round trip per txn sps needed for transactional logicprocessing</li></ul></td></tr><tr><td><ul class="cclist"><li><b>mallipeddi
+													:
+												</b>strlen its a new aws service sadly cant say more until we launch</li></ul></td></tr><tr><td><ul class="cclist"><li><b>strlen
+													:
+												</b>johnhugg neilconway edwardribeiro cool will need to play with it again sometime soon</li></ul></td></tr><tr><td><ul class="cclist"><li><b>johnhugg
+													:
+												</b>strlen cool when you do wed love to get your feedback</li></ul></td></tr><tr><td><ul class="cclist"><li><b>HenryR
+													:
+												</b>johnhugg mallipeddi strlen that seems likely to mesvoltsimpala seem targeted at roughly complementary workloads</li></ul></td></tr><tr><td><ul class="cclist"><li><b>johnhugg
+													:
+												</b>henryr mallipeddi strlen java also magnifies the diff between compiled and not and yes impala and voltdb could work well together</li></ul></td></tr><tr><td><ul class="cclist"><li><b>strlen
+													:
+												</b>henryr johnhugg mallipeddi oh of course very different and complementary workloads i do wonder if jit would help for voltstyle oltp</li></ul></td></tr><tr><td><ul class="cclist"><li><b>johnhugg
+													:
+												</b>strlen henryr mallipeddi re oltp memsql compiles sql using embedded gcc and caches binaries seems like a poor design choice to me</li></ul></td></tr><tr><td><ul class="cclist"><li><b>johnhugg
+													:
+												</b>strlen henryr mallipeddi when executing sql most of voltdbs time is spent searching or updating indexes cant compile that out</li></ul></td></tr><tr><td><ul class="cclist"><li><b>strlen
+													:
+												</b>johnhugg henryr mallipeddi completely agree here i was puzzled by that this is precisely where llvm jit or even jvm would fit better</li></ul></td></tr></table></td><td><table class="conversation"/></td></tr><tr><td><hr/></td><td><hr/></td></tr></table><br/>

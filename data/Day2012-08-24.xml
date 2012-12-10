@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-08-24">
+<conversation ID="239062762033119232">
+<tweet ID="239062762033119232">
+<text>michelledion you will need to use an imputation designed specifically for time series data such method is not available in mi impute</text>
+<tweetDate>2012-08-24 18:12:58</tweetDate>
+<tweetUser>Stata</tweetUser>
+</tweet>
+<tweet ID="238376343522390017">
+<text>stata in stata 12 if i mi tsset my data do i need to specify year or id in mi impute chain regress cmd log looks like mi runs pooled</text>
+<tweetDate>2012-08-24 18:12:58</tweetDate>
+<tweetUser>michelledion</tweetUser>
+</tweet>
+<entities>
+<topic>sports</topic>
+<topic>science</topic>
+<topic>business</topic>
+<topic>politics</topic>
+<topic>technology</topic>
+<topic>socialmedia</topic>
+<user>Stata</user>
+<hashtag>stata</hashtag>
+<user>michelledion</user>
+<ConvoScore>15</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

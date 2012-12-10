@@ -1,0 +1,38 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-11-20">
+<conversation ID="270996508940328961">
+<tweet ID="270996508940328961">
+<text>hpstorageguy thanks for all the info really dissatisfied with hps documentation efforts re p9000vsphere only finding lefthand3pareva</text>
+<tweetDate>2012-11-20 21:06:17</tweetDate>
+<tweetUser>chouse</tweetUser>
+</tweet>
+<tweet ID="270961039384932352">
+<text>hpstorageguy host mode 01 vmware or 21 vmware extension hds says enable options 54 extended copys63 vstorage apist10 stds</text>
+<tweetDate>2012-11-20 21:06:17</tweetDate>
+<tweetUser>chouse</tweetUser>
+</tweet>
+<tweet ID="270973041314512896">
+<text>chouse 54 is if you only have esx41 attachedswant vaai enabled 63 is for esxi5 if both sharing same host group 63 takes precedence</text>
+<tweetDate>2012-11-20 21:06:17</tweetDate>
+<tweetUser>HPStorageGuy</tweetUser>
+</tweet>
+<tweet ID="270975778475364352">
+<text>hpstorageguy only esxi5 so only need hmo 63 what about 40 vvol expansion</text>
+<tweetDate>2012-11-20 21:06:17</tweetDate>
+<tweetUser>chouse</tweetUser>
+</tweet>
+<tweet ID="270995056649977856">
+<text>chouse there is hmo 69 which returns a unit attention when lun capacity is expanded that applies to all host modes</text>
+<tweetDate>2012-11-20 21:06:17</tweetDate>
+<tweetUser>HPStorageGuy</tweetUser>
+</tweet>
+<entities>
+<topic>business</topic>
+<topic>technology</topic>
+<topic>socialmedia</topic>
+<user>chouse</user>
+<user>HPStorageGuy</user>
+<ConvoScore>42</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

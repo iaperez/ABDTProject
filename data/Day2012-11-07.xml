@@ -1,0 +1,33 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-11-07">
+<conversation ID="266304227943526402">
+<tweet ID="266304227943526402">
+<text>nitin fivethirtyeight in baseball there is a long history of presilver statistical analysis and plenty of detailed highquality data</text>
+<tweetDate>2012-11-07 22:20:50</tweetDate>
+<tweetUser>neil_conway</tweetUser>
+</tweet>
+<tweet ID="266265923718098945">
+<text>i wish fivethirtyeight would start a vc fund and apply his skills to picking companies would improve the industry batting average of 100</text>
+<tweetDate>2012-11-07 22:20:50</tweetDate>
+<tweetUser>nitin</tweetUser>
+</tweet>
+<tweet ID="266266429823795202">
+<text>nitin fivethirtyeight really smart aggregation of poll results would seem to have very little in common with early stage tech investing</text>
+<tweetDate>2012-11-07 22:20:50</tweetDate>
+<tweetUser>neil_conway</tweetUser>
+</tweet>
+<tweet ID="266283325432401920">
+<text>neilconway fivethirtyeight remember that nate also built pecota which used past baseball performance data to create predictive model</text>
+<tweetDate>2012-11-07 22:20:50</tweetDate>
+<tweetUser>nitin</tweetUser>
+</tweet>
+<entities>
+<topic>business</topic>
+<topic>politics</topic>
+<topic>technology</topic>
+<user>neil_conway</user>
+<user>nitin</user>
+<ConvoScore>40</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

@@ -1,0 +1,33 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-10-12">
+<conversation ID="256768976540028928">
+<tweet ID="256768976540028928">
+<text>neilconway pbailis re never deleting now we we need systems that can keep that history time stamped and indexed datomic</text>
+<tweetDate>2012-10-12 14:51:09</tweetDate>
+<tweetUser>jimblomo</tweetUser>
+</tweet>
+<tweet ID="256537555078635520">
+<text>were getting to the point where the main reason youd delete something is to avoid being sued pat helland ricon2012</text>
+<tweetDate>2012-10-12 14:51:09</tweetDate>
+<tweetUser>neil_conway</tweetUser>
+</tweet>
+<tweet ID="256795084450844672">
+<text>jimblomo neilconway basically helland advocated using an rdbms to index nosql nooverwrite storage</text>
+<tweetDate>2012-10-12 14:51:09</tweetDate>
+<tweetUser>pbailis</tweetUser>
+</tweet>
+<entities>
+<topic>sports</topic>
+<topic>business</topic>
+<topic>politics</topic>
+<topic>technology</topic>
+<topic>socialmedia</topic>
+<hashtag>datomic</hashtag>
+<user>jimblomo</user>
+<hashtag>ricon2012</hashtag>
+<user>neil_conway</user>
+<user>pbailis</user>
+<ConvoScore>31</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

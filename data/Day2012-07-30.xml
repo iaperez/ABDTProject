@@ -1,0 +1,35 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-07-30">
+<conversation ID="230019490933526528">
+<tweet ID="230019490933526528">
+<text>kaythaney it is a cunning plan indeed</text>
+<tweetDate>2012-07-30 19:18:14</tweetDate>
+<tweetUser>petewarden</tweetUser>
+</tweet>
+<tweet ID="229096949968670720">
+<text>laughing as petewarden uses his new high powered binoculars to watch the neighbours tv</text>
+<tweetDate>2012-07-30 19:18:14</tweetDate>
+<tweetUser>gnat</tweetUser>
+</tweet>
+<tweet ID="229097873873203200">
+<text>rt gnat laughing as petewarden uses his new high powered binoculars to watch the neighbours tvshonestly only test for alaska trip</text>
+<tweetDate>2012-07-30 19:18:14</tweetDate>
+<tweetUser>petewarden</tweetUser>
+</tweet>
+<tweet ID="229899846985859072">
+<text>petewarden gnat is that how you personalise jetpac recommendations sneaky</text>
+<tweetDate>2012-07-30 19:18:14</tweetDate>
+<tweetUser>kaythaney</tweetUser>
+</tweet>
+<entities>
+<topic>fashion</topic>
+<topic>science</topic>
+<topic>business</topic>
+<topic>socialmedia</topic>
+<user>petewarden</user>
+<user>gnat</user>
+<user>kaythaney</user>
+<ConvoScore>44</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

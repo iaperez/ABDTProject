@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-10-20">
+<conversation ID="259714150769496064">
+<tweet ID="259714150769496064">
+<text>jtag willowbl00 its hard to beat just wandering around the streets of the castro on halloween mindblowing costumes</text>
+<tweetDate>2012-10-20 17:54:13</tweetDate>
+<tweetUser>petewarden</tweetUser>
+</tweet>
+<tweet ID="259695690446413824">
+<text>hey sfo im going to be in you for pumpkin day any suggestions of what to do</text>
+<tweetDate>2012-10-20 17:54:13</tweetDate>
+<tweetUser>willowbl00</tweetUser>
+</tweet>
+<tweet ID="259704128295555072">
+<text>willowbl00 nice since sf is halloween is all year long it only gets better on the actual night will let you know whats up</text>
+<tweetDate>2012-10-20 17:54:13</tweetDate>
+<tweetUser>jtag</tweetUser>
+</tweet>
+<entities>
+<topic>sports</topic>
+<topic>business</topic>
+<topic>politics</topic>
+<topic>technology</topic>
+<topic>socialmedia</topic>
+<user>petewarden</user>
+<user>willowbl00</user>
+<user>jtag</user>
+<ConvoScore>36</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

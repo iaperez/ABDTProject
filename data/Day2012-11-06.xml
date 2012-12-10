@@ -1,0 +1,81 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-11-06">
+<conversation ID="265961220979445760">
+<tweet ID="265961220979445760">
+<text>chadwalters moonpolysoft is tcp incast really a major problem in practice especially if you lower the rto</text>
+<tweetDate>2012-11-06 23:37:51</tweetDate>
+<tweetUser>neil_conway</tweetUser>
+</tweet>
+<tweet ID="265912103536320512">
+<text>what you know about tcp incast</text>
+<tweetDate>2012-11-06 23:37:51</tweetDate>
+<tweetUser>moonpolysoft</tweetUser>
+</tweet>
+<tweet ID="265949788506300416">
+<text>chadwalters neat thx</text>
+<tweetDate>2012-11-06 23:37:51</tweetDate>
+<tweetUser>moonpolysoft</tweetUser>
+</tweet>
+<tweet ID="265977549404917761">
+<text>neilconway weve seen tcp incast be crushing in multiple real deploys those suffering dont always have enough control over net infra</text>
+<tweetDate>2012-11-06 23:37:51</tweetDate>
+<tweetUser>justinsheehy</tweetUser>
+</tweet>
+<entities>
+<topic>business</topic>
+<topic>technology</topic>
+<user>neil_conway</user>
+<user>moonpolysoft</user>
+<user>justinsheehy</user>
+<ConvoScore>26</ConvoScore>
+</entities>
+</conversation>
+<conversation ID="265880899902660608">
+<tweet ID="265880899902660608">
+<text>jorech what are you looking for httptcoq59rqkc9 has a bunch of papers that might be useful</text>
+<tweetDate>2012-11-06 18:18:41</tweetDate>
+<tweetUser>zephoria</tweetUser>
+</tweet>
+<tweet ID="265871665970442240">
+<text>ivoted did you happy election day</text>
+<tweetDate>2012-11-06 18:18:41</tweetDate>
+<tweetUser>zephoria</tweetUser>
+</tweet>
+<tweet ID="265873365594681345">
+<text>zephoria you have tons of great resources suggestions on first reading for nonbelievers</text>
+<tweetDate>2012-11-06 18:18:41</tweetDate>
+<tweetUser>jorech</tweetUser>
+</tweet>
+<tweet ID="265883081901228032">
+<text>zephoria thanks danahthe idea that we have created a false fear out there and the answer is to teach good digital citizenship not block</text>
+<tweetDate>2012-11-06 18:18:41</tweetDate>
+<tweetUser>jorech</tweetUser>
+</tweet>
+<tweet ID="265883561977081858">
+<text>zephoria while trying to promote kids publishing on line i still get pushback about safety of kids names online</text>
+<tweetDate>2012-11-06 18:18:41</tweetDate>
+<tweetUser>jorech</tweetUser>
+</tweet>
+<tweet ID="265883820828540928">
+<text>zephoria ive been trying to promote that kids develop a positive digital tattoo especially when colleges check them out hard to convince</text>
+<tweetDate>2012-11-06 18:18:41</tweetDate>
+<tweetUser>jorech</tweetUser>
+</tweet>
+<tweet ID="265884797375766528">
+<text>zephoria some great titles herescant wait to readthanks again</text>
+<tweetDate>2012-11-06 18:18:41</tweetDate>
+<tweetUser>jorech</tweetUser>
+</tweet>
+<entities>
+<topic>business</topic>
+<topic>politics</topic>
+<topic>technology</topic>
+<topic>socialmedia</topic>
+<url>http://www.danah.org/papers</url>
+<user>zephoria</user>
+<hashtag>ivoted</hashtag>
+<user>jorech</user>
+<ConvoScore>46</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

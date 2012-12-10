@@ -1,0 +1,212 @@
+/usr/local/java/jdk1.6.0_37/bin/java -Xms1024m -Xmx1024m -cp :../lib/*.jar:../lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:../lib/twitter4j-2.2.6/twitter4j-async-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-core-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-examples-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-media-support-2.2.6.jar:../lib/twitter4j-2.2.6/twitter4j-stream-2.2.6.jar:../lib/twitter-text-1.5.0/twitter-text-1.5.0.jar:../lib/klout4j/klout4j-1.1.7.jar:bin ConversationsDownload coreyhyllested 0
+coreyhyllested-
+coreyhyllested	271301322425397248	2012/11/21 17:17:30	15881026	ollymoss	271301322425397248	jakesones rockposterframe pc with gamepad
+coreyhyllested	271301322425397248	2012/11/21 17:17:30	15881026	ollymoss	271299931518672896	yep im calling it telltalegames the walking dead is by far the best game ive played this year
+coreyhyllested	271301322425397248	2012/11/21 17:17:30	15881026	jakesones	271300505530138624	ollymoss what are you playing it on ipad controls frustrated me
+coreyhyllested	273534214857707520	2012/11/27 21:10:13	13982132	medialab	273534214857707520	more on kelvin doe the 16yrold sierra leone whiz kid and inventor visiting the media labsnbcnews httptco38qxtkw8
+coreyhyllested	273534214857707520	2012/11/27 21:10:13	13982132	trevormoxee	273591676835069952	medialab hats off
+coreyhyllested	267717068852445185	2012/11/11 19:54:58	8285392	raffi	267717068852445185	lady friendsraffi go on an outing httptco7lel0s7v
+coreyhyllested	267717068852445185	2012/11/11 19:54:58	8285392	imran	267717270640406528	raffi i dont like you in a skirt
+coreyhyllested	267717068852445185	2012/11/11 19:54:58	8285392	9len	267797981405794304	raffi unless the outing was a run you and i need to sit down and talk
+coreyhyllested	267717068852445185	2012/11/11 19:54:58	8285392	slyphon	267798465831116800	9len raffi i wasnt going to say anything about the shoesbut
+coreyhyllested	267717068852445185	2012/11/11 19:54:58	8285392	9len	267799396110958592	slyphon raffi ostensibly bought just for running clearly a slippery slope
+coreyhyllested	267717068852445185	2012/11/11 19:54:58	8285392	slyphon	267799995183398912	9len raffi is that what those are for id thought randall munroe made them up before i came out to sf for nho httptcoujtfry7r
+coreyhyllested	267717068852445185	2012/11/11 19:54:58	8285392	9len	267800467428491264	slyphon raffi theyre mostly good for collecting molds and fungus
+coreyhyllested	267717068852445185	2012/11/11 19:54:58	8285392	slyphon	267800620763840512	9len raffi so theyre like cross trainers for truffling ohhhhhhheewwwwww
+coreyhyllested	257969136779546624	2012/10/15 22:20:09	15361570	jaredpolis	257969136779546624	willhenderson competition is just a click away
+coreyhyllested	257969136779546624	2012/10/15 22:20:09	15361570	willhenderson	257968738811392001	disappointed to hear about my rep jaredpolis threatening the ftc on googles behalf httptcoh8icigja
+coreyhyllested	257969136779546624	2012/10/15 22:20:09	15361570	willhenderson	257970176098705408	jaredpolis my understanding of the ftc position is that its about google promoting their content over others not a lack of competition
+coreyhyllested	257969136779546624	2012/10/15 22:20:09	15361570	willhenderson	257971069313499138	jaredpolis and yes competition exists doesnt excuse you threatening regulatory agencies on behalf of mega corporations
+coreyhyllested	257969136779546624	2012/10/15 22:20:09	15361570	jaredpolis	257972185749143553	willhenderson promoting their own content would detract from result qualityhurt their market share they cansdo it but its shortsighted
+coreyhyllested	257969136779546624	2012/10/15 22:20:09	15361570	willhenderson	257981415285747712	jaredpolis why threaten the agency preemptively shouldnt the investigation be allowed to run its course and probably find no violation
+coreyhyllested	257969136779546624	2012/10/15 22:20:09	15361570	willhenderson	257982051083505664	jaredpolis i dont necessarily disagree with your position on google but i do disagree with you trying to intimidate the ftc
+coreyhyllested	257969136779546624	2012/10/15 22:20:09	15361570	jaredpolis	257984243102269440	willhenderson there r real market manipulators out there in other sectors like agriculture that i hope ftc focuses on w limited resources
+coreyhyllested	257969136779546624	2012/10/15 22:20:09	15361570	jaredpolis	257984291861037056	willhenderson good point
+coreyhyllested	257969136779546624	2012/10/15 22:20:09	15361570	willhenderson	257986082094870528	jaredpolis agreed but threatening to make their resources even more limited doesnt seem productivethanks i appreciate the dialog
+coreyhyllested	276045726692302848	2012/12/04 19:30:04	62581962	shitmydadsays	276045726692302848	i like babies just saying they live inside a host body and feed off it thats a parasiteyes i could raise a tape worm and love it
+coreyhyllested	276045726692302848	2012/12/04 19:30:04	62581962	Miriamhill	276054249484480512	shitmydadsays when i was pregnant my obstetrician called my soontobe born son a parasite who was causing my anemia dad is scientist
+coreyhyllested	230730183982858240	2012/08/01 18:22:17	15255175	tehawesome	230730183982858240	tshirt idea ask me about my crippling social anxiety
+coreyhyllested	230730183982858240	2012/08/01 18:22:17	15255175	DodgerWA	230758375871369216	id buy this rt tehawesome tshirt idea ask me about my crippling social anxiety
+coreyhyllested	230730183982858240	2012/08/01 18:22:17	15255175	dbltall	230772104914690048	tehawesome jennanik well theres this one httptcouh8skn1v
+coreyhyllested	230730183982858240	2012/08/01 18:22:17	15255175	Jennanik	230777609284358144	dbltall oh my god theyre lettered in pills im all over this
+coreyhyllested	230730183982858240	2012/08/01 18:22:17	15255175	SimonJadis	230787119084355585	tehawesome jennatar i would definitely wear that probably no need as i usually only leave the house in the dead of night
+coreyhyllested	230730183982858240	2012/08/01 18:22:17	15255175	joelderfner	230985370672709632	tehawesome but what if somebody did i would have to fake a seizure to get out of having to speak to himher
+coreyhyllested	265545214993768450	2012/11/05 20:04:47	195960729	jwboyer19	265545214993768450	15 robo calls fridays8 today thus farsso happy technology has made this possiblesi cant wait for wed
+coreyhyllested	265545214993768450	2012/11/05 20:04:47	195960729	bill_nottingham	265549602332225536	jwboyer19 zero here i dont know what im doing right so im afraid to change anything
+coreyhyllested	265545214993768450	2012/11/05 20:04:47	195960729	jwboyer19	265550172145217537	billnottingham do you have a landlinesall of mine have been to the landline not my cell
+coreyhyllested	265545214993768450	2012/11/05 20:04:47	195960729	bill_nottingham	265552621174149121	jwboyer19 voip so not exactly for a land line and its not our old land line number ported which likely helps
+coreyhyllested	265545214993768450	2012/11/05 20:04:47	195960729	CoreyHyllested	265654626999758848	jwboyer19 im taking calls for minnesota and colorado despite that i now live in californias where is my roboscreener
+coreyhyllested	274581524047855617	2012/11/30 18:31:51	16350466	drewmo	274581524047855617	chainbear happier stegosshttptcogkkpwoer
+coreyhyllested	274581524047855617	2012/11/30 18:31:51	16350466	chainbear	274578753433260032	i pencilled this little guy and he broke my heart so i made him his own pictureshttptcor5n2dpwa
+coreyhyllested	274581524047855617	2012/11/30 18:31:51	16350466	elclimo	274586285153337344	drewmo chainbear um this is my favorite thing on the internet
+coreyhyllested	274581524047855617	2012/11/30 18:31:51	16350466	drewmo	274587138677428226	elclimo chainbear uuuuuum thank you
+coreyhyllested	274581524047855617	2012/11/30 18:31:51	16350466	chainbear	274587474695684096	drewmo i remember them awww
+coreyhyllested	271206752081559552	2012/11/21 11:01:43	3183721	gilgul	271206752081559552	police closed down azrieli center a large mall and office buildings in close proximity another attacker is said to still be in telaviv
+coreyhyllested	271206752081559552	2012/11/21 11:01:43	3183721	_Dark_Archon_	271220510904442880	gilgul stay safe g
+coreyhyllested	242319511129296897	2012/09/02 17:54:08	15859268	zen_habits	242319511129296897	kids are amazing teachers of patience
+coreyhyllested	242319511129296897	2012/09/02 17:54:08	15859268	JoanneMinaker	242320242796290049	zenhabits i just told bryanhogeveen that you dont follow anyone on twitters we talk about your zen habits often so thank you
+coreyhyllested	242319511129296897	2012/09/02 17:54:08	15859268	ShelNanny	242322007771979777	zenhabits or act as a reflection to show how much you do not have lol working on this one cool how they live in the moment too
+coreyhyllested	242319511129296897	2012/09/02 17:54:08	15859268	andrewtatum	242322734997192705	zenhabits agreed
+coreyhyllested	242319511129296897	2012/09/02 17:54:08	15859268	AndreaSalinovic	242323171200622592	zenhabits so true and thats only the begining of life long learning
+coreyhyllested	242319511129296897	2012/09/02 17:54:08	15859268	ZacharyZorbas	242323674240262144	zenhabits are we there yet
+coreyhyllested	242319511129296897	2012/09/02 17:54:08	15859268	kidbuda	242323761985105920	zenhabits damn right
+coreyhyllested	242319511129296897	2012/09/02 17:54:08	15859268	shalimar33	242326846774075392	zenhabits indeeds0
+coreyhyllested	242319511129296897	2012/09/02 17:54:08	15859268	matthewkupon	242327594329063425	zenhabits ha ha true
+coreyhyllested	242319511129296897	2012/09/02 17:54:08	15859268	asmartbear	242331612270956545	zenhabits oh teachers i thought you said testers
+coreyhyllested	242319511129296897	2012/09/02 17:54:08	15859268	RaamDev	242622593222443009	zenhabits we were all kids once kids who tested the patience of others theres a lot we can learn about patience from our inner child
+coreyhyllested	242319511129296897	2012/09/02 17:54:08	15859268	CharmCalamaris	243381229070729216	rt zenhabits kids are amazing teachers of patience
+coreyhyllested	265930173008982016	2012/11/06 21:34:28	3339521	ferociousj	265930173008982016	is there a business or service that will knock me unconscious until the waiting is over should i just start drinking thisfuckingelection
+coreyhyllested	265930173008982016	2012/11/06 21:34:28	3339521	lizzers_	265931413730234368	ferociousj start drinking
+coreyhyllested	265930173008982016	2012/11/06 21:34:28	3339521	Taikonaut	265934671890755584	ferociousj ive started drinking already
+coreyhyllested	265930173008982016	2012/11/06 21:34:28	3339521	rstevens	265936187003392000	ferociousj come closer
+coreyhyllested	273072954148024320	2012/11/26 14:37:20	18806318	mattdipaola	273072954148024320	heyneil id even be happy with a rule of if i didnt open the first 3 emails from you dont send me any more on the same subject
+coreyhyllested	273072954148024320	2012/11/26 14:37:20	18806318	mattdipaola	273054759269842944	if i get one more black fridaycyber monday email im going to actively start promoting unsubscribe tuesday
+coreyhyllested	273072954148024320	2012/11/26 14:37:20	18806318	heyneil	273072283441065986	mattdipaola there should be a rulesif you participate in black friday no cyber monday for you
+coreyhyllested	274614265938317312	2012/11/30 20:41:57	18295455	VenessaMiemis	274614265938317312	xavier0912 raesmaa oscarberg thank you
+coreyhyllested	274614265938317312	2012/11/30 20:41:57	18295455	VenessaMiemis	274599692149608450	poll what are your favorite sources for designsinnovation newssinspiration who are your favorite curators for that type of content
+coreyhyllested	274614265938317312	2012/11/30 20:41:57	18295455	xavier0912	274603947958874112	venessamiemis there are many 2 of my favorites are raesmaa and oscarberg
+coreyhyllested	267886252022444032	2012/11/12 07:07:14	5252591	bgurley	267886252022444032	more detail on ma litigation scam that happens in nearly 100 of transactions over 100mm in value httptconaoe3slb
+coreyhyllested	267886252022444032	2012/11/12 07:07:14	5252591	simeons	267892455142203393	bgurley tis the new kind of ambulance chasing more like chasing a truck full of money
+coreyhyllested	265817346285916160	2012/11/06 14:06:08	15361570	jaredpolis	265817346285916160	if you still have a mailin ballot dont put it in the mail itll arrive too late drop it off at a voting sitehttptcoitxe2mb2
+coreyhyllested	265817346285916160	2012/11/06 14:06:08	15361570	andrewhyde	265817464082923520	jaredpolis go jaredsyou got my vote
+coreyhyllested	265817346285916160	2012/11/06 14:06:08	15361570	KovuCougar	265842544049524736	jaredpolis xanie not true in wa must be dropped off or postmarked by 8pm
+coreyhyllested	265817346285916160	2012/11/06 14:06:08	15361570	sashapup	265847499309346817	xanie true but they project winners based on the end of todays count which is about 60 of the votes kovucougar jaredpolis
+coreyhyllested	265817346285916160	2012/11/06 14:06:08	15361570	siegferret	265847719678074880	sashapup xanie 40searly voted in fl closer to 50 in our county so that will speed up counting one hopes
+coreyhyllested	141213470514364416	2011/11/28 17:54:49	62581962	shitmydadsays	141213470514364416	im in cincinnati at a waffle house thats across from 2 waffle houses everyones fat this city is fucking hall of fame of diabetes
+coreyhyllested	141213470514364416	2011/11/28 17:54:49	62581962	VinodIyengar	223829714886868992	touche shitmydadsays
+coreyhyllested	141213470514364416	2011/11/28 17:54:49	62581962	Tao_30	245375055759015938	shitmydadsays lol ha ha
+coreyhyllested	141213470514364416	2011/11/28 17:54:49	62581962	LindaAlila	258124800059387904	shitmydadsays hehe nice one
+coreyhyllested	141213470514364416	2011/11/28 17:54:49	62581962	jekcag	272482277328556032	shitmydadsays o waffle house in cincinnati ew
+coreyhyllested	275661612189360128	2012/12/03 18:03:44	15087288	PoppedCulture	275661612189360128	ambermac well you and chrisdick are super white
+coreyhyllested	275661612189360128	2012/12/03 18:03:44	15087288	ambermac	275660266161721344	my son got rejected for looking too whitesmt caronsue passport photos for toddlers a jokesrejected 4 2 much teeth httptco0h4hve5b
+coreyhyllested	275661612189360128	2012/12/03 18:03:44	15087288	chrisdick	275779149363298304	poppedculture ambermac i believe the exact term was translucent
+coreyhyllested	275661612189360128	2012/12/03 18:03:44	15087288	PoppedCulture	275779556298866688	chrisdick ambermac well thats just cool
+coreyhyllested	266062859216252928	2012/11/07 06:21:43	6141832	cshirky	266062859216252928	rt moriahrae1 fucking nigger won again yes thats right he did indeed win again because more americans wanted him to be president
+coreyhyllested	266062859216252928	2012/11/07 06:21:43	6141832	codinghorror	266063191832944640	cshirky dude internet 101 dont feed the trolls
+coreyhyllested	266062859216252928	2012/11/07 06:21:43	6141832	chrisdancy	266063577734066177	cshirky thank you
+coreyhyllested	266062859216252928	2012/11/07 06:21:43	6141832	cjammet	266063678355406848	cshirky moriahrae1 are you serious looping in brennanator for a witty biting reply
+coreyhyllested	266062859216252928	2012/11/07 06:21:43	6141832	MRSallee	266064311322017792	cshirky why the hell would you retweet that
+coreyhyllested	266062859216252928	2012/11/07 06:21:43	6141832	Brennanator	266065295247020032	cjammet cshirky moriahrae1 nah not wasting my wit happily this persons way of thinking lost tonight
+coreyhyllested	266062859216252928	2012/11/07 06:21:43	6141832	jonoabroad	266065675708157952	codinghorror cshirky shoot them
+coreyhyllested	266062859216252928	2012/11/07 06:21:43	6141832	delwilliams	266068191409750016	cshirky impressive you even responded to that racist jerk who needs up go back to their cave
+coreyhyllested	266062859216252928	2012/11/07 06:21:43	6141832	ConsultingChick	266081441971073025	cshirky whoaswhat harsh words here on twitterswow
+coreyhyllested	275013894395813888	2012/12/01 23:09:56	10769742	rtaibah	275013894395813888	hanienayassssss
+coreyhyllested	275013894395813888	2012/12/01 23:09:56	10769742	HaniEnaya	275005765666885632	ssssssssssss
+coreyhyllested	275013894395813888	2012/12/01 23:09:56	10769742	HaniEnaya	275017061355368448	rtaibahsssssssss
+coreyhyllested	225473128317468672	2012/07/18 06:12:37	117338050	bgmasters	225473128317468672	levie that is like saying things would be better if they were betters rromanchuk
+coreyhyllested	225473128317468672	2012/07/18 06:12:37	117338050	levie	224584543011745792	call me crazy but i think capitalism thrives in a world where people get equal access to great healthcare education and jobs
+coreyhyllested	266979582765330432	2012/11/09 19:04:27	633	zephoria	266979582765330432	really awesome automatic spoken speech translation by colleagues at msr httptco1yambk16 cc ethanz
+coreyhyllested	266979582765330432	2012/11/09 19:04:27	633	taslanous	266982092590706688	zephoria ethanz i bet there is a chinese guy speaking behind the curtain p
+coreyhyllested	266979582765330432	2012/11/09 19:04:27	633	windrema	266983565382807552	zephoria amazing thats douglas adams babel fish made reality
+coreyhyllested	275982779139891201	2012/12/04 15:19:56	14834340	jayrosen_nyu	275982779139891201	would you like to see what loyalty means to roger ailes read this story very carefully httptcoppkiqqgz and you will learn
+coreyhyllested	275982779139891201	2012/12/04 15:19:56	14834340	JustinChristen	275987213655871489	jayrosennyu great link thank you
+coreyhyllested	275982779139891201	2012/12/04 15:19:56	14834340	gibson6string	275993664516395010	jayrosennyu chuckled about loyalty as i read itkeep your eye on a rattlesnake
+coreyhyllested	271659710653014016	2012/11/22 17:01:36	26383112	coldspire	271659710653014016	objectiveaf no but the cranberry relish and pureed pumpkin does they just need to sit on your head like a helmet for five hours
+coreyhyllested	271659710653014016	2012/11/22 17:01:36	26383112	objective_af	271656202268725249	coldspire deal does gravy help with split ends
+coreyhyllested	260569780770185216	2012/10/23 02:34:11	633	zephoria	260569780770185216	ashk4n we have the factchecking but no one is paying attention and the lies keep on coming
+coreyhyllested	260569780770185216	2012/10/23 02:34:11	633	zephoria	260568179816939520	its a mindfuck that factchecking isnt viable in a networked age cuz the linguistic jujitsu moves so fast that no one can keep up debate
+coreyhyllested	260569780770185216	2012/10/23 02:34:11	633	ashk4n	260568888335552513	zephoria danahsthis isnt a bad start httptcornalf3ef factcheck
+coreyhyllested	274536724976242688	2012/11/30 15:33:50	15881026	ollymoss	274536724976242688	boodooperson oh dear
+coreyhyllested	274536724976242688	2012/11/30 15:33:50	15881026	ollymoss	274536224092459008	presumably the zombie u sequel will be called zombie u2 that would be a game i could really get behind
+coreyhyllested	274536724976242688	2012/11/30 15:33:50	15881026	BooDooPerson	274536478971940864	ollymoss the edge magazine will give it 1010
+coreyhyllested	274536724976242688	2012/11/30 15:33:50	15881026	BooDooPerson	274537067889954816	ollymoss yeahim sorry
+coreyhyllested	266353918102077441	2012/11/08 01:38:17	633	zephoria	266353918102077441	much to my relief my grandparents finally got power fingers crossed that this storm doesnt wreak more havoc theres still so much damage
+coreyhyllested	266353918102077441	2012/11/08 01:38:17	633	kimbobo	266354242070118400	zephoria yay
+coreyhyllested	266353918102077441	2012/11/08 01:38:17	633	saraspalding	266367279812472832	zephoria yeahsso happy to hear
+coreyhyllested	266353918102077441	2012/11/08 01:38:17	633	nancybaym	266371246818734080	zephoria good to hear
+coreyhyllested	262980387679129600	2012/10/29 18:13:05	633	zephoria	262980387679129600	truth liessdoxxing is a piece i wrote for wired on the moral challenges of the reddit troll debacle httptcoog61mk08
+coreyhyllested	262980387679129600	2012/10/29 18:13:05	633	noellejouglet	263006678629351424	zephoria thank you for the doxxing piece weve experienced this 1st hand at invisible children after the release of our kony2012 film
+coreyhyllested	262980387679129600	2012/10/29 18:13:05	633	faceyet	263333302109343744	zephoria unfortunately the reportedly a 19yearold link is to a piece by an author who relishes and was happy to spread dox for karma
+coreyhyllested	230019490933526528	2012/07/30 19:18:14	14642896	petewarden	230019490933526528	kaythaney it is a cunning plan indeed
+coreyhyllested	230019490933526528	2012/07/30 19:18:14	14642896	gnat	229096949968670720	laughing as petewarden uses his new high powered binoculars to watch the neighbours tv
+coreyhyllested	230019490933526528	2012/07/30 19:18:14	14642896	petewarden	229097873873203200	rt gnat laughing as petewarden uses his new high powered binoculars to watch the neighbours tvshonestly only test for alaska trip
+coreyhyllested	230019490933526528	2012/07/30 19:18:14	14642896	kaythaney	229899846985859072	petewarden gnat is that how you personalise jetpac recommendations sneaky
+coreyhyllested	276132520830046208	2012/12/05 01:14:57	14600116	johnbattelle	276132520830046208	writing every so often the personal essay makes a comeback httptcom5uqv3qm via johnbattelle
+coreyhyllested	276132520830046208	2012/12/05 01:14:57	14600116	evankirstel	276132810245435392	johnbattelle bringing back bad memories of college applications
+coreyhyllested	269644213581398016	2012/11/17 03:32:44	18806318	mattdipaola	269644213581398016	zedsqsthe kids in the hall burger was pretty friggin tasty need to go back for a proper milkshake
+coreyhyllested	269644213581398016	2012/11/17 03:32:44	18806318	mattdipaola	269609782632132608	the newsimproved festive special worksburger httptcorquzfysp
+coreyhyllested	269644213581398016	2012/11/17 03:32:44	18806318	zedsq	269610035376709633	mattdipaola where is this
+coreyhyllested	269644213581398016	2012/11/17 03:32:44	18806318	mattdipaola	269639985320296448	zedsqsthe works
+coreyhyllested	269644213581398016	2012/11/17 03:32:44	18806318	zedsq	269640078597443584	mattdipaola that is the most brilliant thing ever
+coreyhyllested	269644213581398016	2012/11/17 03:32:44	18806318	zedsq	269644419882442752	mattdipaola the funny thing is that out of all the burger joints i have been to and there are a ton i havent been there yet
+coreyhyllested	272762907962531840	2012/11/25 18:05:19	13982132	medialab	272762907962531840	jj abrams speaking at media lab on tuesday join us mltalks httptco6lfj1wsl notpennysboat
+coreyhyllested	272762907962531840	2012/11/25 18:05:19	13982132	RobHP	273501176102785024	medialab missed the live event but wondering if the talk will be available online in full a bit later
+coreyhyllested	232949863451590656	2012/08/07 21:22:30	2660251	mjterave	232949863451590656	pinboard the thinkpad t430 is pretty nice
+coreyhyllested	232949863451590656	2012/08/07 21:22:30	2660251	Pinboard	232928007587786752	thinking of getting a newer windows laptop for testingsany recommendations for a comfy middleoftheroad representative model
+coreyhyllested	274652723054514176	2012/11/30 23:14:46	14834340	jayrosen_nyu	274652723054514176	kleinmatic mathewi okay i would not go that far i just think its an approach to news product that is worth trying
+coreyhyllested	274652723054514176	2012/11/30 23:14:46	14834340	kleinmatic	274652270677876736	mathewi while wed all agree that good design is good why go so far as to say sparse design is objectively better 22 jayrosennyu
+coreyhyllested	274652723054514176	2012/11/30 23:14:46	14834340	kleinmatic	274653596098916352	jayrosennyu we should definitely try lots of things no disagreement there
+coreyhyllested	273507213719511041	2012/11/27 19:22:55	5824142	hungtruong	273507213719511041	harper damn it youre always secretive about the best sandwichesbooks youre enjoying name names
+coreyhyllested	273507213719511041	2012/11/27 19:22:55	5824142	harper	273505894946467840	secret sandwich
+coreyhyllested	274222817275428864	2012/11/29 18:46:29	8285392	raffi	274222817275428864	kpk thats interestingsill try that next time cc shinypb
+coreyhyllested	274222817275428864	2012/11/29 18:46:29	8285392	kpk	274221099171074048	raffi awesome presosbut why is your map usonly can you add some more countries in
+coreyhyllested	274222817275428864	2012/11/29 18:46:29	8285392	shinypb	274221329425760257	kpk raffi there are other countries
+coreyhyllested	274222817275428864	2012/11/29 18:46:29	8285392	raffi	274221683617980417	shinypb i know i know i tried it and the slide didnt look good cc kpk
+coreyhyllested	274222817275428864	2012/11/29 18:46:29	8285392	kpk	274222300956610560	raffi shinypb just a few dotted lines into mexico and canada would be fine
+coreyhyllested	273996272975876097	2012/11/29 03:46:16	13072452	dret	273996272975876097	no post isnt create post is just post and no there is no such thing as overloading post you can post what your domain needs rest
+coreyhyllested	273996272975876097	2012/11/29 03:46:16	13072452	johnsheehan	274065232232603648	dret post can be create so i wouldnt say isnt necessarily depends on the domain like you mention
+coreyhyllested	273996272975876097	2012/11/29 03:46:16	13072452	pmhsfelix	274069011896098816	dret post is just post isnt very usefulsi like the http bis def httptcomoyowaem
+coreyhyllested	273996272975876097	2012/11/29 03:46:16	13072452	pmhsfelix	274069422346481664	dret the post requests that the origin server accept thes representation in the req as data to be processed by thes target resource
+coreyhyllested	273996272975876097	2012/11/29 03:46:16	13072452	dret	274081861746167809	johnsheehan create requests are one popular thing people post the problem is people thinking post is just create and nothing else
+coreyhyllested	273996272975876097	2012/11/29 03:46:16	13072452	dret	274082670571552768	pmhsfelix dont like that the actual function performed is usually dependent on the effective request uri that promotes bad patterns
+coreyhyllested	273996272975876097	2012/11/29 03:46:16	13072452	pmhsfelix	274123129159299072	dret i interpret that sentence as if the function depends on the identified resource
+coreyhyllested	273996272975876097	2012/11/29 03:46:16	13072452	pmhsfelix	274123397716402176	dretswhich seems redundant
+coreyhyllested	273996272975876097	2012/11/29 03:46:16	13072452	johnsheehan	274186902691782657	dret agreed
+coreyhyllested	273996272975876097	2012/11/29 03:46:16	13072452	dret	274194939473186817	pmhsfelix the actual function performed depends on the post request itself and not just the uri it is sent to rest
+coreyhyllested	273996272975876097	2012/11/29 03:46:16	13072452	aphethean	274235053737914368	dret i like the post isnt create post is just post comment post just describes the interaction semantics the client can expect rest
+coreyhyllested	273996272975876097	2012/11/29 03:46:16	13072452	pmhsfelix	274304432399867904	dret in post i see the uri defining the computation and the request body defining the input data is this inadequate
+coreyhyllested	273996272975876097	2012/11/29 03:46:16	13072452	dret	274329799693053952	pmhsfelix its more constraining than necessary one resource may be able to accept requests for different kinds of computation rest
+coreyhyllested	274584649576087552	2012/11/30 18:44:16	7852612	isaach	274584649576087552	shugb san francisco
+coreyhyllested	274584649576087552	2012/11/30 18:44:16	7852612	isaach	274377844497469440	did i mention that im still hiring for this position ahem httptcozuil4tmd
+coreyhyllested	274584649576087552	2012/11/30 18:44:16	7852612	shugb	274581990915858432	isaach ryanlawler wheres it based
+coreyhyllested	274584649576087552	2012/11/30 18:44:16	7852612	shugb	274587288044986369	isaach thanks you guys dont have anything similar in nyc
+coreyhyllested	274584649576087552	2012/11/30 18:44:16	7852612	isaach	274588820446531585	shugb not right now im afraid
+coreyhyllested	274584649576087552	2012/11/30 18:44:16	7852612	shugb	274591001497178112	isaach no worries thanks
+coreyhyllested	274241744349057025	2012/11/29 20:01:41	1303691	aweigend	274241744349057025	in sf deeply enjoying the thoughts my hero timoreilly shares at industrialinternet
+coreyhyllested	274241744349057025	2012/11/29 20:01:41	1303691	generalelectric	274242366133649408	aweigendwere glad youre enjoying the conference andreas what excites you the most about the industrialinternet
+coreyhyllested	276019589127761920	2012/12/04 17:46:13	224285242	SenBennetCO	276019589127761920	just joined johncornyn judgetedpoe carolynbmaloney to call for passage of safer act to reduce rape kit backlog httptconq5mjkso
+coreyhyllested	276019589127761920	2012/12/04 17:46:13	224285242	icepickrg	276020845204344832	senbennetco johncornyn judgetedpoe carolynbmaloney govt is nullified your wordsspens mean nothingsgo home httptco3xa2oizc
+coreyhyllested	276019589127761920	2012/12/04 17:46:13	224285242	Familylawcourts	276031217940447234	senbennetco johncornyn judgetedpoe carolynbmaloneysbut what about rapist copsssee the bad cop section of httptcojurkgt9c
+coreyhyllested	276019589127761920	2012/12/04 17:46:13	224285242	NiceIcePrincess	276035779736764416	senbennetco johncornyn judgetedpoe carolynbmaloney get it passed now long overduerainn01
+coreyhyllested	276019589127761920	2012/12/04 17:46:13	224285242	NiceIcePrincess	276037363396923392	senbennetco johncornyn judgetedpoe carolynbmaloney 400000 rape kits back logged nationwide pass saferact nownot brain surgery
+coreyhyllested	276019589127761920	2012/12/04 17:46:13	224285242	NiceIcePrincess	276041104871276544	senbennetco johncornyn judgetedpoe carolynbmaloney how many xs do we have to call for a vote this 1 is a nobrainer election over
+coreyhyllested	276019589127761920	2012/12/04 17:46:13	224285242	NiceIcePrincess	276041603028754432	senbennetco johncornyn judgetedpoe carolynbmaloney ted u of all people know better get ur hands out of pocketsget done safer
+coreyhyllested	276019589127761920	2012/12/04 17:46:13	224285242	NiceIcePrincess	276041910223785984	senbennetco johncornyn judgetedpoe carolynbmaloney geez excuses victimssurvivors no time for excuses get er done
+coreyhyllested	274194939473186817	2012/11/29 16:55:42	13072452	dret	274194939473186817	pmhsfelix the actual function performed depends on the post request itself and not just the uri it is sent to rest
+coreyhyllested	274194939473186817	2012/11/29 16:55:42	13072452	dret	273996272975876097	no post isnt create post is just post and no there is no such thing as overloading post you can post what your domain needs rest
+coreyhyllested	274194939473186817	2012/11/29 16:55:42	13072452	pmhsfelix	274069011896098816	dret post is just post isnt very usefulsi like the http bis def httptcomoyowaem
+coreyhyllested	274194939473186817	2012/11/29 16:55:42	13072452	dret	274082670571552768	pmhsfelix dont like that the actual function performed is usually dependent on the effective request uri that promotes bad patterns
+coreyhyllested	274194939473186817	2012/11/29 16:55:42	13072452	pmhsfelix	274123129159299072	dret i interpret that sentence as if the function depends on the identified resource
+coreyhyllested	274194939473186817	2012/11/29 16:55:42	13072452	pmhsfelix	274304432399867904	dret in post i see the uri defining the computation and the request body defining the input data is this inadequate
+coreyhyllested	274194939473186817	2012/11/29 16:55:42	13072452	dret	274329799693053952	pmhsfelix its more constraining than necessary one resource may be able to accept requests for different kinds of computation rest
+coreyhyllested	258675101149589504	2012/10/17 21:05:24	26195358	thinkingfish	258675101149589504	manju classic krishnagade
+coreyhyllested	258675101149589504	2012/10/17 21:05:24	26195358	manju	258659831102185473	street food with the team httptcohy37msuw
+coreyhyllested	271202751122399232	2012/11/21 10:45:49	3183721	gilgul	271202751122399232	reports of people in ramallah cheering the telaviv blast handing out sweets in the streets
+coreyhyllested	271202751122399232	2012/11/21 10:45:49	3183721	maneraf	271205312369926145	gilgul sad
+coreyhyllested	266811156256137216	2012/11/09 07:55:11	176932593	UCBerkeley	266811156256137216	chancellor urges teens to overcome obstacles to college httptcozoimvjr0 see video httptcopuzesgsb highered access
+coreyhyllested	266811156256137216	2012/11/09 07:55:11	176932593	Karmapawo	266846186655342592	dear ucberkeley this would appear much more genuine if you reduced tuition eliminating one of the biggest obstacles students face
+coreyhyllested	266811156256137216	2012/11/09 07:55:11	176932593	Karmapawo	266847217057402880	ucberkeley as it stands i see a rich white male saying go to college whatever the cost so our university can get richer
+coreyhyllested	266811156256137216	2012/11/09 07:55:11	176932593	Just_Tabitha	266887627838476289	karmapawo so true and so very sad
+coreyhyllested	267776060404404225	2012/11/11 23:49:22	8285392	raffi	267776060404404225	have you tried deleting from ioss passbook an animated shredder comes onscreen so over the top skeuomorphic design overload
+coreyhyllested	267776060404404225	2012/11/11 23:49:22	8285392	YourMomBot	267776062132473856	raffi your mom tried deleting from ioss passbook an animated shredder comes onscreen so over the top skeuomorphic design overload
+coreyhyllested	267776060404404225	2012/11/11 23:49:22	8285392	tweek_sf	267776500219125760	raffi gross animation always helps battery life
+coreyhyllested	267776060404404225	2012/11/11 23:49:22	8285392	iamintricate	267788318052327424	raffi not for much longer
+coreyhyllested	267776060404404225	2012/11/11 23:49:22	8285392	wil	267802528622723072	raffi the podcasts app is trying way too hard with this real world ui metaphor thing too ive never gotten passbook to even load up
+coreyhyllested	266682512070287361	2012/11/08 23:24:00	633238141	mjmauboussin	266682512070287361	joemannion not a lot of sportpsychology in the book but its clearly relevant to the discussion a bit on clutch and choking
+coreyhyllested	266682512070287361	2012/11/08 23:24:00	633238141	mjmauboussin	265779435863683072	today is the official publication date of my new book the success equation good thing nothing else major will dominate the news
+coreyhyllested	266682512070287361	2012/11/08 23:24:00	633238141	JoeMannion	266663151125291009	mjmauboussin congrats curious if you reviewed any sportpsychology literature in your rw
+coreyhyllested	266682512070287361	2012/11/08 23:24:00	633238141	JoeMannion	266756868217663488	mjmauboussin interesting plz dont hesitate if i may be able to offer discussion or quick guidance in that literature
+coreyhyllested	238731547832881153	2012/08/23 20:16:51	15859268	zen_habits	238731547832881153	a reminder httptcosmk4c4za via giseleetc
+coreyhyllested	238731547832881153	2012/08/23 20:16:51	15859268	zen_habits	238648104700768258	how to remove the clutter and get a badass simple lifestyle httptco7bhnxjrz
+coreyhyllested	238731547832881153	2012/08/23 20:16:51	15859268	giseleEtc	238724096102379520	zenhabits also httptcoyf2djjnz
+coreyhyllested	238731547832881153	2012/08/23 20:16:51	15859268	CElston	238733477099495424	zenhabits giseleetc i agree except for the first linesperfection is impossible
+coreyhyllested	238731547832881153	2012/08/23 20:16:51	15859268	giseleEtc	238734801060917248	celston i have to agree what would u say instead you are good enough yuck zenhabits
+coreyhyllested	238731547832881153	2012/08/23 20:16:51	15859268	zen_habits	238736385480212480	you are already perfect httptcohsv2uf0s celston giseleetc
+coreyhyllested	238731547832881153	2012/08/23 20:16:51	15859268	CElston	238737689548029952	zenhabitssi was looking at perfection from a different perspective thanks for writing your blog giseleetc
+coreyhyllested	238731547832881153	2012/08/23 20:16:51	15859268	kellystecker	238738883964190721	thank you zenhabits giseleetc i love little reminders that bring us back to whats actually important
+coreyhyllested	238731547832881153	2012/08/23 20:16:51	15859268	alanwerring	238740776962641920	zenhabits very true something the great thai buddhist monk ajahn chah would apparently often say is if it shouldnt it wouldnt
+coreyhyllested	238731547832881153	2012/08/23 20:16:51	15859268	robotii	238741071193055232	zenhabits celston giseleetc if you were already perfect you wouldnt need to change suggesting changes is unnecessary in that case
+coreyhyllested	238731547832881153	2012/08/23 20:16:51	15859268	giseleEtc	238750688061042688	kellysreeve zenhabits thats exactly why i wrote it out because sometimes we get carried away in our thought patternssneed a reminder
+coreyhyllested	238731547832881153	2012/08/23 20:16:51	15859268	giseleEtc	238751161098838016	celston thanks for bringing this perfection up intriguing discussion zenhabits
+coreyhyllested	238731547832881153	2012/08/23 20:16:51	15859268	CElston	238768642911768576	giseleetc im not sure what perfection is when talking about people but i really like zenhabits post
+coreyhyllested	238731547832881153	2012/08/23 20:16:51	15859268	CElston	238769217560801280	robotii i was thinking that there is no way for a person to besperfect so dont worry aboutszenhabits giseleetc

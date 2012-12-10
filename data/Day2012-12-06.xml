@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-12-06">
+<conversation ID="276521748718043137">
+<tweet ID="276521748718043137">
+<text>marychayko jathansadowski ahhh affordances of twitter comedy</text>
+<tweetDate>2012-12-06 03:01:37</tweetDate>
+<tweetUser>phenatypical</tweetUser>
+</tweet>
+<tweet ID="276521147892367360">
+<text>phenatypical i had to chop out a bunch of vowels to make that quote fit i read that and almost laughed out loud for real</text>
+<tweetDate>2012-12-06 03:01:37</tweetDate>
+<tweetUser>jathansadowski</tweetUser>
+</tweet>
+<tweet ID="276521494266392576">
+<text>jathansadowski phenatypical did laugh out loud</text>
+<tweetDate>2012-12-06 03:01:37</tweetDate>
+<tweetUser>MaryChayko</tweetUser>
+</tweet>
+<entities>
+<topic>socialmedia</topic>
+<user>phenatypical</user>
+<user>jathansadowski</user>
+<user>MaryChayko</user>
+<ConvoScore>32</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

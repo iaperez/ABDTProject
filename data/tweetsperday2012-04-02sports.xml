@@ -1,0 +1,7 @@
+<?xml version='1.0'?>
+<tweets ID="2012-04-02">
+<tweet>
+<user>twitterapi</user>
+<text>hooray gzip is now enabled on user streams now all streaming endpoints support compression ark</text>
+</tweet>
+</tweets>

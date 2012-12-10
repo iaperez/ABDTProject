@@ -1,0 +1,34 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-10-29">
+<conversation ID="263034640082804737">
+<tweet ID="263034640082804737">
+<text>jvaleski i only lost about an hour this time its my first experience with xmpp im impressed you guys retain your sanity</text>
+<tweetDate>2012-10-29 21:48:39</tweetDate>
+<tweetUser>petewarden</tweetUser>
+</tweet>
+<tweet ID="262754845650472960">
+<text>nokogiris docs on removenamespaces are amusingly carefully worded httptcofpddpv6esi can only imagine the flame wars behind that</text>
+<tweetDate>2012-10-29 21:48:39</tweetDate>
+<tweetUser>petewarden</tweetUser>
+</tweet>
+<tweet ID="262910483735142401">
+<text>petewarden lost years of my life messing with namespaces in nokogiri</text>
+<tweetDate>2012-10-29 21:48:39</tweetDate>
+<tweetUser>jvaleski</tweetUser>
+</tweet>
+<tweet ID="263064337969721344">
+<text>petewarden ive only used the parser part of it not the xmpp part</text>
+<tweetDate>2012-10-29 21:48:39</tweetDate>
+<tweetUser>jvaleski</tweetUser>
+</tweet>
+<entities>
+<topic>business</topic>
+<topic>technology</topic>
+<topic>socialmedia</topic>
+<user>petewarden</user>
+<url>http://nokogiri.org/Nokogiri/XML/Document.html#method-i-remove_namespaces</url>
+<user>jvaleski</user>
+<ConvoScore>40</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-11-03">
+<conversation ID="264830356065234945">
+<tweet ID="264830356065234945">
+<text>albertsun agreed even discrete probability is already enough for most peoples daily life</text>
+<tweetDate>2012-11-03 20:44:11</tweetDate>
+<tweetUser>thinkingfish</tweetUser>
+</tweet>
+<tweet ID="264803831815221249">
+<text>its time for probability and statistics to replace precalculus and trigonometry in high school math curriculums</text>
+<tweetDate>2012-11-03 20:44:11</tweetDate>
+<tweetUser>albertsun</tweetUser>
+</tweet>
+<entities>
+<topic>other</topic>
+<user>thinkingfish</user>
+<user>albertsun</user>
+<ConvoScore>23</ConvoScore>
+</entities>
+</conversation>
+<conversation ID="264713965387526144">
+<tweet ID="264713965387526144">
+<text>heathterry the requirement for alignment alone should be suspect</text>
+<tweetDate>2012-11-03 13:01:42</tweetDate>
+<tweetUser>bgurley</tweetUser>
+</tweet>
+<tweet ID="264438706751037441">
+<text>real life sopranos like issues arise in nj during sandy cleanup httptcogmltr8nu</text>
+<tweetDate>2012-11-03 13:01:42</tweetDate>
+<tweetUser>bgurley</tweetUser>
+</tweet>
+<tweet ID="264441700741689344">
+<text>bgurley or maybe not httptcoevgvc2fs</text>
+<tweetDate>2012-11-03 13:01:42</tweetDate>
+<tweetUser>heathterry</tweetUser>
+</tweet>
+<entities>
+<topic>business</topic>
+<topic>technology</topic>
+<user>bgurley</user>
+<url>http://www.waff.com/story/19981857/some-nonunion-ala-crews-turned-away-from-sandy-recovery</url>
+<url>http://blog.al.com/breaking/2012/11/huntsville_utilities_denies_cl.html</url>
+<user>heathterry</user>
+<ConvoScore>45</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

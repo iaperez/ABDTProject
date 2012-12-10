@@ -1,0 +1,72 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-11-27">
+<conversation ID="273507213719511041">
+<tweet ID="273507213719511041">
+<text>harper damn it youre always secretive about the best sandwichesbooks youre enjoying name names</text>
+<tweetDate>2012-11-27 19:22:55</tweetDate>
+<tweetUser>hungtruong</tweetUser>
+</tweet>
+<tweet ID="273505894946467840">
+<text>secret sandwich</text>
+<tweetDate>2012-11-27 19:22:55</tweetDate>
+<tweetUser>harper</tweetUser>
+</tweet>
+<entities>
+<topic>business</topic>
+<user>hungtruong</user>
+<user>harper</user>
+<ConvoScore>36</ConvoScore>
+</entities>
+</conversation>
+<conversation ID="273221655889846274">
+<tweet ID="273221655889846274">
+<text>elgray related i now very much want to read the book</text>
+<tweetDate>2012-11-27 00:28:13</tweetDate>
+<tweetUser>kimretta</tweetUser>
+</tweet>
+<tweet ID="273219878322843649">
+<text>i want to tweet a thing about silver linings playbook but im not sure if im allowed to discuss its plot points on the internet yet</text>
+<tweetDate>2012-11-27 00:28:13</tweetDate>
+<tweetUser>kimretta</tweetUser>
+</tweet>
+<tweet ID="273220574904475648">
+<text>kimretta i havent seen it yet but surprised reviewstrailers seem to give away stuff book took a while to reveal silverliningsplaybook</text>
+<tweetDate>2012-11-27 00:28:13</tweetDate>
+<tweetUser>elgray</tweetUser>
+</tweet>
+<entities>
+<topic>technology</topic>
+<user>kimretta</user>
+<hashtag>SilverLiningsPlaybook</hashtag>
+<user>elgray</user>
+<ConvoScore>35</ConvoScore>
+</entities>
+</conversation>
+<conversation ID="273263015820947456">
+<tweet ID="273263015820947456">
+<text>danmezick rimshot</text>
+<tweetDate>2012-11-27 03:12:34</tweetDate>
+<tweetUser>VenessaMiemis</tweetUser>
+</tweet>
+<tweet ID="273088039398539266">
+<text>oh my rt fastcompany maccabeem how to build your own handsfree vibrator youre welcome httptcoazd377tc</text>
+<tweetDate>2012-11-27 03:12:34</tweetDate>
+<tweetUser>VenessaMiemis</tweetUser>
+</tweet>
+<tweet ID="273260220170530817">
+<text>venessamiemis fastcompany maccabeem this brings new and imaginative meaning to the term culture hacking httptcoiw0fl0tp</text>
+<tweetDate>2012-11-27 03:12:34</tweetDate>
+<tweetUser>DanMezick</tweetUser>
+</tweet>
+<entities>
+<topic>politics</topic>
+<topic>technology</topic>
+<topic>socialmedia</topic>
+<user>VenessaMiemis</user>
+<url>http://www.fastcompany.com/3003375/how-build-your-own-hands-free-vibrator</url>
+<url>http://scanlime.org/2012/11/hacking-my-vagina/</url>
+<user>DanMezick</user>
+<ConvoScore>40</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

@@ -1,8 +1,8 @@
 #twitter4j.properties
 #Thu Sep 27 00:26:42 PDT 2012
-oauth.consumerSecret=8ojyjAHXrmXBUDTrc7th7cSKEBKCDhHFgiXddhU8yM8
+oauth.consumerSecret=ChX5lugyUnFMVYbrzS3SoKnr0ltr1HuSX0MUqEK4mY
 debug=false
-oauth.accessToken=16103751-Ptej9hWuhIAaFrjmpmSBQAebBdxQRF6oAO527xzrc
-oauth.accessTokenSecret=VLAfrnJF16Y2vRQE09hlzJOZi7qcJBwWVadHRKDgvNw
-oauth.consumerKey=Nbi4jkpBJ6S1AppxJm8yBQ
+oauth.accessToken=856166641-krtoS96MEpJEXxggh4zlBPRXWhJdyqggUjMcg78w
+oauth.accessTokenSecret=j6itM5htAwn1tnnZjURWT3upV0ZjIaKq6t9ElLnTBI
+oauth.consumerKey=pfgO1Owp5NluzSVeAs8GLQ
 http.prettyDebug=true

@@ -1,0 +1,28 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-11-04">
+<conversation ID="265051679488102400">
+<tweet ID="265051679488102400">
+<text>suehle hopefully not as huge of a line as last timesgood luck</text>
+<tweetDate>2012-11-04 11:23:39</tweetDate>
+<tweetUser>jwboyer19</tweetUser>
+</tweet>
+<tweet ID="265039146962268160">
+<text>made it to cdg now to make it through the security line before my connection</text>
+<tweetDate>2012-11-04 11:23:39</tweetDate>
+<tweetUser>suehle</tweetUser>
+</tweet>
+<tweet ID="265055182193324032">
+<text>jwboyer19 not as bad as it could have been the line really backed up behind me</text>
+<tweetDate>2012-11-04 11:23:39</tweetDate>
+<tweetUser>suehle</tweetUser>
+</tweet>
+<entities>
+<topic>sports</topic>
+<topic>business</topic>
+<topic>socialmedia</topic>
+<user>jwboyer19</user>
+<user>suehle</user>
+<ConvoScore>34</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

@@ -1,0 +1,30 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-10-23">
+<conversation ID="260569780770185216">
+<tweet ID="260569780770185216">
+<text>ashk4n we have the factchecking but no one is paying attention and the lies keep on coming</text>
+<tweetDate>2012-10-23 02:34:11</tweetDate>
+<tweetUser>zephoria</tweetUser>
+</tweet>
+<tweet ID="260568179816939520">
+<text>its a mindfuck that factchecking isnt viable in a networked age cuz the linguistic jujitsu moves so fast that no one can keep up debate</text>
+<tweetDate>2012-10-23 02:34:11</tweetDate>
+<tweetUser>zephoria</tweetUser>
+</tweet>
+<tweet ID="260568888335552513">
+<text>zephoria danahsthis isnt a bad start httptcornalf3ef factcheck</text>
+<tweetDate>2012-10-23 02:34:11</tweetDate>
+<tweetUser>ashk4n</tweetUser>
+</tweet>
+<entities>
+<topic>sports</topic>
+<topic>business</topic>
+<user>zephoria</user>
+<hashtag>debate</hashtag>
+<hashtag>factcheck</hashtag>
+<url>http://elections.nytimes.com/2012/debates/presidential/2012-10-22</url>
+<user>ashk4n</user>
+<ConvoScore>46</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

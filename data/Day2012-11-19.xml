@@ -1,0 +1,28 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-11-19">
+<conversation ID="270646792415232000">
+<tweet ID="270646792415232000">
+<text>jasonleejones thanks</text>
+<tweetDate>2012-11-19 21:56:38</tweetDate>
+<tweetUser>lessig</tweetUser>
+</tweet>
+<tweet ID="270631518668455936">
+<text>re filibuster reform on my wiki what are the historical examples of filibusters 4 good httptcov3ee7pga</text>
+<tweetDate>2012-11-19 21:56:38</tweetDate>
+<tweetUser>lessig</tweetUser>
+</tweet>
+<tweet ID="270642654692397056">
+<text>lessig added onesnot really impressive though p</text>
+<tweetDate>2012-11-19 21:56:38</tweetDate>
+<tweetUser>jasonleejones</tweetUser>
+</tweet>
+<entities>
+<topic>fashion</topic>
+<topic>technology</topic>
+<user>lessig</user>
+<url>http://wiki.lessig.org/FortunateFilibusters</url>
+<user>jasonleejones</user>
+<ConvoScore>44</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

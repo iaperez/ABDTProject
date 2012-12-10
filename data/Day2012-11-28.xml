@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-11-28">
+<conversation ID="273659650480680960">
+<tweet ID="273659650480680960">
+<text>adrianco looking forward to your talk tomorrow interested in meeting up to chat</text>
+<tweetDate>2012-11-28 05:28:39</tweetDate>
+<tweetUser>jimblomo</tweetUser>
+</tweet>
+<tweet ID="273698644845281280">
+<text>jimblomo sure i will be at the netflix expo booth most of the time if im not talking</text>
+<tweetDate>2012-11-28 05:28:39</tweetDate>
+<tweetUser>adrianco</tweetUser>
+</tweet>
+<entities>
+<topic>sports</topic>
+<topic>politics</topic>
+<user>jimblomo</user>
+<user>adrianco</user>
+<ConvoScore>0.</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

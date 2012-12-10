@@ -1,0 +1,75 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-11-08">
+<conversation ID="266682512070287361">
+<tweet ID="266682512070287361">
+<text>joemannion not a lot of sportpsychology in the book but its clearly relevant to the discussion a bit on clutch and choking</text>
+<tweetDate>2012-11-08 23:24:00</tweetDate>
+<tweetUser>mjmauboussin</tweetUser>
+</tweet>
+<tweet ID="265779435863683072">
+<text>today is the official publication date of my new book the success equation good thing nothing else major will dominate the news</text>
+<tweetDate>2012-11-08 23:24:00</tweetDate>
+<tweetUser>mjmauboussin</tweetUser>
+</tweet>
+<tweet ID="266663151125291009">
+<text>mjmauboussin congrats curious if you reviewed any sportpsychology literature in your rw</text>
+<tweetDate>2012-11-08 23:24:00</tweetDate>
+<tweetUser>JoeMannion</tweetUser>
+</tweet>
+<tweet ID="266756868217663488">
+<text>mjmauboussin interesting plz dont hesitate if i may be able to offer discussion or quick guidance in that literature</text>
+<tweetDate>2012-11-08 23:24:00</tweetDate>
+<tweetUser>JoeMannion</tweetUser>
+</tweet>
+<entities>
+<topic>fashion</topic>
+<topic>business</topic>
+<topic>technology</topic>
+<topic>socialmedia</topic>
+<hashtag>SportPsychology</hashtag>
+<user>mjmauboussin</user>
+<user>JoeMannion</user>
+<ConvoScore>38</ConvoScore>
+</entities>
+</conversation>
+<conversation ID="266569559081885696">
+<tweet ID="266569559081885696">
+<text>samkachan in stata 12 you could also type renameslower to make all variable names lowercasessee help rename group for more info</text>
+<tweetDate>2012-11-08 15:55:10</tweetDate>
+<tweetUser>Stata</tweetUser>
+</tweet>
+<tweet ID="266494653606551553">
+<text>stata monkeys just found piece of code for converting uppercase vars to lowercase but use v not var in first line httptcokh91z1gr</text>
+<tweetDate>2012-11-08 15:55:10</tweetDate>
+<tweetUser>samkachan</tweetUser>
+</tweet>
+<entities>
+<topic>business</topic>
+<topic>technology</topic>
+<user>Stata</user>
+<url>http://www.stata.com/statalist/archive/2004-04/msg00700.html</url>
+<user>samkachan</user>
+<ConvoScore>14</ConvoScore>
+</entities>
+</conversation>
+<conversation ID="266368492746452992">
+<tweet ID="266368492746452992">
+<text>tungv0 reproducible bug should be easier to diagnose mileagerelated probably slow leak</text>
+<tweetDate>2012-11-08 02:36:12</tweetDate>
+<tweetUser>thinkingfish</tweetUser>
+</tweet>
+<tweet ID="266364355271073792">
+<text>freakysbus broke down at the exact same spot on 280 with the exact same coolant leak problem againscounts3</text>
+<tweetDate>2012-11-08 02:36:12</tweetDate>
+<tweetUser>tungv0</tweetUser>
+</tweet>
+<entities>
+<topic>fashion</topic>
+<topic>politics</topic>
+<topic>technology</topic>
+<user>thinkingfish</user>
+<user>tungv0</user>
+<ConvoScore>20</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

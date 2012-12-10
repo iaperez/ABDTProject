@@ -1,0 +1,124 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-12-04">
+<conversation ID="275784605888565248">
+<tweet ID="275784605888565248">
+<text>ellenchisa all your links just send me to a windows live login page are they supposed to be linkable</text>
+<tweetDate>2012-12-04 02:12:28</tweetDate>
+<tweetUser>hungtruong</tweetUser>
+</tweet>
+<tweet ID="275783890021535744">
+<text>there is a giant real tree in this city what and its warm httptcomcmo45xa</text>
+<tweetDate>2012-12-04 02:12:28</tweetDate>
+<tweetUser>ellenchisa</tweetUser>
+</tweet>
+<tweet ID="275827812357795841">
+<text>hungtruong really they should all be photos hosted on skydrive grumble</text>
+<tweetDate>2012-12-04 02:12:28</tweetDate>
+<tweetUser>ellenchisa</tweetUser>
+</tweet>
+<entities>
+<topic>business</topic>
+<topic>politics</topic>
+<topic>technology</topic>
+<topic>socialmedia</topic>
+<user>hungtruong</user>
+<url>http://sdrv.ms/TCxfrj</url>
+<user>ellenchisa</user>
+<ConvoScore>40</ConvoScore>
+</entities>
+</conversation>
+<conversation ID="275808147912921089">
+<tweet ID="275808147912921089">
+<text>dealfatigueshttptcogybnwn92</text>
+<tweetDate>2012-12-04 03:46:01</tweetDate>
+<tweetUser>jayrosen_nyu</tweetUser>
+</tweet>
+<tweet ID="275769456750374912">
+<text>some freak outs you enjoy some you bemoan and some leave us unmoved im enjoying the bob costas gun control freak out you</text>
+<tweetDate>2012-12-04 03:46:01</tweetDate>
+<tweetUser>jayrosen_nyu</tweetUser>
+</tweet>
+<tweet ID="275807616687566849">
+<text>jayrosennyu link</text>
+<tweetDate>2012-12-04 03:46:01</tweetDate>
+<tweetUser>Dealfatigue</tweetUser>
+</tweet>
+<entities>
+<topic>business</topic>
+<topic>politics</topic>
+<topic>technology</topic>
+<url>http://www.politico.com/blogs/media/2012/12/bob-costas-speaks-for-gun-control-150891.html</url>
+<user>jayrosen_nyu</user>
+<user>Dealfatigue</user>
+<ConvoScore>49</ConvoScore>
+</entities>
+</conversation>
+<conversation ID="275972976392929280">
+<tweet ID="275972976392929280">
+<text>benpbarnett not on the wire right but if you read id using js itll be rounded thats exactly why we have idstr</text>
+<tweetDate>2012-12-04 14:40:59</tweetDate>
+<tweetUser>isaach</tweetUser>
+</tweet>
+<tweet ID="275912425444888576">
+<text>id 275911962817339400 idstr 275911962817339393 is that normal twitterapi</text>
+<tweetDate>2012-12-04 14:40:59</tweetDate>
+<tweetUser>benpbarnett</tweetUser>
+</tweet>
+<tweet ID="275973607480496128">
+<text>isaach theyre coming through like that before i do any parsing for me httpstcoqrndanqr</text>
+<tweetDate>2012-12-04 14:40:59</tweetDate>
+<tweetUser>benpbarnett</tweetUser>
+</tweet>
+<tweet ID="275974822129983489">
+<text>benpbarnett that link behaves normally for me with both id and idstr the same see httptco1fgpdlrj</text>
+<tweetDate>2012-12-04 14:40:59</tweetDate>
+<tweetUser>isaach</tweetUser>
+</tweet>
+<tweet ID="275976364585259009">
+<text>isaach weird i get the same correct response from curl too must be the browser messing with the json then never seen it before ta</text>
+<tweetDate>2012-12-04 14:40:59</tweetDate>
+<tweetUser>benpbarnett</tweetUser>
+</tweet>
+<tweet ID="275976717758242816">
+<text>benpbarnett possibly a json pretty printing extension youre using</text>
+<tweetDate>2012-12-04 14:40:59</tweetDate>
+<tweetUser>isaach</tweetUser>
+</tweet>
+<tweet ID="275977418945204224">
+<text>isaach yeah i thought that even viewing source behind it has rounding errors though ill uninstall it and retrysalmost definitely that</text>
+<tweetDate>2012-12-04 14:40:59</tweetDate>
+<tweetUser>benpbarnett</tweetUser>
+</tweet>
+<entities>
+<topic>sports</topic>
+<topic>business</topic>
+<topic>politics</topic>
+<topic>technology</topic>
+<topic>socialmedia</topic>
+<user>isaach</user>
+<user>benpbarnett</user>
+<url>https://api.twitter.com/1/statuses/user_timeline.json?screen_name=benpbarnett&amp;count=1&amp;exclude_replies=true</url>
+<media>photo-http://twitter.com/isaach/status/275974822129983489/photo/1</media>
+<ConvoScore>47</ConvoScore>
+</entities>
+</conversation>
+<conversation ID="275787210542964738">
+<tweet ID="275787210542964738">
+<text>othman kamallaraki ewindram congratulations</text>
+<tweetDate>2012-12-04 02:22:49</tweetDate>
+<tweetUser>isaach</tweetUser>
+</tweet>
+<tweet ID="275785849340313603">
+<text>introducing kamallaraki ruler of the ewindram and othman empire born on nov 29th at 619pm weighing 8lb 3oz httptco3gtrlbwu</text>
+<tweetDate>2012-12-04 02:22:49</tweetDate>
+<tweetUser>othman</tweetUser>
+</tweet>
+<entities>
+<topic>business</topic>
+<user>isaach</user>
+<media>photo-http://twitter.com/othman/status/275785849340313603/photo/1</media>
+<user>othman</user>
+<ConvoScore>26</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

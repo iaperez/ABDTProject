@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<tweets ID="2012-09-28">
+<tweet>
+<user>jimblomo</user>
+<text>aws s3 only provides eventual consistency for list op even in readafterwrite areas eg uswest careful using key prefixes for emr input</text>
+</tweet>
+<tweet>
+<user>cshirky</user>
+<text>last tweet was about worrydreams brilliant work on improving human comprehension of technical systems tech mvp of the year says i</text>
+</tweet>
+<tweet>
+<user>zen_habits</user>
+<text>excellent book simplicity httptcoegwa1p0e</text>
+</tweet>
+<tweet>
+<user>ThePBXGuy</user>
+<text>super excited to speak at cloudconexpo on behalf of 2600hertz are you going</text>
+</tweet>
+<tweet>
+<user>ThePBXGuy</user>
+<text>im gonna be at cloudconexpo repping 2600hertz come say hello after my panel discussion gonna be a blast httptcokdgvbvy9</text>
+</tweet>
+<tweet>
+<user>open_michigan</user>
+<text>nice california funding open source digital textbooks and a shout out to an umsi old alumn httptcop75cnmga thanks anyashy</text>
+</tweet>
+<tweet>
+<user>jimblomo</user>
+<text>im speaking about yelps aws open source projects at the reinvent conference in vegas in nov use code smikesel today for 30 off tix</text>
+</tweet>
+</tweets>

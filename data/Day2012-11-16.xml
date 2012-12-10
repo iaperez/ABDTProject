@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-11-16">
+<conversation ID="269276841704058880">
+<tweet ID="269276841704058880">
+<text>judithd it occurs to me when you hired me as a grad student i said i wanted to work on the tech end of a communications cosnow i do</text>
+<tweetDate>2012-11-16 03:12:56</tweetDate>
+<tweetUser>raffi</tweetUser>
+</tweet>
+<tweet ID="269667896018489344">
+<text>raffi and it sounds like you are quite enjoying it</text>
+<tweetDate>2012-11-16 03:12:56</tweetDate>
+<tweetUser>judithd</tweetUser>
+</tweet>
+<entities>
+<topic>science</topic>
+<topic>socialmedia</topic>
+<user>raffi</user>
+<user>judithd</user>
+<ConvoScore>30</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

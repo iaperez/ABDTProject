@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-10-21">
+<conversation ID="259884157302341632">
+<tweet ID="259884157302341632">
+<text>edandcamera ha</text>
+<tweetDate>2012-10-21 05:09:46</tweetDate>
+<tweetUser>ryanmcadam</tweetUser>
+</tweet>
+<tweet ID="259814882499756033">
+<text>steve martin at bridge school were going to start our set by playing our first song awesome</text>
+<tweetDate>2012-10-21 05:09:46</tweetDate>
+<tweetUser>edandcamera</tweetUser>
+</tweet>
+<entities>
+<topic>sports</topic>
+<topic>business</topic>
+<user>ryanmcadam</user>
+<user>edandcamera</user>
+<ConvoScore>21</ConvoScore>
+</entities>
+</conversation>
+</datesummary>

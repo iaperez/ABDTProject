@@ -1,0 +1,7 @@
+<?xml version='1.0'?>
+<tweets ID="2012-06-07">
+<tweet>
+<user>jimblomo</user>
+<text>is github still using bertrpc or has it moved to thrift or messagepack any retrospective thoughts cc mojombo</text>
+</tweet>
+</tweets>

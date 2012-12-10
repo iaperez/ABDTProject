@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+<datesummary ID="2012-10-24">
+<conversation ID="261185130054418433">
+<tweet ID="261185130054418433">
+<text>strlen interesting also that system r did something quite similar in the 70s httptcotiwlfi3t</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>neil_conway</tweetUser>
+</tweet>
+<tweet ID="261184514901037056">
+<text>interesting thing about impala looks like sql queries are compiled down to llvm ir executed with llvm jit eg httpstcomqiuw69x</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>strlen</tweetUser>
+</tweet>
+<tweet ID="261185486826139648">
+<text>neilconway i also wondered why voltdb doesnt just precompile sql to jvm bytecode as opposed to using java stored procedures</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>strlen</tweetUser>
+</tweet>
+<tweet ID="261186412047646720">
+<text>strlen neilconway voltdb execution engine is c java is mainly used as messaging layer but not only</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>edward_ribeiro</tweetUser>
+</tweet>
+<tweet ID="261186471866802176">
+<text>strlen henryr the db that ive been working on generates c code for query plan fragments and gets compiledsrun</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>mallipeddi</tweetUser>
+</tweet>
+<tweet ID="261187584275935234">
+<text>mallipeddi what db is that are you still at aws or elsewhere</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>strlen</tweetUser>
+</tweet>
+<tweet ID="261188084555718656">
+<text>strlen neilconway edwardribeiro voltdb will happily compile sql to our native plans without stored procs need to get the word out</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>johnhugg</tweetUser>
+</tweet>
+<tweet ID="261189686381391872">
+<text>johnhugg neilconway edwardribeiro oops missed that had it always done this or was this only added recently</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>strlen</tweetUser>
+</tweet>
+<tweet ID="261189871027236865">
+<text>mallipeddi strlen henryr fyi ram is so slow that voltdb is almost never bottlenecked on instruction count might matter more for olap</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>johnhugg</tweetUser>
+</tweet>
+<tweet ID="261190286376583168">
+<text>strlen neilconway edwardribeiro always supported singlestmt procs without java recently supports adhocjdbc at up to 100ksec</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>johnhugg</tweetUser>
+</tweet>
+<tweet ID="261190802892537856">
+<text>strlen neilconway edwardribeiro still requires one clientserver round trip per txn sps needed for transactional logicprocessing</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>johnhugg</tweetUser>
+</tweet>
+<tweet ID="261192093119152128">
+<text>strlen its a new aws service sadly cant say more until we launch</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>mallipeddi</tweetUser>
+</tweet>
+<tweet ID="261192217559986176">
+<text>johnhugg neilconway edwardribeiro cool will need to play with it again sometime soon</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>strlen</tweetUser>
+</tweet>
+<tweet ID="261192707492442113">
+<text>strlen cool when you do wed love to get your feedback</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>johnhugg</tweetUser>
+</tweet>
+<tweet ID="261196294436028418">
+<text>johnhugg mallipeddi strlen that seems likely to mesvoltsimpala seem targeted at roughly complementary workloads</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>HenryR</tweetUser>
+</tweet>
+<tweet ID="261197406140526592">
+<text>henryr mallipeddi strlen java also magnifies the diff between compiled and not and yes impala and voltdb could work well together</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>johnhugg</tweetUser>
+</tweet>
+<tweet ID="261198484684804099">
+<text>henryr johnhugg mallipeddi oh of course very different and complementary workloads i do wonder if jit would help for voltstyle oltp</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>strlen</tweetUser>
+</tweet>
+<tweet ID="261199243635720193">
+<text>strlen henryr mallipeddi re oltp memsql compiles sql using embedded gcc and caches binaries seems like a poor design choice to me</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>johnhugg</tweetUser>
+</tweet>
+<tweet ID="261199882184949760">
+<text>strlen henryr mallipeddi when executing sql most of voltdbs time is spent searching or updating indexes cant compile that out</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>johnhugg</tweetUser>
+</tweet>
+<tweet ID="261199937151332352">
+<text>johnhugg henryr mallipeddi completely agree here i was puzzled by that this is precisely where llvm jit or even jvm would fit better</text>
+<tweetDate>2012-10-24 19:19:22</tweetDate>
+<tweetUser>strlen</tweetUser>
+</tweet>
+</conversation>
+</datesummary>
