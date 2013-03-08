@@ -1,6 +1,16 @@
 Ignacio Perez
 ABDT project
 
+Classification for tweets. 
+
+Using a Naive Bayes classificator written in PIG, this project is capable to assign categories to a set of tweets, 
+using a preclassified set of tweets.
+
+It as also retrieving the Klout score to classify conversations. 
+
+
 Pig Files: working and tested wit PIG 0.10
 Java Files: no ant nor maven, .sh scripts to compile and execute.
+
+
 
